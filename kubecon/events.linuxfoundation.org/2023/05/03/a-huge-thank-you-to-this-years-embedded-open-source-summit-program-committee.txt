@@ -1,0 +1,247 @@
+
+
+
+
+A Huge ‘Thank You’ to This Year’s Embedded Open Source Summit Program Committee | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+May 3, 2023
+A Huge ‘Thank You’ to This Year’s Embedded Open Source Summit Program Committee		
+
+
+
+
+In case you missed it, we announced the full schedule for Embedded Open Source Summit (EOSS) taking place June 27-30, 2023 in Prague, Czech Republic, as well as virtually. Some of the most well known conferences for embedded technology will now host their community gatherings at EOSS, a new umbrella event created to provide a forum for discussion, collaboration and education among open source embedded projects and developer communities. 
+To ensure Linux Foundation events like EOSS adequately showcase recent developments and technology innovations, a Program Committee is created to spearhead the review and selection of all content within the event. It takes a lot of time, thoughtfulness and hard work to put together a diverse, well rounded program like EOSS – which consists of more than 175 sessions and is composed of six micro conferences: Automotive Linux Summit Europe, Embedded IoT Summit, Embedded Linux Conference, LF Energy Embedded Summit, Safety-Critical Software Summit, and Zephyr® Project Developer Summit. That equates to a jam-packed schedule of content for event attendees. 
+Totaling 37 members within the open source and embedded technology ecosystems, the EOSS Program Committee reviewed nearly 400 submissions. This year’s event would not be possible without each and every one of you: 
+THANK YOU …
+
+Anas Nashif, Principal Software Engineer, Intel
+Andrew Wafaa, Director, Open Source Communities, Arm & Chair, The Yocto Project
+Benjamin Cabé, Zephyr Developer Advocate, The Linux Foundation
+Cara Delia, Principal Community Architect – FSI & Climate Sustainability, Red Hat
+Carles Cufi, Open Source R&D Software Engineer, Nordic Semiconductor ASA
+Christopher Temple, Lead Safety & Reliability Architect, Arm Germany GmbH
+Christophe Villemer, Executive Vice-president, Savoir-faire Linux
+Dan Brown, LF Energy Embedded Summit Chair & Head of Marketing, LF Energy
+Dan Cauchy, ALS Chair & Executive Director, Automotive Grade Linux
+David Brown, Senior SW Engineer, Linaro
+David Leach, Software Architect, NXP Semiconductors
+Drew Fustini, Linux Kernel Developer, BayLibre
+Elana Copperman, Safety Software Architect, Mobileye
+Frank Rowand, ELC Chair 
+Henrik Brix Andersen, Lead Embedded Software Engineer, Vestas
+Jan-Simon Möller, AGL Release Manager, The Linux Foundation
+Jeffrey Osier-Mixon, Sr. Principal Community Architect, Red Hat
+Jonathan Beri, Founder & CEO, Golioth
+Kate Stewart, OSS Event Chair & Vice President, Dependable Embedded Systems, The Linux Foundation
+Kathy Giori, Global Partnerships and Outreach, MicroBlocks
+Keith Short, Software Engineer, Google
+Kerim Satirli, Senior Developer Advocate, HashiCorp
+Marlow Weston, Cloud Software Architect, Intel
+Marta Rybczynska, Founder, Syslinbit
+Maureen Helm, Principal Software Engineer, Intel
+Michael GIelda, Co-Founder, Antmicro
+Nicole Pappler, CTO & Founder, AlektoMetis
+Niki Manoledaki, Software Engineer, Weaveworks
+Peter Brink, Principal Software Engineer, kVA by UL
+Philipp Ahmann, Product Manager – Embedded Open Source, Robert Bosch GmbH
+Richard Purdie, Fellow, The Linux Foundation
+Shuah Khan, OSS Event Chair & Linux Fellow, The Linux Foundation
+Steven H. VanderLeest, Boeing Linux Chief Technologist, Boeing
+Thomas Petazzoni, Co-owner & CEO, Bootlin
+Timothy Bird, ELC Chair & Principal Software Engineer, Sony
+Walt Miner, ALS Chair & AGL Community Manager, The Linux Foundation
+Yoshitake Kobayashi, Sr. Manager of The Open Source Technology Department, Toshiba
+
+We also wanted to hear directly from a few of these folks so they could tell us, in their own words, what makes them excited about EOSS this year. Here’s what they had to say: 
+“It’s fascinating to see the speed of innovation in embedded technologies. It affects all industries, but this year we are seeing more interest in projects related to energy transition and decarbonization. This is why this event is a must for our ecosystem and for the industry. It is the ideal place to learn about these new developments and to meet all the players and exchange with them.”  – Christophe Villemer, Directeur Général, France, Savoir-faire Linux
+“Security and testing are two of the themes that stick out above all of the amazing session topics. Across embedded systems, whether we’re looking at containerized workloads or workloads that are actual physical containers, a strong focus on testability and security is what will help us innovate safely. And in a world where everything is a computer – often in difficult to monitor and maintain situations – I am excited to see that these themes have taken root with the speakers and their sessions.” – Kerim Satirli, Senior Developer Advocate, HashiCorp
+“I’m excited to attend EOSS because of the wide variety of topics and the possibility to see future trends. This year’s submissions highlighted that two topics – security and real-time – are gaining popularity. I think this is likely because of the regulations that came or are coming into place, forcing companies to look at it seriously. Real-time also sees an advancement of PREEMPT_RT merged into the mainline kernel, which should increase its adoption. We also have aerospace as a topic this year!”  – Marta Rybczynska, Founder, Syslinbit
+To learn more about the EOSS Program Committee Members, please click here. 
+We hope you can join us June 27-30, 2023 in Prague, Czech Republic for a week of presentations, training, and discussions on the latest real-time problems in embedded computing systems.
+Registration (in-person) is US$799 through June 12, which represents a savings of US$150. Reduced registration rates for small businesses, hobbyists, and students, and a ‘hall pass’ option is available as well. You can find more information and register here. 
+The Linux Foundation is happy to support the community through diversity and need-based registration scholarships and travel funding. Applications are currently being accepted. View all information here.
+###
+
+
+
+
+
+Post navigation
+33% of Open Source Summit North America speakers identify as female or non-binary!The Linux Foundation Announces WasmCon Event Focused on WebAssembly Technologies
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

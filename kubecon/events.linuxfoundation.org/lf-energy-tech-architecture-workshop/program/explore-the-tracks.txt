@@ -1,0 +1,250 @@
+
+
+
+
+Explore the Tracks | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Code of Conduct
+
+
+Program
+
+Schedule
+Explore the Tracks
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Emerging Technology EventsLF Energy Website 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Emerging Technology Events. 
+
+
+
+
+
+
+ 
+
+
+						Explore the Tracks					
+
+
+
+
+Skip to page sectionLF Energy Data ArchitectureLF Energy Security FrameworkInfrastructureAsset Monitoring & Predictive MaintenanceCoMPASDigital TwinsVPP / Microgrids
+This event is the culmination of three, 6-week architecture sprints where over 50 enterprise architects have met to work on the LF Energy functional, data, security, and technical architectures. Our intention is to create guidance for LF Energy open source projects and to identify areas for leveraged development that will enable accelerated innovation.We would like to welcome a broader community to participate and to engage in the conversation. This is a work-in-process as inputs and additional structure is clarified. Each track is led by co-facilitators and represents many hundreds of hours in effort. Explore the tracks below and their corresponding activities.
+
+
+
+LF Energy Data Architecture
+LF Energy created guidelines for data architecture. This track will go into detail about the why and how of the data architecture. 
+Join this breakout session for knowledge sharing on how to apply the LF Energy data architecture, pre-flighting the data architecture framework, and adding your buy-in to an LF Energy data project. 
+ 
+
+
+
+LF Energy Security Framework
+Learn about a common approach on how to address the security challenges of open source projects of LF Energy.We have selected one of the most interesting projects, GXF. In the first break out session, we will perform together a (security) impact assessment for GXF and next do a threat modeling of one of the important risks. In the second break out session, we will discuss and select appropriate security countermeasures and strategies based on the risks identified during the first session.Join this breakout session to participate in a security impact assessment that addresses threat modeling and security countermeasures to mitigate risks. See below the session activities:
+Introduction security working group LFIntroduction of project GXF (analysis scope)Security risk analysis: discuss and review a prepared impact assessment and do threat modeling for one of the key risks Security strategy x (TBD)Security strategy y (TBD)
+Pre-read – Resources to come prepared to participate:
+https://www.cgerisk.com/knowledgebase/The_bowtie_methodLF Energy Webinar Series: Grid eXchange Fabric (GXF)
+
+
+
+
+
+
+Infrastructure
+In times of high demands like 100% availability, redundancy and low latency in combination with serious security aspects, the energy world is facing critical challenges. Especially the requirements to have a multi-cloud in combination with a hybrid-cloud approach including the limitation of running critical workloads only in your data center have to be solved. This UseCase is trying to establish a guideline on how to have the flexibility of a public cloud provider and the security of an on-premise environment.
+Join this breakout session to help define the high-level infrastructure architecture for energy that focuses on critical workloads.
+KRITIS for critical infrastructure (national)BAIT and VAIT (Supervisory Requirements for IT in Financial Institutions/Insurance Undertakings)  (national by the BaFin)ISO/IEEC 2700x (international by the International Organization for Standardization and the International Electrotechnical Commission)
+Pre-read – Resources to come prepared to participate:
+https://www.meshcloud.io/2020/05/13/multi-cloud-security-and-compliance/https://hub.packtpub.com/designing-a-multi-cloud-environment-with-iaas-paas-and-saas-tutorial/https://www.simform.com/multi-cloud-architecture/LF Energy Cloud Provider Engagement
+
+
+
+Asset Monitoring & Predictive Maintenance
+RTE initiated an internal project aiming at replacing an aging asset monitoring system and paving the way for a shift from preventive maintenance to predictive maintenance.
+This track will focus on the following:
+The actual state of the project: Presentation of the project goal and its architecture that is mainly based on open source components. Attendees will participate in the following discussions:Discussion/challenges of the architecture with regards to its goalsDiscussion of possible extensions / other use cases that could be developed on top of this architectureCommunity Building and Opening the project: Today the project is designed within RTE, initially without the goal of opening the code. Attendees will participate in the following discussions:What does the community expect when opening an internal code? What are the key elements to take into account to ease the onboarding of contributors to build a community?It is not only a matter of code, working in parallel on the business design and software design.Before the code: Transitioning from preventive to predictive maintenance requires new softwares to support activities that are not yet well defined. How to define them on a community level?Beyond the code: analytics will be trained on physical assets? Should the Community share fitted models? How?
+Join this breakout session to define key actions to be implemented by RTE when opening the code to ensure success of community building.
+
+
+
+CoMPAS
+Develop open source software components related to IEC 61850 model implementation (profile management) and configuration of a power industry Protection Automation and Control System (PACS).
+The CoMPAS project is currently focusing on two short term goals:
+detailing the overall technical architecture for the project, based on the initial principles mentioned in the initial roadmap document (microservices, scripting capabilities, API to external tools, etc.); developing the user story mapping for a Minimum Viable Product, based on the high-level description of use cases outlined in the initial roadmap document.
+Join this breakout session for the opportunity for community brainstorming on the above-mentioned topics. See below the session agenda:
+Introduction to CoMPASUse Cases & user story mappingTechnology selection
+Pre-read – Resources to come prepared to participate:
+CoMPAS Initial RoadmapGlossary and high-level diagrams
+
+
+
+Digital Twins
+Validate how a digital twin oriented “system-of-systems” approach could be useful in designing the technical architecture of smart energy systems.The ambition of the Digital Twin project is to validate an IoT approach that is compatible with a Blockchain architecture and running on the edge of a distributed cloud environment for a smart energy “System of Systems” (integration of different categories of Intelligent energy devices -IEDs – and energy management platforms).
+The major benefits of building a Digital Twin representation of an energy system is in creating a symbiosis between entities representing real and digital world objects connected via standard APIs and characterized by properties, describing the context in which they operate and use assumptions to simulate their behaviors for different purposes.
+The integration of the different data sources to design the representation of the virtual twin is the result of a System of Systems architecture, leveraging on Extensibility (new systems can be added easily), Replaceability (systems can be replaced), Loose coupling (systems can evolve independently), Low intrusiveness (systems do not need to change) and Recursiveness (systems of systems at different levels)
+The Digital Twin project will leverage on the NGSI-LD API, a public, royalty-free standard API for Context Information Management standardized by ETSI and already deployed in multiple Open Source implementations available in the FIWARE Foundation’s catalogue.
+Join this breakout session to participate in the conversation of identifying The Digital Twin project’s main goals, challenges, and risks in a system of systems’ approach and use them to break down architectural complexity. Participate in drafting the initial mapping between NGSI-LD and other LFE project components. See below the session agenda:
+General IntroductionDescription of possible use casesBreakout discussionsReport to Main Group
+Pre-read – Resources to come prepared to participate:
+Data Oriented System of Systems Architecture for EnergyFIWARE smart-data-models space on GitHub
+
+
+
+
+
+VPP / Microgrids
+
+Discuss requirements for VPP and Microgrid functionality.Development of open source software components for Virtual Power Plant (VPP) and Neighborhood Microgrids to solve for network resilience, power quality, efficiency, stability, reliability, and investment optimization when connecting Renewable Energy Sources (RESs) / Distributed Energy Generation (DER).Join this breakout session to gain an increased understanding of the problem scope and sharing best practices for connecting platforms. See below the session activities:
+General IntroductionDescription of 3 NMG/VPP use casesBreakout discussionReport to Main Group
+Pre-read – Resources to come prepared to participate:
+https://riaps.github.io/https://riaps.isis.vanderbilt.edu/
+
+
+ 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+Code of Conduct
+
+Schedule
+Explore the Tracks
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,513 @@
+
+
+
+
+Open Source Strategy Forum 2020 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Explore the Tracks
+Featured Speakers
+
+
+Features &Add-Ons
+
+Experiences
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Financial Services Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Financial Services Events. 
+
+
+
+				Open Source Strategy Forum			
+
+
+
+
+
+
+November 12 – 13Virtual Experience#OSfinserv
+
+
+
+That’s a wrap on the Open Source Strategy Forum 2020 Virtual Experience. Thank you to all our attendees, speakers and sponsors!
+The event platform will continue to be accessible for one year where you can view session recordings and enjoy many of our experiences. All session recordings are available on our YouTube channel.
+
+EVENT RECAP
+
+
+
+
+Thank you @FINOSFoundation for the opportunity and for putting on a great #OSSF.  Looking forward to a great Day 2. #OSfinserv #FidelityAssociate https://t.co/pVV1BCJGO0— Justin Rackliffe (@byjrack) November 12, 2020
+
+
+
+
+Wrapping up the first day of #OSSF #OSfinserv and I've heard some really great speakers today. Loved the focus later in the day around building real community through establishing 'tribal identities' and the importance of earning reputation. Looking forward to tomorrow 🤩🎉— Chris Howard (@chris_howard) November 12, 2020
+
+
+
+
+Open Source Strategy Forum (OSSF) is the only conference dedicated to driving collaboration and innovation in financial services through open source software and standards. We bring together experts across financial services, technology, and open source to engage our community in stimulating and thought-provoking conversations about how to best (and safely) leverage open source software to solve industry challenges.
+
+2019 CONFERENCE RECAP
+2018 CONFERENCE RECAP
+
+
+
+FEATURED SPEAKERS
+
+
+
+
+
+
+
+ 
+
+
+Jo Ann Barefoot
+EO & Founder of AIR – the Alliance for Innovative Regulation
+
+
+
+
+
+Jo Ann Barefoot is CEO & Founder of AIR – the Alliance for Innovative Regulation, Cofounder of Hummingbird Regtech, and host of the podcast show Barefoot Innovation. A noted advocate of “regulation innovation,” Jo Ann is Senior Fellow Emerita at the Harvard Kennedy School Center for Business & Government. She has been Deputy Comptroller of the Currency, partner at KPMG, Co-Chairman of Treliant Risk Advisors, and staff member at the U.S. Senate Banking Committee. She’s an angel investor, serves on the board of Oportun, serves on the fintech advisory committee for FINRA, is a member of the Milken Institute U.S. FinTech Advisory Committee, and is a member of the California Blockchain Working Group Advisory Board. Jo Ann chairs the board of directors of FinRegLab, previously chaired the board of the Financial Health Network, and previously served on the CFPB’s Consumer Advisory Board. In 2020 Jo Ann was inducted into the Fintech Hall of Fame by CB Insights.
+ 
+
+
+
+
+
+
+ 
+
+
+Pierre de Belen
+Managing Director, Goldman Sachs
+
+
+
+
+
+Pierre is a Managing Director at Goldman Sachs and the Lead Architect of the recently open sourced Data Management Platform Legend. In addition, he co-manages Goldman’s global Data Platform team which is responsible for developing data-centric and user-focused solutions to power the firm’s Data Strategy. During his 15-year tenure at Goldman Sachs, his technological designs significantly increased data quality and streamlined data production flows. Before joining Goldman Sachs, he was a senior Consultant at Gemini Systems building out a software to uplift various trading floor workflows at the NYC Stock Exchange. Before that, he was Co-Founder and Chief Technology Officer at Apeera.
+ 
+
+
+
+
+
+
+ 
+
+
+John Jeremiah
+Product Marketing Leader & DevOps Evangelist, GitLab
+
+
+
+
+
+John Jeremiah is an enterprise DevOps evangelist and the product marketing leader at GitLab.  He is a multifaceted IT software leader with over 20 years of IT leadership and software experience including developing and shaping DevOps positioning and go-to-market strategy as well as serving as an application developer, project/program manager, and IT Director. John has led software delivery transformation, adopting an Agile and CMMI Maturity Level 3 process framework, and has held a variety of leadership roles with the U.S. Navy, IT consulting, and Fortune 500 IT organizations.
+ 
+
+
+
+
+
+
+ 
+
+
+Alejandra Villagra
+Managing Director, Markets and Securities Services Division, Citi
+
+
+
+
+
+Alejandra “Ali” Villagra is a Managing Director in the Markets and Securities Services division of Citi.   She is the head of Citi Velocity, Citi’s #1 ranked Digital Platform for Institutional Clients.   Since joining Citi in 2001 she has held positions in investment-grade debt origination, institutional fixed income sales and in Citi’s innovation organization.    She is also an active participant in women’s leadership and development networks at Citi. Ali is a graduate of Dartmouth College and lives in New York with her husband and 4 yr old son. 
+ 
+
+
+
+
+
+
+ 
+
+
+Dov Katz
+Managing Director and Distinguished Engineer, Morgan Stanley
+
+
+
+
+
+Dov Katz is a Managing Director and Distinguished Engineer at Morgan Stanley. He has been at the Firm for 21 years, and has been involved in a wide array of technologies ranging from instant messaging, to client facing electronic trading, to web platforms and toolkits, devops, and developer experience.  He currently leads the Morgan Stanley Software Developer Experience organization, responsible for providing toolchains, libraries, and expertise to support the Firm’s more than 15,000 developers.
+
+
+Dov has been an active board member of FINOS since its inception, serving as Chairman in 2020, and currently still an active Chairman Emeritus.
+
+
+Dov holds a BSc in Computer Science from Columbia University and an MBA from New York University.
+ 
+
+
+
+
+
+
+ 
+
+
+Alessandro Petroni
+Global Director & Head, Strategy Financial Services, Red Hat
+
+
+
+
+
+Alessandro leads the business and technology strategy to accelerate the adoption of Red Hat open source technologies in the FinServ/FinTech industry working with customers, technology and service partners across product management, engineering, marketing and sales.
+
+
+In his role, he leads Red Hat in assisting banks and other financial services firms in the go-to-cloud journey, adopting DevOps, influencing Red Hat R&D to focus on solving Finserv line of business’ challenges developing open source reference architectures and open collaborative environments.
+
+
+Prior to Red Hat, Alessandro has spent sixteen years serving top financial institutions including Lehman Brothers, Merrill Lynch Bank of America, Societe Generale, Citicorp and Deutsche Bank. He has covered leading roles as a consultant covering engineering, operations, software development, and consulting. As banking IT director he has implemented mission-critical distributed solutions for capital markets and retail banking, managing large international teams.
+
+
+Alessandro graduated in Master Computer Engineering and Business Administration at the University of Trento, Italy, and lives in New York.
+ 
+
+
+
+
+
+
+ 
+
+
+Sarah Novotny
+Open Source Wonk, Azure Office of the CTO, Microsoft
+
+
+
+
+
+Sarah Novotny has long been an Open Source community champion in communities such as Kubernetes, NGINX, and MySQL. She most recently led the Open Source Strategy group for Google Cloud Platform and previously ran large-scale technology infrastructures before web-scale had a name. Novotny has sat on the Linux Foundation and the Node.js Foundation Board of Directors and has been an active leader in the Node.js Foundation and JS Foundation merger into the OpenJS Foundation.
+ 
+
+
+
+
+
+
+ 
+
+
+Christopher Ferris
+IBM Fellow and CTO, Open Technology, IBM
+
+
+
+
+
+An IBM Fellow and CTO Open Technology for IBM, Christopher has been involved in the architecture, design, and engineering of distributed systems for most of his 40+ year career in IT. He has been actively engaged in open standards and open source development since 1999. He has overall responsibility for setting the strategy and overseeing the execution of IBM’s strategic open source and standards initiatives. He represents IBM on the Hyperledger Technical and Open Source Security Foundation Board of Governors.
+ 
+
+
+
+
+
+
+ 
+
+
+Matthew Van Buskirk
+Co-Founder & Co-CEO, Hummingbird Regtech
+
+
+
+
+
+Matt Van Buskirk is Co-Founder and Co-CEO of Hummingbird Regtech. Hummingbird gives superpowers to the people fighting financial crime by reducing paperwork, providing smart, data-rich analytics, and enabling collaboration for compliance professionals and law enforcement agents. Before launching Hummingbird, Matt was the Director of Regulatory Affairs at Circle.com, an international consumer payments startup leveraging blockchain technology. He was previously a consultant with Treliant Risk Advisors, a Washington-based management consulting firm specializing in the financial services industry, and a regulator with the U.S. Treasury Department’s Office of Thrift Supervision. His speaking credentials include the American Bankers Association Regulatory Compliance Conference, the Monetary Authority of Singapore’s Fintech Festival, Money 2020, Finovate Europe, the U.S. Federal Trade Commission, and the Department of Homeland Security’s annual AML conference.
+ 
+
+
+
+
+
+
+ 
+
+
+Kim Prado
+Global Head of Client, Banking & Digital Technology, RBC
+
+
+
+
+
+Kim Prado heads the Global Client, Banking & Digital Channels Technology group across Capital Markets. She has been at RBC for over 12 years supporting the business in various capacities from running Global FIC Production Services to Head of Fixed Income Sales and Credit Trading technology. Currently, her role includes managing all aspects of client technology as well as Banking and Digital Channels across all lines of business within CM. She is also a member of RBC’s Global Markets Innovation Leadership Council. Prior to joining RBC, Mrs.Prado ran the API Connectivity Development team at ICAP and was part of the initial launch of BrokerTec. She has also held multiple technology positions across the street with Deutsche Bank, Mizuho and Chase Securities. Mrs. Prado received a BA from Stockton University in accounting.
+ 
+
+
+
+
+
+
+ 
+
+
+Dan Abramov
+Software Engineer, Facebook; Member, React Core Team and Co-author of Create React App
+
+
+
+
+
+Dan Abramov is a software engineer at Facebook, member of the React Core team and co-author of Create React App. Prior to joining Facebook, Dan co-authored Redux, a predictable state container for JavaScript applications, which catapulted Dan as an influential conference speaker and successful Twitter commentator.
+ 
+
+
+
+
+
+
+ 
+
+
+Neal Pawar
+Former Group CIO, Deutsche Bank
+
+
+
+
+
+Neal is a technology leader in the Financial Industry,  who as CTO has led Engineering at Quantitative funds AQR Capital and D. E. Shaw & Co, as well steered large technology organizations as CIO at UBS and most recently Deutsche Bank. He is an advocate for open source and is proud of AQR’s decision to open source Pandas in 2008. He has been a recurring member of the “Institutional Investor Top 50 in Tech” lists and is currently working with technology start-ups a board member,  advisor,  and investor.
+ 
+
+
+
+
+
+
+ 
+
+
+Tosha Ellison
+Chief Operating Officer, Fintech Open Source Foundation (FINOS)
+
+
+
+
+
+Tosha has spent more than 18 years in financial services and technology working with banks, software companies and start-ups in a wide variety of roles. Leveraging this experience Tosha is driving our Member Success initiative to help our members maximize value from their engagement with FINOS and open source software more generally. Before joining FINOS Tosha co-founded eCo Financial Technology to give banks a new way to source and evaluate software. Prior to that Tosha spent 13 years at Credit Suisse in London and New York where she held a range of technology roles in both Equities and FICC before becoming COO for eFX and then FID eCommerce.  Tosha started her career in a Silicon Valley financial  technology start-up after earning BAs in Psychology and Mass Communications from the University of California, Berkeley.
+ 
+
+
+
+
+
+
+ 
+
+
+Gabriele Columbro
+General Manager, Linux Foundation Europe & Executive Director, Fintech Open Source Foundation (FINOS)
+
+
+
+
+
+Gabriele is an open source executive and technologist at heart. He spent over 15 years building developer ecosystems to deliver value through open source across Europe and the US. He thrives on driving innovation both contributing to open source communities and joining commercial open source ventures, whether it’s for an early-stage tech startup, a Fortune 500 firm, or a non-profit foundation. Previously Director of Product Management at Alfresco, as Executive Director Gabriele grew the Fintech Open Source Foundation FINOS from the ground up, with the vision of creating a trusted arena for the global financial services industry to innovate faster, leveraging open source as a model of collaboration. Gabriele holds a Master in Computer Engineering, is a Committer for the Apache Software Foundation, and advises open source startups. He’s a passionate soccer fan, reggae music connoisseur, and special needs dad and advocate wannabe.
+ 
+
+
+
+
+
+
+VIRTUAL SCHEDULE AT-A-GLANCE
+
+
+VIEW THE FULL SCHEDULE
+
+
+Times are listed in the Eastern Standard Time (EST), UTC−05:00.
+Thursday, November 12Explore Thursday >>9:00 – 10:35 AMPlenary Talks11:00 AM – 3:00 PMBreakout SessionsFriday, November 13Explore Friday >>9:00 – 10:25 AM; 2:35 – 3:00 PMPlenary Talks11:00 AM – 2:25 PMBreakout Sessions
+
+
+
+
+
+
+
+
+Sponsors
+
+LEADER
+Contributor
+Community 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#OSfinserv
+
+
+
+
+Code of Conduct
+
+Sponsor
+Schedule
+Explore the Tracks
+Featured Speakers
+
+Experiences
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,304 @@
+
+
+
+
+Kubernetes Forum Bengaluru 2020 Speaker Guide | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Why Attend
+Venue + Travel
+Novel Coronavirus Update
+Visa Request
+Diversity + Inclusion
+Diversity Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Day 2 Co-Located Events
+Call For Proposals (CFP)
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  KubeCon + CloudNativeCon + other CNCF Events. 
+
+
+
+
+
+
+ 
+
+
+						Kubernetes Forum Bengaluru 2020 Speaker Guide					
+
+
+
+
+Skip to page sectionOverviewDeadlinesRegistration + Visa Requests + Travel FundingVenue + Hotel DetailsSchedule Information + Requesting Updates to Your SessionAV Details + RequirementsPowerPoint Template + Presentation RequirementsPromote Your TalkInclusivity CourseCode of ConductSchedule = Speaker Point of Contact
+
+
+Overview
+
+Thank you for being a speaker at Kubernetes Forum Bengaluru taking place on February 17, 2020, at Manpho Convention Center in Bengaluru, India.
+This is your official event speaker guide. Please bookmark this page for easy reference and continue to check back as the event gets closer as we will be adding additional speaker information, such as on-site details, as they are available. If you have any questions, please email Nanci Lancaster.
+Please click through the menu on the left to access information.
+
+
+
+
+Deadlines
+
+Important Dates + Deadlines
+Speaker Registration Deadline: Friday, January 3Travel Fund Request Deadline: Friday, January 10Upload Bio + Headshot to Sched.com Deadline: Friday, January 3AV Requests Due: Friday, January 17Last Day to Request Speaker Additions or Changes: Friday, January 31Presentation Upload Deadline: Monday, February 10
+
+
+
+
+Registration
+
+To confirm that you will be presenting, please follow the below instructions to register as a speaker by Friday, January 3. If you are not registered by January 3, there is a possibility that your speaking slot will be replaced by one on our waiting list so please do so promptly. If you previously purchased your registration, please email Nanci Lancaster and she will get your registration updated and any refunds processed.
+Go to the speaker-specific registration pageEnter voucher code: KBBSPK20Complete all necessary information, hitting ‘next’ to each pagePress submit to complete registrationYou will receive an email confirmation
+
+
+Visa Letter Requests
+If you require a visa letter, please register for the event and then complete the visa letter request form.
+We also ask that you please note the following:
+Provision of a visa letter by Linux Foundation does not guarantee visa approval as final approval is made at the sole discretion of the government of the event’s host country.The Linux Foundation strongly recommends requesting a visa letter at your earliest possible convenience and to contact your local Embassy/Consulate with any visa questions you may have.Linux Foundation processes most visa letter requests in (3) business days.
+
+Speaker Travel Funding
+CNCF is able to provide travel funding on a case by case basis to speakers who are unable to pay for their own travel expenses and whose companies are not willing to provide assistance.  The deadline to fill out the request form was Friday, January 10. If you are in need of travel funding, please email Nanci Lancaster.
+Note: Talk acceptance does not guarantee travel funding.
+
+
+
+
+Venue Location
+Kubernetes Forum Bengaluru will be held at Manpho Convention Center, Bengaluru, India.
+Manpho Convention Center#90/C, Service RoadVeeranna PalyaBengaluru, Karnataka-560045, India
+Hotel Accommodations
+We have a few recommended hotels and invite you to view this information on our Bengaluru Venue + Travel page. Please note, we have not contracted rooms at these properties and cannot guarantee rates or availability. We encourage you to book early to secure a room.
+We look forward to welcoming you to Bengaluru!
+
+
+
+Schedule + Uploading a Bio/Photo
+The schedule will be announced Friday, December 13, and will be posted on our websites using sched.com. You will receive an email directly from sched.com asking you to create your account.  Please upload your photo and bio no later than Friday, January 3.
+Please note that all breakout conference sessions are 25-minutes in duration. If you have a conflict with the timing of your talk or are having problems uploading your bio and photo, please contact Nanci Lancaster at speakers@cncf.io. 
+Speaker Cancellation and Session Update Policy
+If you need to cancel or update your session, please contact Nanci Lancaster and note the below policy. All requests must be made by Friday, January 31.
+If you are on a solo session and are no longer able to attend the conference, your session will be canceled and replaced with a session from the waitlist. Neither you nor your company will be allowed to replace you as a speaker.If you are on a session with one speaker, and would like to add a co-speaker, or, are on a session with two speakers and would like to replace one of the speakers, your replacement or addition request will need to be approved by the chairperson before we are able to add them as a speaker.
+If you have any update requests to your session (speaker changes, description updates, etc.), those requests must be made no later than Friday, January 31.
+
+
+
+AV Details + Requirements
+Any additional AV requests are due by Friday, January 17
+The room will include a screen, projector, (1) wireless microphone, and (2) handheld microphones – for a co-speaker and audience Q & A, so be sure to leave time at the end of your talk.
+Required: All speakers will need to supply their own computer and necessary adaptors to use during their session. NOTE: The projectors have both VGA and HDMI capabilities/outputs and can accommodate either. If you require any additional AV, please email Nanci Lancaster with those needs by Friday, January 17. CNCF will make every effort to accommodate additional A/V needs; however, final approval for additional A/V requests will be made on a case-by-case basis.
+
+
+
+Speaker PowerPoint Presentation Template
+We designed an optional Kubernetes Forum Bengaluru PowerPoint template for our speakers. Use of this template is not required but we do welcome you to use it for your convenience.
+Helpful Notes on Presentation Design
+Obsolete, low-res (i.e., pixelated), and malformatted logos are an epidemic among conference presentations. High-res logos of over 1000 cloud native projects, products, and companies are available in the cloud native landscape and the serverless and member landscapes. All logos are in the card mode and can be found with Cmd-F or Cntl-F from your browser. Note that all of these logos are stacked, not horizontal, and include the name. The logos are all the most current (or you can open a pull request if they’re not). Also note that the text below the logo shows the proper capitalization of projects like gRPC and containerd. In particular, Alibaba Cloud, Amazon Web Services, Google Cloud, and Microsoft Azure have all changed their logos in the last couple years; please use their current one.Please see the CNCF style guide which covers things like abbreviating Kubernetes as K8s not K8 or K8S.
+Presentation Requirements
+Upload to Sched.com by Monday, February 10
+All breakout speakers are required to upload their final presentation slides ahead of the event. In addition to providing a hard copy for accessibility purposes, we find that adding the presentations before the event helps to drive interest in attending the session.
+Please note that your presentation slides should be uploaded in PDF-format to Sched.com and must be formatted in 16:9. 
+To upload slides:
+Log into your Kubernetes Forum Bengaluru 2020 speaker profile through Sched.comGo to k8sforumbengaluru20.sched.comIn the middle of the page, click “Manage and Promote Your Session”Click “Add Presentation”Click in the “Select a File” box and add the PDF document (note: there is a 50MB size limit)Click “Upload” and your slides will automatically be saved
+
+
+
+Promote Your Talk
+
+Once the schedule is announced on December 13, we appreciate you spreading the word about #K8sForum and your session – please find some sample tweets below to share on your social channels! Note: The short link to your session can be found on your session’s sched.com page, just below the title, to the left of the “Tweet” and “Share” buttons.
+I just found out that my talk about [TOPIC] was accepted for #K8sForum Bengaluru in February! 🎉 Come see me on February 17! [SESSION LINK]Going to #K8sForum Bengaluru in February? Come check out my session [SESSION NAME] on February 17. Hope to see you there! [SESSION LINK]My first talk on [TOPIC] was just accepted at #K8sForum Bengaluru  – visit [SESSION LINK] to add my session to your schedule⚡️! Can’t wait for #K8sForum Bengaluru! 👍 I will be speaking on February 17 – Come see my session [TITLE] – Hope to see you there! [LINK TO SESSION]Thrilled to have my session [SESSION TITLE] accepted at #K8sForum Bengaluru! – Visit https://bit.ly/38gDF9I to check out the full lineup!
+Many thanks, and we look forward to seeing all of you in Bengaluru!
+
+
+Inclusive Speaker Orientation Online Course
+The Linux Foundation, in collaboration with the National Center for Women in Technology (NCWIT), has created an online course designed to teach the viewer about inclusion, diversity and unconscious bias. It is strongly encouraged by the Cloud Native Computing Foundation that all our speakers watch the course to learn tips/tools to use when speaking to encourage inclusivity in presentations and messaging.
+
+
+
+Code of Conduct
+Please read and abide by our code of conduct. Our code of conduct is strictly enforced. We ask that speakers especially review this code of conduct and are careful to be inclusive in the words and images used during their presentation.
+
+
+
+Schedule + Speaker Point of Contact
+Nanci Lancaster is your main point of contact for any speaker or schedule related questions. Please contact her at speakers@cncf.io.
+
+
+
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+GOLD
+SILVER
+BRONZE 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Register
+Why Attend
+Venue + Travel
+Novel Coronavirus Update
+Visa Request
+Diversity + Inclusion
+Diversity Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+Day 2 Co-Located Events
+Call For Proposals (CFP)
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

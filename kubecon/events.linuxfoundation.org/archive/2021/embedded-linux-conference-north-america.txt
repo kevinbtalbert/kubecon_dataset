@@ -1,0 +1,655 @@
+
+
+
+
+Embedded Linux Conference 2021 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Health & Safety
+Scholarships
+Diversity & Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Featured Speakers
+Explore the Tracks
+Diversity Empowerment Summit
+Program Committee
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Embedded & IoT Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming Embedded Linux Conference. 
+
+
+
+				Embedded Linux Conference			
+
+
+
+
+
+
+September 27- 30, 2021
+Hyatt Regency Seattle | Seattle, Washington  + Virtual
+#lfelc
+
+
+register
+post event report
+EXPLORE THE SCHEDULE
+
+
+
+
+
+
+FEATURED SPEAKERS
+
+
+
+
+
+
+
+ 
+
+
+Anima Anandkumar
+Bren Professor of Computing and Mathematical Sciences, The California Institute of Technology (Caltech) & Director, Machine Learning Research, NVIDIA
+
+
+
+
+
+Animashree (Anima) Anandkumar is the Bren Professor of Computing at California Institute of Technology. She is a director of Machine Learning research at NVIDIA. Her research considers tensor-algebraic methods, deep learning and non-convex problems. 
+ 
+
+
+
+
+
+
+ 
+
+
+Tim Canham
+Software and Operations Lead for the Mars Helicopter, NASA’s Jet Propulsion Laboratory
+
+
+
+
+
+Tim Canham is the Software and Operations Lead for Mars Helicopter for NASA/JPL, which was deployed as part of the Perseverance Rover project. Tim has 30 years of software experience at JPL with a number of projects including the Deep Space Network, Cassini, Curiosity and the VITAL COVID ventilator. Tim is also the architect for the Fprime flight software framework available on GitHub.
+ 
+
+
+
+
+
+
+ 
+
+
+Hilary Carter
+SVP, Research and Communications, The Linux Foundation
+
+
+
+
+
+Hilary Carter is SVP Research and Communications at the Linux Foundation, a San Francisco-based non-profit technology consortium. Here, Hilary recently launched Linux Foundation Research, a division dedicated to creating and sharing decision-useful insights on the subjects that matter in the world of open source technologies and standards which underpin much of the digital infrastructure on which the global economy depends.Previously, Hilary launched and operated the Blockchain Research Institute’s Syndicated Research Program where she managed the BRI’s research team, staff, and the member and partner ecosystem.Hilary is the author of a number of blockchain-specific research projects. Her titles include Social Media on the Blockchain (2018); Blockchain for Saving Our Seas (2019); and Journey to Blockchain: A non-technologist’s guide to the Internet of value (2019). With Don Tapscott and Jill Rundle she co-authored Networked Hotbeds of Blockchain: Creating Global Hubs for the Internet’s Second Era (2018). Hilary also contributed to Don Tapscott and Alex Tapscott’s Blockchain Solutions in Pandemics (2020), and New Directions for Government in the Second Era of the Digital Age (Tapscott, Williams, Sandberg, 2021).A sought after thought leader, Hilary has been featured by the CBC, Globe and Mail, CTV News, Global News, and other media outlets for her expertise on blockchain and digital transformation. She is a regular speaker at technology industry conferences including Blockchain Revolution Global, Blockchain Live, Hyperledger Member Forum, and United Nations Blockchain for Impact Summit.Hilary’s career began in financial services with experiences in Corporate Finance, Research and Analysis, and Global Private Banking. Her career pivoted to digital technology where she focused on mobile communications and digital media consulting, working with the C-Suite. Her writing on digital transformation has been featured in the Globe and Mail on topics such as diversity in blockchain, digital leadership, professional online branding, innovation and entrepreneurship, and leadership with disability.In addition to her role at the Linux Foundation, Hilary serves as an advisor to technology startups including VeriTX, a blockchain-based manufacturing and supply chains solution serving the aerospace and healthcare markets, and LinkSports, a blockchain-based microfinance and sponsorship platform for aspiring athletes. She earned a Master of Science from the London School of Economics and holds both Canadian and Irish citizenship.
+ 
+
+
+
+
+
+
+ 
+
+
+Chris DiBona
+Director of Open Source & Making and Science, Google
+
+
+
+
+
+Chris DiBona joined Google in 2004 and oversees a variety of programs across Google, heading the Open Source Programs Office. He is an internationally known expert in the field of open source software and related methodologies and he has his masters in software engineering from Carnegie Mellon University. Additionally, Chris is a technical advisor to the UK-based Royal United Services Institute. Until 2018, Chris also served on the United States Commerce Department’s Data Advisory Council (CDAC). 
+ 
+
+
+
+
+
+
+ 
+
+
+Dirk Hohndel
+Head of the Open Source Program Office, Verizon
+
+
+
+
+
+Dirk is the Head of the Open Source Program Officer at Verizon. Prior to that, he was Chief Open Source Officer of the Cardano Foundation; where he focused on creating a vibrant open source third party contribution ecosystem for the Cardano infrastructure. Dirk was previously VMware’s Chief Open Source Officer, where he lead the company’s Open Source Program Office, directing the efforts and strategy around use of and contribution to open-source projects and driving common values and processes across the company for VMware’s interaction with the open-source communities. Before joining VMware, Dirk spent almost 15 years as Intel’s Chief Linux and Open Source Technologist. Before that, among other roles, he worked as Chief Technology Officer of SuSE and Unix Architect of Deutsche Bank.
+
+
+Dirk has been an active developer and contributor in several dozen open source projects since the early 1990s, today most of his work is on the Subsurface dive log project and many of the related open source projects around that. Dirk holds a degree in Mathematics and Computer Science from the University of Würzburg, Germany. He lives in Portland, OR.
+ 
+
+
+
+
+
+
+ 
+
+
+Heather E. McGowan
+Future of Work Strategist
+
+
+
+
+
+Future-of-work strategist Heather E. McGowan helps leaders prepare their people and organizations for the Fourth Industrial Revolution. The Third Industrial Revolution was marked by computerization and automation of physical labor, laying the foundation for the Fourth Industrial Revolution, which will be notable for the rapid advancement of technology tools into the domain of human knowledge work. In this world, humans must continuously learn and adapt, and with this transition comes information overload. Heather gives lucidity to this topic through her illuminating graphic frameworks and powerful metaphors, all backed by deep research. In 2017, LinkedIn ranked her as its number one global voice for education. Pulitzer Prize–winning NYT columnist Thomas Friedman frequently quotes Heather in his books and columns and describes her as “the oasis” when it comes to insights into the future of work. Heather’s sessions help employees and leaders alike prepare for and adapt to jobs that do not yet exist.
+
+
+McGowan’s clients range from start-ups to publicly traded Fortune 500 companies, including AMP Financial, Autodesk, Biogen, Citi, Accor Hotels, AARP, The World Bank, and BD Medical. Often quoted in the media, notably in the New York Times, McGowan serves on the advisory board for Sparks & Honey, a New York–based culture-focused agency looking to the future for brands. McGowan’s academic work has included roles at Rhode Island School of Design, Becker College, and Jefferson University, where she was the strategic architect of the first undergraduate college focused exclusively on innovation. In 2019 Heather was appointed as a faculty member of the Swinburne University Centre For the New Workforce in Melbourne, Australia. Heather advises and gives keynote addresses for organizations all over the world and, with her colleagues, provides bespoke consulting to help organizations adapt to the Fourth Industrial Revolution. Her think tank is called Work to Learn because McGowan believes that in the Third Industrial Revolution, we learned (once) in order to work and now, in the Fourth Industrial Revolution, we will work in order to learn (continuously). McGowan is the co-editor and author of the book Disrupt Together: How Teams Consistently Innovate and a Forbes contributor. Her latest book on the future of work, The Adaptation Advantage: Let Go, Learn Fast, and Thrive in the Future of Work was released by Wiley in April 2020.
+ 
+
+
+
+
+
+
+ 
+
+
+Todd Moore
+Vice President – Open Technology and Developer Advocacy, CTO DEG, IBM
+
+
+
+
+
+Todd Moore, IBM VP of Open Technology, IBM Developer and Developer Advocacy, leads the global IBM team developing open source technologies and working in open communities. Using both digital assets and face to face interaction with developers, he seeks to build developer confidence and capabilities to solve Cloud Native, AI, Blockchain and Quantum computing challenges.  Over his career, Todd and his team of developers have worked with leading open source communities such as the Apache Software Foundation, Linux Foundation, Eclipse, OpenStack, Cloud Foundry, Docker, CNCF, JS Foundation, Node.js and more to develop great code and spread best practices. He currently serves as Chairperson of both the OpenJS Foundation Board of Directors and the CNCF Governing Board. “If you consume open source code, you need to give back to the community just as much and more.” are the words he lives by.
+ 
+
+
+
+
+
+
+ 
+
+
+Royal O’Brien
+General Manager, Digital Media & Games, The Linux Foundation
+
+
+
+
+
+Royal O’Brien is a software and hardware engineering veteran with more than 30 years of experience in the corporate enterprise and video game industries, having founded multiple companies from software development to service solutions. He has multiple patents in both video, telephony & digital distribution technologies. He has invented and holds multiple issued patents in the video, VOIP, game, and digital distribution technology industries and has successfully commercialized multiple products in the marketplace from theory to final release.
+ 
+
+
+
+
+
+
+ 
+
+
+Sanath Kumar Ramesh
+Founder & CEO, OpenTreatments Foundation
+
+
+
+
+
+Sanath is a bold and visionary software leader, open source pioneer and a rare disease drug developer. In his career, he has built and launched several successful open source software products. He is now using open source software to enable treatments for 400 million patients worldwide affected with rare genetic diseases through his non-profit organization, OpenTreatments Foundation (opentreatments.org). He is building the world’s first software platform to decentralize drug development and empower anyone in the world to create a treatment for a genetic disease. He is also the father of a 2 year old boy who is one of 9 kids worldwide with an ultra-rare genetic disease called SSMD (curegpx4.org)
+ 
+
+
+
+
+
+
+ 
+
+
+Window Snyder
+Founder & CEO, Thistle Technologies
+
+
+
+
+
+Window Snyder is a computer security expert, and Founder & CEO of Thistle Technologies. She has been a top security officer at Fastly, Square, Inc., Apple, Fastly, Intel and Mozilla Corporation. She was also a Senior Security Strategist at Microsoft. She is co-author of Threat Modeling, a standard manual on application security.
+ 
+
+
+
+
+
+
+ 
+
+
+Brent Schroeder
+Head of Office of CTO, Americas Chief Technology Officer, SUSE
+
+
+
+
+
+As SUSE CTO, Mr. Schroeder is responsible for shaping SUSE’s technology and portfolio strategy in support of emerging use cases in areas such as Hybrid Cloud, IoT and AI/ML. He drives the technology relationship with numerous industry partners, participates in open source communities as well as evangelizes the SUSE vision with customers, press and analysts.
+
+
+Mr. Schroeder brings to SUSE 30 years of technology innovation and development experience in the IT industry. Prior to joining SUSE, with Dell’s Office of the CTO, he was responsible for software technology strategy covering hybrid cloud, systems management, virtualization and operating systems. Mr. Schroeder has also held various management and engineering roles with NCR, Compaq and HP.
+
+
+Mr. Schroeder holds Bachelor’s degrees in Computer Science and Business Administration from Iowa State University.
+ 
+
+
+
+
+
+
+ 
+
+
+Linus Torvalds
+Creator of Linux & Git
+
+
+
+
+
+Linus was born on December 28, 1969, in Helsinki, Finland. He enrolled at the University of Helsinki in 1988, graduating with a master’s degree in computer science. His M.Sc. thesis was titled “Linux: A Portable Operating System” and was the genesis for what would become the most important collaborative software project in history. In August 1991, Linus announced that he was developing the Linux kernel, proclaiming, “it won’t be big and professional.” Never in the history of technology has someone been so wrong. In spite of his humble proclamation, Linux has become the world’s most pervasive operating system. Today the Linux kernel forms the basis of the Linux operating system and powers billions of Android devices, powers ChromeOS, and has permeated almost every industry and form factor. Smartphones, TVs, appliances, cars, nuclear submarines, air traffic control, stock exchanges, and scientific research all run Linux. Linux also provides the underpinnings of the internet and the cloud computing industry. In 2005, citing a lack of free and open-source version control tools that met his needs for performance and scale, Linus famously created Git in only 10 days. Today Git is widely used in software development and for other version-control tasks such as configuration management and has become popular as an integral part of the DevOps culture. In 2000, Linus was listed by Time Magazine as Number 17 in the Time 100: Most Important People of the Century. Again, in 2004, Time Magazine named him one of the Most Influential People in the world. He was honored in 2008 with the Millennium Technology Prize by the Technology Academy Finland, “in recognition of his creation of a new open-source operating system for computers leading to the widely used Linux kernel.” He is also the recipient of the 2014 IEEE Computer Society Computer Pioneer Award. A true tech titan, he was admitted to the Computer History Museum Hall of Fellows, joining the ranks of the tech elite including Rear Admiral Grace Murray Hopper, Tim Berners-Lee, Gordon Moore, Ken Thompson, Dennis Ritchie, Steve Wozniak, and others. Torvalds remains the ultimate authority on what new code is incorporated into the standard Linux kernel.
+ 
+
+
+
+
+
+
+ 
+
+
+Kate Stewart
+OSS Event Chair & Vice President, Dependable Embedded Systems, The Linux Foundation
+
+
+
+
+
+Kate Stewart is a Senior Director of Strategic Programs, responsible for the Open Compliance programs encompassing the SPDX, FOSSology, OpenChain, and other compliance-related projects. Kate was one of the founders of SPDX, and is currently the specification lead. Since joining The Linux Foundation, she has also launched Real-Time Linux and Zephyr Project.
+
+
+With almost 30 years of experience in the software industry, she has held a variety of roles and worked as a developer in Canada, Australia, and the US and for the last 20 years has managed software development teams in the US, Canada, UK, India, and China. She received her Master’s in computer science from the University of Waterloo and her Bachelor’s of computer science (co-op program) from the University of Manitoba.
+ 
+
+
+
+
+
+
+ 
+
+
+Dr. David A. Wheeler
+OSS Event Chair & Director, Open Source Supply Chain Security, Linux Foundation
+
+
+
+
+
+Dr. David A. Wheeler is an expert on open source software (OSS) and on developing secure software. He is the Director of Open Source Supply Chain Security at the Linux Foundation and teaches a graduate course in developing secure software at George Mason University (GMU). Dr. Wheeler has a PhD in Information Technology, a Master’s in Computer Science, a certificate in Information Security, a certificate in Software Engineering, and a B.S. in Electronics Engineering, all from George Mason University (GMU). He is a Certified Information Systems Security Professional (CISSP) and Senior Member of the Institute of Electrical and Electronics Engineers (IEEE). He lives in Northern Virginia.
+ 
+
+
+
+
+
+
+ 
+
+
+Chris Wright
+Senior Vice President & Chief Technology Officer, Red Hat
+
+
+
+
+
+Chris Wright is senior vice president and chief technology officer (CTO) at Red Hat. Wright leads the Office of the CTO, which is responsible for incubating emerging technologies and developing forward-looking perspectives on innovations such as artificial intelligence, cloud computing, distributed storage, software defined networking and network functions virtualization, containers, automation and continuous delivery, and distributed ledger.
+
+
+During his more than 20 years as a software engineer, Wright has worked in the telecommunications industry on high availability and distributed systems, and in the Linux industry on security, virtualization, and networking. He has been a Linux developer for more than 15 years, most of that time spent working deep in the Linux kernel. He is passionate about open source software serving as the foundation for next generation IT systems.
+ 
+
+
+
+
+
+
+ 
+
+
+Demetris Cheatham
+Senior Director of Diversity, Inclusion and Belonging at GitHub
+
+
+
+
+
+Demetris Cheatham is the Senior Director of Diversity, Inclusion and Belonging at GitHub. She is responsible for leading the company’s long-term strategy across four pillars: People, Platform, Policy, and Philanthropy. Her work includes aligning diversity, inclusion and belonging to the company’s global expansion, growth and business strategy, and plan for the future footprint of its workforce. Prior to joining GitHub, Demetris was the Global Diversity and Inclusion Lead for Red Hat where she was responsible for implementing the diversity and inclusion strategy for the company and its 15,000+ employees located around the world. Demetris also previously served as the Chief of Staff to the Chair Pro Tempore (Vice Chair) of the Council of the District of Columbia and the Committee on Business and Economic Development which had oversight of government agencies with a collective budget of over $2.6B.
+ 
+
+
+
+
+
+
+ 
+
+
+Jim Zemlin
+Executive Director, The Linux Foundation
+
+
+
+
+
+Jim’s career spans three of the largest technology trends to rise over the last decade: mobile computing, cloud computing and open source software. Today, as executive director of The Linux Foundation, he uses this experience to accelerate innovation in technology through the use of open source and Linux.
+
+
+At The Linux Foundation, Jim works with the world’s largest technology companies, including IBM, Intel, Google, Samsung, Qualcomm, and others to help define the future of computing on the server, in the cloud, and on a variety of new mobile computing devices. His work at the vendor-neutral Linux Foundation gives him a unique and aggregate perspective on the global technology industry.
+
+
+Jim has been recognized for his insights on the changing economics of the technology industry. His writing has appeared in Businessweek, Wired, and other top technology journals, and he is a regular keynote speaker at industry events. He advises a variety of startups, including Splashtop, and sits on the boards of the Global Economic Symposium, Open Source For America, and Chinese Open Source Promotion Union.
+ 
+
+
+
+
+
+
+ 
+
+
+Sarah Novotny
+Open Source Wonk, Azure Office of the CTO, Microsoft
+
+
+
+
+
+Sarah Novotny has long been an Open Source community champion in communities such as Kubernetes, NGINX, and MySQL. She most recently led the Open Source Strategy group for Google Cloud Platform and previously ran large-scale technology infrastructures before web-scale had a name. Novotny has sat on the Linux Foundation and the Node.js Foundation Board of Directors and has been an active leader in the Node.js Foundation and JS Foundation merger into the OpenJS Foundation.
+ 
+
+
+
+
+
+
+ 
+
+
+Wim Coekaerts
+Senior Vice President, Software Development, Oracle
+
+
+
+
+
+Wim Coekaerts is senior vice president of software development at Oracle. He is responsible for managing a number of projects including Oracle Linux and Virtualization, Oracle Enterprise Manager, MySQL, HeatWave, Oracle JET (JavaScript Extension Toolkit), Oracle Visual Builder, and various developer, infrastructure, and managed cloud services. Wim is a well-known developer in the open source community and serves as vice chairman of the Linux Foundation.
+ 
+
+
+
+
+
+
+THE ONSITE EXPERIENCE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+SHOW MORE
+
+
+
+
+2021 Session Recordings
+
+
+
+
+
+
+
+
+VIEW ENTIRE PLAYLIST
+
+
+
+
+
+
+
+
+
+
+
+Sponsors
+
+Diamond
+PLATINUM
+GOLD
+Silver
+BRONZE
+Partners 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+Health & Safety
+Scholarships
+Diversity & Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Featured Speakers
+Explore the Tracks
+Diversity Empowerment Summit
+Program Committee
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

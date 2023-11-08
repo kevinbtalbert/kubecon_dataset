@@ -1,0 +1,289 @@
+
+
+
+
+Co-Located Events | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Virtual Backgrounds
+Keep Cloud Native Well
+Experiences
+Where in the World is Phippy?
+Diversity Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon Europe. 
+
+
+
+
+
+
+ 
+
+
+						Co-Located Events					
+
+
+
+
+Skip to page sectionAWS Container Day 2020 hosted by AWSSOLD OUT: Building a DevOps Pipeline with Kubernetes and Apache Cassandra™ hosted by DataStaxCloud Native ROOST Hack-a-thon presented by ZettabytesCloud Native Security Day hosted by CNCFKubeAcademy: Introduction to Containers and Kubernetes hosted by VMwareNSMCon hosted by the  Network Service Mesh CommunityServerless Practitioners Summit hosted by CNCFServiceMeshCon hosted by CNCF
+Thank you to all of our co-located event hosts and those that participated! Co-located events that were hosted by CNCF are available on-demand in the event platform (event registration required) and will be posted to the CNCF YouTube channel in early September.
+
+
+AWS Container Day 2020 hosted by AWS
+Date: Monday, August 17Time: 8:00am – 5:00pm PDTLocation:  VirtualRegistration Fees: Complimentary
+Join us for AWS Container Day at KubeCon Europe 2020! In this full-day virtual event, we’ll cover how Amazon EKS makes it easy to deploy, manage, and scale containerized applications using Kubernetes on AWS. Join us for a day of technical deep dives, product demos, and product announcements. The AWS Kubernetes team will be streaming on Twitch all day, ready to answer your questions.
+How to Register: Registration Closed
+For questions regarding this event, please reach out to containers-pmm@amazon.com.
+
+
+
+Building a DevOps Pipeline with Kubernetes and Apache Cassandra™ hosted by DataStax – SOLD OUT
+Date: Monday, August 17Time: 13:30 – 16:30 CESTLocation:  VirtualRegistration Fees: Complimentary
+Join this workshop to see the true power of Apache Cassandra™ combined with Kubernetes cloud-native resources and best practice DevOps pipelines to support today’s modern application needs. 
+Today’s applications require extreme performance, availability, and scalability in order to respond to hockey stick growth and viral trends. Cassandra has answered this call for over a decade as the premier distributed database for production-at-scale workloads. From financial services transactions to entertainment streaming services, Cassandra is present in the applications and backend architectures that impact our daily lives. 
+In this workshop, we will introduce you to Cassandra’s architecture and logical fault domains as well as the Kubernetes components that complement this architecture. We’ll then shift to simplifying your architecture by leveraging operators and custom resource definitions, so you can think about your Cassandra cluster as a logical unit instead of a collection of individual Kubernetes resources. 
+All attendees will receive a FREE Cassandra Certification voucher, normally priced at $375.
+How to Register: SOLD OUT
+You will receive an email from DataStax with instructions on how to access the workshop. For questions regarding this event, please reach out to jessica.benton@datastax.com.
+
+
+
+Cloud Native ROOST Hack-a-thon presented by Zettabytes
+Date: Monday, August 17Time: 8:00 CESTLocation: VirtualRegistration Fees: Complimentary
+Zettabytes is excited to present to you a Cloud Native Hackathon with over $10K in cash and amazing prizes. We invite you to showcase your skills in App Dev, ML, SRE, or DevOps to our panel of esteemed Judges leveraging the power of the ROOST. ROOST is a Cloud-Native Platform driving Collaboration & Observability. ROOST Kubernetes Desktop enables you to begin coding and collaborating almost immediately. 
+For more on ROOST, please visit: https://docs.roost.io/
+How to Register: Registration Closed
+For questions regarding this event, please reach out to ROOST@zb.io.
+
+
+
+Cloud Native Security Day hosted by CNCF
+Date: Monday, August 17Time: Begins at 13:00 CESTLocation: VirtualRegistration Fees: $20
+Cloud Native Security Day is designed to bring together the cloud native security community together to discuss and share current challenges and solutions in cloud native security.  This event provides a single place for people involved or getting involved in cloud native security to get together in a vendor neutral space.
+This event allows and encourages open collaboration and sharing of cloud native security accomplishments and roadblocks.  Cloud native security is a multi-objective and multi-constrained problem space spanning many areas. Pretty much everything falls into security, from identity management to storage solutions. Cloud Native Security Day (#cnsecurityday) is intended to drive collaboration, discussion, and knowledge sharing of cloud native security accomplishments and roadblocks. Get connected with others that are passionate about security. Learn from practitioners about pitfalls to avoid, hurdles to jump, and how to integrate security into your cloud native project, architecture, and enhance team awareness on security.
+More details are available here. 
+How to Register: Registration Closed
+For questions regarding this event, please reach out to events@cncf.io.
+
+
+
+
+KubeAcademy: Introduction to Containers and Kubernetes hosted by VMware
+Date: Monday, August 17Time: 13:00-16:00 CEST Location: VirtualRegistration Cost: Complimentary
+Ready to dive a little deeper into the world of Kubernetes? Understand the first principles of a cloud native infrastructure, and then dig into our lab environment to containerise and deploy your first application on Kubernetes. This training is designed for attendees who are early in their cloud-native journey—you will walk out with more knowledge of basic concepts and greater comfort in working with containers.
+Attendees will:
+Learn about Containers and use Docker files to containerise applicationsBecome familiar with authoring YAML files and their syntaxUnderstand Kubernetes from a user facing concept perspective (Pods, Services, Deployments, Labels, etc.)Become familiar with kubectl and its commands/usageUnderstand the cloud native and design principles of Kubernetes and its architecture And more
+Prerequisites
+Laptop with the latest version of Chrome or Firefox Linux concepts and command line proficiencyGeneral networking proficiency
+How to Register: Registration Closed
+For questions regarding this event, please reach out to boschem@vmware.com.
+
+
+
+NSMCon hosted by the Network Service Mesh Community
+Date: Monday, August 17Time: Begins at 13:00 CESTLocation: VirtualRegistration Fees: Complimentary
+Why Attend NSMCon? Are you running workloads in multiple clusters? Across multiple clouds: on-premises, hybrid, multicloud, or public cloud? Do they need to interact with legacy workloads running in less “cloudy” environments? Network Service Mesh (NSM) ties them all together, at the granularity of individual workloads, not cluster/VPCs/data centers. NSM is a community-driven, CNCF Sandbox project that is rapidly gaining momentum because of its ability to simplify connectivity between workloads, independent of where they are running. It extends an IP reachability domain to workloads running in multiple clusters, legacy environments, on-premises, or in a public cloud, communicating with the protocols they are currently using. 
+NSM does this at the granularity of individual workloads. Your workloads have connectivity to just the workloads they need…nothing more, nothing less. NSM brings the useful features of a Service Mesh from the lofty heights of HTTP all the way down to IP itself. Applications and Application Service Meshes, such as Istio, run unaltered on top, leaving the hybrid/multicloud IP connectivity to NSM. 
+The project emerged organically as a community project to solve these problems by applying the Service Mesh thought process all the way down to IP with the global peering mentality of the Internet itself – without breaking your existing environment. 
+Join the people building and using NSM at NSMCon for a day of tutorials, deep dives, and use cases to learn how NSM works, what it can do for you, and, most importantly, what’s coming next. For more information and the schedule visit the NSMCon 2020 website. 
+How to Register: Registration Closed
+For questions regarding this event, please reach out to nsmcon@networkservicemesh.io.
+
+
+Serverless Practitioners Summit hosted by CNCF
+Date: Monday, August 17Time: Begins at 13:00 CESTLocation: VirtualRegistration Fees: $20
+The goal is to unite the serverless practitioner community and present end users with comprehensive strategies to understand serverless in a cloud native context. To do that, we plan to create a full-day single-track serverless conference that follows our initial successful work in the CNCF serverless working group and surrounding projects.
+More information is available here.
+How to Register: Registration Closed
+For questions regarding this event, please reach out to events@cncf.io.
+
+
+
+ServiceMeshCon hosted by CNCF
+Date: Monday, August 17Time: Begins at 13:00 CESTLocation: VirtualRegistration Fees: $20
+ServiceMeshCon is a vendor-neutral conference on service mesh technologies, featuring maintainers across different service mesh projects and also showcasing the lessons learned from running service meshes in production.
+More details are available here. 
+How to Register: Registration Closed
+For questions regarding this event, please reach out to events@cncf.io.
+
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+GOLD
+SILVER
+START-UP
+END USER
+DIVERSITY SUPPORTERS
+MEDIA PARTNERS 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Virtual Backgrounds
+Keep Cloud Native Well
+Experiences
+Where in the World is Phippy?
+Diversity Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,767 @@
+
+
+
+
+cdCon 2021 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Diversity & Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Awards
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast CI/CD Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  CI/CD Events. 
+
+
+
+				cdCon			
+
+
+
+
+
+
+June 23 – 24, 2021Virtual Experience#cdCon
+
+
+
+
+
+
+cdCon 2021 is a wrap! Thank you to all of the attendees and sponsors that joined us this year. To experience the best of the event, be sure to watch the session recordings on the Continuous Delivery Foundation YouTube channel and review slides from speakers who provided them via the event schedule.
+
+
+Check out the Virtual Selfie Gallery from cdCon 2021
+
+
+
+
+
+
+KEYNOTE SPEAKERS
+
+
+
+
+
+
+
+
+ 
+
+
+Christie Wilson
+Software Engineer, Google
+
+
+
+
+
+Christie Wilson (she/her) is a software engineer at Google and co-creator of the Tekton project. Over the past decade+ she has worked in the mobile, financial, and video game industries. Prior to working at Google she built load testing tools for AAA video game titles, and founded the Vancouver chapter of PyLadies. In her spare time, she influences company culture through cat pictures.
+ 
+
+
+
+
+
+
+ 
+
+
+Abby Kearns
+CTO, Puppet
+
+
+
+
+
+With nearly twenty years in the tech world, Abby Kearns is a true veteran of the technology industry. Her lengthy career has spanned product marketing, product management and consulting across Fortune 500 companies and startups alike. At Puppet, she will lead the vision and direction of its current and future enterprise product portfolio. Prior to joining Puppet, Abby was the Executive Director of the Cloud Foundry Foundation where she focused on driving the Foundation’s vision and growing the open-source project. Through her tenure, Abby built an install base that included more than half of the Fortune 500. Abby has deep cloud experience. At Pivotal, she drove the adoption of Pivotal Cloud Foundry, and at Verizon, she led the Product Management teams dedicated to the early days of cloud services. Her background also includes operations spanning companies such as Totality, EDS, and Sabre.
+ 
+
+
+
+
+
+
+ 
+
+
+Tracy Miranda
+Executive Director, Continuous Delivery Foundation, The Linux Foundation
+
+
+
+
+
+Tracy Miranda is the executive director of the Continuous Delivery Foundation (CDF) where she leads the mission to improve the world’s capacity to deliver software with security and speed.  Prior to CDF, Tracy was the Director of Open Source at CloudBees. Tracy is a veteran of the open source technology industry with nearly twenty years of experience with large scale projects such as Jenkins and Eclipse. Tracy’s background also includes developer tools, embedded software, and electronics system design. Tracy has two patents for her work on processor architectures.
+ 
+
+
+
+
+
+
+ 
+
+
+Tara Hernandez
+Senior Engineering Manager, Google
+
+
+
+
+
+Tara Hernandez is a specialist in software engineering infrastructure and was an early promoter of what came to be known as the Continuous Integration revolution. Her most notable stint was at Netscape Communications Corporation where she initially helped develop new developer tools such as Tinderbox and Bugzilla, both of which were later released to the public as open source along with the Netscape browser codebase as part of the creation of Mozilla.org. At one point she ended up at Pixar Animation Studios where her team reinvented much of the development infrastructure to handle the challenges of writing software in a film production environment.  She then moved on to do Systems and Build Engineering at Linden Lab, doing really Fun Things(tm) with deployment pipelines and cloud technologies for virtual worlds.  She is now at Google, working to help make Google Cloud the best platform for developers.  In her copious amounts of free time she blogs hopefully useful things about engineering management, is a member of the Technical Oversight Committee for the Continuous Delivery Foundation, is an Associate Board member of Women Who Code, and hosts the ‘Women Who Code Radio’ podcast.
+ 
+
+
+
+
+
+
+ 
+
+
+Nicole Forsgren
+VP of Research & Strategy, GitHub
+
+
+
+
+
+Dr. Nicole Forsgren is the VP of Research & Strategy at GitHub. She is author of the Shingo Publication Award-winning book Accelerate: The Science of Lean Software and DevOps and is best known as lead investigator on the largest DevOps studies to date. She has been a successful entrepreneur (with an exit to Google), professor, performance engineer, and sysadmin. Her work has been published in several peer-reviewed journals.
+ 
+
+
+
+
+
+
+ 
+
+
+Gerard McMahon
+Head of ECC ALM Tools & Platforms, Fidelity Investments
+
+
+
+
+
+Gerard McMahon is a VP of Architecture and currently “Head of ECC ALM Tools and Platforms”, whose mission is to provide an open and flexible Software Delivery Platform to increase the velocity of developers for delivery of business value with confidence at scale. I am a strong advocate of Software Delivery Excellence and incorporating the principles of agility, engineering and operational excellence for building high performing teams and enabling a DevOps culture. I am passionate about enabling connection and collaboration across the tools and services in the Software Delivery ecosystem to break down silo’s and create data driven insights for innovation and continuous learning in accelerating the delivery of high quality business value.
+ 
+
+
+
+
+
+
+ 
+
+
+Charity Majors
+Co-founder & CTO, Honeycomb.io
+
+
+
+
+
+Charity Majors is the co-founder and CTO of Honeycomb.io, provider of tools for engineering teams to debug production systems faster and smarter. Previously Charity ran infrastructure at Parse and was an engineering manager at Facebook, where she ran next-generation distributed systems at scale. Charity is the co-author of Database Reliability Engineering (O’Reilly) and is devoted to a world where every engineer is on call and nobody thinks on call is awful.
+ 
+
+
+
+
+
+
+ 
+
+
+Kohsuke Kawaguchi
+Creator of Jenkins and Co-CEO & Co-Founder, Launchable
+
+
+
+
+
+Kohsuke Kawaguchi is the creator of Jenkins and co-CEO of Launchable. He is a well-respected developer and popular speaker at industry and Jenkins community events. Kawaguchi’s sensibilities in creating Jenkins and his deep understanding of how to translate its capabilities into usable software have also had a major impact on CloudBees’ strategy as a company, where he served as CTO. Before joining CloudBees, Kawaguchi was with Sun Microsystems and Oracle, where he worked on a variety of projects and initiated the open source work that led to Jenkins.
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Kelsey Hightower
+Principal Engineer & Staff Developer Advocate, Google
+
+
+
+
+
+
+
+
+Kelsey Hightower has worn every hat possible throughout his career in tech, and enjoys leadership roles focused on making things happen and shipping software. Kelsey is a strong open source advocate focused on building simple tools that make people smile. When he is not slinging Go code, you can catch him giving technical workshops covering everything from programming to system administration.
+ 
+
+
+
+
+
+
+ 
+
+
+Afua Bruce
+Chief Program Officer, Datakind
+
+
+
+
+
+Afue leads DataKind’s global project portfolio, the new Impact Practice model for tackling sector-wide challenges, Datakind’s Center of Excellence for ensuring projects meet the highest standards, their global Chapter network, and DataKind’s volunteer community
+
+
+Afua joined DataKind from New America, where she was the Director of Engineering for the Public Interest Technology program. At New America, Afua oversaw projects in technology and policy to improve outcomes in criminal justice reform, foster care, immigration, the opioid epidemic, and more. She also supervised the Public Interest Technology University Network. Previously, she spent several years leading science and technology strategy and program management in the Federal government—as the Executive Director of the White House’s National Science and Technology Council and in a variety of positions at the FBI. Prior to joining the Federal government, Afua started her career as a software engineer at IBM. Afua holds a degree in Computer Engineering from Purdue University, and an MBA from the University of Michigan.
+ 
+
+
+
+
+
+
+ 
+
+
+James Governor
+Analyst & Co-founder, RedMonk
+
+
+
+
+
+Founded RedMonk in 2002 with Stephen O’Grady. We focus on developers as the real key influencers in tech. Understanding that people choose technology because of gut instincts, not facts per se. An ex-journalist, I have managed teams and news agendas in weekly publication grind. IBM and MS watcher since 1995. Goals–build RedMonk. Specialties: Developers, developers, developers.
+ 
+
+
+
+
+
+
+ 
+
+
+Jennifer Riggins
+Freelance Journalist
+
+
+
+
+
+Jennifer Riggins is a tech storyteller, journalist, writer, podcast host and community event organizer, helping to share the stories where culture and technology collide and to translate the impact of the tech we are building. She has been a working writer since 2003. Currently in London, Jennifer is the tech culture correspondent for The New Stack, co-organizer of the Aginext community event series, co-host of the podcast What We Talk About When We Talk About Tech, and provides branding, SEO and content consulting for high-tech scale-ups. Follow her on Twitter @jkriggins or connect on LinkedIn.
+ 
+
+
+
+
+
+
+ 
+
+
+Isaac Mosquera
+Principal GTM Leader, Serverless, AWS
+
+
+
+
+
+
+
+
+My experience has been focused on building startups from the ground up, where I have served as CTO, with 4 successful exits/acquisitions. In my past I’ve enjoyed building software products across multiple domains (e.g., adtech, big data, mobile, social, DevOps tooling) that bring joy to the people who use them. Although my title has mostly been CTO, I am passionate about product development, organizational psychology, and a penchant for gummy bears. I’m a big supporter of OSS communities the impact they can make on the world. I’m a core contributor & part of the steering committee for Spinnaker which is used by some of the world’s largest organizations ( Netflix, Adobe, AirBnb, Adobe, Cisco, Grubhub, The Home Depot, JPMorgan Chase, Salesforce, Sony PlayStation, and more) to reliably deliver software at scale. In Addition to Spinnaker OSS, I’m ex-member of the Technical Oversight Committee (TOC) for the Continuous Delivery Foundation (CDF).
+ 
+
+
+
+
+
+
+ 
+
+
+Brandon Leach
+Software Architect, Autodesk
+
+
+
+
+
+
+
+
+
+
+
+Brandon is a technology leader and change agent who is passionate about helping companies deliver better software, faster. He is currently working at Autodesk where he is working on transforming service delivery to enable the company to achieve SaaS excellence.
+ 
+
+
+
+
+
+
+ 
+
+
+Rosalind Benoit
+Director of Community, Armory
+
+
+
+
+
+
+
+
+
+
+
+Rosalind is Director of Community at Armory, where she works to energize the Spinnaker ecosystem. She holds an MSIS in Database & Internet Technologies from Northwestern University, and had a varied background in system administration, development, project management, and education, along with a lifelong love of Linux and a passion for enacting change via software.
+ 
+
+
+
+
+
+
+ 
+
+
+Ramin Akhbari
+Principal MTS Architect, eBay
+
+
+
+
+
+Ramin Akhbari is a veteran of the software industry with 30+ years of experience as technical lead on numerous successful and complex enterprise projects spanning the e-learning, e-commerce, IoT, and communication systems domains, just to name a few. He’s been a fervent developer advocate ever since the beginning of his career in software/systems engineering and as such has always strived to identify and remove any and all impediments for developers in their product SDLC.
+
+
+Ramin is a huge proponent of the “Automate All The Things!” movement and in his role as Principal MTS Architect at eBay he’s made that his mission at the company ever since joining them in early 2015. He is a co-founder of eBay’s CD team and the principal contact for CDF at eBay. He has been very involved in the Tekton Working Group, as well as CDF’s SIG-Interoperability Group. In that role he leads the effort to integrate the company’s CD orchestration system with Tekton pipelines, CDF’s flagship project. He’s also the owner of the Developer Productivity and Training Workshops efforts, part of the company’s Velocity Initiative, a company-wide initiative to super-charge product development velocity.
+ 
+
+
+
+
+
+
+FEATURED SPEAKERS
+
+
+VIEW EARLY BIRD TALKS
+
+
+
+
+
+
+
+
+ 
+
+
+Jerop Kipruto
+Software Engineer, Google
+
+
+
+
+
+Jerop is a Software Engineer at Google working on Cloud Continuous Delivery, specifically Tekton. She works on projects that enable software developers to build and ship cloud native applications. Jerop has a BSc. in Electrical Engineering and Computer Science from Massachusetts Institute of Technology. Jerop is also a speaker with technical talks featured in Linux Foundation Member Summit, Continuous Delivery Conference, Open Source Summit, North American DevOps Group, Women TechMakers, and Google DevFest.
+ 
+
+
+
+
+
+
+ 
+
+
+Priti Desai
+Software Engineer, IBM
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Manish Maheshwari
+Senior Product Manager, Airbnb
+
+
+
+
+
+Manish is a Lead Product Manager at Airbnb within Reliability Engineering. At Airbnb, he is responsible for Continuous delivery(Spinnaker), Observability(Introspection, Monitoring, Logging, Traces, and Alerting), and SRE(App & Infra reliability and capacity planning). Previously, Manish was a Product Manager at Amazon in the AWS Developer Tools team, leading product for AWS CodePipeline.
+ 
+
+
+
+
+
+
+ 
+
+
+Jens Vanderhaeghe
+Senior Software Engineer, Airbnb
+
+
+
+
+
+I am a senior software engineer on Airbnb’s continuous delivery. Previously a frontend engineer, I made the switch to infrastructure a few years ago. I am passionate about improving developer experience and deployment velocity and safety. My team runs the Spinnaker project at Airbnb. I have previously given talks at other large-scale tech conferences like Github Universe, Spinnaker Summit and Devops World.
+ 
+
+
+
+
+
+
+ 
+
+
+Abhinav Srivastava
+Senior DevOps Engineer, SAP
+
+
+
+
+
+Abhinav Srivastava is currently working as a DevOps lead for SAP Artificial Intelligence embedding large scale AI into enterprise applications. He loves to dig into various DevOps problems and solve them with modern technologies. He architects, creates, scales and optimizes DevOps workflows. As a true believer of DevOps principles he loves to talk about large scale CICD setup, IaaC, K8s and ChatOps. He previously worked on projects such as large scale IoT platform development.
+ 
+
+
+
+
+
+
+ 
+
+
+Samed Güner
+Senior DevOps Engineer, SAP
+
+
+
+
+
+Samed Güner is currently working as a software engineer at SAP Artificial Intelligence embedding large scale AI into enterprise applications. He mainly works on infrastructure and K8s with a strong focus on leveraging DevOps principles. He previously worked on projects such as distributed training of ML models on top of K8s and GPU sharing. Furthermore, he is an open source contributor at projects such as Terraform and Cloud Foundry.
+ 
+
+
+
+
+
+
+ 
+
+
+Shaaron Alvares
+Senior Agile & DevOps Coach, Disney
+
+
+
+
+
+Shaaron A Alvares works as an Agile and DevOps Transformation Manager at The Walt Disney Company. She has a global work experience leading product, organizational and cultural transformation across technology, aerospace, automotive, finance and telecom industries within various global Fortune 500 companies in Europe and the US. She introduced lean product and software development practices and led significant lean and DevOps practices adoption at Amazon.com, Expedia, Microsoft, and T-Mobile. Trainer, speaker, and writer, she is a news reporter and editor at InfoQ and Ambassador at the CD Foundation and the DevOps Institute. She speaks at The DevOps Enterprise Summit (2019, 2020, 2021), All Day DevOps (ADDO) 2019, 2020; DevOps World, DevOps Online, SDLF by CloudBees, GitLab Commit, etc. Shaaron published her M.Phil. and Ph.D. theses with the French National Center for Scientific Research (CNRS).
+ 
+
+
+
+
+
+
+ 
+
+
+Gokul Prabagaren
+Engineering Manager, CapitalOne
+
+
+
+
+
+Engineering Manager at CapitalOne – Rewards Org, specialized in Distributing computing. Developed distributed Cloud Native applications based on Spark, Cassandra and Mongo which are currently serving millions of customers everyday. Previously developed Java apps from 1.2 on-prem & VMs. Spoke previously in IndyCloudConf and SparkAISummit on Spark related topics.
+ 
+
+
+
+
+
+
+ 
+
+
+Rosemary Wang
+Developer Advocate, HashiCorp
+
+
+
+
+
+As a developer advocate for HashiCorp, Rosemary Wang has a fascination for solving intractable problems with code, whether it be helping an infrastructure engineer learn to code or an application developer troubleshoot infrastructure failures. She also interfaces with vendors, clients, startups, and open source projects to find creative software solutions for infrastructure. When she is not drawing on whiteboards, Rosemary valiantly attempts to hack stacks of various infrastructure systems on her laptop while watering her houseplants. Rosemary’s prior speaking experience includes various O’Reilly Media conferences and live training, DevOpsDays, Monitorama, Devnexus, .NET Conf, Women Who Code, Grace Hopper Celebration, OWASP, AWS Re:invent, All Things Open, and GitHub Universe.
+ 
+
+
+
+
+
+
+ 
+
+
+Rahul Somasunderam
+Senior Software Engineer, Netflix
+
+
+
+
+
+Rahul Somasunderam is a Senior Software Engineer at Netflix, working on the Continuous Integration Team. Previously, Rahul has spoken at GR8Conf.US 2016, SpringOne2GX 2015, JavaOne 2017.
+ 
+
+
+
+
+
+
+ 
+
+
+Yulkendy Valdez
+Co-Founder & CEO, Forefront
+
+
+
+
+
+Yulkendy Valdez is a master educator and expert in developing experiential programs focused on diversity and inclusion. She is a Forbes 30 Under 30 Social Entrepreneur and TEDx Speaker. She has received numerous fellowships from the Harvard Kennedy School, Opportunity Nation, Young People For, Resolution Project. She is the proud recipient of the Latina 30 under 30 Award by El Mundo and TJX and has been personally recognized by President Bill Clinton. Media outlets such as NPR, USA Today, The Washington Post, Huffington Post, and Vice Impact have featured her. She is a thought leader and sought-after speaker at Tech Inclusion by Change Catalyst, the Haiti Tech Summit, SXSW, and the Six Degrees Conference.
+ 
+
+
+
+
+
+
+ 
+
+
+Siddharth Pareek
+Global DevOps Center Of Excellence Practice Lead, Natwest Group
+
+
+
+
+
+
+
+
+
+
+
+
+SEE ALL THE SPEAKERS
+
+
+
+
+
+
+
+
+
+Sponsors
+
+Diamond
+Platinum
+Gold
+Silver
+Start-Up
+Diversity & Inclusion 
+Community Awards
+Community 
+Media 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+ 
+#cdCon
+
+
+
+
+Diversity & Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Awards
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,853 @@
+
+
+
+
+Open Networking & Edge Executive Forum 2021 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Featured Speakers
+Contact Us
+
+
+View All Events
+EventsAll Upcoming EventsPast Networking & Edge Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Networking & Edge Events. 
+
+
+
+				Open Networking & Edge Executive Forum			
+
+
+
+
+
+Hosted By
+
+
+
+view the post event report
+
+
+
+March 10 – 12, 2021Virtual Event#opennetedge
+
+That’s a wrap on the Open Networking & Edge Executive Forum 2021! We welcomed 1,026 attendees, from 84 countries – thank you to all the attendees, sponsors, and speakers that joined us this year.
+The event platform will continue to be accessible for 30 days where you can view session recordings. Additionally, all session recordings will be uploaded to the Linux Foundation YouTube channel.
+
+
+FEATURED SPEAKERS
+
+
+
+
+
+
+
+
+ 
+
+
+Subha Tatavarti
+Sr. Director Technology Commercialization, Walmart
+
+
+
+
+
+Subha Tatavarti is Sr. Director of Technology Commercialization at Walmart.
+ 
+
+
+
+
+
+
+ 
+
+
+George Nazi
+Global VP, Telco, Media & Entertainment Industry Solutions Lead, Google Cloud
+
+
+
+
+
+George Nazi is a recognized technology leader, known for blending strategic vision and operational execution to achieve business goals and customer satisfaction. He offers a unique blend of executive acumen, global team-building and more than 25 years industry experience, transforming large organizations and operations. Currently, he is the Global VP at Google Cloud leading their Telco, Media & Entertainment industry solutions.
+
+
+Before Google, George served as the Senior Managing Director at Accenture leading their Communications & Media Industry. Prior to that, George was the Executive Vice President of Alcatel-Lucent and President of Global Customer Delivery (GCD) managing a workforce of more than 40,000 professionals. The GCD unit served all customers (Carrier, Enterprise and Strategic Industries) and delivered Alcatel-Lucent’s entire portfolio (products and services) as well as those of other original equipment manufacturers (OEM’s). George was a member of the Alcatel Lucent Management Committee and served as the Chief Quality Officer.
+
+
+Prior to Alcatel-Lucent, George Nazi was with BT serving as the President of Networks and IT Infrastructure globally. One of George’s biggest achievements was running the entire 21st Century Network transformation program (21CN) with a budget in excess of $15billion from remaking the portfolio, enhancing the customer experience, and building the next generation Network and OSS/BSS. Earlier at BT, he was the Global Services CTO and Global VP of Networks responsible for the design and deployment of BT’s Global IP/MPLS network across 170 countries.
+
+
+Prior to joining BT, George Nazi held executive positions with WorldCom and Level 3 where he led the integration of many of their acquisitions, and held a variety of senior engineering and planning roles. George also founded a Consulting firm and a CLEC (competitive local exchange carrier) in the US in 1998, which targeted small- to medium-size businesses to support them in optimizing their networks and reducing their costs.
+ 
+
+
+
+
+
+
+ 
+
+
+Andre Fuetsch
+Executive Vice President and Chief Technology Officer, AT&T Services, Inc.
+
+
+
+
+
+Andre oversees the global technology direction for AT&T. This includes network planning, the company’sinnovation road map, AT&T Labs, AT&T Foundry, and the intellectual property organization. Hisresponsibilities include spearheading the design of the company’s next-generation 5G wireless infrastructure and software-defined networking (SDN) initiative.
+
+
+He’s also heavily involved in AT&T’s push into open source software and other open standards, and engagement and collaboration with the broader developer community.
+
+
+Since joining AT&T in 1995, Andre has supported and led several organizations responsible for software, systems and network architecture, planning and engineering, where he holds six patents in the field of network traffic optimization and database design. He earned his bachelor’s degree in Industrial Engineering and Operations Research at U.C. Berkeley and completed his graduate coursework in Computer Science at Stanford University.
+ 
+
+
+
+
+
+
+ 
+
+
+Dr. Jonathan Smith
+Dr. Jonathan Smith, Program Manager, Information Innovation Office (I2O) at DARPA
+
+
+
+
+
+Dr. Jonathan M. Smith joined DARPA in September 2017 from the University of Pennsylvania, where he is a professor of computer and information science and the Olga and Alberico Pompa Professor of Engineering and Applied Science. As a DARPA program manager, Smith seeks to develop and execute programs in cybersecurity, networking, and distributed computing. Smith joined the University of Pennsylvania in 1989 from Bell Communications Research, where he was a member of the technical staff, a position he also held at Bell Telephone Laboratories.
+
+
+Smith served as a program manager in DARPA’s Information Processing Technology Office (IPTO) from 2004 to 2006, developing and executing programs including Situation Aware Protocols In Edge Network Technologies (SAPIENT), Adaptive Cognition Enhanced Radio Teams (ACERT), and Brood of Spectrum Supremacy (BOSS). Smith was awarded the Office of the Secretary of Defense Medal for Exceptional Public Service in August 2006.
+ 
+
+
+
+
+
+
+ 
+
+
+Manish Mangal
+Chief Technology Officer, Network Services, Tech Mahindra
+
+
+
+
+
+Accomplished telecom industry veteran with 20 years of professional experience. Held various leadership roles in Fortune 100 companies leading technology initiatives from incubation to operationalization that transformed businesses and increased enterprise value.Driven corporate-wide technology initiatives through cross functional leadership, robust planning and astute execution.Expert in leading large and global teams, developing end to end technology solutions, and creating / managing strategic partnerships that directly improve enterprise value.Excellent leadership and management abilities, acknowledged and awarded to deliver superior results in the midst of fast moving changes.Skilled in analyzing industry trends, assessing threats & opportunities and developing fact-based actionable plans targeted towards business owners and CEOs to increase enterprise value and fulfill company’s business missions.Inventor of 60 patents issued by the US patent office. 
+ 
+
+
+
+
+
+
+ 
+
+
+Amol Phadke
+Managing Director: Global Telecom Industry Solutions, Google Cloud
+
+
+
+
+
+Amol Phadke joined Google Cloud in June 2020 as managing director: global telecom industry solutions. He is responsible for working with the product and engineering teams to build industry specific roadmaps, working with C-suite customers to help transform their businesses using Google Cloud. He is also responsible for building a strong global ecosystem of Google Cloud partners and has oversight for the customer-facing telecoms engineering and industry solutions architecture teams spanning 5G, edge, network cloud, AI/analytics, and IT modernization.
+
+
+Prior to joining Google Cloud, Amol was the global managing director for Accenture’s Global Network Practice, where he led and managed global high-end consulting teams that provided strategy, consulting, execution, and transformation services to CXO clients. Before Accenture, Amol served in leadership positions at Alcatel-Lucent and British Telecom. He brings vast international industry experience and has worked in the U.S., India, Singapore, and the UK.
+
+
+Amol currently serves on the governing board of Linux Foundation Networking to promote open source solutions for software driven networks, and has also recently authored and published a book that offers a unique perspective on the impact of 5G on the future home.
+
+
+Amol has a master’s degree in telecommunications engineering from the University of Southern California and a double degree executive MBA from UCLA-NUS, Singapore. He was also awarded the C H Wee Gold Medal for outstanding academic achievement in the executive MBA program. He lives in Surrey, London, UK with his wife and daughter, and enjoys reading and playing Badminton in his spare time.
+ 
+
+
+
+
+
+
+ 
+
+
+Dr. Junlan Feng
+Chief Scientist & General Manager, China Mobile Research
+
+
+
+
+
+Junlan Feng is Vice Chairman of the China Artificial Intelligence Industry Alliance, Chief Scientist at China Mobile, General Manager of AI and Intelligent Operation R&D Center, Board Chair of Linux Foundation Network.
+
+
+Dr. Feng received her Ph.D. on Speech Recognition from Chinese Academy of Sciences, and joined AT&T Labs Research in 2001, as a principal researcher on Speech recognition, language understanding and data mining until 2013. Dr. Feng has led R&D of China Mobile on artificial intelligence and intelligent operation since September 2013.
+
+
+She is an IEEE senior member. She had served as an IEEE speech and language committee member and an IEEE industry committee member. She is a frequent reviewer and organizer for major data mining, speech, and natural language international conferences and journals. Dr. Feng has over 70 professional publications and co-authored a book. She holds 51 issued U.S and international patents and 3 issued Chinese patents. She has 46 pending patent applications.
+
+
+Dr. Feng has won more than 20 domestic and foreign R&D awards, including AT&T CTO Award in 2009. “JiuTian”, the AI platform developed by her team won the single product gold award of China Mobile in 2019, the second prize of scientific and technological achievements of China Institute of Communications, the third prize of scientific and technological progress of China Institute of Electronics, and the 2018 Innovation Project Award of Deep Integration of Artificial Intelligence and Real Economy by the Ministry of Industry and Information Technology.
+ 
+
+
+
+
+
+
+ 
+
+
+Madeleine Noland
+President, Advanced Television Systems Committee (ATSC)
+
+
+
+
+
+Madeleine Noland is the President of the Advanced Television Systems Committee Inc. A 15-year industry veteran who is widely respected for her consensus-building leadership style, she chaired the technology group that oversees the ATSC 3.0 next-generation broadcast standard before being named ATSC President in May 2019. Previously, she chaired various ATSC 3.0-related specialist groups, ad hoc groups and implementation teams since 2012.
+
+
+Noland began her career in the television industry in 2004 with Backchannelmedia Inc., an interactive television technology developer. It was during her work there that she first became involved in ATSC projects. In 2012, she moved on to product and project management roles at Telvue Corp. before joining LG Electronics CTO’s office in 2013. Noland represented LG in a variety of industry organizations for over six years.
+
+
+She received TV NewsCheck’s “2019 Futurist” Women in Technology Award and was named one of 2018’s “Powerful Women in Consumer Technology” by Dealerscope magazine. In 2016, she received the ATSC’s highest technical honor, the Bernard J. Lechner Outstanding Contributor Award recognizing her leadership related to the development of ATSC 3.0 Next Gen TV.
+
+
+Credited on three U.S. patents for television technology, Noland is a member of the Society of Motion Picture and Television Engineers, the Society of Cable Telecommunications Engineers, and the Institute of Electrical and Electronics Engineers – Broadcast Technology Society. Noland graduated cum laude from the University of Massachusetts. She enjoys travel, and she plays keyboards in a band called “Brave Pursuit.”
+ 
+
+
+
+
+
+
+ 
+
+
+Tareq Amin
+Group Chief Technology Officer, Rakuten
+
+
+
+
+
+Mr. Tareq Amin, CTO of Rakuten Mobile is responsible for driving end to end Network evolution, Service assurance and Automation of cloud-native 4G/5G network. In this role, he is responsible for overseeing all aspects of the Network transformation, Technology Development and Automation, including innovation, development and operations.Prior to joining Rakuten Mobile, Tareq served as Senior Vice President of Technology Development and Automation for Reliance Jio. Under his leadership, he drove end-to-end network design and deployment to meet coverage, capacity, and performance needs of India’s largest green field LTE TDD network, supporting industry leading data connectivity and innovative services such as VoLTE/HD Voice and eMBMS.His entrepreneurial spirit led him to conceptualize, develop, and launch a disruptive next-generation OSS which encompasses artificial intelligence (AI), scalable real-time machine learning models, strategic insights, and other meaningful Big Data Science techniques. Today the company is delivering product innovation faster than ever before.Before 2013, Tareq served as Vice President of Carrier Solutions for Huawei, where he led the company’s strategy for all major technologies and solution innovations. Having also served as Senior Director of National Planning & Performance at T-Mobile, Tareq managed all budget allocation of capacity, performance, and software development related expenditures across USA markets.Tareq serves as a Board Member of the Small Cell Forum, which strives for wide-scale adoption of small cells and the acceleration in the delivery of integrated HetNets. 
+ 
+
+
+
+
+
+
+ 
+
+
+Tom Arthur
+CEO, Dianomic
+
+
+
+
+
+Serial computer software and services entrepreneur.  I believe deeply in customer-centric big idea thinking.  Career focus in networking computing, security, Industrial Internet of Things (IIoT) and machine learning.   IIoT is as exciting to me as the days carriers started routing TCP/IP and supporting the web.  Industrial 4.0 is ready to deploy.   Career highlights: VP GM Novell, President ActivCard IPO $4.2B, CEO Arbor Networks sold to Danaher $300M, CEO RedSeal sold to STG.
+ 
+
+
+
+
+
+
+ 
+
+
+Shawn Zandi
+Head of Network Engineering, LinkedIn
+
+
+
+
+
+Director of Engineering, leading all network engineering at LinkedIn. I oversee new hardware and software developments including network architecture, deployments and operations, from global production data centers to backbone and edge.
+ 
+
+
+
+
+
+
+ 
+
+
+Jacob Smith
+Vice President, Bare Metal Marketing & Strategy, Equinix
+
+
+
+
+
+Jacob is a proven sales executive and entrepreneur, with over 15 years of experience leading global teams. A diverse background in brand marketing, developer relations, customer success and enterprise sales has informed his holistic approach to revenue growth.
+
+
+Prior to co-founding Packet (acquired by Equinix in 2020) with his twin brother Zachary, Jacob built and ran a digital agency focused on luxury brands, served as Development & Marketing director for a nonprofit, and was a professional classical musician. 
+
+
+Jacob holds a BFA in Music from Carnegie Mellon University and a Master of Music from Temple University. He lives in Southern Vermont with his wife, two children and very energetic dogs. 
+
+
+.
+ 
+
+
+
+
+
+
+ 
+
+
+Said Ouissal
+Founder & CEO, ZEDEDA
+
+
+
+
+
+Said Ouissal is the CEO and Founder of ZEDEDA. Said has dedicated his career and over two decades on building out the Internet. Said developed a passion for networking in his teenage years while running bulletin board systems and learning how telephony networks could be used to transmit data.From building and operating one of the first optical/IP transatlantic Internet backbone networks, to helping telco’s deploy always-on broadband Internet via DSL to homes and 4G/LTE to phones, all the way to most recently helping cloud companies and large enterprises build out their data centers and connect them to the Internet, Said has had first hand experience in how each of these trends have continued to transform the Internet as we knew it.Said founded ZEDEDA based on his strong conviction that the next decade will be all about edge computing, and like with previous large shifts, this trend signals a new and radical change in how network and computing architectures have been built until now.As the benefits of cloud-native technologies get proliferated from centralized clouds to distributed clouds, the next big milestone is to bring these benefits all the way to the distributed (on-premise) edge, as close as possible to connected devices, machines and users, driven by the explosion of data generated at the edge and by IoT devices. Customers are required to deploy edge computing to process and respond to all that data cloud-natively at the edge of the network, close to sources of all the raw data.In order to help these customers with the massive complexities that come with deploying distributed on-premise edge computing at scale, ZEDEDA has built a full-stack distributed edge orchestration solution that works on any hardware, any cloud, any network and works for any edge application or VNF, ultimately bringing cloud agility to the distributed edge.Analysts estimate that by 2025 approximately 30% of all the global workloads will run at the edge, up from 1% today, representing a transformational computing architecture shift and once-in-a-decade opportunity to build a next-generation enterprise infrastructure software company.Prior to founding ZEDEDA, Said held senior executive roles in product management and sales at Ericsson, Juniper Networks, Violin Systems and Redback Networks.Said is originally from the Netherlands with Moroccan roots, is based in Silicon Valley, has a degree in Computer Science, speaks 5 languages and has authored 2 patents. Said loves IP, not only because it stands for Internet Protocol, but also for Infinite Potential. 
+ 
+
+
+
+
+
+
+ 
+
+
+Sun Qiong
+SDN Research Center Director, China Telecom Research Institute
+
+
+
+
+
+Sun Qiong has been engaged in IP network technology research, IP network planning and network-related product development of China Telecom for 10 years. She is the author of several IPv6 transition-related RFCs and leads new operation system architecture design for CTNet2025 at China Telecom.
+ 
+
+
+
+
+
+
+ 
+
+
+Chris Bainter
+VP, Global Business Development, FLIR Systems
+
+
+
+
+
+Chris leads the global business development team in evaluating and managing new strategic business opportunities, initiatives, mergers, acquisitions, partnerships, alliances and/or joint ventures. He oversees market analysis, monitors competitive activity, and identifies customer needs.  Chris provides leadership in the planning, designing, due diligence, and implementation of strategic business objectives. Additionally, he defines vision, strategies, and tactics.
+ 
+
+
+
+
+
+
+ 
+
+
+Matt Trifiro
+Chief Marketing Officer, Vapor IO
+
+
+
+
+
+Matt Trifiro is the chief marketing officer of Vapor IO where he leads the company’s global marketing, branding and communications efforts. He is an expert in edge computing, is co-chair of the State of the Edge Report and Chair of The Linux Foundation’s Open Glossary of Edge Computing. He is a technology industry veteran and a serial entrepreneur, having co-founded or led over a half dozen startup companies. Prior to joining Vapor IO, he was entrepreneur in residence at Xseed Capital and chief marketing officer and senior vice president at Mesosphere. Prior to Mesosphere, Trifiro was chief marketing officer at Heroku, a division of Salesforce, and prior to that he served as senior vice president of marketing for Salesforce Desk.com. He was also a co-founder and CEO of e-commerce startup 1000 Markets (sold to Bonanza) and co-founder and vice president of marketing for interactive television pioneer Wink Communications (NASDAQ IPO). He currently holds advisory roles with a number of venture-funded startups, including Buoyant and Move37 Marketing, and is working on a book about Open Source Marketing.
+ 
+
+
+
+
+
+
+ 
+
+
+Steve Mullaney
+CEO & President, Aviatrix
+
+
+
+
+
+Steve Mullaney brings 30 years of marketing, product management, and engineering experience in network infrastructure and security to Aviatrix. Most recently, Steve was the CEO of Nicira Inc., a network virtualization and software-defined networking company, from 2009 until it was acquired in 2012 by VMware for $1.26 billion. Nicira invented the concept of offering software-based services running on top of networking hardware. Mullaney became the senior vice president and general manager of VMware’s Networking and Security business unit following Nicira’s acquisition.
+
+
+Prior to Nicira, he served as vice president, marketing, and interim CEO for Palo Alto Networks. During his tenure, Mullaney oversaw the company’s invention of the next-generation firewall market category, which helped cement Palo Alto Networks’ reputation as a thought leader and cybersecurity innovator.
+
+
+Steve also held executive positions at Blue Coat, Force10, Cisco, Growth Networks, ShoreTel, Bay Networks and SynOptics, and began his career as a design engineer at GTE Government Systems. Steve holds a BSEE from the University of Rhode Island.
+ 
+
+
+
+
+
+
+ 
+
+
+Bill Ren
+Chief Open Source Liaison Officer, ICT Infrastructure Open Source GM, Huawei
+
+
+
+
+
+Bill Ren holds an EMBA and Master Degree from PeKing University, and a CS Bachelor Degree from Shanghai Jiaotong University. Since Joining Huawei in 2000，Bill served as an Intelligent Network Research and Development Engineer, Product Manager and Architect of India Branch, General Manager of Business OSS, Vice President of Network OSS, Vice President of Network OSS Strategy and MKT, Vice President of Solution MKTG, etc. We have accumulated rich experience in R&D, marketing and product management.
+
+
+Bill Ren serves as the chairman of the EdgeGallery board of directors, the chief open source liaison officer of Huawei, the general manager of ICT Infrastructure Open Source , the vice chairman of the LFN board, board members of LF Edge and OIF. He is fully responsible for the open source realization of 5G MEC industrial solutions for operators/enterprises in network automation, use open source methods to build an industrial ecology, enlarge the industrial space, build a healthy and harmonious industrial environment, and support the company’s commercial success.
+ 
+
+
+
+
+
+
+ 
+
+
+Brian Barritt
+Software Engineering Manager, Facebook Connectivity
+
+
+
+
+
+Brian Barritt is a software engineering manager at Facebook Connectivity where he supports Magma, an open-source software platform that gives network operators an open, flexible and extendable mobile core network solution. Magma’s mission is to connect the world to a faster network by enabling service providers to build cost-effective and extensible carrier-grade networks.
+
+
+Prior to joining Facebook in August of this year, he was a Senior Staff Software Engineer at Alphabet. At Google he founded the Temporospatial Software Defined Networking infrastructure that powers Loon and other non-terrestrial networks. Dr. Barritt has more than 15 years of experience in advanced wireless networks. Prior to joining Google in 2014, he led engineering programs at Cisco and for NASA’s Space Communications and Navigation program.
+
+
+Brian earned an MBA in Management of Technology & Innovation from the University of Minnesota and BS, MS, and Ph.D. degrees in Computer Engineering from Case Western Reserve University.
+ 
+
+
+
+
+
+
+ 
+
+
+Leding Li
+Principal Architect of Baidu Cloud IoT, Baidu, Inc.
+
+
+
+
+
+Mr. LI Leding is Principal Architect of Baidu Cloud and also serves as member of LFEdge Technical Advisory Council.
+
+
+Mr. LI is responsible for the technology product development of Baidu IntelliEdge and “Tiangong” IoT platform. In 2019, Baidu donated the IntelliEdge Framework to LFEdge as Baetyl project, and in the same year Li was elected as chair of the Project Technical Committee.
+
+
+Baetyl projects are committed to driving the convergence of IoT, edge computing, and cloud computing technologies, providing an open and flexible environment for innovated applications.
+ 
+
+
+
+
+
+
+ 
+
+
+Priyanka Sharma
+General Manager, CNCF
+
+
+
+
+
+
+
+
+
+
+
+Priyanka is the General Manager of the Cloud Native Computing Foundation. She was previously the director of Cloud Native Alliances at GitLab Inc., where she built the developer evangelism team that participates regularly in the cloud native community.
+
+
+Priyanka also serves as an advisor at Heavybit Industries, an accelerator for developer products. She has contributed to several CNCF projects such as Jaeger and Vitess and was a founding team member of the OpenTracing standard. In addition, Priyanka is a leading speaker and subject matter expert on cloud native and observability and has spoken about Kubernetes, Prometheus, Jaeger, OpenTracing, Envoy, Vitess, SPIFFE/SPIRE, and more. She was a startup founder featured at TechCrunch Disrupt and started her career at Google.
+ 
+
+
+
+
+
+
+ 
+
+
+Anders Rosengren
+Head of Architecture & Technology, Ericsson
+
+
+
+
+
+Anders Rosengren is head of Architecture & Technology in Business Area Digital Services.
+
+
+Ericsson Digital Services provides solutions that realize our customers’ digital transformation including software and services in the areas of monetization and management systems (OSS/BSS), telecom core (packet core and communication services), and cloud & NFV (Network Functions Virtualization) infrastructure.
+
+
+In his role Anders is responsible for defining and securing implementation of Network & Implementation Architecture across the Digital Services portfolio, defining Technology Strategy and development as well as Standardization and Open Source strategy and execution.
+
+
+Anders Rosengren joined Ericsson in 1989 and spent the first years of his career as a developer and project manager in ASIC & HW development. He has since held various leadership positions in the company leading R&D work in both HW and SW for Telecom Core and IP products as well as leading strategic technology and architecture teams on company level in Telecom Core, Cloud, IP, NMS/OSS and Radio product areas. Anders has international experience, leading multi-country R&D units across Europe, US and Asia.Anders holds an MSc in Electronic Engineering from the Institute of Technology in Lund, Sweden.
+ 
+
+
+
+
+
+
+ 
+
+
+Jie Hu
+Director of Open Source, ZTE
+
+
+
+
+
+Jie Hu is the Director of Open Source in the ZTE Standardization Strategy team.  He is the representative of ZTE in the LF Networking Governing Board. 
+ 
+
+
+
+
+
+
+ 
+
+
+Chris Rice
+Chief Executive Officer -Sterlite Technologies Limited (STL) Access Solutions at STL – Sterlite Technologies Limited
+
+
+
+
+
+Experienced technology executive with a track record of navigating technology trends, in leading big programs and in driving required cultural shifts within large organizations. Demonstrated track record of leading large teams, aligning on a vision, defining key metrics, and executing on that plan. Managed 200+ million dollar development budget and billion plus in capital budget.
+
+
+Experience in open source leadership, in new technology development, in delivering on cost reduction targets, and in providing a work environment that enables top employee engagement.
+ 
+
+
+
+
+
+
+ 
+
+
+Jonne Soininen
+Head of Open Source Initiatives, Nokia
+
+
+
+
+
+Jonne Soininen is  Head of Open Source Initiatives at Nokia based in Espoo, Finland. Prior to this position, he worked in different positions with Nokia, Nokia Siemens Networks, Renesas Mobile and Broadcom and has an extensive history in telecommunications and software engineering ranging over 25 years. Currently, he is serving as a Governing Board member of Linux Foundation Networking (LFN) and Linux Foundation Artificial Intelligence (LFAI). Jonne has a Doctor of Science (Technology) from the Aalto University, Finland from the school of electrical engineering on networking and Masters degree on computer science from University of Helsinki.
+ 
+
+
+
+
+
+
+ 
+
+
+Arpit Joshipura
+General Manager, Networking, Edge & IoT, The Linux Foundation
+
+
+
+
+
+Arpit Joshipura brings over 25 years of networking expertise and vision to The Linux Foundation, with technical depth and business breadth. He has instrumented and led major industry disruptions across enterprises, carriers, and cloud architectures, including IP, broadband, optical, mobile, routing, switching, L4-7, cloud, disaggregation, SDN/NFV, and open networking, and has been an early evangelist for open source. Arpit has served as CMO/VP in startups and larger enterprises, including Prevoty, Dell/Force10, Ericsson/Redback, ONI/CIENA, and BNR/Nortel, leading strategy, product management, marketing, engineering, and technology standards functions.
+ 
+
+
+
+
+
+
+ 
+
+
+Mehran Hadipour
+Vice President, Business Development & Tech Alliance, ROBIN
+
+
+
+
+
+Dynamic Sales and Business Development leader selling hardware, software, services, and solutions to large enterprises (various industries) and government agencies. Combines astute strategic, analytical, technology, business, and leadership skills with consistent success in developing growth strategies and leading teams to sell and implement complex technology solutions. Mentor and leader able to personally drive new business and cultivate relationships while concurrently directing teams to deliver strong results. Outstanding presentation, negotiation, and problem-solving competencies.
+
+
+Responsible for winning key strategic alliances in Zerto including IBM, HPE, SunGard and WIPRO.
+ 
+
+
+
+
+
+
+ 
+
+
+Arash Ashouriha
+SVP, Group Technology Innovation, Deutsche Telekom
+
+
+
+
+
+In his role at Deutsche Telekom Arash Ashouriha is in charge of the strategic development and architectural evolution of the technology domains including OSS alongside technology Innovation management, patent management and standardisation. In addition, he oversees strategic technology innovation projects. Prior to joining Deutsche Telekom, Arash was with Vodafone Group for 15 years, where he held multiple Senior Management international roles both in Technology and IT, most recently Chief Network Officer for Germany & Central Europe (2011-2016) and Head of Global Applications (2009-2011).
+ 
+
+
+
+
+
+
+ 
+
+
+Amar Kapadia
+Cofounder & CEO, Aarna Networks
+
+
+
+
+
+Amar Kapadia is an NFV specialist and co-founder at Aarna Networks, an open source NFV company providing products and services around the Linux Foundation OPNFV and ONAP projects.
+
+
+Prior to Aarna, Amar was the NFV product marketing head at Mirantis. Before Mirantis, he was responsible for defining and launching EVault’s public cloud storage service (acquired by Seagate), based on OpenStack Swift. In total, Amar has over 20 years of experience in storage, server, and I/O technologies through marketing and engineering leadership positions at Emulex, Philips, and HP.
+ 
+
+
+
+
+
+
+VIRTUAL SCHEDULE AT-A-Glance
+
+Wednesday, March 10
+09:00 – 10:30 PST (UTC-8)12:00 – 13:30 EST (UTC-5)18:00 – 19:30 CET (UTC+1)01:00 – 02:30 CST (UTC+8) (Thursday)Keynote Sessions10:30 – 10:45 PST (UTC-8)13:30 – 13:45 EST (UTC-5)19:30 – 19:45 CET (UTC+1)02:30 – 02:45 CST (UTC+8) (Thursday)Break10:45 – 12:00 PST (UTC-8)13:45 – 15:00 EST (UTC-5)19:45 – 21:00 CET (UTC+1)02:45 – 04:00 CST (UTC+8) (Thursday)Keynote Sessions Resume
+
+Thursday, March 11
+17:00 – 18:30 PST (UTC-8)20:00 – 21:30 EST (UTC-5)02:00 – 03:30 CET (UTC+1) (Friday)09:00 – 10:30 CST (UTC+8) (Friday)Keynote Sessions18:30 – 18:45 PST (UTC-8)21:30 – 21:45 EST (UTC-5)03:30 – 03:45 CET (UTC+1) (Friday)10:30 – 10:45 CST (UTC+8) (Friday)Break18:45 – 20:00 PST (UTC-8)21:45 – 23:00 EST (UTC-5)03:45 – 05:00 CET (UTC+1) (Friday)10:45 – 12:00 CST (UTC+8) (Friday)Keynote Sessions Resume
+
+Friday, March 12
+07:00 – 08:30 PST (UTC-8)10:00 – 11:30 EST (UTC-5)16:00 – 17:30 CET (UTC+1)23:00 – 00:30 CST (UTC+8) (Saturday)Keynote Sessions08:30 – 08:45 PST (UTC-8)11:30 – 11:45 EST (UTC-5)17:30 – 17:45 CET (UTC+1)00:30 – 00:45 CST (UTC+8) (Saturday)Break08:45 – 10:00 PST (UTC-8)11:45 – 13:00 EST (UTC-5)17:45 – 19:00 CET (UTC+1) (Saturday)00:45 – 02:00 CST (UTC+8) (Saturday)Keynote Sessions Resume
+
+Time Zone Key
+PST (UTC-8)Pacific Standard TimeNorth AmericaEST (UTC-5)Eastern Standard Time North America, Caribbean, Central AmericaCET (UTC+1)Central European TimeEurope, AfricaCST (UTC+8)China Standard TimeAsia
+
+
+
+
+
+
+
+
+Sponsors
+
+PLATINUM
+PARTNERS 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#opennetedge
+
+
+
+
+Register
+Code of Conduct
+
+Sponsor
+Schedule
+Featured Speakers
+Contact Us
+
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+

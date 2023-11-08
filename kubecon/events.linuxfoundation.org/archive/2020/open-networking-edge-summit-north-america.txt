@@ -1,0 +1,622 @@
+
+
+
+
+Open Networking & Edge Summit 2020 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Explore the Tracks
+Featured Keynote Speakers
+Tutorials
+Program Committee
+
+
+Features &Add-Ons
+
+LF Networking + LF Edge Demos
+Co-Located Events
+Experiences
+Ask the Expert Sessions
+Nightly Networking
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Networking & Edge Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Networking & Edge Events. 
+
+
+
+				Open Networking & Edge Summit			
+
+
+
+
+
+
+Hosted By
+
+
+Distributed But Always ConnectedSeptember 28 – 30, 2020Virtual Experience#onesummit
+
+JOIN THE EVENT
+
+
+EXPLORE THE VIRTUAL SCHEDULE
+View the post event report
+
+
+
+
+That’s a wrap on the Open Networking & Edge Summit 2020 Virtual Experience! We welcomed over 1300 attendees, from 71 countries – thank you to all the attendees, sponsors and speakers that joined us virtually this year. 
+The event platform will continue to be accessible for one year where you can view session recordings, visit sponsor booths and enjoy many of our experiences, including our Slack workspace which will remain open indefinitely. Additionally, all session recordings are available on our YouTube channel.
+
+
+2020 SESSION RECORDINGS
+
+
+
+
+
+
+
+
+VIEW ENTIRE PLAYLIST
+
+
+
+
+
+
+
+FEATURED KEYNOTE SPEAKERS
+
+
+
+
+
+
+
+ 
+
+
+Farah Papaioannou
+Co-Founder and President, Edgeworx, Inc.
+
+
+
+
+
+Farah Papaioannou is the president and co-founder of Edgeworx, a startup that enables people to run and develop applications at the edge (which she founded and got funded while pregnant with her first child in 2018). She has more than 15 years of experience in the enterprise software market, both as an investor and an operator. Before Edgeworx, Farah has been focused on early-stage investing in the big data, AI/deep learning, cloud and IoT markets. She has more than a decade of investing experience at Sinewave, Data Collective VC, Amplify Partners, and Valhalla Partners.
+
+
+She also held roles at multinational companies such as Jabil, where she was responsible for global strategy and M&A for the enterprise infrastructure group; HP, where she also drove strategy, acquisitions and integration into the core business, such as the $2-billion acquisition of 3Par; and Hitachi Data Systems, where she held a variety of product marketing roles.
+
+
+Farah holds three degrees from Stanford University. She graduated with a Bachelor’s with Honors in Computer Science, a Master’s in Communications and a Master’s in Management Science and Engineering.
+ 
+
+
+
+
+
+
+ 
+
+
+Alex Choi
+Senior Vice President of Strategy and Technology Innovation, Deutsche Telekom AG
+
+
+
+
+
+Dr. Alex Jinsung Choi is Senior Vice President Research and Technology Innovation. He is responsible for the Group’s technology innovations as well as for strategic projects like 5G and edge. He is also Co-Head of the Telekom Innovation Laboratories (T-Labs), Deutsche Telekom’s central Research & Development division.
+ 
+
+
+
+
+
+
+ 
+
+
+Andre Fuetsch
+Executive Vice President and Chief Technology Officer, AT&T Services, Inc.
+
+
+
+
+
+Andre oversees the global technology direction for AT&T. This includes network planning, the company’sinnovation road map, AT&T Labs, AT&T Foundry, and the intellectual property organization. Hisresponsibilities include spearheading the design of the company’s next-generation 5G wireless infrastructure and software-defined networking (SDN) initiative.
+
+
+He’s also heavily involved in AT&T’s push into open source software and other open standards, and engagement and collaboration with the broader developer community.
+
+
+Since joining AT&T in 1995, Andre has supported and led several organizations responsible for software, systems and network architecture, planning and engineering, where he holds six patents in the field of network traffic optimization and database design. He earned his bachelor’s degree in Industrial Engineering and Operations Research at U.C. Berkeley and completed his graduate coursework in Computer Science at Stanford University.
+ 
+
+
+
+
+
+
+ 
+
+
+Marisa S. Viveros
+Vice President of Strategy and Offerings, IBM
+
+
+
+
+
+Marisa is a Vice President at IBM, leading Strategy and Solutions for the Global Telecommunications, M&E Industry. She is responsible for creating a portfolio of solutions to address the needs of clients as it relates to digital transformation, networks, optimizing core business functions, and creating new services. In her position, she is spearheading IBM strategy for Telco Network Cloud – including 5G and Edge, while developing the partner ecosystem.
+
+
+Marisa began her career at IBM as a member of the Thomas J Watson Research Center, followed by entrepreneur roles in envisioning the future with solutions that used mobile technologies, unified communications and emerging devices. Marisa also led IBM Security Services, a market leader organization that delivers IT security and Risk Management for business and government organizations. Among her responsibilities, she led the Security Operations Centers, a global competency operating critical IT infrastructure for thousands of customers around the globe.
+
+
+She is a member of the IBM Industry Academy, the LFN Governing Board, ACM, and leads various programs for the advancement of women and Hispanics in technology within IBM, the industry and the academia. She was recognized as HITEC Top 100, the most influential and notable Hispanic Professionals in the IT Industry, in 2018 and 2019.
+ 
+
+
+
+
+
+
+ 
+
+
+Justin Dustzadeh
+Chief Technology Officer, Equinix
+
+
+
+
+
+Justin Dustzadeh is Equinix’s Chief Technology Officer. He leads the organization responsible for developing the company’s technology vision, strategy and architecture. In addition, his team drives next-generation technology innovation and development, and fosters industry engagements with a focus on the developer community.
+
+
+Prior to Equinix, Mr. Dustzadeh served as Head of Global Network and Software Platform at Uber where he led the team responsible for the architecture, engineering and operations of Uber’s global network infrastructure, as well as software platforms enabling Uber’s business worldwide.
+
+
+Justin’s prior experience includes executive roles at Visa, Huawei, Ericsson, AT&T, a Silicon-Valley technology startup (where he was a founder), and two leading service providers in France.
+
+
+He holds a Ph.D. and M.S. in Computer Science from Télécom Paris, and a B.S. in Theoretical Physics from École Normale Supérieure (Ulm) in Paris.
+ 
+
+
+
+
+
+
+ 
+
+
+Amar Kapadia
+Cofounder & CEO, Aarna Networks
+
+
+
+
+
+Amar Kapadia is an NFV specialist and co-founder at Aarna Networks, an open source NFV company providing products and services around the Linux Foundation OPNFV and ONAP projects.
+
+
+Prior to Aarna, Amar was the NFV product marketing head at Mirantis. Before Mirantis, he was responsible for defining and launching EVault’s public cloud storage service (acquired by Seagate), based on OpenStack Swift. In total, Amar has over 20 years of experience in storage, server, and I/O technologies through marketing and engineering leadership positions at Emulex, Philips, and HP.
+ 
+
+
+
+
+
+
+ 
+
+
+Heather Kirksey
+Vice President, Ecosystem & Community, The Linux Foundation
+
+
+
+
+
+Heather Kirksey works with the community to advance the adoption and implementation of open source NFV platforms.
+
+
+Before joining The Linux Foundation, she led strategic technology alliances for MongoDB. Earlier in her career, she held various leadership positions in the telecom industry, including running a partner program for CPE, doing solutions marketing for the IP division at Alcatel-Lucent, and working in business development and numerous standards activities.
+
+
+While at Broadband Forum she helped create and launch TR-069; served as BroadbandHome Technical Working Group Chair; served on the Board; and oversaw collaborative activities with ATIS, 3GPP, OSGi, ITU-T, OMA, IETF, Small Cell Forum, UPnP Forum, Home Gateway Initiative, and other groups.
+
+
+Heather received her master’s degree in English literature from the University of Texas, Austin.
+ 
+
+
+
+
+
+
+ 
+
+
+Bill Ren
+Chief Open Source Liaison Officer, ICT Infrastructure Open Source GM, Huawei
+
+
+
+
+
+Bill Ren holds an EMBA and Master Degree from PeKing University, and a CS Bachelor Degree from Shanghai Jiaotong University. Since Joining Huawei in 2000，Bill served as an Intelligent Network Research and Development Engineer, Product Manager and Architect of India Branch, General Manager of Business OSS, Vice President of Network OSS, Vice President of Network OSS Strategy and MKT, Vice President of Solution MKTG, etc. We have accumulated rich experience in R&D, marketing and product management.
+
+
+Bill Ren serves as the chairman of the EdgeGallery board of directors, the chief open source liaison officer of Huawei, the general manager of ICT Infrastructure Open Source , the vice chairman of the LFN board, board members of LF Edge and OIF. He is fully responsible for the open source realization of 5G MEC industrial solutions for operators/enterprises in network automation, use open source methods to build an industrial ecology, enlarge the industrial space, build a healthy and harmonious industrial environment, and support the company’s commercial success.
+ 
+
+
+
+
+
+
+ 
+
+
+Thomas D. Nadeau
+Vice President, Fellow and Chief Cloud Architect, Spirent Communications
+
+
+
+
+
+Tom is a Fellow and Vice President at Spirent Communications where he is The Chief Architect of Cloud.  Tom works across Spirent’s products and business units. He is responsible for Spirent’s Open Source strategy and approach, as well as working on new and emerging technologies. Tom has served on the Linux Foundation Edge Boards, TAC and Networking Technical Advisory Council (TAC) and Board and held similar roles in the Akraino, OPNFV and OpenDaylight projects. Tom is an Apache Software Foundation Committer where he was a committer on the AriaTosca project, and is co-Maintainer of The Public Yang Repository on GitHub.
+
+
+Tom is a very well established engineer / engineering leader, he is an architect and industry visionary having worked in both startups and large company environments, within equipment vendors and service providers. He has attentively focused on the details of developing successful products. Strong communication skills have allowed him to participate and share his experiences and knowledge in public presentations, as well as internal communications.
+
+
+Before joining Spirent, Tom was a Senior Technical Director at Red Hat. He also spent time at Brocade as Chief Architect of Open Source, Software Business Unit and worked in as a Distinguished Engineer at Juniper Networks.
+ 
+
+
+
+
+
+
+ 
+
+
+Prajakta Joshi
+Product Management Lead, Cloud Networking, Telco and Edge, Google
+
+
+
+
+
+Prajakta is Senior PM in Google Cloud leading Cloud Networking, Telco and Edge. In this role, she manages a broad product portfolio spanning areas of Telco modernization, 5G/4G Edge Computing, Content Delivery and modern application networking. Prior to Google, Prajakta was Director of Product at ON.Lab (now ONF) where she helped launch two open source telco projects,  ONOS and Central Office Re-architected as Datacenter (CORD). She also served in senior engineering roles at Brocade, Foundry Networks and Cisco. She was recognized as Fierce Telecom rising star in 2019. 
+
+
+Prajakta is co-founder of Aurora, a community of senior women leaders in Google Cloud, and serves on Google Cloud’s diversity, equity, inclusion (DEI) council. Prajakta received her M.S. in Computer Science from the University of Southern California and holds 8+ patents.
+ 
+
+
+
+
+
+
+ 
+
+
+Jonas Arndt
+Chief Technologist, Telco Segment & NFV Solutions, HPE
+
+
+
+
+
+Jonas Arndt is a Chief Technologist for HPE’s Telco Segment and NFV Solutions team in HPE’s Telco Sales organization. In his current role at HPE, Jonas is focusing on standards based open Telco infrastructure management solutions.
+
+
+Over his 25+ years’ experience in the Telecom industry, Jonas has represented HPE in multiple standards bodies and industry forums. As an architect Jonas has worked with Carrier Grade  Hardware, Service Availability, and NFV Solutions to drive business in the telecom market.
+
+
+Jonas holds a Master of Science in Electrics with a focus on Telecommunication from Chalmers University of Technology. He is from Sweden and currently resides in Ft. Collins, Colorado.
+ 
+
+
+
+
+
+
+ 
+
+
+Rajesh Gadiyar
+Vice President, Data Platforms Group & CTO, Network Platforms Group, Intel
+
+
+
+
+
+Rajesh Gadiyar is the Chief Technology Officer (CTO) for the Network Platforms Group and leads the Architecture & Systems Engineering organization. He is focused on delivering a scalable and efficient architecture for next generation communications platforms. He leads the architecture efforts to accelerate Network Function Virtualization (NFV) including 5G infrastructure, Edge Cloud, and AI in Networking.
+
+
+Since joining Intel in 2000, he has held several positions in Engineering, Professional Services, Strategic Planning and Architecture. Prior to joining Intel, he led various engineering teams at Trillium Digital Systems and Wipro Ltd. He brings several years of experience in networking products, architecture, protocols, standards and software development for Voice over IP, cellular, broadband, mobile telephony and data networks. He represents Intel as a Governing Board member of the Linux Foundation Networking (LFN) and Alliance for Telecommunications Industry Solutions (ATIS). He is a regular speaker at industry events and conferences. Rajesh has a B.S. in Electronics and Telecommunications engineering from National Institute of Technology, Trichy, India and an MBA from UCLA Anderson School of Management.
+ 
+
+
+
+
+
+
+ 
+
+
+Priyanka Sharma
+General Manager, CNCF
+
+
+
+
+
+
+
+
+
+
+
+Priyanka is the General Manager of the Cloud Native Computing Foundation. She was previously the director of Cloud Native Alliances at GitLab Inc., where she built the developer evangelism team that participates regularly in the cloud native community.
+
+
+Priyanka also serves as an advisor at Heavybit Industries, an accelerator for developer products. She has contributed to several CNCF projects such as Jaeger and Vitess and was a founding team member of the OpenTracing standard. In addition, Priyanka is a leading speaker and subject matter expert on cloud native and observability and has spoken about Kubernetes, Prometheus, Jaeger, OpenTracing, Envoy, Vitess, SPIFFE/SPIRE, and more. She was a startup founder featured at TechCrunch Disrupt and started her career at Google.
+ 
+
+
+
+
+
+
+ 
+
+
+Martin Halstead
+Distinguished Technologist, Telco Vertical, HPE
+
+
+
+
+
+Martin Halstead is a worldwide Distinguished Technologist, Telco Vertical at HP Enterprise. Prior to this role, Martin was worldwide Chief Technologist for Communications, Media and Entertainment within HPE’s BEST (Business Development, Enablement, Solutions & Technology) organization. Martin has in-depth knowledge of industry trends in SDN and NFV with over 20 years’ experience specializing in Communications Services Provider networking environments where he lead several engineering teams in developing innovative networking solutions. Prior to joining HPE, Martin has held senior engineering leadership positions at Nortel Networks, FirstMark Communications and Nexagent which was acquired by EDS. He has co-authored several Internet Drafts, as well as holding a patent on Inter Service Provider communications networking. Martin attended the University of West London where he majored in Computer Studies. He is based in Maidenhead in the United Kingdom.
+ 
+
+
+
+
+
+
+ 
+
+
+Arpit Joshipura
+General Manager, Networking, Edge & IoT, The Linux Foundation
+
+
+
+
+
+Arpit Joshipura brings over 25 years of networking expertise and vision to The Linux Foundation, with technical depth and business breadth. He has instrumented and led major industry disruptions across enterprises, carriers, and cloud architectures, including IP, broadband, optical, mobile, routing, switching, L4-7, cloud, disaggregation, SDN/NFV, and open networking, and has been an early evangelist for open source. Arpit has served as CMO/VP in startups and larger enterprises, including Prevoty, Dell/Force10, Ericsson/Redback, ONI/CIENA, and BNR/Nortel, leading strategy, product management, marketing, engineering, and technology standards functions.
+ 
+
+
+
+
+
+
+EXPLORE THE VIRTUAL SCHEDULE
+
+
+VIEW THE FULL SCHEDULE
+
+All times are shown in Eastern Daylight Time (EDT), UTC−04:00.
+Monday, September 28Explore Monday >>9:30 AM – 5:30 PMTechnical Showcase9:45 – 10:15 AMAsk the Expert Sessions 10:30 – 11:45 AMBreakout Sessions12:00 – 1:35 PMKeynote Sessions1:35 – 2:00 PMAsk the Expert Sessions2:00 – 4:00 PMBreakout Sessions2:00 – 5:00 PMTutorial, Sponsored by CNCF4:00 – 4:30 PMAsk the Expert Sessions4:00 – 5:30 PMTechnical Showcase Booth CrawlTuesday, September 29Explore Tuesday >>9:30 AM – 4:00 PMTechnical Showcase9:45 – 10:15 AMAsk the Expert Sessions10:30 – 11:45 AMBreakout Sessions10:30 AM – 12:00 PMTutorial, Sponsored by IBM12:00 – 1:15 PMKeynote Sessions1:15 – 1:45 PMAsk the Experts Sessions1:45 – 3:45 PMBreakout Sessions2:00 – 5:00 PMTutorial, Sponsored by Futurewei3:45  – 4:15 PMAsk the Expert Sessions4:00 – 5:00 PMMingle with your Board Executives and Technical LeadersWednesday, September 30Explore Wednesday >>9:00 AM – 12:00 PMTutorial, Sponsored by HPE9:30 AM – 12:00 PMTechnical Showcase9:45 – 10:15 AMAsk the Experts Sessions10:30 – 11:45 AMBreakout Sessions12:00 – 1:15 PMKeynote Sessions1:15 – 3:00 PMAsk the Experts Sessions1:15 – 3:00 PMBreakout Sessions3:00  – 3:30 PMAsk the Expert Sessions3:00 – 4:00 PMCommunity Happy Hour
+
+
+
+ 
+
+Open Networking & Edge Summit is a great conference, very useful to explore new technology trends and collaborate with your peers.  – Cecilia Corbi, Telecom Italia
+
+
+
+
+
+
+
+
+
+
+
+Sponsors
+
+Diamond
+Gold
+Bronze
+Partner 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#onesummit
+
+
+
+
+Register
+Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+Explore the Tracks
+Featured Keynote Speakers
+Tutorials
+Program Committee
+
+LF Networking + LF Edge Demos
+Co-Located Events
+Experiences
+Ask the Expert Sessions
+Nightly Networking
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,426 @@
+
+
+
+
+Program Committee | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Explore the Tracks
+Featured Keynote Speakers
+Tutorials
+Program Committee
+
+
+Features &Add-Ons
+
+LF Networking + LF Edge Demos
+Co-Located Events
+Experiences
+Ask the Expert Sessions
+Nightly Networking
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Networking & Edge Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Networking & Edge Events. 
+
+
+
+
+
+
+ 
+
+
+						Program Committee					
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Wendy Cartee
+Head of Outbound Product Management, Google
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Wenjing Chu
+Senior Director of Technology Strategy, Futurewei Technologies
+
+
+
+
+
+Wenjing is a Senior Director of Technology Strategy in Futurewei Technologies where he drives the strategy development of Metaverse and Web3 for the future of the internet. In nearly three decades, he had been a technology and thought leader in diverse areas of internet development including internet routing, security, operating systems, wireless networks, and cloud and virtualization technologies. He is also a long time champion and leader of open source projects including Linux Foundation’s OPNFV (now Anuket), LF Networking, Akraino, LF Edge, and Trust over IP (ToIP). He is currently a ToIP Steering Committee member,  a primary contributor to ToIP’s Technology Architecture Specification and a co-chair of the AI and Metaverse (AIM) Task Force. 
+ 
+
+
+
+
+
+
+ 
+
+
+Lingli Deng
+Lead Researcher & Technical Manager, China Mobile Research Institute
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Alla Goldner
+Director, Open Network Standardization Strategy, NEC
+
+
+
+
+
+Recognized by Light Reading as one of the industry’s best Female Tech Pioneers in 2018, by Capacity Media as the “Best Women in Network Orchestration” in 2019 and with multiple patents to her name, Alla Goldner currently works for NEC as Director, Standardization and Open source strategy. She leads standardization and open source activities, by working directly with all internal stakeholders as well as leading members from service providers, vendors and partners communities. Her current technological focus is on 5G/6G, ORAN, Zero-Touch operations, and cloud-native evolution. With over 25 years of experience in developing technology strategy and system architecture at global companies including Alcatel, Motorola, Intel, Marvell, Allot and Amdocs, Alla also served as a Chair of ONAP Requirements Subcommittee and Orchestration stream lead of TIP’s OCN project since these organizations were launched. Alla has extensive experience in leading standardization efforts in 3GPP, ORAN Alliance, IETF, ETSI NFV, BBF, ETSI MEC, ETSI NFV and ETSI ZSM – examples of standards she has created include TDF (Traffic Detection Function) into 3GPP Packet Core Architecture, Network Congestion handling into 3GPP architecture, and also traffic-steering into 3GPP architecture. She has also served on the numerous program committees of several conferences including IEEE ICC and IEEE CSCN, ONS NA, ONS EU. Recently Alla was awarded as one of the top 20 SDN market leaders and Member of Power 100 list by Capacity Media (2020). 
+
+
+Alla holds an MSc in Technology Management from NYU and a BSc in Mathematics and Computer Science from Tel Aviv University.
+ 
+
+
+
+
+
+
+ 
+
+
+Abhijit Kumbhare
+Abhijit Kumbhare Principal Architect & Software Director, Ericsson
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Henry Lau
+Distinguished Technologist, HP Inc.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Catherine Lefèvre
+Assistant Vice President, Network Systems Common Platform & Services, AT&T Technology Services
+
+
+
+
+
+Catherine Lefèvre is in charge of 140+ unique applications, to support key AT&T business initiatives (5G RAN/Access Automation, 5G Core/Network Cloud, Accelerated C-Band Deployment, SD-WAN, Fiber, ROADM, FirstNet, NetBond, Win@Home). She serves as ONAP TSC Chair since September 25th, 2018.
+
+
+She is building an operating model that engages with industry and aligns with partners to drive innovation and streamlined processes, incorporating security, resiliency, agility and speed.
+
+
+She is driving AT&T Network Common Platform & Services Cloud Native Target State Architecture and ONAP/O-RAN (vRAN) strategic alignment.
+
+
+She is also fostering an inclusive culture that challenges the status quo, embraces diverse ideas and perspectives, empowering and celebrating our ability to try, grow and succeed.
+
+
+Catherine received a master’s degree in computer science as well as a qualified teaching degree in computer science in 1996 from the University Of Namur (FUNDP).
+
+
+She joined AT&T in 2013. During her time with AT&T, she focused on software development best practices and early prototypes and proof of concepts of AT&T’s SDN technology, accelerating AT&T’s ability to move from concept to scaled production development, integrating the DevOps Culture for increased collaboration between the development and operations teams. In 2017, she co-led with AT&T Labs the open sourcing of the ECOMP Platform. She received several awards for her technical depth that provided a unique and significant contribution to AT&T (AT&T Science and Technology Medal; Technology Development President Award in 2016 and 2017).
+
+
+Catherine is part of AT&T’s EMEA Women’s Network, mentoring young women about careers in STEM.
+ 
+
+
+
+
+
+
+ 
+
+
+Erik Nordmark
+Co-founder & Chief Architect, ZEDEDA
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Anees Shaikh
+Sr. Staff Engineer, Network Infrastructure, Google
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Tapio Tallgren
+Lead SW Architect, Mobile Networks Architecture & Technology, Nokia
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Tina Tsou
+Director, Arm
+
+
+
+
+
+Tina Tsou, Director of Infrastructure Ecosystem at Arm, is a recognized leader in open source software, cloud infrastructure, and edge computing. She chairs the Kubernetes Edge Day events under the Cloud Native Computing Foundation (CNCF) and serves as the Board Chair of LF Edge. Previously, Tina was a Domain Expert in Connectivity at Philips Lighting. An advocate for open source technology, Tina often speaks at industry events and mentors emerging tech talent.
+ 
+
+
+
+
+
+
+
+
+
+
+Sponsors
+
+Diamond
+Gold
+Bronze
+Partner 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#onesummit
+
+
+
+
+Register
+Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+Explore the Tracks
+Featured Keynote Speakers
+Tutorials
+Program Committee
+
+LF Networking + LF Edge Demos
+Co-Located Events
+Experiences
+Ask the Expert Sessions
+Nightly Networking
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

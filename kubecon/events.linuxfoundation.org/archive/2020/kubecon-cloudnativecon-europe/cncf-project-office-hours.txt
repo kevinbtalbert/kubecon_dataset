@@ -1,0 +1,347 @@
+
+
+
+
+CNCF Project Office Hours | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Virtual Backgrounds
+Keep Cloud Native Well
+Experiences
+Where in the World is Phippy?
+Diversity Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon Europe. 
+
+
+
+
+
+
+ 
+
+
+						CNCF Project Office Hours					
+
+
+
+
+
+
+
+Find below the schedule for our CNCF Project Office Hours during the KubeCon + CloudNativeCon EU Virtual Event. Our maintainers will be happy to answer questions and show demos. If you have any questions about the project office hours, please email events@cncf.io. Connect with maintainers on specific projects by visiting slack.cncf.io and search in the channel by #(project name). Please click on the project name in the schedule below to enter the Project Office Hour Zoom. If you have any problems with accessing the Zoom room, please reach out to #1-kubecon-eventhelpdesk on slack.cncf.io
+
+
+
+
+
+
+Time
+Monday, Aug 17 12:30 – 19:15 CEST
+Tuesday, Aug 18 12:30 – 21:00 CEST
+Wednesday, Aug 19 12:30 – 20:30 CEST
+Thursday, Aug 20 12:30 – 21:00 CEST
+
+
+ 
+Zoom Room 1
+Zoom Room 1
+Zoom Room 1
+Zoom Room 1
+
+
+12:30 – 13:30
+ 
+Project: Serverless Workflow Specification Maintainer: Tihomir Surdilovic
+Project: Serverless Workflow Specification Maintainer: Tihomir Surdilovic
+ 
+
+
+13:15 – 14:15
+ 
+ 
+ 
+Project: CloudEvents Maintainer: Doug Davis
+
+
+14:00 – 15:00
+Project: Strimzi Maintainer: Jakub Scholz
+Project: OpenEBSMaintainer: Kiran Mova
+Project: Strimzi Maintainer: Jakub Scholz
+ 
+
+
+14:45 – 15:45
+Project: Vitess Maintainer: Deepthi Sigireddi
+Project: Prometheus Maintainer: Björn Rabenstein
+Project: OpenEBSMaintainer: Kiran Mova
+
+Project: HarborMaintainer: Steven Zou
+
+
+
+15:30 – 16:30
+Project: CloudEvents Maintainer: Doug Davis
+Project: Vitess Maintainer: Deepthi Sigireddi
+Project: Thanos Maintainer: Bartlomiej Plotka
+
+Project: Keptn Maintainer: Juergen Etzlstorfer
+Passcode: Projects
+
+
+
+17:00 – 18:00
+Project: Crossplane Maintainer: Jared Watts
+Project: Keptn Maintainer: Juergen Etzlstorfer
+Project: Contour Maintainer: Michael Michael
+
+Project: NATS Maintainer: Ginger Collison
+Passcode: Projects
+
+
+
+18:30 – 19:30
+Project: Longhorn Maintainer: Sheng Yang
+Project: Cortex Maintainer: Marco Pracucci
+Project: Helm Maintainer: Karen Chu
+
+Project: Thanos Maintainer: Bartlomiej Plotka
+Passcode: Projects
+
+
+
+20:00 – 21:00
+ 
+Project: Helm Maintainer: Karen Chu
+ 
+
+Project: Contour Maintainer: Michael Michael
+Passcode: Projects
+
+
+
+ 
+
+Monday, Aug 17 12:30 – 19:15 CEST
+
+Tuesday, Aug 18 12:30 – 21:00 CEST
+Wednesday, Aug 19 12:30 – 20:30 CEST
+Thursday, Aug 20 12:30 – 21:00 CEST
+
+
+ 
+Zoom Room 2
+Zoom Room 2
+Zoom Room 2
+Zoom Room 2
+
+
+16:15 – 17:15
+ 
+Project: Envoy Maintainer: Alyssa Wilk
+ 
+
+Project: containerd Maintainer: Michael Brown
+Passcode: Projects
+
+
+
+17:45 – 18:45
+Project: containerd Maintainer: Michael Brown
+Project: Linkerd  Maintainer: Thomas Rampelberg
+Project: Linkerd Maintainer: Thomas Rampelberg
+
+Project: Prometheus Maintainer: Björn Rabenstein
+Passcode: Projects
+
+
+
+19:15 – 20:15
+ 
+Project: Harbor Maintainer: Alex Xu
+Project: Longhorn Maintainer: Sheng Yang
+
+Project: Cortex Maintainer: Marco Pracucci
+Passcode: Projects
+
+
+
+
+
+
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+GOLD
+SILVER
+START-UP
+END USER
+DIVERSITY SUPPORTERS
+MEDIA PARTNERS 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Virtual Backgrounds
+Keep Cloud Native Well
+Experiences
+Where in the World is Phippy?
+Diversity Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

@@ -1,0 +1,206 @@
+
+
+
+
+The Linux Foundation and the TODO Group Announce the Schedule for OSPOCon Europe 2021, Oct 6 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+August 18, 2021
+The Linux Foundation and the TODO Group  Announce the Schedule for OSPOCon Europe 2021, Oct 6		
+
+
+
+
+OSPOCon, held in North America and Europe this year, is a new event dedicated to creating better, more efficient open source ecosystems, covering the creation and best practices of open source program offices (OSPOs), open source corporate sustainability, and much more. 
+SAN FRANCISCO, August 18, 2021 —  The Linux Foundation, the nonprofit organization enabling mass innovation through open source, along with co-host the TODO Group, an open group of organizations who collaborate on practices, tools and other ways to run successful and effective open source programs and projects, today announced the conference agenda for OSPOCon Europe 2021. The event takes place October 6 in London, England. The schedule can be viewed here. 
+Open Source Program Offices (OSPOs) face many obstacles, such as ensuring high-quality and frequent releases, engaging with developer communities, and contributing back to other projects effectively. OSPOCon events will empower the collaboration of those working to create a center of competency for open source in their organizations through sharing experiences, best practices and tooling. 
+OSPOCon Europe session highlights include:
+What TODO in the EU: Updates from the TODO Group European Chapter – Leslie Hawthorn, Red Hat & Alexios Zavras, IntelInnersource: The Key to Your OSPO’s Success – John Mark Walker, Fannie MaeExploring OSPOs and Open Methods in Humanitarian Response – Heather Leson, Solferino Academy, & International Federation of Red Cross Red Crescent Societies & Peter Masters, Humanitarian OpenStreetMap Team (HOT)Good Governance Practices for Healthy Open Source Projects – Dawn Foster, VMware
+In addition to OSPOCon Europe, OSPOCon North America is being held September 27-29 in Seattle, Washington alongside Open Source Summit + Embedded Linux Conference 2021. To view the schedule, click here. These events are being produced in a hybrid format, with both in-person and virtual participation available. To learn more, click here. 
+RegistrationRegistration is offered at the early price of 140 GBP through August 24. Members of The Linux Foundation and the TODO Group receive a 20 percent discount – members can contact events@linuxfoundation.org to request a member discount code.
+Health and SafetyIn-person attendees will be required to be fully vaccinated against the COVID-19 virus and wear a mask while onsite at the event. Additionally, all attendees will need to comply with all on-site health measures, in accordance with The Linux Foundation Code of Conduct. To learn more, visit the Health & Safety webpage and read our blog post.
+Academic Registration Scholarships & Travel FundingSupport for Academic Scholarships and Travel Funding is provided by the Alfred P. Sloan Foundation and is intended to enable participation in OSPOCon by faculty, staff, students, and/or administrators actively engaged with or interested in learning more about Open Source Program Offices in Academic/Research institutions. To learn more and apply, click here.
+Diversity & Need-Based Scholarships and Travel FundingApplications for diversity and need-based scholarships are currently being accepted here. The Linux Foundation’s Travel Fund is also accepting applications, with the goal of enabling open source developers and community members to attend events that they would otherwise be unable to attend due to a lack of funding. We place an emphasis on funding applicants who are from historically underrepresented or untapped groups and/or those of lower socioeconomic status. To learn more and apply, click here. 
+SponsorFor information on becoming an event sponsor, click here or email us for more information and to speak to our team. The sponsorship deadline is September 9. PressMembers of the press who would like to request a press pass to attend should contact Kristin O’Connell.About the Linux FoundationFounded in 2000, the Linux Foundation is supported by more than 2,000 members and is the world’s leading home for collaboration on open source software, open standards, open data, and open hardware. Linux Foundation’s projects are critical to the world’s infrastructure including Linux, Kubernetes, Node.js, and more. The Linux Foundation’s methodology focuses on leveraging best practices and addressing the needs of contributors, users and solution providers to create sustainable models for open collaboration. For more information, please visit linuxfoundation.org.The Linux Foundation Events are where the world’s leading technologists meet, collaborate, learn and network in order to advance innovations that support the world’s largest shared technologies.Visit our website and follow us on Twitter, Linkedin, and Facebook for all the latest event updates and announcements.The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see its trademark usage page: www.linuxfoundation.org/trademark-usage. Linux is a registered trademark of Linus Torvalds. 
+###
+Media ContactKristin O’ConnellThe Linux Foundationkoconnell@linuxfoundation.org
+
+
+
+
+
+Post navigation
+The Linux Foundation and Fintech Open Source Foundation Announce the Agenda for Open Source Strategy Forum London 2021, Oct 4-5The Linux Foundation and Fintech Open Source Foundation Announce Keynote Speakers for Open Source Strategy Forum London 2021
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

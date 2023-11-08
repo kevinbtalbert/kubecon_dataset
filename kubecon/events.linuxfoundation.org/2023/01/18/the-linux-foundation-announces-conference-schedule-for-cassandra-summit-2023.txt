@@ -1,0 +1,214 @@
+
+
+
+
+The Linux Foundation Announces Conference Schedule for Cassandra Summit 2023 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+January 18, 2023
+The Linux Foundation Announces Conference Schedule for Cassandra Summit 2023		
+
+
+
+
+The world’s largest gathering of Apache Cassandra® community members features 60 sessions showcasing how organizations everywhere are bridging Cassandra to the future.
+SAN FRANCISCO, January 18, 2023 —  The Linux Foundation, the nonprofit organization enabling mass innovation through open source, today announced the full schedule for Cassandra Summit, a 2-day conference focused on Apache Cassandra®, the massively scalable open source NoSQL distributed database. The event is taking place March 13-14 in San Jose, CA and virtually. The schedule can be viewed here.
+Cassandra Summit is where the industry connects to share best practices and use cases, celebrate makers and users, forge critical relationships, and learn about advancements in Apache Cassandra and the ecosystem driving today’s open source data infrastructure. The event will feature a robust program of 60 sessions, covering a wide range of topics including developing applications with Cassandra, cloud-native deployments and strategies, what’s coming for future Cassandra versions, and much more. 
+2023 Conference Session Highlights Include:
+
+Apache Cassandra: What’s New and What’s Next – Scott Andreas, Apple, Inc.
+Journey for Modernizing Traditional Banking with Online Data Platform – Suvarna Potdar & Dean Chen, U.S. Bank
+Code That Can’t Fail, Backed by Cassandra – Loren Sands-Ramshaw, Temporal
+K8ssandra: External Secrets Backend – Steven Seidman, Datadog
+Cassandra on ACID: This Changes Everything – Patrick McFadin, DataStax
+Securing Multi-Cluster Cassandra Deployments – Jiong Liu, Wiz
+
+Keynote speakers will be announced in the coming weeks. 
+Registration (in-person) is offered at the early price of US$499 through January 28. Registration to attend virtually is $40. Members of The Linux Foundation receive a 20 percent discount off registration and can contact events@linuxfoundation.org to request a member discount code. 
+Applications for diversity and need-based scholarships are currently being accepted. For information on eligibility and how to apply, please click here. The Linux Foundation’s Travel Fund is also accepting applications, with the goal of enabling open source developers and community members to attend events that they would otherwise be unable to attend due to a lack of funding. To learn more and apply, please click here.
+Event SponsorsCassandra Summit 2023 is made possible thanks to our sponsors, including Diamond Sponsor: DataStax, Platinum Sponsor: Azul, Gold Sponsor: AxonOps, and Silver Sponsors: Lightbits and Portworx. For information on becoming an event sponsor, click here or email us.
+PressMembers of the press who would like to request a press pass to attend should contact Kristin O’Connell.
+ABOUT THE LINUX FOUNDATIONFounded in 2000, the Linux Foundation and its projects are supported by more than 2,950 members. The Linux Foundation is the world’s leading home for collaboration on open source software, hardware, standards, and data. Linux Foundation projects are critical to the world’s infrastructure including Linux, Kubernetes, Node.js, ONAP, PyTorch, RISC-V, SPDX, OpenChain, and more. The Linux Foundation focuses on leveraging best practices and addressing the needs of contributors, users, and solution providers to create sustainable models for open collaboration. For more information, please visit us at linuxfoundation.org.
+The Linux Foundation Events are where the world’s leading technologists meet, collaborate, learn and network in order to advance innovations that support the world’s largest shared technologies.
+Visit our website and follow us on Twitter, LinkedIn, and Facebook for all the latest event updates and announcements.The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see its trademark usage page: www.linuxfoundation.org/trademark-usage. Linux is a registered trademark of Linus Torvalds. 
+###Media ContactKristin O’ConnellThe Linux Foundationkoconnell@linuxfoundation.org
+
+
+
+
+
+Post navigation
+Linux Foundation Events Monthly Snapshot – December 2022The Linux Foundation Events Monthly Snapshot – March 2023
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

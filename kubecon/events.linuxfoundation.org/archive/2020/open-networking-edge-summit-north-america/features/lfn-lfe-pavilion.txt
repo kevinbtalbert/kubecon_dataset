@@ -1,0 +1,253 @@
+
+
+
+
+LFN & LF Edge Pavilion | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Explore the Tracks
+Featured Keynote Speakers
+Tutorials
+Program Committee
+
+
+Features &Add-Ons
+
+LF Networking + LF Edge Demos
+Co-Located Events
+Experiences
+Ask the Expert Sessions
+Nightly Networking
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Networking & Edge Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Networking & Edge Events. 
+
+
+
+
+
+
+ 
+
+
+						LFN & LF Edge Pavilion					
+
+
+
+
+Skip to page sectionOverviewSlack Information
+
+Overview
+
+Open Networking and Edge Summit is hosted by the Linux Foundation, LF Networking and LF Edge. As sister projects, LF Networking and LF Edge often collaborate on initiatives, events, and collateral that foster innovation and benefit each community.
+
+
+
+
+Website: https://www.lfnetworking.org/ Wiki: https://wiki.lfnetworking.org/ Email: info@lfnetworking.org Twitter: @LF_Networking
+
+
+Network transformation creates an opportunity for the industry to take advantage of open source, open technology, choice, and cloud economics. LFN software and projects provide platforms and building blocks for Network Infrastructure and Services across Service Providers, Cloud Providers, Enterprises, Vendors, and System Integrators that enable rapid interoperability, deployment, and adoption. LF Networking supports the largest set of networking projects with the broadest community in the industry that collaborate on this opportunity. Projects within LFN are FD.io, ONAP, OPNFV, OpenDaylight, OPX, PNDA, SNAS, and Tungsten Fabric.
+
+
+
+
+
+
+Website: https://www.lfedge.org/Wiki: https://wiki.lfedge.org/ Email: pr@lfedge.org Twitter: @LF_Edge
+
+
+Edge computing represents a new paradigm in which compute and storage are located at the edge of the network, where actions are taken in the physical world. LF Edge establishes an open, interoperable framework for edge computing independent of hardware, silicon, cloud, or operating system. The LF Edge ecosystem, which is comprised of industry giants and start ups from all over the globe, collaborates to create hardware and software standards and best practices critical to sustaining current and future generations of IoT and edge devices in multiple industries. Project within LF Edge include Akraino, Baetyl, EdgeX Foundry, EVE, Fledge, Home Edge, Open Horizon, Secure Device Onboard and State of the Edge.
+
+
+
+
+
+
+Slack Information
+
+Hello LFN + LF Edge booth visitor! In addition the booth chat function, we’ve developed a slack channel for the booth overall as well as for each demo station. If you have general questions about the booth experience, please drop a note in the pavilion channel. Otherwise, use the demo specific channels to reach booth managers during booth hours to get your questions answered and share your feedback with them. Thanks!
+LFN & LF Edge Pavilion Slack Channel Directory
+Don’t have Slack? Get it here: https://slack.com/
+Area of InterestSlack ChannelLFN + LF Edge Demo PavilionLFN_LF_Edge_DemosLF Edge: “Real-Time Sensor Fusion for Loss Detection”EdgeX_FoundryLF Edge: “Managing Industrial IoT Data with LF Edge”EVE_FledgeLF Edge: “Automated Onboarding with Open Horizon”Open_HorizonLF Networking: “Onboarding 5G CNFs with ONAP”ONAP_OPNFVLF Networking: “AI Energy Mapping with ONAP & ETSI”ETSI_ONAPLF Networking: “Building CNFs with FD.io VPP & NSM”FD.io_K8s_NSMLF Networking: “Policy-based RAN with O-RAN Non-RealTime-RIC”ONAP_O-RANLF Networking: “Self-Healing with Analytics for K8s Workloads”K8s_OPNFV_PrometheusLF Networking: “ONAP Policy Framework & Bell Control Loops”ONAPLF Networking: “OVP Automation DevOps for VNF/CNF”ONAP_OPNFV
+
+
+
+ 
+
+
+
+
+Sponsors
+
+Diamond
+Gold
+Bronze
+Partner 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#onesummit
+
+
+
+
+Register
+Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+Explore the Tracks
+Featured Keynote Speakers
+Tutorials
+Program Committee
+
+LF Networking + LF Edge Demos
+Co-Located Events
+Experiences
+Ask the Expert Sessions
+Nightly Networking
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,201 @@
+
+
+
+
+Helm v2-to-v3 Workshop | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+About
+Code of Conduct
+
+
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  KubeCon + CloudNativeCon + other CNCF Events. 
+
+
+
+				Helm v2-to-v3 Workshop			
+
+
+
+
+
+
+October 21, 2020Virtual Event#highway2helm3
+
+Thank you for attending the Helm Workshop: v2 to v3!  We hope you found the Helm 3 migration best practices, tips, and tricks valuable.
+PresentationsPresentation PDFs can be found by navigating to the specific talk on the Helm Workshop schedule; they are listed under the speaker bios.
+VideosThe workshop session recordings will be available on the CNCF YouTube channel by October 30, 2020. 
+As you work through the migration, additional resources are available:
+Helm v2 Deprecation TimelineHelm 2 to 3 pluginMigrating Helm v2 to v3How to migrate from Helm v2 to Helm v3Helm DocsHelm Community Resources
+Don’t miss the Helm maintainers at KubeCon + CloudNativeCon North America – register today!
+
+As Helm v2 support comes to an end in November 2020, join the Helm maintainers for a free half-day workshop. We’ll be covering what’s in Helm 3, Helm 3 migration best practices, tips and tricks, and more!
+
+
+SCHEDULE AT-A-GLANCE
+
+
+VIEW THE FULL SCHEDULE
+
+
+Wednesday, October 219:00 – 9:15 AM PDTWelcome9:15 – 10:15 AM PDTWhat’s in Helm v3?10:15 – 11:15 AM PDTMigrating from Helm v2 to v311:30 AM – 1:30 PM PDTHands-On Workshop
+
+
+
+
+
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#highway2helm3
+
+
+
+
+Register
+About
+Code of Conduct
+
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+

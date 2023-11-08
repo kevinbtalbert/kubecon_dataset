@@ -1,0 +1,289 @@
+
+
+
+
+Virtual Sponsorship FAQ | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Virtual Backgrounds
+Keep Cloud Native Well
+Experiences
+Where in the World is Phippy?
+Diversity Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon Europe. 
+
+
+
+
+
+
+ 
+
+
+						Virtual Sponsorship FAQ					
+
+
+
+
+Skip to page sectionVirtual PlatformVirtual Exhibit BoothDigital AssetsStaffingBooth HoursVirtual Booth Set-UpSponsor Portal AccessLead ReportingAttendee DataAttendee Privacy PolicyDriving Virtual Exhibit Hall TrafficVirtual Event ContentValue of ParticipationSponsorship FeesContact Us
+
+What virtual platform will be used for this event? 
+We are using Intrado’s virtual conference platform. Having vetted over 50 online platforms, we chose Intrado because it will support a very immersive and interactive 3-D environment. We expect it to be a different and unique experience for you to connect with the community!
+Here are a few examples of past events hosted on the Intrado platform that you can register for free of charge to test it out:
+Open Compute Project Virtual SummitVMware vForum Online Spring 2020AWS Innovate Online Conference – Global EditionRed Hat Summit Virtual ExperienceIntrado Sales Kick-off Meeting
+We are currently developing the layout for KubeCon + CloudNativeCon Europe 2020 – Virtual. The examples above are meant to help you visualize the possibilities of a virtual event.
+
+
+
+What is a virtual exhibit booth?
+Your booth will be your space to brand and connect directly with attendees at KubeCon + CloudNativeCon. We will have three layouts for you to choose from and the functionality of each booth will be the same across all sponsors. We encourage our sponsors to think strategically about your theme and what you want the audience to take away to help you determine what assets to provide in your booth. It’s likely the assets you were developing for your in-person KubeCon + CloudNativeCon could be reused here. Promotional videos, product demos, case studies, and whitepapers are all great options. Additionally, you can offer virtual swag, games, or raffles, or post job opportunities if your company is hiring. 
+Each booth has a live chat function, so you can engage with attendees visiting the booth either via a public message board or via private text chats with your booth staff. Dedicated office hours or “meet the expert” sessions are encouraged. You can link to your social media or external sites you may be setting up specifically for the event (for example a lab environment or to invite attendees to interact outside of the platform).
+
+
+
+
+How many digital assets can be displayed at a virtual booth? 
+Sponsors may upload up to 99 documents and unlimited videos, organized into up to 10 different content tabs. Our sponsor services team is available to give you recommendations as to what is reasonable based upon our research and experience. 
+
+
+
+How many staff can be at a virtual booth?
+Sponsors can have up to 99 staff and technical reps available to answer questions. We suggest similar staffing as for an in-person event and to pre-determine shifts to cover different time zones. Your booth staff will be notified by direct message when an attendee wants to engage in a chat.
+
+
+
+What are the booth hours?
+The event platform and virtual booths can be accessed at any time during conference days, however, we will advise on expected peak hours and recommended booth staff hours in the sponsor portal once the overall conference schedule is finalized. The event will begin midday UTC time to allow for a timezone friendly experience for the majority of attendees. Please keep an eye on the schedule page for updates to the conference agenda.
+
+
+
+What is the process for setting up a virtual booth?
+Intrado has a booth builder tool to walk you through the set up of your booth step-by-step. Our sponsor services team will provide a best practices guide to help sponsors with this process. The booth builder tool is easy to navigate and assets can be uploaded to the booth within a few hours. 
+
+
+
+When will access to the sponsor portal (ERC) be provided? 
+We are looking to provide access to confirmed sponsors by the end of June so you can get started on planning your deliverables. Our sponsor services team will be in touch with updates as we get closer to the event.
+
+
+
+What information will be provided in the leads report that sponsors receive? 
+Sponsors will receive access to a real-time reporting portal that provides contact information of all attendees who have visited/clicked their booth. Included are the attendee’s name, job title, company, email address, and physical work address (if provided). Phone numbers will not be shared. Additional reports will be available on which booth assets attendees clicked on or downloaded. With the exception of the 15-minute demo sessions that are included in diamond, platinum and gold sponsor packages, leads will not be collected and shared for any keynote or breakout sessions.
+
+
+
+Will a breakdown of attendees be provided to sponsors?
+We will share a list of attending companies with all sponsors twice prior to the event. This list will include the company names only but no contact information. After the event, all sponsors will receive a detailed transparency report with overall attendee stats and demographics, event highlights and media coverage. Additionally, sponsors will have access to a live dashboard to track the leads at their booth in real-time during and after the event.
+
+
+
+What is your policy for sharing attendee information?
+The Linux Foundation’s data protection and privacy policy is part of our general terms and conditions that all registrants must accept before they can complete their registration. This includes the registrant’s confirmation that they know their data will be shared with the sponsor if they access a sponsor booth, any sponsored material or a sponsored activity. All Linux Foundation events are GDPR compliant. For more information, please see The Linux Foundation’s Privacy Policy.
+
+
+
+How will we drive traffic to the virtual exhibit halls?
+CNCF will be promoting the virtual exhibit halls extensively prior to and during the event and will help drive traffic with gamification activities. Attendees who actively participate in the virtual event by watching sponsor demos, downloading sponsor content, engaging in chats, etc. will receive exclusive swag and prizes. Sponsors are encouraged to promote their activities and to create buzz leading up to the event via their own communication channels.
+
+
+
+What content will be presented at the virtual event?
+We will be presenting the same great keynotes and sessions that were originally planned for KubeCon + CloudNativeCon Europe in Amsterdam. Speakers have been notified to confirm their availability and will work with our content manager directly on their talks. To better serve the virtual event format, sessions will be shortened slightly and pre-recorded. Resources and training will be made available to all speakers.
+
+
+
+What is the value of participating in this event?
+Our open source communities inspire us to be resilient – to adapt and thrive with speed and consideration, immersed in the goal of bringing together a distributed group of people from around the globe. It’s in the DNA of the open source community to connect, learn and collaborate, therefore, what better place to do so than at the largest open source developer conference in the world?
+The cloud native community is looking forward to an opportunity to get together and while we all wish we could meet in person, it is just not possible at this time. We believe everyone will find value in joining us for the high-quality content that is expected from a KubeCon + CloudNativeCon event – but this time you get to experience it from the convenience of your own home.
+
+
+
+Why are sponsorship fees for the virtual event the same as for the physical event?
+Sponsorship fees are not only used to cover the costs of producing the event but also to support CNCF projects. Sponsor dollars directly fund critical services such as the Kubernetes, CoreDNS, Envoy and Prometheus security audits benefitting the entire community which in turn helps further adoption of CNCF projects and the future of open source. This is just one example. CNCF + the LF also provide neutral governance, strong IP management, ecosystem building, training, events, developer marketing, rich tools to engage communities and more to keep the wheels of innovation spinning for our project communities. A few other items of note:
+The costs of hosting and producing  a virtual event are still very high. As a nonprofit foundation, events have never been nor can be a cost center for CNCF. Reducing the registration fee significantly also reduces event income significantly. We want the registration fee to remain low to increase the number of attendees which benefits sponsors, but that also means we need to ensure we can still cover costs, i.e. through sponsorship.We have added new sponsor benefits, and with a larger audience by a multiple of 3x or more, we are confident that the value of the sponsorship remains the same.
+Sponsors will be able to reduce their overall event budget significantly by saving in other areas:
+By participating in virtual events, sponsors are saving thousands of dollars they would have spent for additional physical booth expenses (e.g. booth furniture, power, internet, AV). Sponsors are saving on travel costs, lodging, and meals for onsite staff.Ticket prices dropped from $1,000+ to $75 per person and sponsors will receive a large number of free tickets, thus saving thousands of dollars in registration fees for their teams.
+
+
+
+Who should I contact with further questions?
+Please email sponsor@cncf.io or schedule a call to discuss sponsorship opportunities.
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+GOLD
+SILVER
+START-UP
+END USER
+DIVERSITY SUPPORTERS
+MEDIA PARTNERS 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Virtual Backgrounds
+Keep Cloud Native Well
+Experiences
+Where in the World is Phippy?
+Diversity Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

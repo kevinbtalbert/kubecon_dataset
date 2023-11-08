@@ -1,0 +1,210 @@
+
+
+
+
+The Linux Foundation and Fintech Open Source Foundation Announce Keynote Speakers for Open Source Strategy Forum London 2021 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+September 16, 2021
+The Linux Foundation and Fintech Open Source Foundation Announce Keynote Speakers for Open Source Strategy Forum London 2021		
+
+
+
+
+Experts and industry leaders from financial services, technology and open source will gather for thought-provoking insights and conversations about how to best leverage open source software to solve industry challenges.
+SAN FRANCISCO, September 16, 2021 — The Linux Foundation, the nonprofit organization enabling mass innovation through open source, along with co-host Fintech Open Source Foundation (FINOS), a nonprofit whose mission is to accelerate adoption of open source software, standards and best practices in financial services, today announced keynote speakers for Open Source Strategy Forum London (OSSF). The event takes place October 5, preceded by a FINOS Member event on October 4, in London, England. The schedule can be viewed here and the keynote speakers can be viewed here. 
+OSSF’s goal is to deepen collaboration across finance, open source and technology and drive innovation across the industry in order to deliver better code, faster. The event will feature 35+ sessions, revealing recent developments and the direction of open source in financial services across a wide range of topics and domains.
+“We are entering what can only be referred to as the golden age for Open Source in Financial Services”, said Gabriele Columbro, Executive Director, FINOS. “In the last year not only have we seen an exponential growth in contributions from Financial Institutions – something frankly unprecedented – but we are now witnessing the industry coming together to solve long standing business challenges through open collaboration. I am truly excited to have so many leaders at OSSF sharing their vision for an open financial stack, and to be able to bring our community together for a fantastic and unique event like OSSF.”
+Keynote speakers this year include:
+Gabriele Columbro, Executive Director, FINOSNick Cook, Head of Global Strategy and Partnerships, Alliance for Innovative Regulation (AIR), and former Head of Innovation, UK Financial Conduct Authority (FCA)Jane Gavronsky, Chief Technology Officer, FINOS, and former Managing Director, Credit SuisseRussell Green, Managing Director, Deutsche Bank AGLiz Rice, Chief Open Source Officer, Isovalent
+Conference Session Highlights:
+Creating an Open Source Data Standard for Financial Services Regulation – Taniem Choudhury, Deutsche BankAn Open-sourced Solution to Data Governance? How Legend May Be the Answer to Data Quality Concerns in the Financial Industry – Ffion Acland & Beeke-Marie Nelke, Goldman SachsMorphir: A Single Language for Business and Technology – Attila Mihaly, Morgan StanleyPolicy Compliance with Sigstore: From Signing Software to Validating the Whole Software Supply Chain – Axel Simon, Red HatContaining the Chaos While Embracing Kubernetes Based Technology in Finance, Rob Knight, SUSENavigating Open Source Risk: A Strategic Approach – Dawn Foster, VMware 
+Attending companies include: Adaptive Financial Consulting Limited, Audace Labs, Avanade, Bitergia, Canonical, Citi Group, Cosaic, Demodyfi, Deutsche Bank, Digital Asset, EPAM Systems, Evolveum, Fidelity Investments, GitHub, GitLab, Goldman Sachs, IHS Markit, ING, International Swaps and Derivatives Association, Itaú Unibanco SA, Large Credit Union Coalition, London Stock Exchange, Morgan Stanley, Nomura Holdings, Point72 Asset Management, Red Hat, Scott Logic, Symphony, TD Securities, Wipro, U.S. Bank, and many more.
+Registration is available for 460 GBP. Members of The Linux Foundation receive a 20 percent discount – members can contact events@linuxfoundation.org to request a member discount code. Members of FINOS can attend at no cost – members can contact ossf@finos.org to request the FINOS Member registration code. 
+Health and SafetyAttendees will be required to be fully vaccinated against the COVID-19 virus and wear a mask while onsite at the event. Additionally, all attendees will need to comply with all on-site health measures, in accordance with The Linux Foundation Code of Conduct. To learn more, visit the Health & Safety webpage and read our blog post.
+PressMembers of the press who would like to request a press pass to attend should contact Kristin O’Connell.
+About the Linux FoundationFounded in 2000, the Linux Foundation is supported by more than 2,000 members and is the world’s leading home for collaboration on open source software, open standards, open data, and open hardware. Linux Foundation’s projects are critical to the world’s infrastructure, including Linux, Kubernetes, Node.js, and more. The Linux Foundation’s methodology focuses on leveraging best practices and addressing the needs of contributors, users and solution providers to create sustainable models for open collaboration. For more information, please visit linuxfoundation.org.
+The Linux Foundation Events are where the world’s leading technologists meet, collaborate, learn and network in order to advance innovations that support the world’s largest shared technologies.
+Visit our website and follow us on Twitter, Linkedin, and Facebook for all the latest event updates and announcements.
+The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see its trademark usage page: www.linuxfoundation.org/trademark-usage. Linux is a registered trademark of Linus Torvalds. 
+###Media ContactKristin O’ConnellThe Linux Foundationkoconnell@linuxfoundation.org
+
+
+
+
+
+Post navigation
+The Linux Foundation and the TODO Group  Announce the Schedule for OSPOCon Europe 2021, Oct 6The Linux Foundation Announces Agenda and Speaker Lineup for the 2021 Linux Foundation Member Summit
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

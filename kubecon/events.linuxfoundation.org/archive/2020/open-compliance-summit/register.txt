@@ -1,0 +1,226 @@
+
+
+
+
+Register登録 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend参加
+
+Code of Conduct行動規範
+
+
+Sponsorスポンサーになる
+Programプログラム
+
+Scheduleスケジュール
+
+
+Contact Usお問い合わせ
+View All Events
+EventsAll Upcoming EventsPast Leadership & Community Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming Open Compliance Summit. 
+
+
+
+
+
+
+ 
+
+
+						Register登録					
+
+
+
+
+
+
+Open Compliance Summit is an exclusive event for Linux Foundation members and select invitees. Attendance is limited to ensure ease of networking and collaboration.
+The summit (like prior) will be held under Chatham House Rule. Please consent to this rule before you request an invitation.
+Open Compliance Summitは、Linux Foundation企業メンバーと限定された招待者だけが参加できるイベントです。参加に制限を設けることで、交流とコラボレーションを強化しています。
+このサミットは、従来同様チャタム ハウス ルールのもとで開催されます。招待状を申請する前に、このルールにご同意いただく必要があります。
+
+
+REGISTRATION CLOSED
+
+
+
+Our registration system is now integrated with the Linux Foundation Single sign-on (SSO) platform. After clicking “Register Now”, you will be prompted to log in with your existing SSO account or to create a new one. 
+If you have forgotten the password for an existing account, reset it by clicking “Forgot Password.” 
+You will also be able to use 3rd party authentication providers (Gmail, GitHub, LinkedIn, and Facebook) to automatically generate your SSO Account.
+If you experience issues, click the “Contact Us” link on the SSO page to connect with our support team.
+
+登録システムは、Linux Foundationのシングルサインオン (SSO) プラットフォームに統合されました。
+[登録する] をクリックすると、既存のSSOアカウントでログインするか、新しいアカウントを作成するよう求められます。
+既存のアカウントのパスワードをお忘れの場合は、[Forgot Password] をクリックしてリセットしてください。
+Gmail、GitHub、LinkedIn、Facebookなどのサードパーティの認証プロバイダーを使用して、SSOアカウントを自動生成することもできます。
+問題が発生した場合は、SSOページの [Contact Us] リンクをクリックして、サポートチームまでお問い合わせください。
+
+DISCOUNTSディスカウント
+Linux Foundation MembersLinux Foundation Members are eligible to receive a 20% discount. Please email events@linuxfoundation.org to request the LF Member discount code. 
+Group DiscountsIf you have a group of 5 or more people, you can receive a 10% discount on all passes. All pass types must be the same, and all registrations must be processed under one group registration and must be paid with the same credit card. To create a group, select “Add Another Person” to your registration. When 5 or more people are added the 10% discount will be automatically applied. Please note: this discount may not be combined with any additional discounts. Please contact events@linuxfoundation.org for any questions.
+Linux FoundationメンバーLinux Foundationメンバーは20%の割引を受けることができます。LFメンバーのディスカウント コードについては、events@linuxfoundation.org までお問い合わせください。 
+団体割引 5人以上の参加者をまとめて登録すると、すべてのパスで10％の割引を受けることができます。ただしすべてのパス タイプが同じで、すべての登録が1つのグループ登録として処理され、同じクレジットカードで支払われる必要があります。グループを作成するには、登録時に“Add Another Person”を選択してください。5人以上追加されると、自動的に10%割引が適用されます。注意：このディスカウントは、他のディスカウントと併用できません。ご質問がある場合は、events@linuxfoundation.orgまでお問い合わせください。
+
+CANCELLATIONS & SUBSTITUTIONSキャンセルや代理参加について
+
+If you must cancel for any reason, log back into your registration using your confirmation number and select “unregister.” If you need further assistance, email events@linuxfoundation.org. Refunds will only be issued for cancellations received two weeks before the start date of the event and may take up to 14 days to process. We have waived all processing fees.
+If you are unable to attend, you may substitute another attendee in lieu of cancellation. To substitute an attendee, you may return to the registration form, log in as ‘Already Registered’ and edit the registration with the new attendee’s information. Utilizing this feature will also allow you to re-issue yourself a receipt and/or confirmation should you need it.
+
+何らかの理由でキャンセルする必要がある場合は、確認番号を使用して登録に再度ログインし、”unregister” を選択してください。さらにサポートが必要な場合は、events@linuxfoundation.org までメールでお問い合わせください。返金処理は、イベント開始日より2週間前までのキャンセルに対してのみ行われます。また、返金までに14日ほどかかる場合がありますので、ご了承ください。手数料はかかりません。
+参加できなくなった際には、キャンセルする以外に、参加者を変更するという選択肢もあります。参加者を変更するには、登録フォームに戻り、”Already Registered” でログインし、登録内容を新しい参加者の情報に変更します。この機能を利用して、領収書や確認書を再発行することもできます。
+
+
+
+
+
+スポンサー Sponsors
+
+ゴールド GOLD
+シルバー Silver
+ブロンズ Bronze 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#opencompliance
+
+
+
+
+Code of Conduct 行動規範
+
+Sponsor スポンサーになる
+Schedule スケジュール
+
+Contact Us お問い合わせ
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

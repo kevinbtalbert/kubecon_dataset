@@ -1,0 +1,238 @@
+
+
+
+
+Call For Proposals (CFP) | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Diversity & Inclusion
+Code of Conduct
+
+
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Networking & Edge EventsDPDK Website 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Networking & Edge Events. 
+
+
+
+
+
+
+ 
+
+
+						Call For Proposals (CFP)					
+
+
+
+
+Skip to page sectionOverviewDates to Remember年推荐的演讲主题有 Suggested TopicsPreparing to SubmitCode of Conduct提交提案时如有疑问 Questions?
+
+Overview
+
+The DPDK Summit APAC 2021 Call for Proposals is now closed.
+DPDK 亚太峰会将于2021年3月22-23日在线上举行，这是一场专为软件开发人员打造的社区活动，诚邀DPDK的使用者和贡献者参与本次线上峰会。活动内容包括介绍DPDK的最新发展，并就DPDK开源社区最感兴趣的话题进行深入讨论。
+The DPDK Summit APAC is a community event focused on software developers who contribute to or use DPDK. The event will include presentations on the latest developments in DPDK, as well as in-depth discussions on the topics that are of most interest to the DPDK open source community.
+演讲稿语言不限（但幻灯片仅限英文），您可以自由选择语言进行演讲。
+We will accommodate presentations in all languages, however, we request slides be in English. You may present in the language of your choice. 
+
+CFP CLOSED
+
+
+
+
+
+Dates to Remember
+
+演讲提案征集（CFP）起止日期：2020年11月23日项目建议征集: 2021年1月22日投稿结果通知日期：2021年2月5日日程安排公告：2021年2月9日演讲稿提交截止日期：2021年3月8日活动日期： 2021年3月22日至23日
+Call for Proposals (CFP) Opens: 23 November 2020CFP Closes: 22 January 2021CFP Notifications: 5 February 2021Schedule Announcement: Week of 8 February 2021Slide Due Date: 8 March 2021
+
+
+
+
+年推荐的演讲主题有Suggested Topics
+
+从功能或性能方面对DPDK库进行增强和添加新的网络技术及其在DPDK中的适用性硬件网卡的功能和卸载硬件数据路径加速器（压缩、加密、基带、GPU、正则表达式等）虚拟化和容器网络调试工具（记录、跟踪、遥测、监控）DPDK consumability（API / ABI兼容性、OS集成、打包）项目基础架构、安全性、测试开发者故事、DPDK集成或开发时遇到的技术挑战使用和部署DPDK应用程序（OSS或专利）的反馈
+Enhancements and additions to DPDK libraries, functional or performance-wiseNew networking technologies and their applicability to DPDKHardware NIC capabilities and offloadsHardware datapath accelerators (compression, crypto, baseband, GPU, regex, etc)Virtualization and container networkingDebug tooling (logging, tracing, telemetry, monitoring)DPDK consumability (API/ABI compatibility, OS integration, packaging)Project infrastructure, security, testingDeveloper stories, technical challenges when integrating or developing with DPDKFeedback from usage and deployment of DPDK applications (OSS or proprietary)
+提醒：本次活动是社区会议，请避免出现产品宣传/供应商推销等内容。
+Reminder: This is a community conference — so let’s try to avoid blatant product and/or vendor sales pitches.
+
+
+
+Preparing to Submit
+
+Preparing to Submit Your Proposal
+While it is not our intention to provide you with strict instructions on how to prepare your proposal, we hope you will take a moment to review the following guidelines that we have put together to help you prepare the best submission possible. To get started, here are three things that you should consider before submitting your proposal:
+What are you hoping to get from your presentation?What do you expect the audience to gain from your presentation?How will your presentation help better the ecosystem?
+There are plenty of ways to give a presentation about projects and technologies without focusing on company-specific efforts. Remember the things to consider that we mentioned above when writing your proposal and think of ways to make it interesting for attendees while still letting you share your experiences, educate the community about an issue, or generate interest in a project.
+First Time Submitting? Don’t Feel Intimidated
+Linux Foundation events are an excellent way to get to know the community and share your ideas and the work that you are doing and we strongly encourage first-time speakers to submit talks for our events. In the instance that you aren’t sure about your abstract, reach out to us and we will be more than happy to work with you on your proposal.
+How To Give a Great Tech Talk
+In the instance that your talk is accepted, we want to make sure that you give the best presentation possible. To do this, we enlisted the help of seasoned conference speaker Josh Berkus who has prepared an in-depth tutorial on “How to Give a Great Tech Talk”.
+Part 1: http://www.youtube.com/watch?v=iE9y3gyF8Kw
+Part 2: http://www.youtube.com/watch?v=gcOP4WQfJl4
+
+
+
+Code of Conduct
+
+The Linux Foundation is dedicated to providing a harassment-free experience for participants at all of our events. We encourage all submitters to review our complete Code of Conduct.
+
+
+
+提交提案时如有疑问Questions?
+
+提交提案时如有疑问，请联系我们：events@dpdk.org.
+Question on submitting a proposal? Contact us at events@dpdk.org.
+
+
+
+ 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+ 
+#DPDKSummitAPAC
+
+
+
+
+Diversity & Inclusion
+Code of Conduct
+
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,701 @@
+
+
+
+
+Open Networking & Edge Summit + Kubernetes on Edge Day 2021 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Diversity & Inclusion
+Code of Conduct
+
+
+Program
+
+Schedule
+Program Committee
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Networking & Edge Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Networking & Edge Events. 
+
+
+
+				Open Networking & Edge Summit + Kubernetes on Edge Day			
+
+
+
+
+
+
+October 11 – 12, 2021
+Virtual Experience
+ #onesummit + #k8sedgeday
+
+
+post event report
+join the event
+explore the schedule
+
+
+
+
+That’s a wrap on the Open Networking & Edge Summit 2021 Virtual Experience! We welcomed over 700 attendees, from around the globe – thank you to all the attendees, sponsors, and speakers that joined us virtually this year. 
+The event platform will continue to be accessible for 30 days where you can view session recordings, visit sponsor booths and enjoy many of our experiences. We will also migrate all session recordings to our Linux Foundation YouTube channel.
+
+Open Networking & Edge Summit is the ONE event for End to End Connectivity Solutions powered by Open Source. It enables the collaborative development necessary to shape the future of networking and edge computing. In 2021, CNCF’s Kubernetes on Edge Day will be hosted with ONE Summit.
+
+
+
+
+FEATURED KEYNOTE SPEAKERS
+
+
+
+
+
+
+
+ 
+
+
+Yves Bellégo
+Director Network Strategy, Orange Group
+
+
+
+
+
+Yves Bellégo is currently director, network strategy at Orange Group. He began his career in 1988 in IT engineering. In 1991, he joined the research centre of France Telecom, where he worked on the standardization of GSM. He accompanied the phases of 2G, 3G, 4HG and 5G deployment and expansion with various positions in radio engineering, spectrum strategy and network strategy within France Telecom, Nortel and Orange.
+ 
+
+
+
+
+
+
+ 
+
+
+Priyanka Sharma
+General Manager, CNCF
+
+
+
+
+
+
+
+
+
+
+
+Priyanka is the General Manager of the Cloud Native Computing Foundation. She was previously the director of Cloud Native Alliances at GitLab Inc., where she built the developer evangelism team that participates regularly in the cloud native community.
+
+
+Priyanka also serves as an advisor at Heavybit Industries, an accelerator for developer products. She has contributed to several CNCF projects such as Jaeger and Vitess and was a founding team member of the OpenTracing standard. In addition, Priyanka is a leading speaker and subject matter expert on cloud native and observability and has spoken about Kubernetes, Prometheus, Jaeger, OpenTracing, Envoy, Vitess, SPIFFE/SPIRE, and more. She was a startup founder featured at TechCrunch Disrupt and started her career at Google.
+ 
+
+
+
+
+
+
+ 
+
+
+Srini Kalapala
+VP – Technology Strategy and Network Cloud, Verizon
+
+
+
+
+
+Srini Kalapala is the Vice President of Technology Strategy and Network Cloud for Verizon. He is responsiblefor developing next-generation network technologies and strategies, identifying and partnering with suppliers toenable Verizon’s technology strategy and driving technology architecture efforts across Verizon. Srini is alsoresponsible for development of Network cloud and Edge platforms and for driving virtualization and automationacross the networks.Prior to his current role, Srini was managing strategy and architecture functions in the Information Technologyorganization. In that role, Srini led technology transformation efforts in the areas of work force mobility, Wirelinenetwork transformation and platform rationalization. Srini’s team also developed world class CRM platforms fortechnicians and call centers supporting Fios business. Forrester recognized Srini’s team as one of the top fiveleading architecture organizations in the world for these efforts.Srini also played notable roles in the delivery of long distance, voice unbundling and development of broadbandstrategies at Verizon. Prior to joining Verizon, Srini worked at British Telecom, IBM and MCI in various technologyroles driving workforce and network management transformations.Srini is a member of the board for the Linux Foundation for Networking and is active across other areas tied to software and networks. Srini is also on the board of trustees for New York Hall of Science (NYSCI). In addition, Srini mentors middle school students in STEM and coaches students competing in Robotics.Srini holds an MBA from Georgetown University, a Master’s degree in Technology from George WashingtonUniversity, and a Bachelor of Engineering from Birla Institute of Science (BITS) in Pilani, India.
+ 
+
+
+
+
+
+
+ 
+
+
+Shah Rahman
+Director of Engineering, Meta Platforms, Inc.
+
+
+
+
+
+Shah leads the connectivity infrastructure software team at the Connectivity group of Meta — a group missioned to bring more people online to a faster Internet. His team is developing an open-source network core stack, Magma, an unlicensed mmWave stack, Terragraph, and several pioneering industry-wide initiatives to help network operators and service providers build open, cheaper, and better cellular and wireless networks (O-RAN, Evenstar, TIP OpenCore, Private 5G, …)
+
+
+Shah brought almost two decades of org leadership and product building experience to Meta. Most of that are from equipment vendors like Cisco, Ericsson, and a couple of startups; and include several world and industry firsts, incl., 4G / LTE and WiMAX launches. The mission of connecting the world, bringing the unconnected people online, and bridging the digital divide are truly exciting to him, where he can apply his vision for novel network architectures, models, and frameworks that leverage disaggregation, cloudification, convergence, and automation towards simpler, but powerful network infrastructure for the always-connected, always-on, for the post-pandemic era. His teamwork are important components of Meta’s vision of building metaverse over the next decade.
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Jennifer Kyriakakis
+Founder & VP Marketing, MATRIXX Software
+
+
+
+
+
+MATRIXX Founder and Vice President of Marketing, Jennifer Kyriakakis, brings deep expertise in both telecoms and software with roles ranging from complex systems delivery to technical sales to strategic marketing. Her 20 plus years of experience helping Telcos reinvent themselves has propelled the growth of MATRIXX into markets all over the globe. In 2009, Jennifer co-founded MATRIXX Software with the vision of transforming how Telcos do in business in the digital economy.
+
+
+Jennifer is a Forbes contributor and is often recognized for her impact on the industry. Some of those acknowledgments include being named Women in IT Entrepreneur of the Year by Information Age, Women to Know in Mobile from Martech Executive, 2017 Women of Influence by Silicon Valley Business Journal, Gold Innovator of the Year and Silver Entrepreneur of the Year by Women World Awards and most recently a Women in Business Gold Stevie®. As a panelist and keynote speaker, she has shared her thoughts on the topics of leadership and technology at events including Mobile World Congress, Big Communications Event, TM Forum Live and Telecom Council Mobile Forum.Jennifer Kyrakakis MATRIXX
+ 
+
+
+
+
+
+
+ 
+
+
+Reg Orton
+Chief Technology Officer, BRCK
+
+
+
+
+
+Reg is the co-founder and CTO at BRCK, building hardware and software to connect the unconnected in emerging markets. As is product designer and technologist Reg has worked his way across the globe over the last 15 years, in New Zealand, Canada, Kenya and now Seattle, USA. As CTO at BRCK Reg drives the engineering, development, and manufacturing aspects of both the WiFi, LTE Connectivity and Platform Monetisation tools. 
+ 
+
+
+
+
+
+
+ 
+
+
+Koby Avital
+Executive Vice President of Technology Platforms, Walmart
+
+
+
+
+
+Koby Avital is the Executive Vice President of Technology Platforms in Walmart’s Global Technology and Products team and is accountable to platforms strategy, architecture, tools and services lifecycle. He has over 20 years experience as a C level software and engineering leader driving companies’ technology strategy, execution and operation of end user products, platforms, Infrastructures for the cloud and on-premises deployment. Koby has a specialization in the areas of Enterprise Software, Commerce, Payment, OTA, IoT, and Data/ML.
+ 
+
+
+
+
+
+
+ 
+
+
+Dr. Junlan Feng
+Chief Scientist & General Manager, China Mobile Research
+
+
+
+
+
+Junlan Feng is Vice Chairman of the China Artificial Intelligence Industry Alliance, Chief Scientist at China Mobile, General Manager of AI and Intelligent Operation R&D Center, Board Chair of Linux Foundation Network.
+
+
+Dr. Feng received her Ph.D. on Speech Recognition from Chinese Academy of Sciences, and joined AT&T Labs Research in 2001, as a principal researcher on Speech recognition, language understanding and data mining until 2013. Dr. Feng has led R&D of China Mobile on artificial intelligence and intelligent operation since September 2013.
+
+
+She is an IEEE senior member. She had served as an IEEE speech and language committee member and an IEEE industry committee member. She is a frequent reviewer and organizer for major data mining, speech, and natural language international conferences and journals. Dr. Feng has over 70 professional publications and co-authored a book. She holds 51 issued U.S and international patents and 3 issued Chinese patents. She has 46 pending patent applications.
+
+
+Dr. Feng has won more than 20 domestic and foreign R&D awards, including AT&T CTO Award in 2009. “JiuTian”, the AI platform developed by her team won the single product gold award of China Mobile in 2019, the second prize of scientific and technological achievements of China Institute of Communications, the third prize of scientific and technological progress of China Institute of Electronics, and the 2018 Innovation Project Award of Deep Integration of Artificial Intelligence and Real Economy by the Ministry of Industry and Information Technology.
+ 
+
+
+
+
+
+
+ 
+
+
+Rajesh Gadiyar
+Vice President, Data Platforms Group & CTO Network Platforms Group, Intel
+
+
+
+
+
+Rajesh Gadiyar is the Chief Technology Officer (CTO) for the Network Platforms Group and leads the Architecture & Systems Engineering organization. He is focused on delivering a scalable and efficient architecture for next generation communications platforms. He leads the architecture efforts to accelerate Network Function Virtualization (NFV) including 5G infrastructure, Edge Cloud, and AI in Networking. Since joining Intel in 2000, he has held several positions in Engineering, Professional Services, Strategic Planning and Architecture. Prior to joining Intel, he led various engineering teams at Trillium Digital Systems and Wipro Ltd. He brings several years of experience in networking products, architecture, protocols, standards and software development for Voice over IP, cellular, broadband, mobile telephony and data networks. He represents Intel as a Governing Board member of the Linux Foundation Networking (LFN) and Alliance for Telecommunications Industry Solutions (ATIS). He is a regular speaker at industry events and conferences. Rajesh has a B.S. in Electronics and Telecommunications engineering from National Institute of Technology, Trichy, India and an MBA from UCLA Anderson School of Management.
+ 
+
+
+
+
+
+
+ 
+
+
+Rob High
+Vice President and Chief Technology Officer for the IBM Edge Computing Portfolio, IBM
+
+
+
+
+
+Rob High is the Vice President and Chief Technology Officer for the IBM Edge Computing portfolio. High has architecture and technical strategy responsibility for offerings that will enable a new generation of edge computing — where work is placed close to where data is produced and actions are performed. Prior to this assignment he was the CTO for IBM Watson, responsible for setting the technical strategy and vision for IBM’s leadership in AI computing. High is recognized as a global technical leader, author and evangelist, and was named an IBM Fellow in 2008 for his pioneering work in the field of SOA and for his leadership on WebSphere
+ 
+
+
+
+
+
+
+ 
+
+
+Bill Ren
+Chief Open Source Liaison Officer, ICT Infrastructure Open Source GM, Huawei
+
+
+
+
+
+Bill Ren holds an EMBA and Master Degree from PeKing University, and a CS Bachelor Degree from Shanghai Jiaotong University. Since Joining Huawei in 2000，Bill served as an Intelligent Network Research and Development Engineer, Product Manager and Architect of India Branch, General Manager of Business OSS, Vice President of Network OSS, Vice President of Network OSS Strategy and MKT, Vice President of Solution MKTG, etc. We have accumulated rich experience in R&D, marketing and product management.
+
+
+Bill Ren serves as the chairman of the EdgeGallery board of directors, the chief open source liaison officer of Huawei, the general manager of ICT Infrastructure Open Source , the vice chairman of the LFN board, board members of LF Edge and OIF. He is fully responsible for the open source realization of 5G MEC industrial solutions for operators/enterprises in network automation, use open source methods to build an industrial ecology, enlarge the industrial space, build a healthy and harmonious industrial environment, and support the company’s commercial success.
+ 
+
+
+
+
+
+
+ 
+
+
+Vanessa Little
+Global CTO, Interdynamix (IDX)
+
+
+
+
+
+Vanessa (Van) has developed a diverse technology toolset in the last 25 years. She has experience in network and system architecture, mobile video system architecture and governance in both telco and retail sectors. She has consulted for nearly every telco as well as major retailers in North America and has worked as everything from unix sysadmin to Chief Technical Officer with a number of leadership and architectural roles in between, contributing to technologies from mobile, enterprise data centre, multi-national networks and beyond. Now as the Global CTO at Interdynamix Systems (www.interdynamix.com), Van is focused on creating leading innovative solutions that address the current and upcoming market.She is leveraging commercial hardware and software as well as Open Source technologies to solve for specific problems. This role has her speaking at conferences around the world and spreading the word about the next generation of technologies. A member of Women of Openstack, and Women in Comms, Van is active in showcasing and championing women in tech fields. Currently splitting her time in various open source communities, she was the Chair of the Technical Steering Committee of Open Source Mano. She is also a former member of the Layer 123 NFV advisory board as well as a Linux Foundation Board Member. In addition, she spearheaded the VNF Onboarding Open Source community focused on rapid templating and automation of virtualized network function workloads.Van attended the University of Toronto where she majored in Computer Science and Astro-Physics. Vanessa currently makes her home in Toronto Canada, where she enjoys spending her free time playing hockey, tennis and fishing.
+ 
+
+
+
+
+
+
+ 
+
+
+Said Ouissal
+Founder and CEO, ZEDEDA
+
+
+
+
+
+Said Ouissal has extensive experience in senior leadership positions across IP networking (routing, switching, and security), telecommunications, cloud, and mobile broadband. Currently, he is the CEO and founder of ZEDEDA. Prior to ZEDEDA, he held executive product management and (technical) sales roles at various infrastructure companies, including Ericsson, Juniper Networks, Redback Networks, and Violin Memory. Throughout his career, he has also served in engineering and development roles at Lucent, Versatel, and Conxion. Ouissal holds a bachelor’s degree in computer science, is the author of two patents, and speaks five languages.
+ 
+
+
+
+
+
+
+ 
+
+
+Amy Zwarico
+Cybersecurity, Chief Security Office, AT&T
+
+
+
+
+
+Amy Zwarico is a Director of Cybersecurity in AT&T’s Chief Security office, specializing in software, open source and emerging product security. She has been actively involved ONAP (Open Network Automation Platform) security since the Amsterdam release and is currently serving as vice chair of the ONAP Security Subcommittee. Amy has worked in the telco industry for over 25 years where she developed web based integrations to BSS/OSS systems, architected Mobility systems, and for the past 20 years focused on application security, cloud security, open RAN, applied cryptography and policy. Amy received her PhD in Computer and Information Science from the University of Pennsylvania.
+ 
+
+
+
+
+
+
+ 
+
+
+Andre Fuetsch
+Executive Vice President and Chief Technology Officer, AT&T Services, Inc.
+
+
+
+
+
+Andre oversees the global technology direction for AT&T. This includes network planning, the company’sinnovation road map, AT&T Labs, AT&T Foundry, and the intellectual property organization. Hisresponsibilities include spearheading the design of the company’s next-generation 5G wireless infrastructure and software-defined networking (SDN) initiative.
+
+
+He’s also heavily involved in AT&T’s push into open source software and other open standards, and engagement and collaboration with the broader developer community.
+
+
+Since joining AT&T in 1995, Andre has supported and led several organizations responsible for software, systems and network architecture, planning and engineering, where he holds six patents in the field of network traffic optimization and database design. He earned his bachelor’s degree in Industrial Engineering and Operations Research at U.C. Berkeley and completed his graduate coursework in Computer Science at Stanford University.
+ 
+
+
+
+
+
+
+ 
+
+
+Constantine Polychronopoulos
+VP, 5G & Telco Cloud, Juniper Networks
+
+
+
+
+
+Constantine Polychronopoulos is VP, 5G & Telco Cloud, at Juniper Networks. Before joining Juniper, he was VP and CTO of the Telco & Edge Computing division at VMware, leading the development of VMware’s product and technology strategy on NFVI for 4G & 5G markets. Prior to VMware he was VP & CTO of Cloud Networking at Citrix, following the acquisition of Bytemobile, Inc. in 2012. As Founder & CTO of Bytemobile, he led the development of innovative products for web, streaming video and transport protocol optimization for mobile 3G and 4G/LTE networks that were deployed in more than 160 mobile networks around the world. 
+
+
+Prior to that, Constantine was a Professor in the Dept. of Electrical and Computer Engineering and a Director of the Center for Supercomputing R&D at the University of Illinois at Urbana-Champaign. He has served as chairman or on the PC of more than 50 international conferences. He has published more than 160 research papers in IEEE and ACM journals and conferences and has more than 35 issued and pending patents. He served on the governance committee of the University of Patras during 2012-2016, and among his recognitions are the NSF Presidential Young Investigator award, the 1998 Bodossaki Foundation Award in Engineering, and the  Pascal Chair Professorship at the University of Leiden, The Netherlands. In 2015 he was named among the 50 innovators in the 50-year history of the Computer Science Dept. of the University of Illinois. He received his BSc from the University of Athens, his MS from Vanderbilt University and his PhD from the University of Illinois at Urbana-Champaign. 
+ 
+
+
+
+
+
+
+ 
+
+
+Malini Bhandaru
+Cloud Security Architect and Sr. Principal Engineer, Intel
+
+
+
+
+
+
+Dr. Malini Bhandaru is a Cloud Security Architect and Intel Sr. Principal Engineer. Her focus areas are confidential compute and cloud to edge security. She has worked for over a decade in open source on projects such as Confidential Containers, EdgeX Foundry, KubeFlow, OpenStack, and OpenDaylight.  At Intel, she first worked on Xeon server power and performance architecture and over her career on applications spanning autonomous driving, health care, and telco. Malini holds over 20 patents, has served on the Open Source Summit, ONES, KubeCon  program committees and is a frequent conference speaker. She has a Ph.D. in Machine Learning, is a STEM coach and loves gardening.
+
+ 
+
+
+
+
+
+
+ 
+
+
+Will Townsend
+Vice President & Principal Analyst, Networking & Security, Moor Insights & Strategy
+
+
+
+
+
+Will Townsend is a frequent Forbes contributor and advises some of the largest networking and telecommunications companies in the world. His more than thirty years of experience spans tenures spent with iconic companies such as Dell & Hewlett-Packard, serving in several senior level roles including sales, marketing, product management, and business development. Presently, Mr. Townsend manages the networking infrastructure and security practices for Moor Insights & Strategy, an analyst firm regarded as a leader in the technology sector based on principal and founder Patrick Moorhead’s #1 ranking by ARInsights. Mr. Townsend also ranks consistently within the top 100 technology analysts in the world according to ARInsights and by same measure is considered one of the top networking analysts in the world covering both the enterprise and service provider markets. Mr. Townsend holds a Bachelor of Arts degree in Economics from the University of Texas at Austin and an M.B.A. from Texas State University. He has also served as a traveling mentor for Business Council for Peace (Bpeace), a non-profit organization focused on empowering female-led enterprises in areas of conflict around the world in places such as Central America and the Middle East. 
+ 
+
+
+
+
+
+
+ 
+
+
+Dr. Dan Massey
+Project Leader – Operate Through DoD 5G to NextG Initiative
+
+
+
+
+
+Dr. Dan Massey leads the Operate Through portion of the DoD 5G to NextG Initiative. Operate Through aims to ensure DoD can securely operate through commercial 5G networks across the globe. Dr. Massey has more than 25 years of research and management experience and is the author over 100 peer reviewed publications on networking and cyber security, including co-editor of the DNS Security Standard (RFCs 4033, 4034, and 4035) and early work on Named Data Networking. Dr. Massey has served as the Principal Investigator on research funded by the Defense Advanced Research Projects Agency (DARPA), the National Science Foundation (NSF), the Department of Homeland Security (DHS), and industry. As a faculty member, he helped develop cybersecurity programs at both the University of Colorado Boulder and Colorado State University. Dr. Massey also served as a Program Manager in the Cyber Security Division, Science and Technology Directorate, U.S. Department of Homeland Security (DHS). At DHS, he developed and managed the Distributed Denial of Service Defense (DDoSD) program and the Cyber Physical Systems Security (CPSSEC) program that focused on cyber security for automobiles and other systems that combine the cyber and physical worlds. He earned his doctorate in computer science from the University of California, Los Angeles. 
+ 
+
+
+
+
+
+
+ 
+
+
+Heather Kirksey
+Vice President, Ecosystem & Community, The Linux Foundation
+
+
+
+
+
+Heather Kirksey works with the community to advance the adoption and implementation of open source NFV platforms.
+
+
+Before joining The Linux Foundation, she led strategic technology alliances for MongoDB. Earlier in her career, she held various leadership positions in the telecom industry, including running a partner program for CPE, doing solutions marketing for the IP division at Alcatel-Lucent, and working in business development and numerous standards activities.
+
+
+While at Broadband Forum she helped create and launch TR-069; served as BroadbandHome Technical Working Group Chair; served on the Board; and oversaw collaborative activities with ATIS, 3GPP, OSGi, ITU-T, OMA, IETF, Small Cell Forum, UPnP Forum, Home Gateway Initiative, and other groups.
+
+
+Heather received her master’s degree in English literature from the University of Texas, Austin.
+ 
+
+
+
+
+
+
+ 
+
+
+Brent Schroeder
+Head of Office of the CTO, SUSE
+
+
+
+
+
+As Head of the Office of CTO, Mr. Schroeder is responsible for shaping SUSE’s technology and portfolio strategy in support of emerging use cases in areas such as Hybrid Cloud, Cloud Native, and Edge Computing. He drives the technology relationship with numerous industry partners, participates in open source communities as well as evangelizes the SUSE vision with customers, press and analysts. Mr. Schroeder brings to SUSE 30 years of technology innovation and development experience in the IT industry. Prior to joining SUSE, with Dell’s Office of the CTO, he was responsible for software technology strategy covering hybrid cloud, systems management, virtualization and operating systems. Mr. Schroeder has also held various management and engineering roles with NCR, Compaq and HP. Mr. Schroeder holds Bachelor’s degrees in Computer Science and Business Administration from Iowa State University. 
+ 
+
+
+
+
+
+
+ 
+
+
+Arpit Joshipura
+General Manager, Networking, Edge & IoT, The Linux Foundation
+
+
+
+
+
+Arpit Joshipura brings over 25 years of networking expertise and vision to The Linux Foundation, with technical depth and business breadth. He has instrumented and led major industry disruptions across enterprises, carriers, and cloud architectures, including IP, broadband, optical, mobile, routing, switching, L4-7, cloud, disaggregation, SDN/NFV, and open networking, and has been an early evangelist for open source. Arpit has served as CMO/VP in startups and larger enterprises, including Prevoty, Dell/Force10, Ericsson/Redback, ONI/CIENA, and BNR/Nortel, leading strategy, product management, marketing, engineering, and technology standards functions.
+ 
+
+
+
+
+
+
+ 
+
+Open Networking & Edge Summit is a great conference, very useful to explore new technology trends and collaborate with your peers.  – Cecilia Corbi, Telecom Italia
+
+
+
+
+
+
+
+2021 SESSION RECORDINGS
+
+
+
+
+
+
+
+
+VIEW ENTIRE PLAYLIST
+
+
+
+
+
+
+
+
+
+
+
+
+Sponsors
+
+Diamond
+Platinum
+Gold
+Silver
+Bronze
+Supported By
+Partners 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#onesummit + #k8sedgeday
+
+
+
+
+Register
+Diversity & Inclusion
+Code of Conduct
+
+Schedule
+Program Committee
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

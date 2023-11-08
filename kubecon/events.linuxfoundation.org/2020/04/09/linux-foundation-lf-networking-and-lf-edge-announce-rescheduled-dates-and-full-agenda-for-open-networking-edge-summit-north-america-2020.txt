@@ -1,0 +1,212 @@
+
+
+
+
+Linux Foundation, LF Networking, and LF Edge Announce Rescheduled Dates and Full Agenda for Open Networking & Edge Summit North America 2020 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+April 9, 2020
+Linux Foundation, LF Networking, and LF Edge Announce Rescheduled Dates and Full Agenda for Open Networking & Edge Summit North America 2020		
+
+
+
+
+Industry’s Premier Open Networking & Edge Conference will feature business, technical and architectural sessions on Edge Computing, Cloud Native Networking, Enterprise IT, and Carrier and Cloud Developer Operations
+The Linux Foundation, the nonprofit organization enabling mass innovation through open source, along with co-hosts LF Networking, the umbrella organization fostering collaboration and innovation across the entire open networking stack, and LF Edge, the umbrella organization building an open source framework for the edge, announced today the rescheduled event dates for Open Networking & Edge Summit North America (ONES, formerly Open Networking Summit) and the complete session line-up. 
+ONES North America 2020 will take place September 28-29 at the JW Marriott LA Live in Los Angeles, California. The summit line-up features prominent speakers from AT&T, eBay, Ericsson, Huawei Technologies, Rancher Labs, Red Hat, Toyota Motor Corporation, Verizon, VMware, Wells Fargo, Yelp, and more. The full event agenda is available here. 
+ONES is the industry’s premier open networking event now expanded to comprehensively cover Edge Computing, Edge Cloud, and IoT. It gathers technologists and executives from enterprises, telecoms and cloud providers for technical, architecture and business discussions that will shape the future of networking and edge computing. ONES enables collaborative development and innovation with a deep focus on both Open Networking and AI/ML-enabled use cases for 5G, IoT, Edge and Enterprise deployment, as well as targeted discussions on Edge and IoT frameworks and blueprints across numerous industries including Manufacturing, Retail, Oil and Gas, Transportation, and Telco Edge cloud. 
+“We have an impressive roster of experts lined up to present at Open Networking & Edge Summit North America,” said Arpit Joshipura, General Manager, Networking, Edge & IoT, The Linux Foundation. “With expanded content focused on open source Edge, this year’s event is the place to be for the latest in open innovation and knowledge-sharing across adjacent technologies such as 5G, cloud native, AI/ML, IoT, and more.”
+ONES North America 2020 conference session tracks include: Carriers – Core, Edge & Access, Enterprise Networking & Edge, Cloud Networking & Edge, and Business Critical & Innovation.
+Content is delivered in a variety of presentation formats including deep-dive technical tracks, panel discussions, tutorials, and case studies. 
+Featured Keynote Speakers Include:
+Andre Fuetsch, Executive Vice President & Chief Technology Officer, AT&T Services, Inc.Dan Kohn, Executive Director, Cloud Native Computing FoundationAlex Choi, Senior Vice President of Strategy and Technology Innovation, Deutsche Telekom AGFarah Papaioannou, Co-Founder and President, Edgeworx, Inc.Anders Rosengren, Head of Architecture & Technology, EricssonJustin Dustzadeh, Chief Technology Officer, EquinixAparna Sinha, Director of Product Management, Google CloudBill Ren, Chief Open Source Liaison Officer, ICT Infrastructure Open Source GM, HuaweiMarisa S. Viveros, Vice President of Strategy and Offerings, IBMArpit Joshipura, General Manager, Networking, Edge & IoT, The Linux FoundationHeather Kirksey, Vice President, Community and Ecosystem Development, The Linux Foundation
+Featured Conference Sessions Include:
+5G Slicing is a Piece of Cake! – Alla Goldner, Director, Technology, Strategy & Standardization, AmdocsInjecting Security to the Cloud – Susan Hinrichs, Software Engineer, Verizon MediaArchitectural Patterns & Best-practices to Avoid Lock-ins with Serverless – Murali Kaundinya, Group CTO and Managing Director, Wells FargoSecuring a Network Virtualized with Containers and Kubernetes: Example Solutions and Current Gaps – Samuli Kuusela, Security Architect, Ericsson & Amy Zwarico, Lead Member of Technical Staff, AT&TMulti-Cluster Federation: Should Networking Impact The Solution? – Anil Kumar Vishnoi, Principal Software Engineer & Thomas D. Nadeau, Technical Director of NFV, Red Hat
+Conference Registration is $950 through July 19, 2020 with additional registration options available including $300 Hall Passes, $575 Academic Passes, and $300 Student Passes.  Non-profit and group discounts are available as well; see details on the event registration page. Members of The Linux Foundation, LFN and LF Edge receive a 20 percent discount on all registration fees; contact events@linuxfoundation.org to request a member discount code. Applications for diversity and needs-based scholarships are currently being accepted; for information on eligibility and how to apply, please click here. We are continuously monitoring the COVID-19/Novel Coronavirus situation and are committed to converting ONES North America 2020 into a virtual experience should it not be safe to bring attendees together in person. Please continue to visit our website and follow us on Twitter and Facebook for updates. 
+Open Networking & Edge Summit North America 2020 is made possible thanks to our sponsors, including Platinum Sponsors Cloud Native Computing Foundation, Ericsson, and Huawei, Gold Sponsor IBM, and Silver Sponsor Red Hat. For information on becoming an event sponsor, click here.
+Members of the press who would like to request a press pass to attend should contact Jill Lovato at jlovato@linuxfoundation.org.
+Additional Resources: 
+Why Attend Linux Foundation Events: https://youtu.be/X_rLxfmLlYY Open Networking Summit North America 2019 Event Recap: https://events.linuxfoundation.org/events/open-networking-summit-north-america-2019/See a short recap video from the last Open Networking SummitSee what past event attendees have to say about the event
+About The Linux FoundationThe Linux Foundation is the organization of choice for the world’s top developers and companies to build ecosystems that accelerate open technology development and industry adoption. Together with the worldwide open source community, it is solving the hardest technology problems by creating the largest shared technology investment in history. Founded in 2000, The Linux Foundation today provides tools, training and events to scale any open source project, which together deliver an economic impact not achievable by any one company. More information can be found at www.linuxfoundation.org.The Linux Foundation Events are where the world’s leading technologists meet, collaborate, learn and network in order to advance innovations that support the world’s largest shared technologies.The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our trademark usage page: https://www.linuxfoundation.org/trademark-usage.Linux is a registered trademark of Linus Torvalds.
+####
+Media Contact:Jill LovatoThe Linux Foundationjlovato@linuxfoundation.org
+
+
+
+
+
+Post navigation
+Novel Coronavirus UpdateInterested in Speaking at an Event?  View Upcoming Call for Proposal Deadlines!
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

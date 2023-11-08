@@ -1,0 +1,152 @@
+
+
+
+
+Mentorship Session: Dynamic Program Analysis for Fun and Profit | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Mentorship Session: Dynamic Program Analysis for Fun and Profit			
+
+
+
+
+
+Dynamic Program Analysis for Fun and ProfitFebruary 25, 2021 | 7:30 – 9:00 AM PST
+
+
+VIEW THE FULL SERIES
+
+
+
+
+
+
+
+Join us for Dynamic Program Analysis for Fun and Profit, with Dmitry Vyukov, Principal Software Engineer, Google.
+Dynamic analysis is one of the most common approaches to software quality assurance. This talk will give a short introduction into dynamic analysis, outline its strengths and weaknesses and contrast with static analysis. Then the talk will proceed to concrete dynamic tools available for the Linux kernel, types of bugs they can discover and share practical aspects of using them.
+The session will begin with an overview by Dmitry Vyukov (45 minutes) and will be followed by Q&A – an opportunity to both ask Dmitry questions and for group discussion (45 minutes).
+
+
+
+
+VIEW RECORDING 
+VIEW SLIDES
+
+
+
+
+
+
+
+Dmitry Vyukov, Principal Software Engineer, Google
+Dmitry works on dynamic tools at Google for the past 10 years. His projects include a set of user-space sanitizers (Address/Thread/MemorySanitizer), set of similar tools for the Linux kernel, Go data race detector and various fuzzers (syzkaller/syzbot, go-fuzz, libfuzzer). These tools allowed to discover and fix more than 3000 bugs in the Linux kernel. Dmitry also has interest in concurrency, parallelism and performance, contributed to TensorFlow, Go runtime, Abseil, author of a dozen of novel lock-free algorithms.
+
+
+
+
+
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

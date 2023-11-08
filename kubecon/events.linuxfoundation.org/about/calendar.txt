@@ -1,0 +1,1293 @@
+
+
+
+
+Upcoming Events | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+Upcoming Events		
+
+
+
+
+
+
+View Past Events
+
+
+ Filter events by name, topic...  
+Filter by Event Category 
+All Categories
+AI Events  (1)
+Automotive Grade Linux Events  (1)
+Data & Storage Events  (1)
+Embedded & IoT Events  (1)
+Emerging Technology Events  (1)
+Hyperledger Events  (1)
+KubeCon + CloudNativeCon + other CNCF Events  (21)
+Leadership & Community Events  (1)
+Linux Dev Events  (2)
+Networking & Edge Events  (4)
+Open Source Summit Events  (3)
+OpenSSF Events  (1)
+R/Medicine Events  (1)
+RISC-V Events  (1)
+
+  
+Filter by Country 
+All Countries
+Asia Pacific  (7)
+   India  (2)
+   Japan  (4)
+   Singapore  (1)
+Europe  (19)
+   Austria  (2)
+   France  (16)
+   Hungary  (1)
+North America  (14)
+   United States  (14)
+
+ Reset
+Displaying 42 events2023November 
+
+
+KubeCon + CloudNativeCon North America 
+
+
+
+
+					Nov 6–9, 2023				
+
+
+
+Chicago, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closed						
+
+
+
+
+
+
+RISC-V Summit 
+
+
+
+
+					Nov 7–8, 2023				
+
+
+
+Santa Clara, United States					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closed						
+
+
+
+
+
+
+CHIPS Technology Update 
+
+
+
+
+					Nov 9, 2023				
+
+
+
+Sunnyvale, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+						CFP Status:
+						
+							No Call for Proposals						
+
+
+
+
+
+
+LFN Developer & Testing Forum 
+
+
+
+
+					Nov 13–16, 2023				
+
+
+
+Budapest, Hungary					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closes Thursday, Nov 16, 2023						
+
+
+
+
+
+
+Linux Plumbers Conference 
+
+
+
+
+					Nov 13–15, 2023				
+
+
+
+Richmond, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+						CFP Status:
+						
+							No Call for Proposals						
+
+
+
+
+
+
+Linux Kernel Maintainer Summit 
+
+
+
+
+					Nov 16, 2023				
+
+
+
+Richmond, United States					
+
+
+
+
+
+
+						CFP Status:
+						
+							No Call for Proposals						
+
+
+
+
+
+
+Yocto Project Summit 
+
+
+
+
+					Nov 28–30, 2023				
+
+
+
+Virtual					
+
+
+
+
+
+
+						CFP Status:
+						
+							No Call for Proposals						
+
+
+
+
+
+
+ONE Summit Regional Days – Bangalore 
+
+
+
+
+					Nov 30, 2023				
+
+
+
+Bangalore, India					
+
+
+
+
+
+
+						CFP Status:
+						
+							Details Coming Soon						
+
+
+
+December 
+
+
+Hyperledger Member Summit Tokyo 
+
+
+
+
+					Dec 4, 2023				
+
+
+
+Tokyo, Japan					
+
+
+
+
+
+
+						CFP Status:
+						
+							No Call for Proposals						
+
+
+
+
+
+
+OpenSSF Day Japan 
+
+
+
+
+					Dec 4, 2023				
+
+
+
+Tokyo, Japan					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closed						
+
+
+
+
+
+
+GitOpsCon Europe 
+
+
+
+
+					Dec 5–6, 2023				
+
+
+
+Virtual					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closed						
+
+
+
+
+
+
+Open Source Summit Japan 
+
+
+
+
+					Dec 5–6, 2023				
+
+
+
+Tokyo, Japan					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closed						
+
+
+
+
+
+
+PrestoCon 
+
+
+
+
+					Dec 5–6, 2023				
+
+
+
+Mountain View, United States					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closed						
+
+
+
+
+
+
+Open Compliance Summit 
+
+
+
+
+					Dec 7–8, 2023				
+
+
+
+Tokyo, Japan					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closed						
+
+
+
+
+
+
+KubeDay India 
+
+
+
+
+					Dec 8, 2023				
+
+
+
+Bengaluru, India					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closed						
+
+
+
+
+
+
+AI.dev: Open Source GenAI & ML Summit North America 
+
+
+
+
+					Dec 12–13, 2023				
+
+
+
+San Jose, United States					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closed						
+
+
+
+
+
+
+Cassandra Summit 
+
+
+
+
+					Dec 12–13, 2023				
+
+
+
+San Jose, United States					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closed						
+
+
+
+
+
+
+KubeDay Singapore 
+
+
+
+
+					Dec 12, 2023				
+
+
+
+Singapore, Singapore					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closed						
+
+
+
+2024January 
+
+
+Automotive Grade Linux at CES 
+
+
+
+
+					Jan 9–12, 2024				
+
+
+
+Las Vegas, United States					
+
+
+
+
+
+
+						CFP Status:
+						
+							No Call for Proposals						
+
+
+
+March 
+
+
+AppDeveloperCon Europe 
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closes Sunday, Dec 3, 2023						
+
+
+
+
+
+
+ArgoCon Europe 
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closes Sunday, Dec 3, 2023						
+
+
+
+
+
+
+BackstageCon Europe 
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closes Sunday, Dec 3, 2023						
+
+
+
+
+
+
+Cilium + eBPF Day Europe 
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closes Sunday, Dec 3, 2023						
+
+
+
+
+
+
+Cloud Native AI Day Europe 
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closes Sunday, Dec 3, 2023						
+
+
+
+
+
+
+Cloud Native Wasm Day Europe 
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closes Sunday, Dec 3, 2023						
+
+
+
+
+
+
+Data on Kubernetes Day Europe 
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closes Sunday, Dec 3, 2023						
+
+
+
+
+
+
+Istio Day Europe 
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closes Sunday, Dec 3, 2023						
+
+
+
+
+
+
+KubeCon + CloudNativeCon Europe 
+
+
+
+
+					Mar 19–22, 2024				
+
+
+
+Paris, France					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closes Sunday, Nov 26, 2023						
+
+
+
+
+
+
+Kubeflow Summit Europe 
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closes Sunday, Dec 3, 2023						
+
+
+
+
+
+
+Kubernetes on Edge Day Europe 
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closes Sunday, Dec 3, 2023						
+
+
+
+
+
+
+Multi-TenancyCon Europe 
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closes Sunday, Dec 3, 2023						
+
+
+
+
+
+
+Observability Day Europe 
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closes Sunday, Dec 3, 2023						
+
+
+
+
+
+
+OpenTofu Day Europe 
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closes Sunday, Dec 3, 2023						
+
+
+
+
+
+
+Platform Engineering Day Europe 
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closes Sunday, Dec 3, 2023						
+
+
+
+
+
+
+ThanosCon Europe 
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closes Sunday, Dec 3, 2023						
+
+
+
+April 
+
+
+Embedded Open Source Summit 
+
+
+
+
+					Apr 16–18, 2024				
+
+
+
+Seattle, United States					
+
+
+
+
+
+
+						CFP Status:
+						
+							Details Coming Soon						
+
+
+
+
+
+
+Open Source Summit North America 
+
+
+
+
+					Apr 16–18, 2024				
+
+
+
+Seattle, United States					
+
+
+
+
+
+
+						CFP Status:
+						
+							Details Coming Soon						
+
+
+
+
+
+
+ONE Summit 
+
+
+
+
+					Apr 29–May 1, 2024				
+
+
+
+San Jose, United States					
+
+
+
+
+
+
+						CFP Status:
+						
+							Closes Sunday, Dec 3, 2023						
+
+
+
+May 
+
+
+LFN Developer & Testing Forum 
+
+
+
+
+					May 2–3, 2024				
+
+
+
+San Jose, United States					
+
+
+
+
+
+
+						CFP Status:
+						
+							No Call for Proposals						
+
+
+
+July 
+
+
+useR! 
+
+
+
+
+					Jul 8–11, 2024				
+
+
+
+Salzburg, Austria and 					
+
+
+Virtual					
+
+
+
+
+
+
+						CFP Status:
+						
+							Details Coming Soon						
+
+
+
+September 
+
+
+Open Source Summit Europe 
+
+
+
+
+					Sep 16–18, 2024				
+
+
+
+Vienna, Austria					
+
+
+
+
+
+
+						CFP Status:
+						
+							Details Coming Soon						
+
+
+
+November 
+
+
+KubeCon + CloudNativeCon North America 2024 
+
+
+
+
+					Nov 12–15, 2024				
+
+
+
+Salt Lake City, United States					
+
+
+
+
+
+
+						CFP Status:
+						
+							Details Coming Soon						
+
+
+
+
+
+
+View Past Events
+
+
+
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

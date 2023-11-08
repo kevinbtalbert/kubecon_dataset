@@ -1,0 +1,360 @@
+
+
+
+
+PrestoCon 2020 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+About
+Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Emerging Technology Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming PrestoCon. 
+
+
+
+				PrestoCon			
+
+
+
+
+
+
+September 24, 2020Virtual Event#prestocon
+
+FREE REGISTRATION
+
+
+
+
+
+PrestoCon 2020 is a wrap! Thank you to all of the attendees, speakers, and sponsors, that joined us virtually this year. To experience the best of the event, be sure to watch all the sessions on the Presto Foundation YouTube Channel, available by October 8. You can also review session slides from speakers who provided them via the event schedule.
+
+At PrestoCon, users from industry-leading companies will share use cases and best practices, developers will discuss project features and considerations; and users and developers will collaborate to advance the use of Presto as a high quality, performant, and dependable software used to power the analytics platforms, on-premises or in the cloud, of organizations around the globe.
+
+
+FEATURED SPEAKERS
+
+
+
+
+
+
+
+ 
+
+
+Nezih Yigitbasi
+Engineering Manager, Facebook
+
+
+
+
+
+Nezih Yigitbasi is an engineering manager in the Presto team at Facebook and he currently serves as the chair of the technical steering committee of the Presto Foundation. He is an open source enthusiast and he has contributed to multiple open source big data projects, including Presto, Apache Spark, Apache Parquet, and Apache Hive over the past several years. Prior to Facebook, he spent several years at Netflix and Intel building various distributed data processing systems. Nezih holds a Ph.D. in computer science from Delft University of Technology.
+ 
+
+
+
+
+
+
+ 
+
+
+Chunxu Tang
+Software Engineer, Twitter
+
+
+
+
+
+Chunxu is a software engineer in Twitter’s Interactive Query team where he works on developing and maintaining Presto and Druid services. He received his doctoral degree from Syracuse University, where he did research on machine learning and distributed collaboration systems
+ 
+
+
+
+
+
+
+ 
+
+
+Yu Dong
+Director of OLAP Intelligent Database Optimization, Alibaba
+
+
+
+
+
+Dr. Yu Dong is a senior staff engineer and the director of Alibaba OLAP intelligent database optimization team. He and his team focus on the intelligent and autonomous optimization of cloud native OLAP systems. Before joined Alibaba, Yu worked with IBM and Futurewei in the database area for 10+ years. Yu holds a Ph.D. in computer science from Purdue University.
+ 
+
+
+
+
+
+
+ 
+
+
+Ashish Kumar Singh
+Tech Lead, Bigdata Query Processing Platform, Pinterest
+
+
+
+
+
+Ashish Singh is a tech lead on BigData Query Processing Platform team and an Apache committer. He focuses on making expressing computational needs with SQL easier, faster, and reliable. Three years ago, before joining Pinterest, Ashish used to work on various big data projects, primarily Apache Kafka, Hive, Sentry, and Parquet at Cloudera.
+ 
+
+
+
+
+
+
+ 
+
+
+Dipti Borkar
+Co-Founder and Chief Product Officer, Ahana
+
+
+
+
+
+Dipti is the co-founder and CPO of Ahana with over 15 years of experience in distributed data and database technology including relational, NoSQL, and federated systems. She is also the Presto Foundation Outreach Chairperson. Prior to Ahana, Dipti held VP roles at Alluxio, Kinetica, and Couchbase. At Alluxio, she was Vice President of Products and at Couchbase she held several leadership positions there including VP, Product Marketing, Head of Global Technical Sales, and Head of Product Management. Earlier in her career, Dipti managed development teams at IBM DB2 Distributed where she started her career as a database software engineer. Dipti holds an M.S. in Computer Science from UC San Diego and an MBA from the Haas School of Business at UC Berkeley.
+ 
+
+
+
+
+
+
+ 
+
+
+Maxime Beauchemin
+CEO & Founder, Preset
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Haoyuan Li
+Founder, Chairman & CEO, Alluxio
+
+
+
+
+
+Haoyuan (H.Y.) Li is the Founder, Chairman, and CEO of Alluxio. He holds a Ph.D. in computer science from UC Berkeley’s AMPLab, where he created the Alluxio (formerly Tachyon) open source data orchestration system, and co-created Apache Spark Streaming as an Apache Spark founding committer. He also holds an M.S. from Cornell University and a B.S. from Peking University, both in computer science.
+ 
+
+
+
+
+
+
+ 
+
+
+Girish Baliga
+Engineering Manager, Uber
+
+
+
+
+
+Girish manages Presto, Pinot, and Flink teams at Uber. Before that, he spent over a decade optimizing resources, search ads, and geo data analytics at Google, interrupted by a brief start-up stint at Urban Engines. He has a PhD in Computer Science and an MS in Math from UIUC.
+ 
+
+
+
+
+
+
+SCHEDULE AT A GLANCE
+
+
+VIEW THE FULL SCHEDULE
+
+
+Thursday, September 249:00 – 9:40 AM PDTKeynote Sessions9:40 AM – 4:45 PM PDTGeneral Sessions & Lightning Talks4:45 – 5:45 PM PDTVirtual Presto Community Happy Hour
+
+
+
+
+
+
+
+Event Sponsors
+Event Partner
+
+
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+About
+Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+

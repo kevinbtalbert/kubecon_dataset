@@ -1,0 +1,296 @@
+
+
+
+
+FAQ | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Explore the Tracks
+Featured Speakers
+Program Committee
+
+
+Features &Add-Ons
+
+Experiences
+Speed Mentoring
+Resume Writing Workshop
+Allyship Workshop
+Ask the Expert Sessions
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Open Source Summit Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming Open Source Summit North America. 
+
+
+
+
+
+
+ 
+
+
+						FAQ					
+
+
+
+
+Skip to page sectionWhat's ChangedGeneralRegistration + TravelSpeakersSponsors
+
+What’s Changed
+
+What is the format of Open Source Summit North America 2020 and when will it take place?
+OSSNA 2020 is becoming a virtual experience this year in light of the COVID-19 situation and will take place online this June 29 – July 2. This virtual event will continue to deliver the same content you would have received in-person (keynotes, conference sessions across 14 tracks, tutorials, BoFs and co-located events) as well as an interactive Sponsor Showcase, attendee collaboration and networking tools and much more.
+What are the benefits of attending the virtual OSSNA 2020?
+Receive the same benefits you would have had at the face-to-face event, but access these from the comfort, safety, and convenience of your home via computer, tablet or phone – all you need is the internet and a web browser. 
+Other benefits and features include:
+Informative and timely content across 230 sessions with live speaker Q&AJoin the ‘hallway track’ and collaborate via topic-based networking lounges with group chat and 1:1 chat with other participantsVisit the virtual sponsor showcase to speak directly with representatives, view demos, download resources, and view job openingsGamify your event experience – earn points and win prizes by attending sessions, visiting sponsor booths, answering trivia questions and more!Don’t worry about missing a session: all content will be made available for free on-demand post-event so you can access anytime And much more – all virtually, from anywhere.
+What is the cost for the new virtual format of OSSNA 2020 and how do I register?
+Registration is US$50. Register now!
+Why was the physical OSSNA 2020 in Austin, Texas, canceled?
+Like many others, we have been closely monitoring the COVID-19 situation, and taking guidance from the CDC, WHO, and other health authorities and government agencies. We have decided to transition to a virtual experience, rather than a physical event in Austin because the health and safety of our attendees is our top priority, and we didn’t feel it was safe to gather attendees from across the globe at an in-person event just yet.
+What is the plan for OSSNA in 2021?
+We look forward to seeing everyone in-person next year for Open Source Summit North America 2021! We will announce the date and location of the event as soon as possible.
+
+
+
+
+
+General
+Questions? Please email the Linux Foundation events team at events@linuxfoundation.org.
+
+What are the system requirements needed to participate in the virtual event?
+We are using the InXpo virtual event platform for OSS NA 2020, and this is a web-based, HTML5 platform. You will not need to download any application to participate, and browsers on almost all devices will work. View system/browser requirements here. Attendee pre-event emails will include a quick System Check as well so you can ensure you’ll have no problems accessing. Live technical assistance will be available within the event platform during the event to help you troubleshoot any issues.
+Will the content be different in a virtual experience setting?
+No! All of the sessions and content you would have had access to at a physical event will be included in the virtual event. While some of our onsite experiences aside from content, unfortunately, can’t be replicated online, we’re working on putting together alternate experiences that can, which will help provide attendees a fully immersive event experience. Stay tuned for more details! 
+How will the virtual sessions work?
+Sessions will take place at scheduled times just as they would at a face-to-face event. Speakers will be available for a live Q&A with conference sessions & tutorial attendees. Attendees can build a personalized agenda of sessions they want to attend and receive notifications before sessions start. And of course, all sessions will be recorded and available to attendees on-demand after the event.
+Will all sessions be recorded?
+Yes! Once the event ends, all attendees will be able to access the sessions and other content and resources from the event platform for one year. Additionally, all recorded sessions will be transferred to The Linux Foundation YouTube channel within 8 weeks of the event so they are freely accessible to anyone, anywhere.
+I attend OSSNA mainly for networking. How is that possible in a virtual event?
+We know how invaluable face-to-face networking is at events and we purposefully chose a virtual event platform that we felt most closely replicated the real-world capabilities for attendee networking at an event. Attendees will be able to connect with speakers, sponsors, and experts through networking lounges, join group “hallway track” discussions with other attendees in group chats and engage in 1:1 chats with other event attendees.
+What timezone will OSSNA 2020 be live in?
+All sessions will be in Central Daylight Time (CDT UTC−05:00).
+How will the Event Code of Conduct be enforced in a virtual environment?
+All participants must abide by the Linux Foundation Code of Conduct in virtual events just as they would at physical ones. We will be monitoring language and images throughout the platform to ensure there are no violations of the CoC, and quickly handle any that we might find. If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the conference staff immediately through the Information desk in the event platform, or email the Event Manager, Stephanie Markowski, at smarkowski@linuxfoundation.org or Angela Brown, SVP & General Manager of Events, at angela@linuxfoundation.org. 
+
+
+
+
+
+Registration + Travel
+Questions? Please email the Linux Foundation events team at events@linuxfoundation.org.
+
+Can I register now for the new virtual OSSNA?
+Yes! Register now!
+I’m already registered for OSSNA 2020 at the ‘in-person’ registration fee. Will I get refunded for the cost difference?
+Yes, for those who have already registered for OSSNA 2020, you will be refunded the difference in cost from in-person to the virtual event. You should have received communications from our registration team about how to do so. Please expect up to 2 weeks for the refund to process.
+If I cannot attend the virtual event, can I substitute someone from my company to attend in my place?
+Yes, you will be able to transfer your pass to another person at your company if you are unable to attend.
+Will I be reimbursed for my accommodation costs?
+All room reservations within the official OSSNA room block at the JW Austin have been automatically canceled. If you booked your hotel room outside the official block or at another hotel, please cancel your reservation directly with the hotel and follow the hotel’s policy for the cancellation fee. If you have booked travel, please reach out directly to your airline or transportation provider. Many airlines have been updating their cancellation policies in light of COVID-19.
+
+
+
+
+
+Speakers
+For all session or speaker-related questions, please contact cfp@linuxfoundation.org.
+
+I am scheduled to speak at OSSNA 2020 in Austin, what do I do now?
+All accepted speakers will continue to speak at the virtual OSSNA 2020, and will have the option to present live or to pre-record their session. Speakers should have received an email from our Content Team with instructions and next steps. If you have not received any communication, please email our team at cfp@linuxfoundation.org.
+My presentation for this year’s event was accepted, but I have not registered yet. How do I register now?
+If you have not yet registered, we will provide you with an OSSNA 2020 access code to register with once the system changes required for the virtual event have been implemented. This will be sent to you by our Content Team on May 5, 2020.
+I am not a presenter for OSSNA 2020. Can I enter a session to be part of the virtual event?
+Unfortunately no. The CFP for this year’s event had already closed, submissions had been reviewed and the schedule has been announced. If you have a session you would like to submit for a future Linux Foundation event including Open Source Summit Europe 2020, visit our Event Calendar to see all open event CFPs. 
+
+
+
+
+
+Sponsors
+For all sponsor-related questions, please contact sponsorships@linuxfoundation.org.
+
+I am a current OSSNA 2020 sponsor. What will happen to my sponsorship now that it is a virtual event?
+You should have received an email from our sponsorship team outlining applicable changes to your sponsor benefits due to the event being held in a virtual environment.  OSSNA 2020 sponsors will still have a virtual exhibit booth in the online Sponsor Showcase where they can interact with attendees real time, ‘scan badges’ and share demos, videos, job postings and downloadable content. The platform includes gamification that will offer a Booth ‘Passport Program’ to incentivize attendees  to visit sponsor booths.
+Are there sponsorship opportunities as part of the virtual event?
+Yes! We have a very robust sponsorship package that offers a wide variety of benefits to sponsors (see above), both within the virtual event platform and offline. Additionally, without the barriers of cost and travel, we expect the attendance to the online OSSNA 2020 to be significantly higher than an in-person event, so sponsoring is a great opportunity to support the community, reach thousands of attendees and share thought leadership. View the sponsorship prospectus and more information on our sponsor page. 
+
+
+ 
+
+
+
+
+Sponsors
+
+Diamond
+Platinum
+Gold
+Silver
+Bronze
+Partner 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+Code of Conduct
+
+Sponsor
+Schedule
+Explore the Tracks
+Featured Speakers
+Program Committee
+
+Experiences
+Speed Mentoring
+Resume Writing Workshop
+Allyship Workshop
+Ask the Expert Sessions
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

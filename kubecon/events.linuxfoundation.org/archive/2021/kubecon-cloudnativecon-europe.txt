@@ -1,0 +1,962 @@
+
+
+
+
+KubeCon + CloudNativeCon Europe 2021 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Experiences
+Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Keynote Speakers
+Interactive Sessions
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF EventsCNCF Homepage 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon Europe. 
+
+
+
+				KubeCon + CloudNativeCon Europe			
+
+
+
+
+
+
+May 4 – 7
+#KubeCon + #CloudNativeCon
+
+
+
+
+
+KubeCon + CloudNativeCon Europe 2021 – Virtual is a wrap! Thank you to all the attendees and sponsors that joined us online. 
+To experience the best of this year’s event, be sure to watch the keynotes and breakout sessions on CNCF’s YouTube channel.
+Review session slides from speakers who provided them + closed caption transcripts via the event schedule.
+CNCF Twitch ChannelThank you for joining us on Twitch throughout KubeCon + CloudNativeCon! Follow us for updates on new programming coming soon!
+
+
+Save the Dates!KubeCon + CloudNativeCon North America 2021 | October 11-15 | Los Angeles, CAKubeCon + CloudNativeCon Europe 2022  |  May 17-20, 2022  | Valencia, Spain
+
+
+what attendees are saying
+
+
+
+
+
+It’s that time of the year when your Twitter is filled with @KubeCon_ posts🎊— Haardik Dharma 👨🏻‍💻 (@haardikdharma10) May 3, 2021
+
+
+
+
+On the subject of #KubeCon #CloudNativeCon I am overwhelmed by the amount of  thought that went into community building. Overwhelmed, impressed and grateful.— Thijs De Meester (@demeesterdev) May 4, 2021
+
+
+
+
+My first #KubeCon. Judging by the talks titles, it’s gonna be an amazing one!— Fares Almotlag (@FaresAlmotlag) May 3, 2021
+
+
+
+
+Having a wonderful virtual experience at #KubeCon. Contentful keynote sessions from @pritianka. Get ready for insightful sessions and new discoveries today. #CloudNativeCon @CloudNativeFdn @kubernetesio @linuxfoundation— Daniel Simiyu (@96wolfd) May 6, 2021
+
+
+
+
+
+
+This year's #kubeconEU platform is a sight to watch. The amount of work everyone in the @CloudNativeFdn has put on this is incredible. Congrats to @pritianka and all the team!!— Jordi Mon (@JordiMonPMM) May 4, 2021
+
+
+
+
+Hallway Track Day 1!  having so much fun with the EU #KubeCon Crew! pic.twitter.com/3QfBXvRhjK— POP (@danpopnyc) May 4, 2021
+
+
+
+
+I've become convinced, over >15yrs doing #opensource, that the secret to creating great projects is to build a community where learning in public is valued & feels safe for new contributors💜💜💜  to all the 1st time #kubecon attendees! https://t.co/KbmuDXEvHY— Aeva 🖤 Black (@aevavoom) May 5, 2021
+
+
+
+
+Attending #KubeCon this week. Loving the structure, the talks and the ability to attend sessions at my own pace. 🤓— Ioanna Kalvari (@iKalvari) May 6, 2021
+
+
+
+
+
+
+What a great session with all these amazing people! Cloud Native Security Day CTF is on fire and the challenges are awesome! Make sure you join the fun! @lizrice @sublimino @diegocomas @rawkode @raesene @denhamparry #RonVider @CloudNativeFdn @kubernetesio #CNSD #KubeCon #K8s pic.twitter.com/rrrjOtB6le— Magno Logan (@magnologan) May 4, 2021
+
+
+
+
+The #CloudNativeWasmDay has been astonishingly good. I can't recall ever being part of an ecosystem that is evolving so quickly, and in such positive ways. And getting this group of people all together has been such a big opportunity to learn.— M Butcher (@technosophos) May 4, 2021
+
+
+
+
+The first #CloudNativeRustDay was a success! Big ups to the @CloudNativeFdn team for helping us run a fantastic virtual event for the #rustlang and cloud native communities.Videos are coming soon!— Sabree Blackmon (@HeavyPackets) May 3, 2021
+
+
+
+
+Last day at #KubeCon + #CloudNativeCon and I got great Insights on Kubernetes and many more thanks to @codeforcauseIn @kunalstwt @breakawaybilly for giving me tickets for this awesome Conference 🤩🤩🤩🔥 pic.twitter.com/SdWkjdJn2i— Kartikey Rawat (@carrycooldude) May 7, 2021
+
+
+
+
+
+
+Finally a 101 track. A great session on First Principles of Cloud Native Technology at #KubeCon and #CloudNative con EU!— Sameer Kashyap (@Sameeerkashyap) May 4, 2021
+
+
+
+
+#KubeCon really does personify the culture of the Kubernetes community. I'm really proud to take part of the Cloud Native Security community, but there's so many great people doing amazing work across the board in Kubernetes. The best part is, people want to help you succeed— Jed Salazar 💉💉🎉🎉 (@sys_call) May 4, 2021
+
+
+
+
+Watch more of it here: https://t.co/4DPvkdcMxx https://t.co/UFeD8jc3eN— Duffie Cooley (@mauilion) May 4, 2021
+
+
+
+
+Probably the best keynote talk all con from @MrBobbyTables and @aevavoom on shaping kubernetes culture – impactful and to the point, and something a lot of communities could stand to learn from #KubeCon pic.twitter.com/cP6m6FZRmc— ChickenWing (@ChickenMcWing) May 7, 2021
+
+
+
+
+
+
+I enjoyed my day #kubeconEU thanks @CloudNativeFdn and looking forward Tomorrow! #Kubernetes pic.twitter.com/nRzi0szu60— Jonathan Le Lous (@JollFr) May 4, 2021
+
+
+
+
+Yesterday was awesome🤩, wanna know why?because of The #Kubernetes & #cloudnative community conference + @CloudNativeFdn event.Thanks, @codeforcauseIn for the free ticket. pic.twitter.com/YtslaTbXUS— Shivam Parihar (@ShivamP92126081) May 5, 2021
+
+
+
+
+Awesome ongoing talk on "Panel: Your Path To Non-code Contribution In The Kubernetes Community" by @Dixie3Flatline, @mbbroberg, @inductor__, @kaslinfields at @KubeCon_ + @CloudNativeFdn Conference. Thank you very much for clearing a path for a beginner in the world of Kubernetes. pic.twitter.com/q6tf9xMgzH— Kaiwalya Koparkar (@kaiwalya_13) May 5, 2021
+
+
+
+
+I'm learning so much here! 🤩I love the part about ~"One must ask oneself if open sourcing a project will create value or diminish value" https://t.co/LIIH62t44A— Jessica Andersson @ KubeCon + CloudNativeCon EU (@solidtubez) May 7, 2021
+
+
+
+
+
+
+"An injustice ignored is an injustice condoned"- @aevavoom absolutely rockin it with @MrBobbyTables showing that the @CloudNativeFdn is a welcoming place that will not sit idly by in the face of bigotry, oppression, and marginalization. THANK YOU! pic.twitter.com/CCyoLHq6yH— "Birthmark" Bart Farrell (@birthmarkbart) May 7, 2021
+
+
+
+
+So, I originally planned to attend a lot of talks of #KubeCon today, and ended up with a lot of @CloudNativeFdn projects "Office Hours" instead : @crossplane_io , @CloudEventsIO , @HelmPack , etc. These are essentially "build you own talk by asking questions".  That's SO cool ❤️ pic.twitter.com/8y8LUk7jXf— Alexis "Horgix" Chotard (@Horgix) May 5, 2021
+
+
+
+
+Hey!  #kubecon has live transcription!  Way to go, @CloudNativeFdn!— Berkubernetus (@fuzzychef) May 5, 2021
+
+
+
+
+One of the best things about pre-recorded talks at virtual conferences is the creativity it allows people to express while teaching you something. @ellenkorbes and @TabbySable were a fantastic example of that today, truly incredible.— Kat Cosgrove (@Dixie3Flatline) May 6, 2021
+
+
+
+
+
+
+"Learning and having fun together"This is how Day 2 at @KubeCon_ & @CloudNativeFdn Con is going on!!😃The Keynote sessions are really informativeThank you @pritianka @ccaramanolis @stephenaugustus to make learning a real fun !!  #opensource #community #kubernetes pic.twitter.com/osdCAaFly7— Kunal Verma (@kverma_twt) May 5, 2021
+
+
+
+
+Thanks to @pritianka @CloudNativeFdn for probably making the most inclusive and inspiring keynote I have ever watched!— Shivay Lamba (@HowDevelop) May 5, 2021
+
+
+
+
+Having a wonderful virtual experience at #KubeCon. Contentful keynote sessions from @pritianka. Get ready for insightful sessions and new discoveries today. #CloudNativeCon @CloudNativeFdn @kubernetesio @linuxfoundation— Daniel Simiyu (@96wolfd) May 6, 2021
+
+
+
+
+I am always amazed how tech can really make a big difference, as is evident while watching @wm present how @Linkerd has helped during the global pandemic 😍 Loved the session at #kubecon! #CNCF— Annie Talvasto (@AnnieTalvasto) May 6, 2021
+
+
+
+
+
+
+"Learning and having fun together"This is how Day 2 at @KubeCon_ & @CloudNativeFdn Con is going on!!😃The Keynote sessions are really informativeThank you @pritianka @ccaramanolis @stephenaugustus to make learning a real fun !!  #opensource #community #kubernetes pic.twitter.com/osdCAaFly7— Kunal Verma (@kverma_twt) May 5, 2021
+
+
+
+
+Thanks to @pritianka @CloudNativeFdn for probably making the most inclusive and inspiring keynote I have ever watched!— Shivay Lamba (@HowDevelop) May 5, 2021
+
+
+
+
+Having a wonderful virtual experience at #KubeCon. Contentful keynote sessions from @pritianka. Get ready for insightful sessions and new discoveries today. #CloudNativeCon @CloudNativeFdn @kubernetesio @linuxfoundation— Daniel Simiyu (@96wolfd) May 6, 2021
+
+
+
+
+@CloudNativeFdn and @pritianka – A big THANK YOU for mentioning the impact of covid on our fellow community members like  @SaiyamPathak and many more lives, calling out for support in #KubeConEU2021 keynote. Truly touched, humbled, & forever indebted. #CommunityCares— Kiran Mova (@kiranmova) May 5, 2021
+
+
+
+
+
+
+I'm seeing so many people running crazy schedules this week due to #KubeConEU. It's really a labor of love! We (both the awesome folks at @CloudNativeFdn & community folks) love to engage more people in the Cloud Native community and we want to make sure you have a great time! https://t.co/O2jRVvRipS— Kaslin Fields (@kaslinfields) May 5, 2021
+
+
+
+
+Catching today's #KubeCon + #CloudNativeCon wrap up. This format and crew (and hats) are great, and I love that @Dixie3Flatline called out how virtual events tend to be much easier for students and early career tech folks to attend. pic.twitter.com/sf6DnJkQag— Dr KellyAnn Fitzpatrick (@drkellyannfitz) May 5, 2021
+
+
+
+
+#KubeCon and #CloudNativeCon was awesome. Hope to get vaccinated quickly. Have to join the next iteration in LA during October. Such a great and welcoming experience. Thanks everyone form making it happen 🏆Tons of talks to watch over the upcoming days and weeks 🙃 pic.twitter.com/X1UIK6aHt0— Thorsten Hans 🐋☁️ (@ThorstenHans) May 7, 2021
+
+
+
+
+#KubeCon friends … I'm fading, going to pop back to my "hotel room" for a bit … catch you all later!!Thanks for making this event phenomenal! Y'all brought so much enthusiasm and energy & made this the best virtual event of my year ✨❤️🧡💛💚💙💜— Aeva 🖤 Black (@aevavoom) May 7, 2021
+
+
+
+
+
+SCHEDULE AT-A-GLANCE
+
+Monday, May 310:00 – 18:00 CEST Co-Located EventsTuesday, May 410:00 – 17:00 CESTCo-Located EventsWednesday, May 510:00 – 17:00 CESTSolutions Showcase, Keynotes + Breakout SessionsThursday, May 610:00 – 17:00 CESTSolutions Showcase, Keynotes + Breakout SessionsFriday, May 710:00 – 17:00 CESTSolutions Showcase, Keynotes + Breakout Sessions
+
+
+
+
+ 
+
+The obvious conclusion: If you’re interested in enterprise IT infrastructure, Kubernetes should be your technology of choice, and KubeCon is the place to be. – Jason Bloomberg, SiliconANGLE
+
+
+
+
+
+
+Program Co-Chairs
+
+
+
+
+
+
+
+ 
+
+
+Constance Caramanolis
+Principal Software Engineer, Splunk
+
+
+
+
+
+
+
+
+
+
+
+Constance is a senior software engineer at Splunk, formerly Omnition, contributing to OpenTelemetry. Previous to Omnition, she worked at Lyft as part of the data platform and server networking teams. While at Lyft, Constance built, deployed, and configured Envoy internally, and maintained the open source project.
+ 
+
+
+
+
+
+
+ 
+
+
+Stephen Augustus
+Head of Open Source, Emerging Technologies & Incubation Division, Cisco
+
+
+
+
+
+Stephen is a Black engineering director and leader in open source communities.
+
+
+He is Cisco’s first Head of Open Source, within the Emerging Technologies & Incubation division.
+
+
+For Kubernetes, he has co-founded transformational elements of the project, including the KEP (Kubernetes Enhancements Proposal) process, the Release Engineering subproject, and Working Group Naming. Stephen has also previously served as a chair for both SIG PM and SIG Azure.
+
+
+He continues his work in Kubernetes as a Chair for SIG Release, a Lead for WG Naming, and an owner of Enhancements subproject.
+
+
+Across the wider CNCF (Cloud Native Computing Foundation) ecosystem, Stephen has the pleasure of being one of the Program Chairs for KubeCon / CloudNativeCon, the cloud native community’s flagship conference, a SIG Contributor Strategy Chair, and a maintainer for the Dex project.
+
+
+He is a prolific contributor to CNCF projects, amongst the top 25 (as of writing) code/content committers, all-time.
+
+
+In 2020, Stephen co-founded the Inclusive Naming Initiative, a cross-industry group dedicated to helping projects and companies make consistent, responsible choices to remove harmful language across codebases, standards, and documentation. He leads multiple workstreams here and maintains the initiative’s infrastructure.
+
+
+He has previously held positions at VMWare (via Heptio), Red Hat, and CoreOS.
+
+
+Stephen is based in New York City.
+ 
+
+
+
+
+
+
+featured speakers
+
+
+
+
+
+
+
+ 
+
+
+Clayton Coleman
+Architect for Kubernetes and OpenShift, Red Hat
+
+
+
+
+
+Architect, engineer, and strategic visionary for application platforms in the cloud at Red Hat. Core contributor to OpenShift and Kubernetes, the open source platform as a service and the containerized cluster manager. Has helped set the direction for the evolution of cloud native applications and the platforms that enable them.
+ 
+
+
+
+
+
+
+ 
+
+
+Aeva Black
+Open Source Hacker
+
+
+
+
+
+Aeva Black is passionate about privacy, ethics, and open source. They previously worked in Azure’s Office of the CTO and currently hold seats on the Board of the Open Source Initiative, on the OpenSSF’s Technical Advisory Council, and a Shadow seat on the Board of the CNCF. Aeva previously served on the Board of the Consent Academy, on OpenStack’s Technical Committee, founded the OpenStack Ironic project, wrote a lot of Python, and even managed a few small MySQL databases.
+
+
+Aeva is a lifelong student of the Buddha Dharma, an incurably queer geek, and a frequent keynote speaker at conferences around the world. They are also an aspiring, yet time-starved, writer whose recent works include contributing to “Transending: An Anthology Of Trans Buddhist Voices” (2019), and being the technical editor for “Trust In Computer Systems And The Cloud” (2021).
+ 
+
+
+
+
+
+
+ 
+
+
+Lei Zhang
+Staff Engineer, Alibaba Cloud
+
+
+
+
+
+Lei is a co-maintainer of Kubernetes community, and co-chair of CNCF App Delivery SIG. Lei is co-leading engineering effort in Alibaba including Kubernetes and large-scale cluster management system. Before it, Lei worked for Hyper_ and Microsoft Research (MSR). Lei is a popular speaker in KubeCon.
+ 
+
+
+
+
+
+
+ 
+
+
+William Morgan
+Chief Executive Officer, Buoyant
+
+
+
+
+
+William Morgan is the CEO of Buoyant. Prior to founding Buoyant, he was an infrastructure engineer at Twitter, where he ran several teams building on product-facing backend infrastructure. He has worked at Powerset, Microsoft, adap.tv, and MITRE Corp, and has been contributing to open source for over 20 years.
+ 
+
+
+
+
+
+
+ 
+
+
+Liz Rice
+Chief Open Source Officer, Isovalent & Emeritus Chair, Technical Oversight Committee, CNCF
+
+
+
+
+
+My background and core competence is systems software engineering, but I love the whole process of building products. I’ve been in startups that have succeeded and others that have failed. I enjoy writing code, and understanding how other people will use it.
+
+
+I’m Chief Open Source Officer with eBPF pioneers Isovalent, creators of the Cilium project, which provides cloud native networking, observability and security. Prior to that I was VP Open Source Engineering with security specialists Aqua Security. I’m chair of the CNCF’s Technical Oversight Committee, and I co-chaired the KubeCon / CloudNativeCon 2018 events in Copenhagen, Shanghai and Seattle. I’m also an Ambassador for Open UK.
+ 
+
+
+
+
+
+
+ 
+
+
+Vaibhav Kamra
+Chief Technology Officer, Kasten by Veeam
+
+
+
+
+
+Vaibhav Kamra is CTO at Kasten by Veeam, which is tackling Day 2 data management challenges to help enterprises confidently run applications on Kubernetes. Previously, Vaibhav has worked at Dell EMC, Maginatics and Microsoft, where his focus has been on storage, filesystems and databases. He is also one of the contributors to Kanister — an open source framework for application-level data management on Kubernetes and the Data Protection Working Group in Kubernetes.
+ 
+
+
+
+
+
+
+ 
+
+
+Stefan Prodan
+Developer Experience Engineer, Weaveworks
+
+
+
+
+
+Stefan is a Developer Experience engineer at Weaveworks and an open source contributor to cloud-native projects like Flagger, FluxCD, Helm Operator, SMI and others. He worked as a software architect and a DevOps consultant, helping companies embrace DevOps and the SRE movement. Stefan has over 15 years of experience with software development and he enjoys programming in Go and writing about distributed.
+ 
+
+
+
+
+
+
+ 
+
+
+Thomas Di Giacomo
+Chief Technology & Product Officer, SUSE
+
+
+
+
+
+Thomas Di Giacomo is Chief Technology and Product Officer for SUSE, where he leads our global Office of the CTO and Product and Solution Management. His team covers SUSE’s entire portfolio of products as well as innovation priorities. He is also responsible for driving and guiding SUSE’s current and future technology and solutions, and for sharing SUSE’s vision with customers, partners, and key industry stakeholders.
+ 
+
+
+
+
+
+
+ 
+
+
+Carlos Eduardo de Paula
+Cloud Architect, Red Hat
+
+
+
+
+
+Carlos is a RISC-V Ambassador and works for Red Hat as a Cloud Architect designing cloud solutions for customers and helping them into the cloud journey. Writes about Kubernetes and containers on alternate architectures like ARM and RISC-V building hybrid architecture clusters and talking at conferences like RISC-V Summit, QCon Brasil.
+ 
+
+
+
+
+
+
+ 
+
+
+Brenda Chan
+Director of Engineering, VMware Tanzu Developer Experience
+
+
+
+
+
+Brenda Chan is an Engineering Director at VMware, focused on the developer experience for Tanzu. Brenda has worked at multiple start ups and joined VMware in 2020 through an acquisition. Brenda was the first external contributor to the Knative project and has been on the Steering Committee and Trademark committee since the committee’s inception, focusing on improving project governance and trademark usage.
+ 
+
+
+
+
+
+
+ 
+
+
+Bob Killen
+Program Manager, Google
+
+
+
+
+
+Bob is a Program Manager at the Google Open Source Programs Office with a focus on Cloud Native computing. He serves the Kubernetes project as a member of the Kubernetes Steering Committee, a chair of the Contributor Experience Special Interest Group and has been involved in many other cross-cutting areas of the project. Bob comes from an academic background, spending 15 years at the University of Michigan with a later focus on computational research. As a Cloud Native Computing Foundation Ambassador, Bob has worked towards improving High Performance Computing, Machine Learning, and other research initiatives by integrating them with Cloud Native practices and tooling. He is passionate about Academic Outreach, and is an outspoken advocate of Open Source, Open Science and pets of the furry 4 legged variety.
+ 
+
+
+
+
+
+
+ 
+
+
+Vijoy Pandey
+Vice President, Engineering for Emerging Technologies & Incubation, Cisco
+
+
+
+
+
+Vijoy Pandey is Vice President, Emerging Technologies and Incubation (ET&I) at Cisco. ET&I is chartered to create and drive the next Bold Bets for Cisco in an agile, ambitious, and entrepreneurial manner. Vijoy runs both engineering and a global framework of customer-focused co-innovation labs for these ventures. He is also the CTO for Cloud at Cisco.
+
+
+Vijoy has held various strategy and engineering leadership roles and has over 20 years of expertise in planet-scale distributed systems, cloud, operational excellence, and application-first software infrastructures which serve to complement his role as a technical visionary for a software-focused digital future.
+
+
+Before joining Cisco, he served as Head of Engineering at Google for the company’s global cloud networks, where he was responsible for developing software systems for intent-driven automation, ML/AI-based data analytics, and application-level awareness. Vijoy has held the CTO role at various companies including IBM Cloud, IBM Systems and Software Group, and Blade Network Technologies. He has also led large geo-diverse, agile engineering teams at Blade Network Technologies, Nortel, Alteon, and Google.
+
+
+Vijoy has a Ph.D. in Computer Science from the University of California, Davis. He currently holds over 80 patents in cloud, networking, and distributed systems.
+ 
+
+
+
+
+
+
+ 
+
+
+Briana Frank
+Director of Product Management, IBM Cloud
+
+
+
+
+
+Briana Frank is the Director of Product Management at IBM Cloudfocusing on Developer Services. Briana lead the Offering Management and Design team that built the IBM Cloud Kubernetes service in 5 months and now manages 10’s of thousands of clusters worldwide. Briana believes in creating exceptional experiences that enable users to build and innovate using IBM Cloud and builds high performance teams that make data driven decisions. She is an Intrepreneur and a problem solver who translates that energy into building great products.
+ 
+
+
+
+
+
+
+ 
+
+
+Vuk Gojnic
+Squad Leader, Container and Cloud-native Engine, Deutsche Telekom Technik
+
+
+
+
+
+Vuk Gojnic is a squad leader for the Kubernetes Engine at Deutsche Telekom. Originally a developer, Vuk discovered open source and has been a convert ever since. At Deutsche Telekom, he’s responsible for Das Schiff their Infrastructure as a Service platform built on Kubernetes and other cloud native tools. The platform allows 1000’s of application owners and vendors to securely deploy workloads and other services on-premise, across multiple sites, clouds and at the edge with the standard GitOps operating model.
+ 
+
+
+
+
+
+
+ 
+
+
+Daniel Mangum
+Senior Software Engineer, Upbound
+
+
+
+
+
+Daniel Mangum is a senior software engineer at Upbound where he is a maintainer of Crossplane, an open source CNCF project. He also is a Technical Lead for Kubernetes SIG-Release and is an active contributor to the Kubernetes project and multiple other open source efforts. He hosts a biweekly live stream show, The Binding Status, focused on extending Kubernetes, building Crossplane, and enabling a cloud native future.
+ 
+
+
+
+
+
+
+ 
+
+
+Cheryl Hung
+Director of Ecosystem, CNCF
+
+
+
+
+
+Cheryl Hung is the Director of Ecosystem at the CNCF. Her mission is to increase the adoption of Kubernetes and cloud native by growing the community and advocating for end users. She founded and runs the Cloud Native London meetup.
+
+
+Previously Cheryl spent five years as a C++ engineer on Google Maps, before moving to a storage startup to lead Product and DevOps. She holds a Masters in Computer Science from the University of Cambridge. 
+
+
+Cheryl has spoken at many conferences including KubeCon + CloudNativeCon and Red Hat Summit. See oicheryl.com for past talks, podcasts and articles.
+ 
+
+
+
+
+
+
+ 
+
+
+Jim Haughwout
+Vice President of Platform, Peloton
+
+
+
+
+
+Jim Haughwout is the Vice President of Platform at Peloton Interactive. He was previously the Head of Infrastructure & Operations at Spotify. Over the past 25 years, he has held leadership roles at the world’s leading companies for defense, internet, media, biotech, streaming audio, and now connected fitness.
+
+
+Jim has been actively involved in the open source community for over a decade, open souring a range of tools across the developer experience, core infrastructure, and devops domains. Most recently, he was responsible for bringing Backstage to the CNCF. A graduate of MIT and Harvard University, Jim also holds several patents in data processing and machine learning.
+ 
+
+
+
+
+
+
+ 
+
+
+Liam Randall
+Chief Executive Officer, Cosmonic & Program Chair
+
+
+
+
+
+Liam lives at the intersection of open source and enterprise and has contributed to dozens of major open-source platforms and standards. A serial entrepreneur, he has built and scaled companies around Bro/Zeek, Kubernetes, OS Query, CNCF Cloud Custodian and, today, WebAssembly (Wasm). He is co-founder of CNCF wasmCloud, CEO of Cosmonic, and currently serves as both co-chair of Wasmcon and Cloud Native WasmDay.
+ 
+
+
+
+
+
+
+ 
+
+
+Priyanka Sharma
+General Manager, CNCF
+
+
+
+
+
+
+
+
+
+
+
+Priyanka is the General Manager of the Cloud Native Computing Foundation. She was previously the director of Cloud Native Alliances at GitLab Inc., where she built the developer evangelism team that participates regularly in the cloud native community.
+
+
+Priyanka also serves as an advisor at Heavybit Industries, an accelerator for developer products. She has contributed to several CNCF projects such as Jaeger and Vitess and was a founding team member of the OpenTracing standard. In addition, Priyanka is a leading speaker and subject matter expert on cloud native and observability and has spoken about Kubernetes, Prometheus, Jaeger, OpenTracing, Envoy, Vitess, SPIFFE/SPIRE, and more. She was a startup founder featured at TechCrunch Disrupt and started her career at Google.
+ 
+
+
+
+
+
+
+ 
+
+
+Ralph Squillace
+Principal Product Manager, Azure Core Upstream, Microsoft
+
+
+
+
+
+Ralph Squillace is a Principal Program Manager for Microsoft, helping the team supporting Helm, Draft, Brigade, CNAB, and the Visual Studio Code Kubernetes extension in the Cloud Compute Team. He’s worked in distributed computing for far too many years, and it shows. He’s presented and visited customers around the world, including at KubeCon 2018 in Copenhagen.
+ 
+
+
+
+
+
+
+ 
+
+
+Gar Mac Criosta
+HSE Lead, Covid Tracker App, Ireland
+
+
+
+
+
+Gar is the HSE Lead for the COVID Tracker App www.covidtracker.ie a COVID-19 pandemic response app. Since early 2019 Gar has worked as a Digital Advisor to the CIO/COO/CTO in the HSE developing digital strategies to support SláinteCare initiatives. Gar is the Chair of the Linux Foundation Public Health (LFPH) Advisory Committee. 
+
+
+Prior to that; Gar is the founder of Business Model Adventures which was created to support organizations experiencing challenges with change and digital or die dilemmas in the areas of business model innovation, digital strategy, architecture, and design across various indus­tries and sectors. Gar is an IASA Distinguished Architect (IASA CITA-D), a Fellow of the Irish Computer Society, a LEGO Serious Play Practitioner (LSP) and in the process of becoming a Cynefin® Practitioner. Gar has been an active contributor to IASA Global since 2006, developing & delivering education and certification programs for architects. 
+ 
+
+
+
+
+
+
+ 
+
+
+Zain Asgar
+GM/GVP – Pixie & Open Source – New Relic
+
+
+
+
+
+Zain is GM/GVP – Pixie & Open Source – New Relic.
+
+
+Zain is also an Adjunct Professor of Computer Science at Stanford University and was an Entrepreneur in Residence at Benchmark before co-founding Pixie. He has a PhD from Stanford and has helped build at-scale data and AI/ML at Google AI, Trifacta and Nvidia
+ 
+
+
+
+
+
+
+
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+GOLD
+SILVER
+START-UP
+END USER
+DIVERSITY EVENT + SCHOLARSHIP
+MEDIA PARTNERS 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+#KubeCon + #CloudNativeCon
+
+
+
+
+Experiences
+Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Keynote Speakers
+Interactive Sessions
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

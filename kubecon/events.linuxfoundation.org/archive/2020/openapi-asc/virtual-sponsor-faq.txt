@@ -1,0 +1,250 @@
+
+
+
+
+Virtual Sponsor FAQ | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+About
+Community Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Applications EventsOpenAPI Initiative Website 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Applications Events. 
+
+
+
+
+
+
+ 
+
+
+						Virtual Sponsor FAQ					
+
+
+
+
+Skip to page sectionGeneral FAQChat FAQ
+
+General FAQ
+
+Is there a preferred browser or which browser versions are supported?
+Intellum’s recommended browser is Chrome.
+Can I attend a session within the event and also be live on my virtual booth page?
+You can! By opening multiple windows in your browser, or using your mobile device.
+ Is there a direct link that I can use to send people to our virtual booth page?
+Yes! When you’re in your booth copy the URL from the address bar and share. All authenticated users will be able to use that link and be sent straight to your virtual booth page.
+Will I be able to participate from my computer and my mobile device?
+Yes. Intellum has a mobile app. Download the Exceed LMS app for your mobile device. You can enter the asc2020.exceedlms.com domain to get started and log in.
+How can I change the time zone to my time zone on the platform?
+To update your timezone visit “my profile” accessed from your avatar. Click “edit profile” in the top right corner.
+
+
+
+Chat FAQ
+
+How do you manage the booth chat – can a page moderator chat with more than one attendee at a time?
+The Booth chat is an open chat for all attendees who have opened the chat on the booth page. A page moderator will be able to chat with anyone in the group chat publicly. If they wish to take the conversation private, a page moderator can start a private chat with the attendee.
+Do Booth chats come to a specific page moderator or all page moderators?
+Page Moderators have access to the virtual booth page chat and can interact with attendees in the virtual booth page group chat function.
+Can I have more than one private chat at the same time?
+Yes, you can have multiple private chats going at one time.
+Can you have more than 2 people in a private chat?
+You have the ability to select as many people as you’d like when creating a new chat.
+Is booth chat visible to all visitors in the booth?
+Yes, the public chat is visible to all visitors in the booth.
+Are chats are saved for future reference?
+All chats, both your booth chat and your private chats will be available until 4:00 pm PDT on September 10 by scrolling back through the chat window.
+Do you alert everyone if someone comes into the booth?
+No. There are no alerts when a new user enters a booth.
+Can we tell who is available in the booth at any given time?
+No. You are able to see those who are currently active in your booth chat.
+Are chats only text chats or is voice/video also possible?
+Only text chats are available inside the Intellum platform. If you need a voice or video interaction we encourage you to connect via your own accounts Zoom, Teams, etc.
+What information will be shown in the Chat Room?
+An attendee’s name will be shown in the chat room when they send a chat message.
+Are all attendees available for chat engagement?
+Only attendees that have accessed a chat room at least one time will be available for creating a private chat.
+Can we pass the customer’s question to another staff member?
+In the group booth chat you can pass a question by @tagging another staff member. All communication will be public for everyone in the chat.
+Are Chinese characters supported in chat?
+Yes.
+Are all booth visitor’s info captured and can be downloaded as leads?
+Yes, a lead report will be provided to all sponsors. Admin Page Moderators will have access to the reporting during the event.
+If the browser is open will we get an alert if someone opens a chat or enters our booth if we have a browser open?
+No.
+Can you make a private chats visible publicly?
+No. You cannot make private chats visible.
+Can I show my PC screen during a booth chat?
+No.
+If a staffer invites another staffer into a private chat with an attendee, can they handoff and leave that chat, or do they have to stay in/leave the window open?
+Yes. You can leave the window during a chat. When you return you’ll be able to see the history of what has been chatted about during your absence.
+
+
+ 
+
+
+
+
+Sponsors
+
+EVENT SUPPORTER
+
+
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+Register
+About
+Community Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

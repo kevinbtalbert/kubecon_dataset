@@ -1,0 +1,201 @@
+
+
+
+
+Welcome! We’re glad you’re here. | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+October 6, 2019
+Welcome! We’re glad you’re here.		
+
+
+
+
+For the last several months, we’ve been hard at work building a new version of the Linux Foundation Events website. Today, we are launching a faster, cleaner homepage, a more powerful Events Calendar, and a new Community Events section for related events submitted by the community.
+
+All of our actual events still reside on the old site for now but in the coming weeks, we will start to launch events on this new site.
+We had four main goals for rebuilding the site:
+Create a faster experience for our usersImprove the design on both desktop and mobileAdd new features such as the Community Events (and many others that will launch soon with individual events)Make a site that is easier and faster to edit and maintain so that our administrators can work more efficiently
+To accomplish these goals we have leveraged upgraded technology:
+We are now using the new WordPress Gutenberg editorWe rebuilt our WordPress theme from scratch with minimal plugins to make it as fast as possibleWe are using CircleCI to automate visual regression tests on each commit to our codebaseWe manage our code on GitHub with automated Pantheon instances that spin up with each new pull requestWe are organizing our work in a GitHub kanban board that is integrated with our code repo and open for contributions from the community
+We did a quick test of the homepage compared with the old homepage and found the following average load times over 10 consecutive trials, measured using Chrome dev tools from a location in Thailand. More tests to come as we start deploying individual events!
+
+Enjoy the site and keep an eye out in the coming weeks for new events. If you’d like to send us comments or suggestions, please contact us or submit an issue.
+
+
+
+
+
+Post navigation
+New Website Performance
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

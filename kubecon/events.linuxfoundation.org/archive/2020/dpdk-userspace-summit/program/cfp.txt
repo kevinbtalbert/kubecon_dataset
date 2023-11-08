@@ -1,0 +1,244 @@
+
+
+
+
+Call For Proposals (CFP) | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+About
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Networking & Edge EventsDPDK Website 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Networking & Edge Events. 
+
+
+
+
+
+
+ 
+
+
+						Call For Proposals (CFP)					
+
+
+
+
+Skip to page sectionOverviewDates to RememberSuggested TopicsSession TypesImportant NotesPreparing to SubmitCode of Conduct
+
+Overview
+
+The DPDK Userspace Summit Call for Proposals is now closed.
+DPDK Userspace Summit is a community event focused on software developers who contribute to or use DPDK. The event will include presentations on the latest developments in DPDK, as well as in-depth discussions on the topics that are of most interest to the DPDK open source community. 
+
+
+
+Dates to Remember
+
+CFP Closes: July 12, 2020 CFP Notifications: August 14, 2020Schedule Announcement: Week of August 24, 2020Slide Due Date: Wednesday, September 16Event Dates: September 22 – 23, 2020
+
+
+
+
+Suggested Topics
+
+Enhancements and additions to DPDK libraries, functional or performance-wiseNew networking technologies and their applicability to DPDKHardware NIC capabilities and offloadsHardware datapath accelerators (compression, crypto, baseband, GPU, regex, etc)Virtualization and container networkingDebug tooling (tracing, dumps, metrics, telemetry, monitoring)DPDK consumability (API/ABI compatibility, OS integration, packaging)Project infrastructure, security, testing and workflowDeveloper stories, technical challenges when integrating or developing with DPDKFeedback from usage and deployment of DPDK applications (OSS or proprietary)
+
+
+
+Session Types
+
+Types of Submissions:
+Birds of a Feather (BoF) SessionLightning TalkPresentation (maximum 2 presenters)
+
+
+
+Important Notes
+
+All speakers are required to adhere to our Code of Conduct. We also highly recommend that speakers take our Inclusive Speaker Orientation Course.Complimentary Passes For Speakers – One complimentary pass for the event will be provided per accepted speaker (and co-speaker, if required). For accepted panel discussions, up to 5 panelists, + 1 moderator will receive a complimentary event pass; additional panelists will be addressed on a case-by-case basis.Avoid sales or marketing pitches and discussing unlicensed or potentially closed-source technologies when preparing your proposal; these talks are almost always rejected due to the fact that they take away from the integrity of our events, and are rarely well-received by conference attendees.All accepted speakers are required to submit their slides by Wednesday, September 16.
+
+
+
+Preparing to Submit
+
+Preparing to Submit Your Proposal
+While it is not our intention to provide you with strict instructions on how to prepare your proposal, we hope you will take a moment to review the following guidelines that we have put together to help you prepare the best submission possible. To get started, here are three things that you should consider before submitting your proposal:
+What are you hoping to get from your presentation?What do you expect the audience to gain from your presentation?How will your presentation help better the ecosystem?
+There are plenty of ways to give a presentation about projects and technologies without focusing on company-specific efforts. Remember the things to consider that we mentioned above when writing your proposal and think of ways to make it interesting for attendees while still letting you share your experiences, educate the community about an issue, or generate interest in a project.
+First Time Submitting? Don’t Feel Intimidated
+Linux Foundation events are an excellent way to get to know the community and share your ideas and the work that you are doing and we strongly encourage first-time speakers to submit talks for our events. In the instance that you aren’t sure about your abstract, reach out to us and we will be more than happy to work with you on your proposal.
+How To Give a Great Tech Talk
+In the instance that your talk is accepted, we want to make sure that you give the best presentation possible. To do this, we enlisted the help of seasoned conference speaker Josh Berkus who has prepared an in-depth tutorial on “How to Give a Great Tech Talk”.
+Part 1: http://www.youtube.com/watch?v=iE9y3gyF8Kw
+Part 2: http://www.youtube.com/watch?v=gcOP4WQfJl4
+
+
+
+Code of Conduct
+
+The Linux Foundation is dedicated to providing a harassment-free experience for participants at all of our events. We encourage all submitters to review our complete Code of Conduct.
+
+
+
+
+ 
+
+
+
+
+Sponsors
+
+
+Event Sponsor 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+About
+Code of Conduct
+
+Sponsor
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

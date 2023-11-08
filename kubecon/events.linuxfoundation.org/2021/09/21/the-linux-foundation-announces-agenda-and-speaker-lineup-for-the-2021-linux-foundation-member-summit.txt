@@ -1,0 +1,212 @@
+
+
+
+
+The Linux Foundation Announces Agenda and Speaker Lineup for the 2021 Linux Foundation Member Summit | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+September 21, 2021
+The Linux Foundation Announces Agenda and Speaker Lineup for the 2021 Linux Foundation Member Summit		
+
+
+
+
+This by-invitation event for Linux Foundation member organizations fosters collaboration, innovation, and partnerships among the leading projects and organizations working to drive digital transformation with open technologies.
+SAN FRANCISCO, September 21, 2021 — The Linux Foundation, the nonprofit organization enabling mass innovation through open source, today announced the agenda and speaker lineup for the 2021 Linux Foundation Member Summit (LFMS), taking place November 2-4 at the Silverado Resort in Napa Valley, California. The keynote speakers can be viewed here and the full schedule can be viewed here.
+LFMS, (formerly Open Source Leadership Summit), is a by-invitation event for Linux Foundation member organizations, where technical and business leaders convene to drive digital transformation and learn how to collaboratively manage the largest shared technology investment of our time. LFMS is a must-attend event for those looking to advance open source strategy, implementation and investment.
+“Open source technology continues to show its strength and value to businesses across many different verticals and sectors, as well as its impact on the bottom line”, says Jim Zemlin, Executive Director, The Linux Foundation. “Our Member Summit is an opportunity for the best and brightest technical, business and community leaders to come together and share their valuable insights and experiences and to collaborate on important open source technology innovation.”
+Keynote Speakers Include:
+Josh Aas, Executive Director, Internet Security Research Group discussing ProssimoBrian Christian, Author, “The Alignment Problem: Machine Learning and Human Values” & “The Most Human Human“; Co-author of “Algorithms to Live By” sharing on the intersection of AI and humanity   Gabriele Columbro, Executive Director, Fintech Open Source Foundation providing project updatesColin Eberhardt, Technology Director, Scott Logic discussing WebAssemblyAli Fenn, President, ITRenew talking about circular data centersJennifer Fernick, SVP & Global Head of Research, NCC Group and Dr. David A. Wheeler, Director of Open Source Supply Chain Security, The Linux Foundation discussing OpenSSFLuke Hinds, Security Engineering Lead, CTO Office, Red Hat sharing on sigstoreSumer Johal, Executive Director, AgStack Foundation providing project updatesKim Lewandowski, Product, Stealth Startup discussing the SLSA frameworkDan Lorenc, Software Engineer, Google sharing on the state of OSS Supply Chain SecurityGary O’Neall, CEO, Source Auditor Inc. and Kate Stewart, VP, Dependable Embedded Systems, The Linux Foundation discussing SPDXCalista Redmond, CEO, RISC-V International talking about open hardwareLiz Rice, Chief Open Source Officer, Isovalent discussing cloud native securityJon Stine, Executive Director, The Open Voice Network providing project updatesJenny Wanger, Director of Programs, LF Public Health providing project updatesJim Zemlin, Executive Director, The Linux Foundation providing foundation updates
+Session Highlights:
+The Coming Culture Challenges for Open Source Projects – Stephen Walli, MicrosoftThe Importance of DEIA (Diversity, Equity, Inclusion, Accessibility) in Open Source – Anni Lai, Futurewei; Priyanka Sharma, CNCF; Tina Tsou, Arm; and Arun Gupta, ApplePandemic Pivots of an OSPO – Nithya Ruff, ComcastThe Prometheus Story: How a Side Project Became the Global Market Leader – Richard Hartmann, Grafana LabsTrademarks and Open Source – Daniel Scales, The Linux FoundationWe Are Many, but We Are One – Tracy Miranda, Continuous Delivery Foundation; Sharon Jerop Kipruto, Google; Priti Desai, IBM; Christie Wilson, Google; and Kara de la Marck, CloudBees
+AttendAttendance to The Linux Foundation Member Summit is limited to members of The Linux Foundation, as well as to governing board members of LF Projects, media, speakers and sponsors. Invitation codes have been sent to member organization representatives. If you already have an invitation code, please go ahead and register here. If you do not, you may contact us for more information on attendance opportunities.
+SponsorThe Linux Foundation Member Summit is made possible thanks to our sponsors, including Co-Hosts: Google and TARS Foundation, Reception Sponsor: Cloud Native Computing Foundation, Lunch Sponsors: AWS and Oracle, Breakfast and Breaks Sponsors: Dell Technologies, IBM, and VMware and Supporter: Indeed.If you are not an LF member company, but would like to attend The Linux Foundation Member Summit, sponsoring it is an excellent opportunity to gain additional access to the event and its attendees for strategic discussions and collaboration. Learn more here. 
+PressMembers of the press who would like to request a press pass to attend should contact Kristin O’Connell.
+Health and SafetyAttendees will be required to be fully vaccinated against the COVID-19 virus and will need to wear a mask while onsite and comply with all on-site health measures, in accordance with The Linux Foundation Code of Conduct. To learn more, visit the Health & Safety webpage and read our blog post.
+Travel FundingThe Linux Foundation’s Travel Fund is accepting applications, to enable those to join the event who might otherwise not be able to due to a lack of funding. We place an emphasis on funding applicants who are from historically underrepresented or untapped groups and/or those of lower socioeconomic status. Note that you must have an invitation to the event in order to apply for travel funding. To learn more and apply, click here.
+About the Linux FoundationFounded in 2000, the Linux Foundation is supported by more than 2,000 members and is the world’s leading home for collaboration on open source software, open standards, open data, and open hardware. Linux Foundation’s projects are critical to the world’s infrastructure, including Linux, Kubernetes, Node.js, and more. The Linux Foundation’s methodology focuses on leveraging best practices and addressing the needs of contributors, users and solution providers to create sustainable models for open collaboration. For more information, please visit linuxfoundation.org.
+The Linux Foundation Events are where the world’s leading technologists meet, collaborate, learn and network in order to advance innovations that support the world’s largest shared technologies.
+Visit our website and follow us on Twitter, Linkedin, and Facebook for all the latest event updates and announcements.
+The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see its trademark usage page: www.linuxfoundation.org/trademark-usage. Linux is a registered trademark of Linus Torvalds. 
+###
+Media ContactKristin O’ConnellThe Linux Foundationkoconnell@linuxfoundation.org
+
+
+
+
+
+Post navigation
+The Linux Foundation and Fintech Open Source Foundation Announce Keynote Speakers for Open Source Strategy Forum London 2021The Linux Foundation’s Open Networking and Edge (ONE) Summit Expands Programming with Keynote and Mini Summit by the US Government, Enabling Secure, Open, and Programmable 5G Networks
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

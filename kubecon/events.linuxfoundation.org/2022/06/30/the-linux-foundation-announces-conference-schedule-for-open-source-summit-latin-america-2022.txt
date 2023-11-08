@@ -1,0 +1,210 @@
+
+
+
+
+The Linux Foundation Announces Conference Schedule for Open Source Summit Latin America 2022 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+June 30, 2022
+The Linux Foundation Announces Conference Schedule for Open Source Summit Latin America 2022		
+
+
+
+
+The premier event for open source developers, technologists and community leaders features 75+ sessions across 9 events, furthering open source innovation and collaboration across South America and Latin America.
+SAN FRANCISCO, June 30, 2022 —  The Linux Foundation, the nonprofit organization enabling mass innovation through open source, today announced the full schedule for Open Source Summit Latin America, the gathering place for open source code and community contributors, taking place August 23-24 as a Virtual Experience. The schedule can be viewed here.
+Open Source Summit Latin America 2022 is a conference umbrella comprised of 9 events including LinuxCon, CloudOpen, ContainerCon, Emerging OS Forum, Community Leadership Conference and more, covering the most important and cutting edge topics and technologies touching open source today. The schedule features 75+ talks (keynote presentations, conference sessions, tutorials and more).
+2022 Conference Session Highlights Include:
+The Importance of Communities for the Inclusion of Women in Technology – Beatriz Oliveira, Telefónica Brasil & Elizabeth Souza, Senac MinasWriting Machine Learning Pipelines Against Object Storage – Daniel Valdivia, MinIOExploring Runtime Security and Forensic Using eBPF – Carolina Valencia, Aqua SecurityPinguino Project: Like Arduino, but for PICs – Ernesto Victor Villarreal, Consejo Federal de Energia ElectricaEdit, Debug, and Secure the K8s Manifest Lifecycle: Why Is it Important and How Can You Get it Right? – Ole Lensmar, KubeshopIntroduction to MCUboot: Secure Bootloader and Easy Firmware Updates – Almir Kazunari Okato, Espressif SystemsCreate Chaos Experiments Using Litmus-SDK – Kale Oum Nivrathi, JFrog
+Keynote speakers, and additional conference sessions, will be announced in the coming weeks. 
+Attendees will have opportunities to collaborate, share information, and solve problems with other community members from across the globe, furthering open source innovation and ensuring a sustainable open source ecosystem. It is THE gathering place for open source code and community contributors in Latin America.
+Registration to attend is R$99 Brazilian Real and provides access to all 9 events. Members of The Linux Foundation receive a 20 percent discount off registration and can contact events@linuxfoundation.org to request a member discount code. 
+Applications for diversity and need-based registration scholarships are currently being accepted. For information on eligibility and how to apply, please click here.
+SponsorSponsoring Open Source Summit gives you the opportunity to reach a diverse and multi-faceted audience of open source practitioners, in one place. For information on becoming an event sponsor, click here or email us.
+PressMembers of the press who would like to request a press pass to attend should contact Kristin O’Connell.
+About the Linux FoundationFounded in 2000, the Linux Foundation is supported by more than 2,000 members and is the world’s leading home for collaboration on open source software, open standards, open data, and open hardware. The Linux Foundation’s projects are critical to the world’s infrastructure including Linux, Kubernetes, Node.js, and more. The Linux Foundation’s methodology focuses on leveraging best practices and addressing the needs of contributors, users and solution providers to create sustainable models for open collaboration. For more information, please visit linuxfoundation.org.
+The Linux Foundation Events are where the world’s leading technologists meet, collaborate, learn and network in order to advance innovations that support the world’s largest shared technologies.
+Visit our website and follow us on Twitter, LinkedIn, and Facebook for all the latest event updates and announcements.
+The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see its trademark usage page: www.linuxfoundation.org/trademark-usage. Linux is a registered trademark of Linus Torvalds. 
+###
+Media ContactKristin O’ConnellThe Linux Foundationkoconnell@linuxfoundation.org
+
+
+
+
+
+Post navigation
+The Linux Foundation and Fintech Open Source Foundation Announce New Keynote Speakers for Open Source in Finance Forum London 2022The Linux Foundation Announces Keynote Speakers for Open Source Summit Europe 2022
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

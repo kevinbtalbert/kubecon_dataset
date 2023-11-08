@@ -1,0 +1,971 @@
+
+
+
+
+Open Source Summit Europe 2022 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+About
+
+About Open Source Summit
+LinuxCon
+Embedded Linux Conference
+CloudOpen
+ContainerCon
+OSPOCon
+SupplyChainSecurityCon
+Critical Software Summit
+Community Leadership Conference
+Emerging OS Forum
+Embedded IoT Summit
+Diversity Empowerment Summit
+Open AI + Data Forum
+Open Source On-Ramp
+
+
+Attend
+
+Venue & Travel
+Health & Safety
+About Dublin
+Who’s Coming
+Convince Your Boss
+Visa Letter Request
+Scholarships
+Travel Funding
+Child Care
+Diversity & Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Featured Keynote Speakers
+Program Committee
+
+
+Features &Add-Ons
+
+Evening Events
+Onsite Activities
+Speed Mentoring
+Women & Non-Binary in Open Source Lunch
+Better Together Diversity Lunch
+Allyship Workshop
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Open Source Summit Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming Open Source Summit Europe. 
+
+
+
+				Open Source Summit Europe			
+
+
+
+
+
+
+
+
+view the schedule
+View Post Event Report
+
+
+
+
+
+That’s a wrap on the Open Source Summit Europe 2022! Thank you to all the attendees and speakers that joined us this year, both in-person and virtually!
+
+
+
+
+Watch the session recordings on our Linux Foundation YouTube channel.
+
+
+
+
+
+
+Open Source Summit is the premier event for open source developers, technologists, and community leaders to collaborate, share information, solve problems, and gain knowledge, furthering open source innovation and ensuring a sustainable open source ecosystem. It is the gathering place for open-source code and community contributors.
+Open Source Summit is a conference umbrella, composed of a collection of events covering the most important technologies, topics, and issues affecting open source today. 
+
+
+
+OS Summit Europe 2022 Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+featured speakers
+
+
+
+
+
+
+
+ 
+
+
+Hilary Carter
+SVP, Research and Communications, The Linux Foundation
+
+
+
+
+
+Hilary Carter is SVP Research and Communications at the Linux Foundation, a San Francisco-based non-profit technology consortium. Here, Hilary recently launched Linux Foundation Research, a division dedicated to creating and sharing decision-useful insights on the subjects that matter in the world of open source technologies and standards which underpin much of the digital infrastructure on which the global economy depends.Previously, Hilary launched and operated the Blockchain Research Institute’s Syndicated Research Program where she managed the BRI’s research team, staff, and the member and partner ecosystem.Hilary is the author of a number of blockchain-specific research projects. Her titles include Social Media on the Blockchain (2018); Blockchain for Saving Our Seas (2019); and Journey to Blockchain: A non-technologist’s guide to the Internet of value (2019). With Don Tapscott and Jill Rundle she co-authored Networked Hotbeds of Blockchain: Creating Global Hubs for the Internet’s Second Era (2018). Hilary also contributed to Don Tapscott and Alex Tapscott’s Blockchain Solutions in Pandemics (2020), and New Directions for Government in the Second Era of the Digital Age (Tapscott, Williams, Sandberg, 2021).A sought after thought leader, Hilary has been featured by the CBC, Globe and Mail, CTV News, Global News, and other media outlets for her expertise on blockchain and digital transformation. She is a regular speaker at technology industry conferences including Blockchain Revolution Global, Blockchain Live, Hyperledger Member Forum, and United Nations Blockchain for Impact Summit.Hilary’s career began in financial services with experiences in Corporate Finance, Research and Analysis, and Global Private Banking. Her career pivoted to digital technology where she focused on mobile communications and digital media consulting, working with the C-Suite. Her writing on digital transformation has been featured in the Globe and Mail on topics such as diversity in blockchain, digital leadership, professional online branding, innovation and entrepreneurship, and leadership with disability.In addition to her role at the Linux Foundation, Hilary serves as an advisor to technology startups including VeriTX, a blockchain-based manufacturing and supply chains solution serving the aerospace and healthcare markets, and LinkSports, a blockchain-based microfinance and sponsorship platform for aspiring athletes. She earned a Master of Science from the London School of Economics and holds both Canadian and Irish citizenship.
+ 
+
+
+
+
+
+
+ 
+
+
+Bryan Che
+Chief Strategy Officer, Huawei; CNCF Governing Board Member and O3DF Governing Board Member
+
+
+
+
+
+Bryan Che is Chief Strategy Officer at Huawei. There, he leads Huawei’s vision and strategy across its overall businesses and portfolio, which spans mobile and consumer electronics, telecommunications, and cloud and AI.
+
+
+Bryan has tremendous experience building new enterprise businesses and open source technologies. In the open source community, Bryan serves as a board director across various key organizations, including Cloud Native Computing Foundation (CNCF), Open 3D Foundation (O3DF), and Eclipse Foundation. As an American expat employed in China who has traveled more than 3 million miles to over 40 countries, Bryan has worked extensively with many customers and partners around the world.
+ 
+
+
+
+
+
+
+ 
+
+
+Gabriele Columbro
+General Manager, Linux Foundation Europe & Executive Director, Fintech Open Source Foundation (FINOS)
+
+
+
+
+
+Gabriele is an open source executive and technologist at heart. He spent over 15 years building developer ecosystems to deliver value through open source across Europe and the US. He thrives on driving innovation both contributing to open source communities and joining commercial open source ventures, whether it’s for an early-stage tech startup, a Fortune 500 firm, or a non-profit foundation. Previously Director of Product Management at Alfresco, as Executive Director Gabriele grew the Fintech Open Source Foundation FINOS from the ground up, with the vision of creating a trusted arena for the global financial services industry to innovate faster, leveraging open source as a model of collaboration. Gabriele holds a Master in Computer Engineering, is a Committer for the Apache Software Foundation, and advises open source startups. He’s a passionate soccer fan, reggae music connoisseur, and special needs dad and advocate wannabe.
+ 
+
+
+
+
+
+
+ 
+
+
+Ibrahim Haddad
+Executive Director, LF AI & Data Foundation
+
+
+
+
+
+Dr. Ibrahim Haddad is the Executive Director of the LF AI & Data Foundation . Throughout his career, Haddad has held technology and portfolio management roles at Ericsson Research, the Open Source Development Labs, Motorola, Palm, Hewlett-Packard, the Linux Foundation and Samsung Research. He writes and speaks on topics ranging from legal compliance to using open source as an R&D tool to drive collaboration and innovation. [@IbrahimAtLinux]
+ 
+
+
+
+
+
+
+ 
+
+
+Dirk Hohndel
+Head of the Open Source Program Office, Verizon
+
+
+
+
+
+Dirk is the Head of the Open Source Program Officer at Verizon. Prior to that, he was Chief Open Source Officer of the Cardano Foundation; where he focused on creating a vibrant open source third party contribution ecosystem for the Cardano infrastructure. Dirk was previously VMware’s Chief Open Source Officer, where he lead the company’s Open Source Program Office, directing the efforts and strategy around use of and contribution to open-source projects and driving common values and processes across the company for VMware’s interaction with the open-source communities. Before joining VMware, Dirk spent almost 15 years as Intel’s Chief Linux and Open Source Technologist. Before that, among other roles, he worked as Chief Technology Officer of SuSE and Unix Architect of Deutsche Bank.
+
+
+Dirk has been an active developer and contributor in several dozen open source projects since the early 1990s, today most of his work is on the Subsurface dive log project and many of the related open source projects around that. Dirk holds a degree in Mathematics and Computer Science from the University of Würzburg, Germany. He lives in Portland, OR.
+ 
+
+
+
+
+
+
+ 
+
+
+Martin Kennedy
+Managing Director of Enterprise Platforms and Storage, Citigroup
+
+
+
+
+
+Martin is Managing Director of Enterprise Platforms and Storage for Citigroup Technology Infrastructure.
+
+
+In his current role, as Global Head of Mainframe and Host System Services, he is responsible for managing operations and engineering all Enterprise Systems disciplines globally including z/OS, z/VM, LinuxOne, z/TPF, hardware Configuration Management, CICS, Websphere, MQ Series, Network Software, Mainframe DBA functions, iSeries, Stratus Unisys and Tandem systems.  He is also responsible for reengineering the infrastructure for further efficiencies and leads a team of more than 450 direct staff, contractors and vendor resources.
+
+
+In 2009, Martin became the IT Function Head for Global O&T – Enterprise O&T and Corporate Services. He was the Global Engineering Lead for z/Series.  He was also the Operational owner of all System “Z”, System “I” and Home Banking technology in North America.  In addition, he managed Citi’s z/OS, TPF, CICS, Network Software, WebSphere Business Integration, MQ Messaging, z/VM and z/Linux teams.
+
+
+Martin has been working with Citigroup for 36 years.  He joined Citibank in 1986 as a MVS Manager. In 1999, he became a Director for Corporate O&T and had direct responsibility for managing a team of 100 engineers supporting the operational support of z/OS, z/VM, z/LINUX, z-Network software, CICS, MQ series, and database support, supporting Citibank, CitiCards, Student Loan, Private Banking, GTS, Cash Management and FX systems.
+ 
+
+
+
+
+
+
+ 
+
+
+Ross Mauri
+General Manager, IBM LinuxONE
+
+
+
+
+
+Ross A. Mauri is the General Manager for IBM Z. In this capacity, he is responsible for all facets of the IBM Z & LinuxONE server division including strategy, engineering, marketing, sales, support and worldwide financial performance.
+
+
+After joining IBM in 1980, Mr. Mauri held positions over the next 12 years that included technical and management roles in architecture, software development and quality assurance. In 1993, he was appointed Director of the Paris-based Client/Server Computing unit overseeing strategy in Europe, Middle East and Africa, and later served as GM of Software Marketing for EMEA.
+
+
+In early 1996, Mr. Mauri moved back to the USA and was appointed Technical Assistant to IBM’s Chairman and CEO. He later held various executive positions in the mainframe business, including leading hardware development, marketing, solutions and strategy; and was a key leader in the transformation of these large systems from Bi-Polar to CMOS technology, a major milestone for IBM and the industry.
+
+
+In 2000, Mr. Mauri went on to lead IBM’s world-wide UNIX and Linux software initiatives. And then became VP, Development, IBM Systems Group, leading a global organization responsible for the design and engineering of IBM’s industry-leading server and storage platforms. Mr. Mauri drove the organizational and cultural change that altered the orientation of the IBM Systems Group development teams from independent brand silos to cross-matrix functional entities. In 2003 he led the creation and expansion of IBM’s pioneering global e-business initiative.
+
+
+In 2006, Mr. Mauri served as General Manager of IBM’s Power Systems division. During his four year tenure, he grew the business to become the undisputed worldwide market leader in UNIX systems. From there he took a role as the VP of Enterprise Process Transformation at IBM Corporate Headquarters and was responsible for leading global enterprise transformation initiatives in advanced analytics, process transformation and social business. Mr. Mauri assumed his current position leading IBM Z in mid-2014.
+
+
+Mr. Mauri earned a Bachelor of Arts in Computer Mathematics from Marist College, and currently serves as Chairman of the Marist College Board of Trustees.  Mr. Mauri lives with his wife Barbara in upstate New York and they both have strong commitment to supporting the local community, education and arts in the Hudson Valley.
+ 
+
+
+
+
+
+
+ 
+
+
+Dušan Milovanović 
+Health Intelligence Architect, World Health Organization
+
+
+
+
+
+Dušan has 24 years of product management and systems engineering experience, including technology leadership career at Ericsson, then engagements within life science, healthcare and public health domains. In a mission to connect patient biomedical data for timely discovery of biological signatures of diseases, he acted as data architect and data scientist in the development of the Medical Informatics Platform in the scope of the Human Brain Project. In the World Health Organization he acts as a technology lead within the Epidemic Intelligence from Open Systems, a global public health intelligence community of practice, in the forefront of development a public health knowledge representation and reasoning for connecting all-hazards One Health information for early-detection and verification of public health threats, rapid risk assessment and evidence-based decision making in public health emergencies.
+ 
+
+
+
+
+
+
+ 
+
+
+Mark Pollock
+Explorer, Innovator and Collaboration Catalyst
+
+
+
+
+
+Over the last 20 years, Mark Pollock has studied how to build resilience and collaborated with others so that they achieve more than they thought possible.
+
+
+Unbroken by blindness in 1998, Mark became an adventure athlete competing in ultra-endurance races across deserts, mountains, and the polar ice caps including being the first blind person to race to the South Pole. He also won silver and bronze medals for rowing at the Commonwealth Games and set up an international motivational speaking business.
+
+
+In 2010, a fall from a second-story window nearly killed him. Mark broke his back and the damage to his spinal cord left him paralysed. Now he is on a new expedition, this time to cure paralysis in our lifetime by exploring the intersection where humans and technology collide.
+
+
+Chairman of Collaborative Cures and founder of the global running series Run in the Dark, Mark was selected by the World Economic Forum as a Young Global Leader, served on the Global Futures Council on Human Enhancement and as a UBS Global Visionary. He is on the Board of the Christopher and Dana Reeve Foundation (USA) and is a Wings for Life Ambassador (Europe).
+
+
+Author of ‘Making It Happen’, Mark is the subject of the acclaimed documentaries ‘Blind Man Walking’ and ‘Unbreakable – The Mark Pollock Story’. He has been awarded honorary doctorates by The Royal College of Surgeons in Ireland and also from Queens University Belfast. Furthermore, he holds a diploma in Global Leadership and Public Policyfor the 21st Century from Harvard University, degrees from Trinity College Dublin and UCD Smurfit Graduate Business School. As a speaker Mark is best known for his 2018 TED Talk focused on resolving the tension between acceptance and hope, delivered jointly with his fiancée, Simone George. It gathered over 1.5 million views in It’s first six months on TED.com, and has been translated into 12 languages.
+ 
+
+
+
+
+
+
+ 
+
+
+Liz Rice
+Chief Open Source Officer, Isovalent & Emeritus Chair, Technical Oversight Committee, CNCF
+
+
+
+
+
+My background and core competence is systems software engineering, but I love the whole process of building products. I’ve been in startups that have succeeded and others that have failed. I enjoy writing code, and understanding how other people will use it.
+
+
+I’m Chief Open Source Officer with eBPF pioneers Isovalent, creators of the Cilium project, which provides cloud native networking, observability and security. Prior to that I was VP Open Source Engineering with security specialists Aqua Security. I’m chair of the CNCF’s Technical Oversight Committee, and I co-chaired the KubeCon / CloudNativeCon 2018 events in Copenhagen, Shanghai and Seattle. I’m also an Ambassador for Open UK.
+ 
+
+
+
+
+
+
+ 
+
+
+Christopher Robinson “CRob”
+Director of Security Communications, Product Assurance & Security, Intel Corporation
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Emilio Salvador
+ Head of Standards, Open Source Program Office, Google
+
+
+
+
+
+Emilio Salvador has built a career on helping developers adopt the latest technologies and frameworks while working at Microsoft, Amazon, and since 2019 Google. He is now part of the Google Open Source Program Office where he is leading its standards and compliance efforts. 
+ 
+
+
+
+
+
+
+ 
+
+
+John Simmons
+Executive Director, The Alliance for Open Media
+
+
+
+
+
+John Simmons is an industry recognised expert on Web media standards. He drove Microsoft’s efforts to define DRM-interoperable encoding, adaptive bitrate streaming, the collaboration with Google, Comcast, Netflix and the W3C for HTML5 Media Extensions and a multi-year Apple collaboration to develop the Common Media Application Format.
+
+
+John’s standards evangelism across the media and entertainment industry led to the creation of the Consumer Technology Association (CTA) Web Application Video Ecosystem (WAVE) project, a 60-company collaboration to adopt ISO/IEC and W3C standards for streaming media on a global scale.
+
+
+John received the CTA 2017 Technology Leadership Award for the creation of the WAVE Project and the National Academy of Television Arts & Sciences (NATAS) 2019 Emmy Award for the Microsoft, Google, Comcast, Netflix and W3C “Standardisation of HTML5, Encrypted Media Extensions (EME) and Media Source Extensions (MSE) for a Full TV Experience”. 
+
+
+John is well known across both the broadcast and IP-based commercial media industry for his grasp of the business and technical forces behind the digital transformation of commercial media. His insight and guidance will enable the Alliance for Open Media to assume a leadership role in this global transformation.
+ 
+
+
+
+
+
+
+ 
+
+
+Robin Teigland
+Professor of Strategy, Management of Digitalization, in the Entrepreneurship and Strategy Division, Chalmers University of Technology; Director, Ocean Data Factory Sweden and Founder, Peniche Ocean Watch Initiative (POW)
+
+
+
+
+
+Robin Teigland is Professor of Business Administration, especially Strategic Information Systems at the Stockholm School of Economics (SSE), and Co-director of the Center for Strategy & Competitiveness.
+
+
+Robin’s research interests reside at the intersection of strategy, technology, innovation, and entrepreneurship and focus on how the convergence of emerging technologies such as 3D printing, artificial intelligence, IoT, and smart robotics, enable communities to create value outside of a firm’s traditional boundaries as well as challenge long-standing institutional structures in society. Leading Swedish business magazine Veckans Affärer ranked her as one of 2018’s most powerful women in tech.
+
+
+Professor Robin Teigland is a globally sought after speaker. Her keynotes and workshops are delivered with engagement and energy. She urges audiences all over the world to start acting in the digital world and the importance of testing the new technology – to be able to understand the revolutionary impact that it has.
+
+
+Her present research includes projects within FinTech, e.g., cryptocurrencies such as Bitcoin and blockchain technologies, new forms of P2P finance such as crowdfunding; entrepreneurship within open source communities, and the Sharing Economy. Robin Teigland has published numerous articles in international books and academic journals and is an active international researcher.
+
+
+Robin has a BA in Economics with Distinction from Stanford University, an MBA from the Wharton School, an MA in International Studies from the University of Pennsylvania, and a Ph.D. in Business Administration from the Stockholm School of Economics. She also has a range of work experience, such as venture capital in Silicon Valley, consulting for McKinsey in Sweden and Spain, a medtech start-up in Norway, production and marketing operations for Esso in Chile, stock brokerage in Spain, and international banking in USA.
+
+
+Robin Teigland is frequently interviewed about her research by Swedish and international media and she is a globally sought after speaker. She is also active and influential among social media users, with over 300 000 views on Slideshare and several times nominated one of the Global Top 50 Business Professors on Twitter. In 2017 she was nominated one of Sweden’s 125 most influential women, primarily within technology.
+
+
+In her free time, she loves to SUP (stand up paddle) in the Stockholm archipelago and to surf in the ocean whenever she can. Robin has five children, from whom she is constantly learning.
+ 
+
+
+
+
+
+
+ 
+
+
+Linus Torvalds
+Creator of Linux & Git
+
+
+
+
+
+Linus was born on December 28, 1969, in Helsinki, Finland. He enrolled at the University of Helsinki in 1988, graduating with a master’s degree in computer science. His M.Sc. thesis was titled “Linux: A Portable Operating System” and was the genesis for what would become the most important collaborative software project in history. In August 1991, Linus announced that he was developing the Linux kernel, proclaiming, “it won’t be big and professional.” Never in the history of technology has someone been so wrong. In spite of his humble proclamation, Linux has become the world’s most pervasive operating system. Today the Linux kernel forms the basis of the Linux operating system and powers billions of Android devices, powers ChromeOS, and has permeated almost every industry and form factor. Smartphones, TVs, appliances, cars, nuclear submarines, air traffic control, stock exchanges, and scientific research all run Linux. Linux also provides the underpinnings of the internet and the cloud computing industry. In 2005, citing a lack of free and open-source version control tools that met his needs for performance and scale, Linus famously created Git in only 10 days. Today Git is widely used in software development and for other version-control tasks such as configuration management and has become popular as an integral part of the DevOps culture. In 2000, Linus was listed by Time Magazine as Number 17 in the Time 100: Most Important People of the Century. Again, in 2004, Time Magazine named him one of the Most Influential People in the world. He was honored in 2008 with the Millennium Technology Prize by the Technology Academy Finland, “in recognition of his creation of a new open-source operating system for computers leading to the widely used Linux kernel.” He is also the recipient of the 2014 IEEE Computer Society Computer Pioneer Award. A true tech titan, he was admitted to the Computer History Museum Hall of Fellows, joining the ranks of the tech elite including Rear Admiral Grace Murray Hopper, Tim Berners-Lee, Gordon Moore, Ken Thompson, Dennis Ritchie, Steve Wozniak, and others. Torvalds remains the ultimate authority on what new code is incorporated into the standard Linux kernel.
+ 
+
+
+
+
+
+
+ 
+
+
+Paul Vixie
+VP & Distinguished Engineer, AWS Security
+
+
+
+
+
+Paul Vixie serves as VP and Distinguished Engineer at AWS Security (as of April 2022). He was previously the founder and CEO of Farsight Security (2013-2021). In addition, he founded and operated the first anti-spam company (MAPS, 1996), the first non-profit Internet infrastructure software company (ISC, 1994), and the first neutral and commercial Internet exchange (PAIX, 1991). Vixie was inducted into the Internet Hall of Fame in 2014 for work related to DNS, and is a prolific author of open source Internet software including Cron and BIND, and of many Internet standards concerning DNS and DNSSEC. He was CTO at Abovenet/MFN (1999-2001) and worked at DEC Western Research Lab (1988-1993) after dropping out of high school in 1980. Vixie earned his Ph.D. in Computer Science from Keio University in 2011
+ 
+
+
+
+
+
+
+ 
+
+
+Daniel Goldscheider
+Advocate for Open Digital Wallets
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Xinwei Hu
+Chairman, openEuler Community Technical Committee
+
+
+
+
+
+Chairman of the openEuler Community Technical Committee since 2020. With nearly 20 years of Linux experience, he has long-term working experience and technical accumulation in operating systems, high availability software, and underlying software. He also has a broad technical vision for processors, architectures, OSs, containers, etc.
+ 
+
+
+
+
+
+
+ 
+
+
+Jim Zemlin
+Executive Director, The Linux Foundation
+
+
+
+
+
+Jim’s career spans three of the largest technology trends to rise over the last decade: mobile computing, cloud computing and open source software. Today, as executive director of The Linux Foundation, he uses this experience to accelerate innovation in technology through the use of open source and Linux.
+
+
+At The Linux Foundation, Jim works with the world’s largest technology companies, including IBM, Intel, Google, Samsung, Qualcomm, and others to help define the future of computing on the server, in the cloud, and on a variety of new mobile computing devices. His work at the vendor-neutral Linux Foundation gives him a unique and aggregate perspective on the global technology industry.
+
+
+Jim has been recognized for his insights on the changing economics of the technology industry. His writing has appeared in Businessweek, Wired, and other top technology journals, and he is a regular keynote speaker at industry events. He advises a variety of startups, including Splashtop, and sits on the boards of the Global Economic Symposium, Open Source For America, and Chinese Open Source Promotion Union.
+ 
+
+
+
+
+
+
+ 
+
+
+Phil Robb
+Head of Ericsson Software Technology, Ericsson
+
+
+
+
+
+Phil is the Head of Ericsson Software Technology (EST), where he leads a passionate group of engineers developing open source software across a wide range of projects including Linux, OpenStack, Kubernetes, and ONAP among many others. 
+
+
+Prior to Ericsson, Phil was the V.P. of Operations for the Networking Projects at the Linux Foundation including ORAN, ONAP, OpenDaylight, and Anuket.  In that role, Phil led a team of technical staff who oversaw community software development based on DevOps and open source best practices.  Prior to the Linux Foundation, Phil spent 12 years with Hewlett Packard working on Linux and Open Source starting in 2001.  There, Phil formed and led HP’s Open Source Program Office responsible for open source strategy, tools, processes, and investments as HP transitioned from Unix to Linux in the Enterprise Server market.
+ 
+
+
+
+
+
+
+ 
+
+
+Sachiko Muto
+Chairman, OpenForum Europe (OFE) & Senior Researcher, RISE Research Institutes of Sweden
+
+
+
+
+
+Sachiko Muto is Chairman and former Chief Executive Officer of OFE. She is also a senior research fellow at RISE Research Institutes of Sweden. Prior to OFE, Sachiko worked for several years in public affairs, first in London and then in Brussels. With degrees in Political Science from the University of Toronto and the London School of Economics, she has been a guest researcher at UC Berkeley and at TU Delft. She is a regular speaker at international conferences and has published on the topic of regulation and ICT standards.
+ 
+
+
+
+
+
+
+ 
+
+
+Rob Oshana
+Vice President Software Engineering R&D, NXP Semiconductors
+
+
+
+
+
+Rob Oshana is Vice President of Software Engineering R&D for the Edge Processing business line at NXP, responsible for software enablement, IoT connectivity, software middleware and security, operating systems, machine learning, software services and advanced technologies.  He serves on multiple industry advisory boards and is a recognized international speaker.  He has published numerous books and articles on software  engineering and embedded systems.  He is also an adjunct professor at the University of Texas and Southern Methodist University and is a Senior Member of IEEE.
+ 
+
+
+
+
+
+
+ 
+
+
+Vasu Chandrasekhara
+Vice President & Chief Architect, SAP; CNCF Governing Board Representative
+
+
+
+
+
+Vasu is Vice President and Chief Architect on topics concerning the Cloud Native Strategy at SAP. Having always been accused of having his head in the clouds, he went on to make it his career. In his current role, he works with several cross-product initiatives to foster the cloud native mindset across engineering teams. In spite of having a very brown thumb, he went green by reaching into the bountiful cloud native and open source ecosystem and was instrumental in establishing Kubernetes (with Project Gardener) as the modern foundation at SAP. As a champion of cloud native development, advocating both inner and open source technologies, he aims to make innovation simpler for both SAP and its customers. Vasu holds a degree in Physics and Computer Science from the University of Osnabrück but refuses to be tied down to any geography. He prefers it in the cloud.
+ 
+
+
+
+
+
+
+
+
+
+
+
+“Open Source Summit is a fundamental gathering place for exchanging ideas across projects and meeting all of the people who make open source communities work.”
+
+
+
+
+
+
+
+you’ve been waiting for this
+Thousands of attendees come to Open Source Summit Europe to learn from each other, move forward together, and celebrate what’s next. Whether you’re a developer, architect, sysadmin, community manager, student, or something in-between, you’ll…
+
+
+
+MeeT 
+Face-to-face problem-solving, discussions, and collaboration
+
+
+
+Learn
+Learn about the latest trends in open source and open technologies
+
+
+
+Access
+Access to leading experts that will help guide you through a complex OS environment 
+
+
+
+
+
+accel 
+Gain a competitive advantage by learning about the latest in innovative open solutions
+
+
+
+discover
+Discover what industry-leading companies and projects are working on and where technologies are headed
+
+
+
+explore
+Explore career opportunities with the world’s leading technology companies
+
+
+
+
+
+
+
+Become a sponsor
+
+Partnering with Open Source Summit provides a unique opportunity to connect with a variety of open source communities under one roof! Don’t miss your chance to sponsor THE premier event for open source code and community contributors. 
+
+
+explore sponsorships
+
+
+
+
+
+
+
+
+
+THE ONSITE EXPERIENCE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+SHOW MORE
+
+
+
+Schedule at-a-glance
+
+
+VIEW THE FULL SCHEDULE
+
+
+All times are shown in Irish Standard Time (IST), UTC +1.
+Monday, September 129:00 AM – 6:00 PMProject Mini-Summits & Co-located EventsTuesday, September 138:00 AM – 6:00 PMFirst Time Attendee Breakfast, OSS Keynotes, Breakout Sessions, Women in Open Source Lunch, Co-located Events, Opening Reception (after sessions conclude)Wednesday, September 149:00 AM – 6:00 PMOSS Keynotes, Breakout Sessions + Sponsor Showcase, Co-located Events, Partner Reception (after sessions conclude)Thursday, September 159:00 AM – 6:00 PMOSS Keynotes, Breakout Sessions + Sponsor Showcase, Co-located Events, On-Site Attendee Reception + Diversity Social (after sessions conclude)Friday, September 169:00 AM – 6:00 PMOSS Keynotes, Breakout Sessions + Sponsor Showcase, Co-located Events*Evening events are subject to change
+
+
+
+
+
+
+
+Sponsors
+
+Diamond
+Platinum
+Gold
+Silver
+Bronze
+Partners 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#ossummit
+
+
+
+
+Register
+About Open Source Summit
+LinuxCon
+Embedded Linux Conference
+CloudOpen
+ContainerCon
+OSPOCon
+SupplyChainSecurityCon
+Critical Software Summit
+Community Leadership Conference
+Emerging OS Forum
+Embedded IoT Summit
+Diversity Empowerment Summit
+Open AI + Data Forum
+Open Source On-Ramp
+
+Venue & Travel
+Health & Safety
+About Dublin
+Who’s Coming
+Convince Your Boss
+Visa Letter Request
+Scholarships
+Travel Funding
+Child Care
+Diversity & Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Featured Keynote Speakers
+Program Committee
+
+Evening Events
+Onsite Activities
+Speed Mentoring
+Women & Non-Binary in Open Source Lunch
+Better Together Diversity Lunch
+Allyship Workshop
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

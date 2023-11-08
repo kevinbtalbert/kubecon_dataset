@@ -1,0 +1,332 @@
+
+
+
+
+Virtual Event Platform Speakers FAQ | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Virtual Backgrounds
+Keep Cloud Native Well
+Experiences
+Where in the World is Phippy?
+Diversity Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon Europe. 
+
+
+
+
+
+
+ 
+
+
+						Virtual Event Platform Speakers FAQ					
+
+
+
+
+Skip to page sectionOverviewPlatform & SpecificationsSession DeliveryLive Sessions (Not Pre-Recorded; Panels + Tutorials ONLY)Schedule + Speaker Point of Contact
+
+
+Overview
+
+We are excited to welcome you as a speaker for KubeCon + CloudNativeCon Europe 2020 which will take place virtually, Monday, August 17–Thursday, August 20, beginning each day at 13:00 Central European Summer Time (CEST).
+The information provided below is intended to provide further details and answer questions about the virtual event platform, INXPO by Intrado. If you have general questions about the event, or virtual presentation tips, please refer to the Speaker Guide or the Web Presenting: Gear Tips + Enhancing Your Remote Studio document. If you have a question about the platform that is not included below, please contact us to let us know. 
+Please note: The bulk of the information is geared towards non-Keynote speakers. If you are a Keynote speaker, the information may still be helpful but please note a few items like pre-recording and live Q&A are not relevant to you.
+
+
+
+Platform & Specifications
+What platform is being used?
+We are using a virtual event platform called INXPO by Intrado that will allow speakers to deliver content by live stream or pre-record talks and join live for Q&A text chat with attendees. The platform is web-based with HTML5 and will be easy for everyone to access and use.
+
+What does the platform offer? 
+The INXPO by Intrado platform is allowing us to create an immersive experience for attendees, with educational sessions that offer speaker and attendee Q&A and interaction, attendee collaboration & networking through topical chat rooms, and 1:1 and group chats, gamification to keep attendees engaged throughout the event, and a sponsor and tech showcase that offers 3D booths where attendees can view demos, download resources, check out job openings, and speak directly with booth reps.
+
+How do I make sure I can access the platform?
+
+Run a system check to ensure your computer is configured properly for the platform.Run a compatibility check, which tests your webcam and audio devices, along with WebRTC and WebSocket connectivity on your network for streaming media (which includes webcam/microphone, screen share,  media files, VCU, Encoder, etc.). For any issues, refer to INXPO’s computer tips which provide additional information to help optimize your system set-up. 
+
+
+How long will talks be available on the platform? 
+All talks will be available on INXPO for viewing until KubeCon + CloudNativeCon North America 2020 (November 17, 2020), and we will also be moving them to YouTube so anyone, anywhere, can view them as well.
+
+I am submitting a .PPT file, what animations and build are supported?
+Supported Animations and Builds (if submitting a PPT file):
+All Slide LayoutsAll Standard FontsBullet Points and NumbersAll Standard Charts and GraphsAll Standard ShapesUser Drawn ShapesConverts Uploaded ImagesSmart ArtHyperlinksConverts Artistic Effects3D Images and AnimationAll Exit and Entrance EffectsAll Standard Motion PathsCustom Motion PathsWAV Audio files only
+NOT Supported Animations and Builds (if submitting a PPT file):
+Multi-ThreadChart animations“repeat until end of slide” Animations“by letters” animation of Word Art objectsVideo (use Video Slides in Studio)Slide TransitionsAudio File Types excluding WAVPassword ProtectionVBA scriptsSlide Note StylesCustom WatermarkUpdated Date and TimePortrait OrientationsAudio of midi formatHighlight click
+
+
+Session Delivery & General Information
+What options do I have to deliver my talk?
+Breakout and Maintainer Track sessions will be required to pre-record their talk, either within the INXPO by Intrado platform or self-record.Lightning Talks will be required to pre-record their talk with a separate vendor due to the editing needed to combine them all into one block.Panels and Tutorial sessions will have the option to do their talk live due to the in-depth interactive nature of these sessions. If they choose not to do it live, they must record within the platform.If you are a keynote presenter, we will follow up with you directly on your options. 
+
+Is live Q&A required either way?
+Breakout and Maintainer Track sessions will be required to be present during their session at the event for live Q&A with attendees.Lightning Talks will not be participating in Q&A. Keynotes have the option to participate in Q&A via Slack.Panels and Tutorial sessions will be required to be present during their session, whether that is to fully present live or just for live Q&A at the end of the session (if pre-recorded). 
+
+I want to interact more with attendees than a pre-recorded session allows. Is it possible to deliver my talk in another way?
+If you want a more interactive session, please contact us so we can talk about what you are looking for and possible solutions.
+
+My presentation doesn’t really make sense virtually. Can I request a change to my talk to tailor it more to an online presentation?
+To update your session and tailor it for the virtual event, please contact us.  Change requests must be made no later than Monday, July 6.
+
+I want to provide my own recording. Is this possible?
+If you would like to record your session on your own, we can accept MP4 files, H.264 codec that are less than 4GB in size, with bitrate at 2GB, and in 16:9 format. If you plan on sending us your own recording, please let us know by Friday, July 10, and you must have your recording into us by Friday, July 31. 
+Please upload your file into the Google Folder and make sure your file is named in this format: DateOfPresentation_TitleOfPresentation_YourName.mp4
+Example: Aug18_How_to_share_video_files_Nanci_Lancaster.mp4
+Email Nanci Lancaster as soon as you have uploaded your video file.
+
+
+I am scheduled for a 35-minute session, do I need to use all of that time?
+No, you aren’t required to speak for the full 35-minutes and we actually recommend planning to speak for about 25 minutes, and leaving 10 minutes for questions. We find that 25 minutes is perfect in keeping attendees attention. 
+
+My session time doesn’t work due to my location. Can I move my session?
+Please contact us and we will try to accommodate your request to the best of our ability. Change requests must be made no later than Monday, July 6.
+
+What happens if I have to cancel my pre-recording session last minute? Can I reschedule?
+Once you reserve a slot to record your session within the INXPO platform, that is final and we are unable to accommodate time swaps and/or rescheduling. With over 300 sessions and 475+ speakers, bandwidth is extremely limited and we cannot make scheduling changes. If you have to cancel at the last minute, or do not make your appointment, you will not have another chance to pre-record and you will have to present live the day of the event.
+
+My presentation includes a demo, can I share my screen for that?
+Yes, you can share your live screen for a demo. Unfortunately, you cannot switch from your screen share to another camera because if you switch the camera input, it will take away the audio from the computer so we would not be able to hear you.
+
+Will my speaker notes transfer over?
+Speaker notes will transfer over but the space allocated for them is small, and can be hard to read once your pre-record session starts so we recommend keeping them brief and using short bullets. We highly recommend either using a second screen next to your monitor, or even print out a copy of the notes to have on hand and refer to.
+
+How do I get access to my session?
+You will receive a calendar invitation from the Intrado team which will include a personalized link to log-into, and a phone bridge number that you have to dial into. Log-on and dial in 30 Minutes before your session, and the Intrado engineer, and an LF representative, will be in there to get your tech tested and prepare you for the session.
+Note for Residents Outside the US & Canada: Underneath the phone bridge information, you will see a line that says, “For additional dial-in numbers, click here.” Just click that, choose your country, and it will give you additional options for call-in numbers local to you – you would still want to use the same conference code, as that is unique to your session.
+
+I am submitting a .PPT file, what animations and build are supported?
+All Slide LayoutsAll Standard FontsBullet Points and NumbersAll Standard Charts and GraphsAll Standard ShapesUser Drawn ShapesConverts Uploaded ImagesSmart ArtHyperlinksConverts Artistic Effects3D Images and AnimationAll Exit and Entrance EffectsAll Standard Motion PathsCustom Motion PathsWAV Audio files only
+NOT Supported Animations and Builds (if submitting a PPT file):
+Multi-ThreadChart animations“repeat until end of slide” Animations“by letters” animation of Word Art objectsVideo (use Video Slides in Studio)Slide TransitionsAudio File Types excluding WAVPassword ProtectionVBA scriptsSlide Note StylesCustom WatermarkUpdated Date and TimePortrait OrientationsAudio of midi formatHighlight click
+
+
+
+Live Sessions – Panels and Tutorials ONLY
+I want to present live, what do I do now? 
+If you are a panel or tutorial presentation, you will be able to present live. We will share your information with Intrado and you will receive an invite to a speaker training(will come as soon as we have that information). During the call, they will show how the live session will work. 
+After that, you will receive a calendar appointment that contains the link to your session, along with a phone bridge. On the day of your presentation, you will log-on about 30 minutes before your session, and dial into the phone bridge and the engineer will get you set-up for the live session.
+What presentation format is required?
+The platform only supports PowerPoint format. We’ve created an optional presentation template for you to use. Note that this template is updated from the one we previously created earlier this year.
+We understand limiting to PowerPoint as a presentation format is not ideal and apologize for the inconvenience this may cause. If you have any issues with converting your presentation to PowerPoint, please let us know as we are happy to convert your file for you. We do request that if we are converting your slides, you limit it to basic fonts to make it easier for us. If you wish to convert your presentation on your own from PDF, we recommend following Adobe’s instructions on how to convert to PowerPoint. If you are using Google Slides, Keynote, or any other presentation software, we recommend using their built-in export-to-PowerPoint converter and reviewing for any custom text errors before sending your presentation to us.
+Who sends the invite?
+This invitation will come from a member of the Intrado team. 
+Will you provide any platform training to help us feel more comfortable presenting live?
+Yes! There will be a group training call and the actual date will be shared here as soon as those are confirmed. We also recommend you watch the INXPO Studio Speaker & Moderator Training, which provides platform training as well. Note: If the training video fails to load, try loading it in an incognito window.
+How do I get access to my session?
+You will receive a calendar invitation from the Intrado team which will include a personalized link to log-into, and a phone bridge number that you have to dial into. Log-on and dial in 30 Minutes before your session, and the Intrado engineer, and an LF representative, will be in there to get your tech tested and prepare you for the session.
+Note for Residents Outside the US & Canada: Underneath the phone bridge information, you will see a line that says, “For additional dial-in numbers, click here.” Just click that, choose your country, and it will give you additional options for call-in numbers local to you – you would still want to use the same conference code, as that is unique to your session.
+What happens if I lose my internet connection during my live session?
+If you lose your internet connection, you will also be on the phone bridge and the engineers will switch over to that so the attendees can hear you speak. As a reminder, we recommend having your laptop hard-wired to the internet vs being on wi-fi.
+My presentation is a panel and we all reside in different timezones. How can we all be online together for the live presentation?
+Each speaker will be sent a link to the panel session. You will all log-on at the designated time, where you will all be connected. In addition, there will be a phone connection as backup audio, in case someone experiences issues with their video.
+I want to use slides in my live talk. How do I do that?
+You will need to send or share your final slides with us by August 4 so they can be uploaded to the system prior to your session. Additionally, do not embed any videos in your slides and send those separately. Intrado will upload your slides and videos prior to your live session.
+Will my speaker notes transfer over?
+Speaker notes will transfer over but the space allocated for them is small, and can be hard to read once your pre-record session starts so we recommend keeping them brief and using short bullets. We highly recommend either using a second screen next to your monitor, or even print out a copy of the notes to have on hand and refer to.
+
+I am submitting a .PPT file, what animations and build are supported?
+Supported Animations and Builds (if submitting a PPT file):
+All Slide LayoutsAll Standard FontsBullet Points and NumbersAll Standard Charts and GraphsAll Standard ShapesUser Drawn ShapesConverts Uploaded ImagesSmart ArtHyperlinksConverts Artistic Effects3D Images and AnimationAll Exit and Entrance EffectsAll Standard Motion PathsCustom Motion PathsWAV Audio files only
+NOT Supported Animations and Builds (if submitting a PPT file):
+Multi-ThreadChart animations“repeat until end of slide” Animations“by letters” animation of Word Art objectsVideo (use Video Slides in Studio)Slide TransitionsAudio File Types excluding WAVPassword ProtectionVBA scriptsSlide Note StylesCustom WatermarkUpdated Date and TimePortrait OrientationsAudio of midi formatHighlight click
+My presentation includes a live demo, can I share my screen for that?
+Yes, you can share your live screen for a demo. Unfortunately, you cannot switch from your screen share to another camera because if you switch the camera input, it will take away the audio from the computer so we would not be able to hear you.
+Can I embed videos in my presentation?
+Do not embed any videos in your slides and send those separately to us. Intrado will upload any videos prior to your recording session and walk you through how it will all work. Note: The videos must be under 4gb in size.
+When do you need my slides and video?
+We need to receive your slides and any videos no later than Tuesday, August 4. Please send your slide presentation, and any videos, separately to speakers@cncf.io.
+My files are too large to email. How can I get them to you?
+Please contact us and we will set-up a Google folder that you can drop them into. If you cannot access Google folders, we will work with you to find a file share service or, put you in touch with a platform team member close to your location who can receive these items. 
+I want to change a slide in my deck before the event, is this possible before I go live?
+We cannot update slide decks after you have sent them to us.
+Can I edit my slide deck after the event?
+Unfortunately, we cannot update decks after the event.
+
+
+
+Schedule and Speaker Point of Contact
+Nanci Lancaster is your main point of contact for any speaker or schedule-related questions. Please contact her at speakers@cncf.io.
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+GOLD
+SILVER
+START-UP
+END USER
+DIVERSITY SUPPORTERS
+MEDIA PARTNERS 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Virtual Backgrounds
+Keep Cloud Native Well
+Experiences
+Where in the World is Phippy?
+Diversity Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

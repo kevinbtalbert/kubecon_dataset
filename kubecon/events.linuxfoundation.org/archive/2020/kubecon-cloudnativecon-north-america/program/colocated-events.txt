@@ -1,0 +1,404 @@
+
+
+
+
+Co-Located Events | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Experiences
+Instant Giveaways
+CNCF Slack Workspace Community Guidelines
+Diversity + Inclusion
+Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Interactive Sessions
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon North America. 
+
+
+
+
+
+
+ 
+
+
+						Co-Located Events					
+
+
+
+
+Skip to page sectionCo-Located Event HostsCo-Located Event AttendeesAWS Container Day: Kubernetes Edition hosted by AWS(SOLD OUT) Capture the Flag Security Challenge KubeCon 2020 hosted by Trend Micro + SnykCloud-Native Data Management Day hosted by KastenCloud Native Security Day North America hosted by CNCF(SOLD OUT) Kubernetes: Beyond the Basics hosted by VMwareOpen Operators Day hosted by CanonicalOpenShift Commons Gathering hosted by Red HatOpenTelemetry Community Day hosted by CNCFProduction Identity Day: SPIFFE + SPIRE hosted by CNCFPutting Apache Cassandra™ on Automatic with Kubernetes hosted by DataStaxScaleX hosted by CiscoServiceMeshCon North America hosted by CNCF
+Thank you to all of our co-located event hosts and those that participated! Cloud Native Security Day and ServiceMeshCon are available on-demand in the event platform (event registration required) and will be posted to the CNCF YouTube channel in early December. Video content from OpenTelemetry Community Day and Production Identity Day: SPIFFE + SPRIRE (held on external platforms) will be posted to the CNCF YouTube channel in early December as well. All sponsor co-located events are available at sponsor discretion and on their own platforms. Please reach out to the event organizer for further details.
+
+
+Co-Located Event Hosts 
+
+Thank you for your interest in hosting a co-located event! Opportunities for KubeCon + CloudNativeCon North America 2020 have closed. To be notified when co-located event packages for KubeCon + CloudNativeCon Europe 2021 launch, please complete our information request form!
+
+
+
+Co-Located Event Attendees 
+
+Want to attend a co-located event? Review the list of options below. These events are NOT included in the purchase of a KubeCon + CloudNativeCon ticket. Pre-registration is required for each co-located event and many have a separate fee associated. When co-located events are published, you can add your preferred event by selecting it during the registration process or by logging back into your registration profile. 
+
+
+
+
+
+AWS Container Day: Kubernetes Edition hosted by AWS
+Date: Tuesday, November 17 | Time: 10:00 AM  – 6:00 PM ET | Location: VirtualRegistration Fees: Complimentary
+
+Join us for AWS Container Day, a fully live, virtual day of sessions all about Amazon EKS and Kubernetes at AWS, hosted by Containers from the Couch. At this Day Zero KubeCon event, the AWS Kubernetes team will be discussing new launches, demoing products and features, covering best practices, and answering your question live on Twitch.
+For questions regarding this event, please reach out to awscontainerday@amazon.com.
+
+
+
+Capture the Flag Security Challenge KubeCon 2020 hosted by Trend Micro + Snyk (SOLD OUT)
+Date: Tuesday, November 17, 2020  |  Time: 11:00 AM – 12:00 PM EST OR 1:00 PM – 2:00 PM ESTLocation: VirtualRegistration Fees: Complimentary
+
+As an official KubeCon 2020 challenge, attendees are invited to join the Trend Micro and Snyk Capture the Flag – Security Challenge!
+You have always wanted to join a Capture the Flag security challenge but have never taken the chance. You have been studying and training in isolation, mainly in the remote corners of your unintended home office waiting for the opportunity — and now that time has arrived!
+Whether you are a novice application coder or experienced security practitioner, this challenge is designed to bring out the fun and competitiveness expected in a Capture the Flag competition with one catch…it will take less than an hour. 
+Join Trend Micro and Snyk security experts and our world class commentators for a hands-on learning experience as you navigate a simulated cyberattack against applications, and protect them using Trend Micro and Snyk security tools. 
+Join this action-packed session to protect cloud native applications and learn to:• Deploy and integrate security early on in your Jenkins pipeline• Detect and investigate open source vulnerabilities, and threats in container images• Simulate an attack on a running container in EKS based on the results identified• Protect the application with security-as-code to prevent vulnerabilities from being exploited
+Top 3 winners will be given to the competitors with the most points + bragging rights.  This experience has something for everyone! Compete alongside your peers, listen to guest commentators as you climb the leader board, and sit in the same chair you have not left for the past 9 months as you strive to win each level of the challenge and bragging rights for the top prizes. 
+For questions regarding this event, please reach out to rheena_deguzman@trendmicro.com.
+
+
+
+Cloud-Native Data Management Day hosted by Kasten
+Date: Tuesday, November 17 | Time: 11:00 AM  – 4:00 PM ET | Location: VirtualRegistration Fees: US$20 (donated to Girls Who Code)
+
+The Cloud-Native Data Management Day event is designed to bring together various stakeholders in the Kubernetes storage, application backup, and mobility community to discuss and share current challenges and solutions in cloud native data management. This event will share customer journeys and spotlight industry experts across storage, data services, and backup vendors. There will be a lot of practical knowledge sharing, along with fun-filled demos.
+For questions regarding this event, please reach out to info@kasten.io.
+
+
+
+Cloud Native Security Day North America hosted by CNCF
+Date: Tuesday, November 17 | Time: 10:00 AM  – 6:00 PM ET | Location: VirtualRegistration Fees: US$20
+
+Cloud Native Security Day is designed to bring together the cloud native security community together to discuss and share current challenges and solutions in cloud native security.  This event provides a single place for people involved or getting involved in cloud native security to get together in a vendor neutral space.
+This event allows and encourages open collaboration and sharing of cloud native security accomplishments and roadblocks.  Cloud native security is a multi-objective and multi-constrained problem space spanning many areas. Pretty much everything falls into security, from identity management to storage solutions. Cloud Native Security Day (#cnsecurityday) is intended to drive collaboration, discussion, and knowledge sharing of cloud native security accomplishments and roadblocks. Get connected with others that are passionate about security. Learn from practitioners about pitfalls to avoid, hurdles to jump, and how to integrate security into your cloud native project, architecture, and enhance team awareness on security.
+More details available here. 
+
+
+CFP CLOSED
+
+
+Submissions close October 4 and speakers will be notified October 19, with all recordings due by October 30.
+
+
+SCHOLARSHIPS CLOSED
+
+
+Applications close Sunday, November 1 (11:59PM Pacific Time), and all applicants will be notified within 14 business days of submitting their application, or no later than Friday, November 6.
+
+
+For questions regarding this event, please reach out to events@cncf.io.
+
+
+
+Kubernetes: Beyond the Basics hosted by VMwareSold Out – Waitlist Available
+Date: Tuesday, November 17 | Time: 9:00 AM  – 5:00 PM ET | Location: VirtualRegistration Fees: US$20 (donated to the CNCF Diversity Scholarship Fund)
+
+You know how to build containers and know what a pod is. In this one-day workshop, you’ll learn more about and get hands-on experience with interacting with Kubernetes, Kubernetes networking, and managing dynamic cloud-native applications.
+For questions regarding this event, please reach out to boschem@vmware.com.
+
+
+
+Open Operators Day hosted by Canonical
+Date: Tuesday, November 17 | Time: Asia: 14:00-18:00 CST – EMEA: 13:00-17:00 BST – Americas: 2:00-6:00 EST | Location: VirtualRegistration Fees: Complimentary
+
+The Open Operators Day is for devops to learn about the Open Operator Collection, an open-source initiative to provide a large number of interoperable, easily integrated operators for common workloads. We’ll talk about where Open Operators come from and what the community is looking to build. Organized by Canonical, the publisher of Ubuntu, the day will be split in 3 time zone friendly sessions:
+Asia: 14:00-18:00 CST (1:00 AM – 5:00 AM ET)EMEA: 13:00-17:00 BST (8:00 AM – 12:00 PM ET)Americas: 11:00-15:00 PST (2:00 PM – 6:00 PM ET)
+Each session will mix keynotes, training and community discussions.
+For questions regarding this event, please reach out to marketing@canonical.com.
+
+
+
+OpenShift Commons Gathering hosted by Red Hat
+Date: Tuesday, November 17 | Time: 9:00 AM  – 5:00 PM ET | Location: VirtualRegistration Fees: Complimentary
+
+The OpenShift Commons Gathering brings together experts from all over the world to discuss container technologies, best practices for cloud native application developers and the open source software projects that underpin the OpenShift ecosystem. This Gathering focuses on talks by end users on OpenShift 4 implementations in production mode, in which they will share their use cases, learnings and good practices with experts from all over the world. In addition there are talks from CNCF upstream project leads including Kubernetes, ServiceMesh, Operators, Security and more.
+For more information, visit the event website!  For questions regarding this event, please reach out to mbecker@redhat.com.
+
+
+
+OpenTelemetry Community Day hosted by CNCF
+Date: Tuesday, November 17 | Time: 10:00 AM  – 6:00 PM ET | Location: VirtualRegistration Fees: US$20
+
+OpenTelemetry Community Day is a time and a place for maintainers, contributors, and users of OpenTelemetry to come together and celebrate both our work and our successes with Observability. We’ll talk about where we’ve been and where we’re going, together.
+Join us for a day of community roundtables and discussion groups on OpenTelemetry itself, a flurry of lightning talks where your peers will share how they’ve been using OpenTelemetry and Observability tools, and some fantastic keynotes and maintainer discussions to help us know where we’re all going next.
+More details are available here.
+
+
+CFP CLOSED
+
+
+Submissions close October 11 and speakers will be notified October 21, with all recordings due by October 30.
+
+
+SCHOLARSHIPS CLOSED
+
+
+Applications close Sunday, November 1 (11:59PM Pacific Time), and all applicants will be notified within 14 business days of submitting their application, or no later than Friday, November 6.
+
+
+For questions regarding this event, please reach out to events@cncf.io.
+
+
+
+Production Identity Day: SPIFFE + SPIRE hosted by CNCF
+Date: Tuesday, November 17 | Time: 11:00 AM  – 6:00 PM ET | Location: VirtualRegistration Fees: US$20
+
+“Production identity” is a common set of identity and authentication challenges facing distributed systems.  Many spend significant time and effort in establishing trusted bi-directional communication between different parts of the system.  Often these are lacking in many respects: not rooted in sound identity “bedrock”, no ability to rotate credentials, no federation with other systems, and few policy opportunities (which are highly valued and critical for enterprises). 
+SPIFFE and SPIRE are CNCF incubating projects that aim to solve these challenges in a common way by defining and implementing a universal identity control plane that can be leveraged across many different types of systems — not just containerized or cloud native.
+We are excited to host the first Production Identity Day at KubeCon to share learnings around the latest developments in the space, exhibit demonstrations, and discuss real-world use cases with others who share an interest in identity, authentication, and zero trust security.
+To learn more, visit the event website!
+Twitter | @SPIFFEio#SPIFFE #ProdIdentity
+
+
+CFP CLOSED
+
+
+Submissions close October 25 (11:59 pm ET).
+
+
+SCHOLARSHIPS CLOSED
+
+
+Applications close Sunday, November 1 (11:59PM Pacific Time), and all applicants will be notified within 14 business days of submitting their application, or no later than Friday, November 6.
+
+
+For questions regarding this event, please reach out to events@cncf.io.
+
+
+
+Putting Apache Cassandra™ on Automatic with Kubernetes hosted by DataStax
+Date: Tuesday, November 17 | Time: 12:00  – 3:00 PM ET | Location: VirtualRegistration Fees: Complimentary
+
+Deploying a scalable, elastic and self-healing data plane in Kubernetes should be easy. In this workshop we’ll show you how to do it with ready to go tooling that gives you everything you need to be successful. Apache Cassandra™ combined with Kubernetes compliment each other so well, you’ll wonder why you haven’t tried it before.
+Don’t compromise on your choice. You can use the same database that has been making a difference at companies like Home Depot, Netflix and Apple without having to become an expert at distributed systems. Data use cases from financial services transactions to entertainment streaming services all rely on Cassandra and impact our daily lives.
+In this workshop, we will introduce you to how Cassandra’s architecture and logical fault domains are complimented by Kubernetes. You’ll take a typical containerized application and deploy it with a fully automated data service backed by Apache Cassandra. Move fast with confidence and very few trade-offs. Don’t miss it!
+All attendees will receive a FREE Cassandra certification voucher ($145 value).
+For questions regarding this event, please reach out to erica.lien@datastax.com.
+
+
+
+ScaleX hosted by Cisco
+Date: Tuesday, November 17 | Time: 10:00 AM  – 5:00 PM ET | Location: VirtualRegistration Fees: US$20 (donated to the CNCF Diversity Scholarship Fund)
+
+Why join us for ScaleX?
+Today, it’s all about apps and digital services – not just to keep the business running – but to also grow and compete even more aggressively. But modern cloud native development can be complicated with the lack of true pipeline integration across tools for application platforms, security, and networking for an app-first world.
+This is exactly what inspired us to create ScaleX. We have a full day of sessions that explore what building for scalability and reliability means for the modern cloud native developer. At ScaleX, you’ll hear from the people building, operating, and maintaining reliable cloud native systems at scale in a full day of tutorials, deep dives, and use cases.
+It’s time to put scalability and reliability first when building, operating, and maintaining truly cloud native systems. So, be sure to join us at ScaleX!
+To learn more, visit the event web site!
+For questions regarding this event, please reach out to gkevorki@cisco.com.
+
+
+
+ServiceMeshCon North America hosted by CNCF
+Date: Tuesday, November 17 | Time: 10:00 AM  – 6:00 PM ET | Location: VirtualRegistration Fees: US$20
+
+ServiceMeshCon is a vendor-neutral conference on service mesh technologies, featuring maintainers across different service mesh projects and also showcasing the lessons learned from running service meshes in production.
+More details available here.
+
+
+CFP CLOSED
+
+
+Submissions close October 4 and speakers will be notified October 19, with all recordings due by October 30.
+
+
+SCHOLARSHIPS CLOSED
+
+
+Applications close Sunday, November 1 (11:59PM Pacific Time), and all applicants will be notified within 14 business days of submitting their application, or no later than Friday, November 6.
+
+
+For questions regarding this event, please reach out to events@cncf.io.
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+gold
+silver
+Start-up
+End User
+Diversity Supporters
+Media Partners 
+
+
+
+
+
+
+Join the CNCF mailing list to learn more about KubeCon + CloudNativeCon and other upcoming CNCF events!
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+#KubeCon + #CloudNativeCon
+
+
+
+
+Register
+Experiences
+Instant Giveaways
+CNCF Slack Workspace Community Guidelines
+Diversity + Inclusion
+Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+Interactive Sessions
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+

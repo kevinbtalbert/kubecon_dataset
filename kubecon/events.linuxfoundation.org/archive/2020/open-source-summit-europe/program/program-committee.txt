@@ -1,0 +1,924 @@
+
+
+
+
+Program Committee | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Explore the Tracks
+Featured Speakers
+Program Committee
+
+
+Features &Add-Ons
+
+Experiences
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Open Source Summit Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming Open Source Summit Europe. 
+
+
+
+
+
+
+ 
+
+
+						Program Committee					
+
+
+
+
+
+A very special thank you to our Open Source Summit Europe  2020 Program Committee! 
+
+
+
+
+
+
+ 
+
+
+Chris Aniszczyk
+VP, Developer Relations, The Linux Foundation and CTO, CNCF
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Jono Bacon
+OSS Event Chair & Founder, Jono Bacon Consulting
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Lukas Bulwahn
+Software Safety Key Expert, LF ELISA Project & BMW
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Donnie Berkholz
+OSS Event Chair & SVP, Product Management, Percona
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Divya Bhargov
+Engineering Director, Greenplum R&D, VMware
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+VM Brasseur
+Corporate Strategist, Open Source
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Jerry Cooperstein
+Director of Training, The Linux Foundation
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Jonathan Corbet
+Kernel Documentation Maintainer & Executive Editor, LWN.net
+
+
+
+
+
+Jonathan Corbet is the kernel documentation maintainer, co-founder of LWN.net, a member of the Linux Foundation’s Technical Advisory Board, and the lead author of Linux Device Drivers, Third Edition.  He lives in Boulder, Colorado, USA.
+ 
+
+
+
+
+
+
+ 
+
+
+Carles Cufi
+Open Source R&D Software Engineer, Nordic Semiconductor ASA
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Frédéric Desbiens
+Program Manager, IoT and Edge Computing, Eclipse Foundation
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Jake Edge
+Journalist & Editor, LWN.net
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Lee Elston
+Instructor / Course Maintainer, The Linux Foundation
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Kathy Giori
+Global Partnerships and Outreach, MicroBlocks
+
+
+
+
+
+Kathy Giori has spent her career of more than 30 years working in technology companies in the SF Bay Area. Her current focus to pay that career success forward is to spend much of her time supporting MicroBlocks, as head of Global Partnerships and Outreach. MicroBlocks is a non-profit STEM organization that has developed the first truly “live” open source physical computing tool for programming microcontrollers.
+
+
+As part of her industry career she was most recently Director of Product Engineering at ZEDEDA, and held numerous executive and product roles at Mozilla, Arduino, Qualcomm, Etak/Sony, SRI, and four startups, two of which she co-founded and led as CEO. Kathy volunteered as a TechWomen professional mentor for the last 4 years and continues to collaborate with fellows. She has given numerous talks at Linux Foundation and other industry events, has organized technology workshops, and is often promoting the benefits of open hardware and software to industry, since bridging open communities with industry drives faster innovation. She received her bachelor’s degree in Electrical Engineering from the University of Minnesota, and her master’s degree in Electrical Engineering from Stanford.
+ 
+
+
+
+
+
+
+ 
+
+
+Darren Hart
+Distinguished Engineer, Ampere Computing
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Maureen Helm
+Principal Software Engineer, Intel
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Nicole Huesman
+Director of Marketing and Community Outreach, O3DE
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Starlord
+Founder, Zilliz
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Sunil Kamath
+Director of Product Management, Microsoft
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Greg Kroah-Hartman
+OSS Event Chair & Linux Kernel Developer & Fellow, The Linux Foundation
+
+
+
+
+
+Greg is among a distinguished group of software developers who maintain Linux at the kernel level. In his role as Linux Foundation Fellow, he continues his work as the maintainer for the Linux stable kernel branch and a variety of subsystems while working in a fully neutral environment.
+ 
+
+
+
+
+
+
+ 
+
+
+Shuah Khan
+OSS Event Chair & Linux Fellow, The Linux Foundation
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Sasha Levin
+Sr. Staff Software Engineer, Google
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Kim Lewandowski
+Founder / Product, Chainguard, Inc
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Joshua Lock
+Open Source Software Engineer, VMware
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Yanjun Ma
+Director, Deep Learning Platform, Baidu
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Jeff McAffer
+Senior Director of Product, GitHub
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Dr. Michael Meskes
+CIO, Instaclustr Group & GM, credativ GmbH
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Ron Minnich
+Software Engineer, Google
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Duane O’Brien
+Head of Open Source, Indeed.com
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Nicole Pappler
+CTO & Founder, AlektoMetis
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Tim Pepper
+Principal Engineer, VMware
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Tameika Reed
+Founder & CEO, Women in Linux
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Steven Rostedt
+Software Engineer, Google
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Nithya Ruff
+Head of Amazon’s Open Source Program Office
+
+
+
+
+
+Nithya A. Ruff is the Head of Amazon’s Open Source Program Office. Open Source has provento be one of the world’s most prolific enablers of innovation and collaboration and Amazon’scustomers increasingly value open source innovation and the and cloud’s role in helping themadopt and run important open source services. She drives open source culture andcoordination inside of Amazon and engagement with external communities. Prior to Amazon,she started and grew Comcast and Western Digital’s Open Source Program Offices. OpenSource Program Offices are a critical part of a company’s digital transformation and innovationjourney.
+
+
+Nithya has been director-at-large on the Linux Foundation Board for the last 5 years and in2019 was elected to be Chair of the influential Linux Foundation Board. She works actively toadvance the mission of the Linux Foundation around building sustainable ecosystems that arebuilt on open collaboration. She is a passionate advocate and a speaker for opening doors tonew and diverse people in technology and can often be seen speaking and writing on this topic.Nithya graduated with an M.S. in Computer Science from NDSU and an MBA from theUniversity of Rochester, Simon Business School and is an aspiring corporate board director andgovernance enthusiast. You can follow her on twitter @nithyaruff and you can find heron https://www.linkedin.com/in/nithyaruff/
+ 
+
+
+
+
+
+
+ 
+
+
+Shilla Saebi
+Sr. Open Source Program Manager, Comcast
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Laura Santamaria
+Lead Developer Advocate, Dell Technologies
+
+
+
+
+
+As a Lead Developer Advocate at Dell Technologies, Laura Santamaria loves to learn and explain how things work to bridge the gaps in engineering disciplines. She is the curator for A Minute on the Mic, a cohost for The Hallway Track podcast, and the ex-host of Quick Bites of Cloud Engineering on YouTube. As a community member, she co-hosts Austin DevOps and Cloud Austin, taught Python for Women Who Code Austin for many years, organizes DevOpsDays Austin, is a member of the PyTexas Foundation, and has been a returning program committee member for Open Source Summit’s Cloud Open track. Outside of tech, Laura runs, plays with her dogs, throws discs, and watches clouds—the real kind.
+ 
+
+
+
+
+
+
+ 
+
+
+Amye Scavarda Perrin
+Program Manager, Cloud Native Computing Foundation
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Timothy Serewicz
+Training Program Director, The Linux Foundation
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Jason Smith
+Principal Engineer, UL LLC
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Kate Stewart
+OSS Event Chair & Vice President, Dependable Embedded Systems, The Linux Foundation
+
+
+
+
+
+Kate Stewart is a Senior Director of Strategic Programs, responsible for the Open Compliance programs encompassing the SPDX, FOSSology, OpenChain, and other compliance-related projects. Kate was one of the founders of SPDX, and is currently the specification lead. Since joining The Linux Foundation, she has also launched Real-Time Linux and Zephyr Project.
+
+
+With almost 30 years of experience in the software industry, she has held a variety of roles and worked as a developer in Canada, Australia, and the US and for the last 20 years has managed software development teams in the US, Canada, UK, India, and China. She received her Master’s in computer science from the University of Waterloo and her Bachelor’s of computer science (co-op program) from the University of Manitoba.
+ 
+
+
+
+
+
+
+ 
+
+
+Christopher Temple
+Lead Safety & Reliability Architect, Arm Germany GmbH
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Behan Webster
+Principal Consultant, Converse in Code
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Dr. Han Xiao
+Founder & CEO, Jina AI
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Elena Zannoni
+Sr. Engineering Director, Oracle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sponsors
+
+Diamond
+PLATINUM
+GOLD
+SILVER
+BRONZE
+Partner 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#ossummit
+
+
+
+
+Register
+Code of Conduct
+
+Sponsor
+Schedule
+Explore the Tracks
+Featured Speakers
+Program Committee
+
+Experiences
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

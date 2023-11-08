@@ -1,0 +1,260 @@
+
+
+
+
+Schedule | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+About
+Code of Conduct
+
+
+Program
+
+Schedule At-A-Glance
+Speaker Guidelines
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast LF Public Health EventsLF Public Health Website 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  LF Public Health Events. 
+
+
+
+
+
+
+
+
+
+						Schedule					
+
+
+
+
+Skip to page section11:00 AM - 12:30 PM ET: Plenary Sessions12:30 - 2:00 PM ET: Breakout SessionsThank You
+
+11:00 AM – 12:30 PM ET: Plenary Sessions
+
+ZOOM LINK
+SLACK LINK
+NOTES
+
+Plenary Talks
+Introduction to GAEN Symposium – Jenny Wanger, LFPH
+COVID-19 Public Health Essentials for App Developers – Kacey Ernst and Amanda Wilson, University of Arizona Public Health
+Diagnosis and Authentication Process – James Petrie and Tina White, Covid Watch
+Analytics, App Accuracy, and Disease Progression in a Community – Danese Cooper, NearForm, Ltd
+Measurements and Signal Attenuation – Bill Pugh, Professor of Computer Science at the University of Maryland
+Adoption, Notification and User Experience – Elissa Redmiles, Microsoft
+Recent API Changes to GAEN – Bill Pugh, Professor of Computer Science at the University of Maryland
+Closing Remarks – Ellie Daw, TCN Coalition
+
+
+
+12:30 – 2:00 PM ET: Breakout Sessions
+
+Breakout 1: Diagnosis and Authentication Process, Epidemiology for App DevelopersSlack: gaen-diagnosis-and-authentication
+
+ZOOM LINK
+SLACK LINK
+NOTES
+
+Breakout 2: Adoption, Notification and User ExperienceSlack: gaen-adoption-notification-ux
+
+ZOOM LINK
+SLACK LINK
+NOTES
+
+Breakout 3: Measurements and Signal AttenuationSlack: gaen-measurements-and-signal-attenuation
+
+ZOOM LINK
+SLACK LINK
+NOTES
+
+Breakout 4: Analytics, App Accuracy, and Disease Progression in a CommunitySlack: gaen-analytics-app-accuracy
+
+ZOOM LINK
+SLACK LINK
+NOTES
+
+Breakout 5: Roaming and FederationSlack: gaen-roaming-and-federation
+
+ZOOM LINK
+SLACK LINK
+NOTES
+
+
+
+
+Thank You!
+
+
+
+Speakers
+Amanda WilsonBill PughDanese CooperElissa RedmilesJames PetrieKacey ErnstTina White
+
+
+Co-Chairs
+Bill Pugh, University of MarylandEllie Daw, TCN CoalitionJenny Wanger, LFPHJolene Elizabeth, Covid Watch
+
+
+
+
+LFPH Staff
+Colleen MickeyMegan LehnTaylor WaggonerDan Kohn
+
+
+Volunteers
+Kate GallagherPatrick KentTara ShilkretTE ShawCathal RynneRichard Tran
+
+
+
+ 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+Register
+About
+Code of Conduct
+
+Schedule At-A-Glance
+Speaker Guidelines
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+

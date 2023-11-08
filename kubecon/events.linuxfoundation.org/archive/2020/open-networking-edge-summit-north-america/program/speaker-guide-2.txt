@@ -1,0 +1,342 @@
+
+
+
+
+Speaker Guide | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Explore the Tracks
+Featured Keynote Speakers
+Tutorials
+Program Committee
+
+
+Features &Add-Ons
+
+LF Networking + LF Edge Demos
+Co-Located Events
+Experiences
+Ask the Expert Sessions
+Nightly Networking
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Networking & Edge Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Networking & Edge Events. 
+
+
+
+
+
+
+ 
+
+
+						Speaker Guide					
+
+
+
+
+Skip to page sectionWelcomeDeadlinesRegistrationSchedule InformationPlatform & SpecsTechnical RequirementsPresentationLive Q&ATechnical Tips for Virtual PresentationsLighting, Webcam and Microphone Best PracticesAudience EngagementAdditional ResourcesPromote Your TalkInclusivity CourseCode of ConductContact Us
+
+Welcome
+
+We are excited to welcome you as a speaker for Open Networking & Edge Summit 2020 which will take place virtually, Monday, September 28 –Wednesday, September 30, beginning each day at 10:30am Eastern Standard Time (EST).
+NOTE: For specific virtual platform questions, please refer to the platform  FAQ sheet which will be updated continuously. If you have a question that is not included, please contact us to let us know. 
+This is your official event speaker guide. Please bookmark this page for easy reference and continue to check back as the event gets closer as we will be adding additional speaker details. If you have any questions, please email us at cfp@linuxfoundation.org. 
+Please click through the tabs on this page to access information.
+
+
+
+Important Dates + Deadlines
+
+Speaker Registration Deadline: N/APre-Recording Slide Due Date: 48 hours before your recording appointment (your 16:9 PowerPoint slide presentation and any videos must be sent separately – do not embed the videos! If you need to submit a PDF, please also send that to us and we will prepare it for uploading into the system)Self-Recorded Video Due Date:  This must be received by 8:00pm on Friday, September 18Event Dates: Monday, September 28 –Wednesday, September 30, beginning each day at 10:30am Eastern Standard Time (EST)
+For more details on session format and slide upload, please refer to the platform FAQ sheet.
+
+
+
+Registration
+
+All speakers should already be registered. If you are not registered yet and you need this information, or need us to resend your confirmation, please email cfp@linuxfoundation.org.
+
+
+
+Schedule + Uploading a Bio/Photo
+
+The schedule has been posted on our website using sched.com. You will receive an email directly from sched.com asking you to create your account; please make sure to upload your bio and photo.
+If you would like to make updates to your speaker profile on Sched.com (biography, headshot, titles), send updates directly to cfp@linuxfoundation.org, so they can be integrated with the virtual platform. 
+The event will take place in Eastern Daylight Time (EDT) and each day will be less than seven hours in duration.
+Please review the schedule and notify us immediately if you believe you will not be able to participate for Q&A at the time your session is scheduled for. To display the times in your own timezone please choose your timezone from the drop-down menu on the right side of the schedule, just above “Filter by Date.”
+
+
+
+
+Platform & Specifications
+
+We are using a virtual event platform called INXPO by Intrado that will allow speakers to deliver content via pre-record talks and join live for Q&A text chat with attendees. The platform is web-based with HTML5 and will be easy for everyone to access and use. All talks will be available on INXPO for viewing for 1 year after the event, and we will also be moving them to YouTube so anyone, anywhere, can view them as well.
+The INXPO by Intrado platform is allowing us to create an immersive experience for attendees, with educational sessions that offer speaker and attendee Q&A and interaction, attendee collaboration & networking through topical chat rooms, and 1:1 and group chats, gamification to keep attendees engaged throughout the event, and a sponsor and tech showcase that offers 3D booths where attendees can view demos, download resources, check out job openings, and speak directly with booth reps. 
+We know you have a lot of questions about the platform, and we have put together an FAQ sheet, which will be updated continuously as we work through all aspects of the virtual event. If you have a question that is not included, please contact us to let us know. 
+
+
+
+Technical Requirements
+
+Run a system check to ensure your computer is configured properly for the platform.Please also run a compatibility check, which tests your webcam and audio devices, along with WebRTC and WebSocket connectivity on your network for streaming media (which includes webcam/microphone, screen share,  media files, VCU, Encoder, etc.). If you encounter any issues, please refer to INXPO’s additional computer tips which provide additional information to help optimize your system set-up. 
+
+
+
+Presentation
+
+All speakers that are pre-recording are required to submit their final PowerPoint presentation slides formatted in 16:9 and any accompanying videos ahead of the event. At least 48-hours prior to your recording appointment, you must upload your PowerPoint presentation slides and any accompanying videos into your designated folder:
+Go to the Session Recordings FolderFind the folder with the date of your recording appointmentClick on that folder to openLocate the folder with the time of your appointment, open folderUpload your PowerPoint formatted presentation slides and any accompanying videoEmail the ONES content team once you have done the above
+IMPORTANT NOTE: Please make sure your presentation is viewable by anyone. The Intrado team will need to be able to see your presentation in order to download and then upload into the platform.
+You will receive a calendar invite from Intrado 24-hours before the recording, and this will include the details needed to access the platform and your session. 
+If you want to record your presentation on your own, Intrado accepts MP4 files, H.264 codec that are less than 4GB and in 16:9 format and we will need to receive these by Friday, September 18. 
+A conference branded presentation template is available for download and please note, use of the template is optional.
+
+
+
+Live Q&A
+
+As with physical events, live interaction is essential to the success of virtual events and we are asking every presenter to be available during their session for live Q&A via text chat within the platform. This will provide added value to the audience and create more of an ‘event’ experience. Please ensure you have set aside 5–7 minutes within your allotted presentation time for questions that you will be able to answer within the system’s chat tool and over the phone bridge, once the pre-record session is over.
+If you are concerned about your timezone and how that could impact the live Q&A portion of your session, we will do our best to reschedule your session slot to a time that is convenient for you. If you are not comfortable with the idea of a live Q&A, or cannot participate “live,” please contact us immediately.
+
+
+
+Technical Tips for Virtual Presentations
+
+Audio – as counterintuitive as it may sound, the single most important factor in a good video, is the audio quality. Eliminate ambient noise – close the doors and windows. You’d be surprised how much environmental noise gets picked up.Lighting – Do not put lights overhead and don’t put any lights or windows behind you as they will alter the light levels in your videos and create shadows.Background – don’t be afraid to show your natural environment – bookcases, plants, paintings – as long as they are not too distracting.Framing – place yourself slightly off-center to the left or right rather than directly in the middle of the frame.Camera Height – the lens should either be directly level or pointing ever so slightly downwards towards your face.Stand – we recommend you stand during your presentation to help project your voice and improve your posture. However, if you’re more comfortable sitting, then please do.Timer – Have a clock to keep track of the time you have remaining. 
+Source: https://www.greatspeech.co/video-presentations/
+
+
+
+Lighting, Webcam and Microphone Best Practices
+
+Best Practices for Lighting
+For best results, use natural light and supplement with additional light as needed.Keep natural light in front of you to avoid shadows. A bright window behind you can make you appear as a dark silhouette. Interior rooms with no natural light source may require additional targeted lighting, such as a ring light, to brighten the speaker’s face.
+Best Practices for Webcams
+To ensure the speaker is looking directly at the audience, place the webcam at eye level.Avoid distracting backgrounds by checking the surroundings behind you to make sure there are no distracting colors or movement.Presenters should use chairs that are adjustable for height but do not swivel. Swiveling on camera creates a poor attendee experience and can be distracting.
+Best Practices for Microphones
+Use external microphones whenever available, as microphones built into computers and cameras often have lower quality. An external microphone allows the speaker to place it in the optimal location for sound.Place the microphone close to the speaker’s mouth, but not in the camera view.Test audio levels in advance.Manage noise by turning off fans, phones, or speakers and keep ambient noise to a minimum. Do not touch the microphone while unmuted.
+Dress Code
+There is no dress code for presentations, and we encourage you to be comfortable. That said, you must be aware that the Code of Conduct applies to this space, both in terms of what you show on camera and what you say. We ask that you be tasteful and considerate in choosing your clothing and surroundings. Keep in mind that we are a global community. Please refrain from wearing shirts with global brand logos that are not your own. Solid colors (not white) also work best instead of prints. 
+
+
+
+Tips to Keep Your Virtual Audience Engaged
+
+Learn the Content: Familiarity with the content allows a speaker to focus on presenting, rather than trying to remember the points to make. To minimize worry about forgetting elements of the presentation, include notes in your presentation file and have a printout of your script or talking points.Practice Makes Perfect: Speakers should practice their content delivery in the environment in which they will deliver it, such as in front of a computer. Presenting alone to a computer can be awkward at first. To make speakers more comfortable, ask colleagues, roommates, or family to sit in front so they can present to familiar faces.Understand the Tools: Speakers should understand and utilize the content options available to them, to maximize the effectiveness of the presentation technology. It’s important to know the basic functions of the software, e.g. how to advance slides, manage Q&A or chats, before the presentation. Speak Up: Check audio levels before presenting, but also make sure to breathe at regular intervals to speak audibly and clearly. Maintaining a clear, even tone throughout the presentation will allow the audience to hear it without adjusting their volume settings.Look at Your Camera: If presenting via video, remember, the webcam is your link to your audience. Make eye contact with the camera so it appears to the audience that you are speaking directly to them.Don’t Fear Mistakes: Humans make mistakes, even during presentations. Realize that flubs happen and they won’t derail your presentation – unless you let them. Just keep going in your planned presentation and remember, the audience is forgiving.Be Prepared: During the presentation, have a glass of water nearby to sip as needed. Also, keep handy a printout of your slides or notes in case you need to refer to them.
+Source: https://www.inxpo.com/assets/pdfs/litepapers/How-To-Be-An-Engaging-Speaker.pdf
+
+
+
+Additional Resources
+
+Best Gear for Online Meetings | Webcams, lights, mics, tripods and more19 Video Presentation Tips to help you give a great presentation (even if you hate the way you look on camera)9 Tips for Giving Engaging Virtual Presentations | This article gives 9 tips and within each tip has folks from the tech world giving their advice in a fun/relatable way.PACE Acronym for Virtual PresentationsChecklist for Speakers | This article provides checklists applicable for speakers that are live streaming.
+
+
+
+Promote Your Talk
+
+We appreciate you spreading the word about #ossummit and your session – please find some sample tweets below to share on your social channels!
+Proud to be chosen as a speaker for #onesummit– visit “link to your session” to add my talk to your schedule!Thrilled to announce I’ll be presenting at #onesummit! Visit https://bit.ly/31qdfB9 to see the full schedule 👍Can’t wait to speak at #onesummit – visit https://bit.ly/2ZYOv2w to check out the full lineup!
+We also encourage you to share the following graphic on your social posts. 
+
+
+
+
+Inclusive Speaker Orientation Online Course
+
+The Linux Foundation, in collaboration with the National Center for Women in Technology (NCWIT), has created an online course designed to teach the viewer about inclusion, diversity, and unconscious bias. We highly recommend all of our speakers watch the course to learn tips/tools to use when speaking to encourage inclusivity in presentations and messaging. 
+
+
+
+Code of Conduct
+
+Please read and abide by our code of conduct, which can be found here. We ask that speakers especially review this code of conduct and are inclusive in the words and images used during their presentation.
+
+
+
+Contact Us
+
+We have provided an FAQ sheet for the platform, which will be updated continuously, but if you have a question that is not included, please contact us to let us know. 
+If you have any other speaker or schedule-related questions, please let us know.  
+
+ 
+
+
+
+
+Sponsors
+
+Diamond
+Gold
+Bronze
+Partner 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#onesummit
+
+
+
+
+Register
+Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+Explore the Tracks
+Featured Keynote Speakers
+Tutorials
+Program Committee
+
+LF Networking + LF Edge Demos
+Co-Located Events
+Experiences
+Ask the Expert Sessions
+Nightly Networking
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

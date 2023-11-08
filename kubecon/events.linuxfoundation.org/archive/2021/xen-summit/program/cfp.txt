@@ -1,0 +1,245 @@
+
+
+
+
+Call For Proposals (CFP) | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Xen EventsXen Project Homepage 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Xen Events. 
+
+
+
+
+
+
+ 
+
+
+						Call For Proposals (CFP)					
+
+
+
+
+Skip to page sectionOverviewDates to RememberSuggested TopicsSubmission TypesImportant NotesPreparing to SubmitCode of Conduct
+
+The Xen Project Developer and Design Summit Call for Proposals is now closed.
+
+
+Overview
+
+The Xen Project Developer and Design Summit brings together the Xen Project’s community of developers and power users for their annual developer conference. The conference is about sharing ideas & the latest developments, sharing experiences, planning, collaboration, and above all, having fun and meeting the community that defines the Xen Project.
+CFP CLOSED
+
+
+If you have not yet used the CFP system, you will be required to register and create an account before submitting.Please CREATE YOUR ACCOUNT before submitting for the first time. Thank you!
+
+
+
+Dates to Remember
+
+CFP Closes: 11:59 PM PST on Friday, April 9CFP Notifications: Tuesday, April 27Schedule Announcement: Wednesday, April 28Slide Due Date: Friday, May 21Event Dates: Tuesday, May 25 – Friday, May 28, 2021
+
+
+
+Suggested Topics
+
+HypervisorSecurityToolsPerformanceCommunityUnikernelsProcessEmbedded / AutomotiveCase Study / User Story
+
+
+
+Submission Types
+
+Session Presentation – 30 minutes in lengthPanel Discussion – 30 minutes in length
+
+
+
+Important Notes
+
+All speakers are required to adhere to our Code of Conduct. We also highly recommend that speakers take our online Inclusive Speaker Orientation Course.Complimentary Passes For Speakers – Complimentary passes for the event will be provided for the accepted speaker(s) per submission.Panel submissions must include the names of all participants in the initial submission to be considered. In addition, The Linux Foundation does not accept submissions with all-male panels in an effort to increase speaker diversity.Avoid sales or marketing pitches and discussing unlicensed or potentially closed-source technologies when preparing your proposal; these talks are almost always rejected due to the fact that they take away from the integrity of our events, and are rarely well-received by conference attendeesAll accepted speakers are required to submit their slides prior to the event
+
+
+
+
+Preparing to Submit Your Proposal
+
+While it is not our intention to provide you with strict instructions on how to prepare your proposal, we hope you will take a moment to review the following guidelines that we have put together to help you prepare the best submission possible. To get started, here are three things that you should consider before submitting your proposal:
+What are you hoping to get from your presentation?What do you expect the audience to gain from your presentation?How will your presentation help better the ecosystem?
+There are plenty of ways to give a presentation about projects and technologies without focusing on company-specific efforts. Remember the things to consider that we mentioned above when writing your proposal and think of ways to make it interesting for attendees while still letting you share your experiences, educate the community about an issue, or generate interest in a project.
+First Time Submitting? Don’t Feel Intimidated
+Linux Foundation events are an excellent way to get to know the community and share your ideas and the work that you are doing and we strongly encourage first-time speakers to submit talks for our events. In the instance that you aren’t sure about your abstract, reach out to us and we will be more than happy to work with you on your proposal.
+How To Give a Great Tech Talk
+In the instance that your talk is accepted, we want to make sure that you give the best presentation possible. To do this, we enlisted the help of seasoned conference speaker Josh Berkus who has prepared an in-depth tutorial on “How to Give a Great Tech Talk”.
+Part 1: http://www.youtube.com/watch?v=iE9y3gyF8Kw
+Part 2: http://www.youtube.com/watch?v=gcOP4WQfJl4
+
+
+
+Code of Conduct
+
+The Linux Foundation is dedicated to providing a harassment-free experience for participants at all of our events. We encourage all submitters to review our complete Code of Conduct.
+
+ 
+
+
+
+
+Sponsors
+
+platinum 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+ 
+#xendevsummit
+
+
+
+
+Code of Conduct
+
+Sponsor
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

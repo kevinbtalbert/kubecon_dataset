@@ -1,0 +1,526 @@
+
+
+
+
+PrestoCon Day 2021 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Diversity & Inclusion
+Code of Conduct
+
+
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Emerging Technology EventsPresto Homepage 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Emerging Technology Events. 
+
+
+
+				PrestoCon Day			
+
+
+
+
+
+
+All Things PrestoDB
+
+March 24, 2021
+10:00 AM EDT / 3:00 PM GMT
+Free Virtual Experience | #prestocon
+
+Thank you for attending PrestoCon Day 2021!
+Thank you to all our attendees, speakers, and contributors that joined us virtually this year from around the world. To experience the best of the event, be sure to watch all sessions on the Presto Foundation YouTube Channel. You can also review session slides from speakers who provided them via the event schedule.
+
+
+FEATURED SPEAKERS
+
+
+
+
+
+
+
+
+ 
+
+
+Chunxu Tang
+Software Engineer, Twitter
+
+
+
+
+
+Chunxu is a software engineer in Twitter’s Interactive Query team where he works on developing and maintaining Presto and Druid services. He received his doctoral degree from Syracuse University, where he did research on machine learning and distributed collaboration systems
+ 
+
+
+
+
+
+
+ 
+
+
+Dipti Borkar
+Co-Founder and Chief Product Officer, Ahana
+
+
+
+
+
+Dipti is the co-founder and CPO of Ahana with over 15 years of experience in distributed data and database technology including relational, NoSQL, and federated systems. She is also the Presto Foundation Outreach Chairperson. Prior to Ahana, Dipti held VP roles at Alluxio, Kinetica, and Couchbase. At Alluxio, she was Vice President of Products and at Couchbase she held several leadership positions there including VP, Product Marketing, Head of Global Technical Sales, and Head of Product Management. Earlier in her career, Dipti managed development teams at IBM DB2 Distributed where she started her career as a database software engineer. Dipti holds an M.S. in Computer Science from UC San Diego and an MBA from the Haas School of Business at UC Berkeley.
+ 
+
+
+
+
+
+
+ 
+
+
+Maxime Beauchemin
+CEO & Founder, Preset
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Girish Baliga
+Engineering Manager, Uber
+
+
+
+
+
+Girish manages Presto, Pinot, and Flink teams at Uber. Before that, he spent over a decade optimizing resources, search ads, and geo data analytics at Google, interrupted by a brief start-up stint at Urban Engines. He has a PhD in Computer Science and an MS in Math from UIUC.
+ 
+
+
+
+
+
+
+ 
+
+
+Kishore Gopalakrishna
+PMC, Apache Pinot
+
+
+
+
+
+Kishore Gopalakrishna is a founding engineer at a stealth mode startup. Prior to that, he was the architect at LinkedIn’s analytics infra team. Kishore is passionate about solving hard problems in distributed systems. He has authored various distributed systems such as Apache Helix, a cluster management framework for building distributed systems; Espresso, a distributed document store; Apache Pinot, a real-time distributed OLAP engine; and ThirdEye, a platform for anomaly detection and root cause analysis at LinkedIn.
+ 
+
+
+
+
+
+
+ 
+
+
+Yunlei Ma
+Senior Engineer, Alibaba Cloud
+
+
+
+
+
+Graduated from Shanghai Jiao Tong University in 2012 , majoring in computer science. I Join Alibaba Cloud in 2012 and has been working for log service team since then. I started using and developing Presto for analyzing log data since 2017, and have done a few of optimization of Presto. I have two public speaking experience(With Chinese), the first topic is “Log collection and analyzing in serverless environment”, the second topic is “Data driven devops practice of full stack engineer”.
+ 
+
+
+
+
+
+
+ 
+
+
+Biswapesh Chattopadhyay
+Tech Lead, DI Compute & Modernization, Facebook
+
+
+
+
+
+Biswapesh currently leads the Data Infrastructure Compute Engines (Presto, Spark, Streaming, etc.) and Modernization efforts at Facebook. He is a deep domain expert on Big Data with over two decades of experience in exa scale data infrastructure and distributed systems. He is the founder of several key data infrastructure components at Google such as Tenzing and Procella, and primary inventor of several key patents on MapReduce, query processing, NLP and Ads optimizations.
+ 
+
+
+
+
+
+
+ 
+
+
+Vinoth Chandar
+Vice President, Apache Hudi
+
+
+
+
+
+Vinoth Chandar is the original creator & VP of the Apache Hudi project, which has changed the face of data lake architectures over the past few years. Vinoth has a keen interest in unified data storage/processing architectures.Currently, Vinoth Chandar drives various efforts around stream processing at Confluent. In the past, Vinoth has built large-scale, mission-critical infrastructure systems at companies like Uber and LinkedIn.
+ 
+
+
+
+
+
+
+VIRTUAL SCHEDULE AT A GLANCE
+All session times are in Eastern Daylight Time (EDT), UTC -4.
+
+
+VIEW THE FULL SCHEDULE
+
+
+Wednesday, March 2410:00 AM – 10:30 AM EDTWelcome & Keynotes by Program Committee & PF Chairs10:30 AM – 1:35 PM EDTTrack Sessions1:35 PM – 2:05 PM EDTNetworking + Live DJ2:05 PM – 5:15 PM EDTTrack Sessions5:15 PM – 6:15 PM EDTPresto Community Happy Hour & Trivia
+
+
+
+
+2021 includes speakers from
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+photos from prestocon 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Premier Sponsor
+Event Parter
+Community Partner
+
+
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+ 
+#prestocon
+
+
+
+
+Diversity & Inclusion
+Code of Conduct
+
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

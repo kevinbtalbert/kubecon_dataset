@@ -1,0 +1,424 @@
+
+
+
+
+Virtual Event Platform Speakers FAQ | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Experiences
+Instant Giveaways
+CNCF Slack Workspace Community Guidelines
+Diversity + Inclusion
+Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Interactive Sessions
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon North America. 
+
+
+
+
+
+
+ 
+
+
+						Virtual Event Platform Speakers FAQ					
+
+
+
+
+Skip to page sectionOverviewPlatform + SpecificationsSession DeliveryPre-recorded Sessions - Within the PlatformPre-recorded Sessions - Self-Recording (Recommended)Live Q&ASchedule + Speaker Point of Contact
+
+
+Overview
+
+We are excited to welcome you as a speaker for KubeCon + CloudNativeCon North America 2020 which will take place virtually, Tuesday, November 17–Friday, November 20, beginning each day at 1:00PM Eastern Standard Time, (UTC–05:00).
+The information provided below is intended to provide further details and answer questions about the virtual event platform, Intrado. 
+If you have general questions about the event, or would like virtual presentation tips, please refer to the Speaker Guide or the Web Presenting: Gear Tips + Enhancing Your Remote Studio document. If you have a question about the platform that is not included below, please contact us to let us know. 
+Please note: The bulk of the information is geared towards non-Keynote speakers. If you are a Keynote speaker, the information may still be helpful but please note a few items like pre-recording and live Q&A are not relevant to you.
+
+
+
+
+Platform + Specifications
+What platform is being used?
+We are using a virtual event platform called Intrado that will allow speakers to deliver content by live stream or pre-record talks and join live for Q&A text chat with attendees. The platform is web-based with HTML5 and will be easy for everyone to access and use.
+What does the platform offer? 
+The Intrado platform is allowing us to create an immersive experience for attendees, with educational sessions that offer speaker and attendee Q&A and interaction, attendee collaboration & networking through topical chat rooms, and 1:1 and group chats, gamification to keep attendees engaged throughout the event, and a sponsor and tech showcase that offers 3D booths where attendees can view demos, download resources, check out job openings, and speak directly with booth reps.
+How do I make sure I can access the platform? 
+Run a system check to ensure your computer is configured properly for the platform.Run a compatibility check, which tests your webcam and audio devices, along with WebRTC and WebSocket connectivity on your network for streaming media (which includes webcam/microphone, screen share,  media files, VCU, Encoder, etc.). For any issues, refer to Intrado’s computer tips which provide additional information to help optimize your system set-up. 
+How long will talks be available on the platform? 
+All talks will be available on Intrado for viewing until a yet-to-be-determined time, and we will also be moving them to YouTube so anyone, anywhere, can view them as well.
+
+
+
+
+
+Session Delivery & General Information
+What options do I have to deliver my talk?
+Breakout, tutorial, and Maintainer Track sessions will be required to pre-record their talk, either within the Intrado platform or self-record (recommended).If you are a keynote presenter, we will follow up with you directly on your options.
+
+Is live Q&A required either way?
+All speakers will be required to be present during their session at the event for live Q&A with attendees. Please make time at the end of your presentation for Q&A. Example: If your session is 35-minutes in duration, please only record at 20–25 minute presentation so that the last 10–15 minutes can be used for Q&A. For Tutorials, we recommend 60–70 minutes of recorded presentation with 20–25 minutes left for Q&A. If you cannot participate in Q&A, please let Nanci Lancaster know immediately. 
+Note: The inability to participate in live Q&A will not affect your presentation acceptance in the conference. We can still play your recorded content.
+
+I want to interact more with attendees than a pre-recorded session allows. Is it possible to deliver my talk in another way?
+Unfortunately, we are only allowing sessions to be delivered via pre-recording and are not allowing any sessions to present live.
+
+My presentation doesn’t really make sense virtually. Can I request a change to my talk to tailor it more to an online presentation?
+To update your session and tailor it for the virtual event, please contact us.  Change requests must be made no later than Friday, October 9.
+
+I want to provide my own recording. Is this possible?
+Short answer: Yes. Longer Answer: Because of the limitations with the virtual event platform on presentation format and limited supported animations and fonts (eg, emojis are not supported), we highly recommend that you record your presentation on your own. 
+We can accept MP4 files, H.264 codec that are less than 4GB in file size, less than 2MB Bitrate, and in 16:9 format. Note: Your final MP4 file is due Thursday, October 22, 11:59 PM EDT. The reason for this deadline is that we have to stitch together an informative video with all self-recorded videos and upload these videos into the platform no later than October 30. In order to meet this deadline, we have to have all self-recordings sent to us by October 22.
+You must upload the recording by Thursday, October 22. This is a hard deadline. If you cannot meet this deadline we may have to cancel your session.
+Please upload your .mp4 file into the Google Folder and make sure your file is named in this format: 
+DateOfPresentation_TitleOfPresentation_YourName.mp4
+Example: Nov18_How_to_share_video_files_Nanci_Lancaster.mp4
+Email Nanci Lancaster as soon as you have uploaded your video file so she can move it to a private folder.
+Note: If you self-record, the software you choose and the way you present is entirely up to you. Want to show your face or not; want to use PowerPoint, Keynote, or Google slides, or no slides, totally up to you. Please make sure the resolution of your file is at least 720p.
+Recommended Recording Software Options: Vimeo, OBS: Open Broadcaster Software, Zoom, Bandicam, Twitch, Screencast-O-Matic
+Helpful Zoom Documents:
+Enabling HD Video (This is disabled by default, so you will need to enable it before recording)Recording Side-by-Side for more than one speaker sessionsHow to Record in Zoom Instructional Video – Created by our A/V vendor, Matt O’Donnell, guiding you through recording your presentation for either single or multiple speaker sessions, as well as providing tips on lighting, cameras, and audio.
+
+I am presenting a tutorial. How does pre-recording work with this format?
+We recommend recording 60–70 minutes of presentation teaching the attendees the content and leaving 20–25 minutes for Q&A at the end to answer any questions the attendees may have.
+Helpful Examples of Pre-Recorded Tutorials from KubeCon + CloudNativeCon Europe 2020 VIrtual event:
+Tutorial: Communication is Key – Understanding Kubernetes NetworkingTutorial: Building Secure & Decentralized Global Applications on Kubernetes with NATS
+
+I am scheduled for a 35-minute session, do I need to use all of that time?
+No, you aren’t required to speak for the full 35-minutes and we actually recommend planning to speak for about 20–25 minutes, and leaving at least 10 minutes for questions. We find that 20–25 minutes is perfect in keeping attendees attention.
+
+My session time doesn’t work due to my location. Can I move my session?
+Please contact us and we will try to accommodate your request to the best of our ability. Change requests must be made no later than Friday, October 9. Please note that if you are unable to participate in live Q&A due to time zone issues, we can still show your recorded presentation.
+
+What happens if I have to cancel my pre-recording session last minute? Can I reschedule?
+Once you reserve a slot to record your session within the Intrado platform, that is final and we are unable to accommodate time swaps and/or rescheduling. With over 200 sessions and 300+ speakers, bandwidth is extremely limited and we cannot make scheduling changes. If you have to cancel at the last minute, or do not make your appointment, you will not have another chance to pre-record in the platform and you will have to submit a self-recording to us no later than October 22.
+
+Will my speaker notes transfer over?
+Speaker notes will transfer over but the space allocated for them is small, and can be hard to read once your pre-record session starts so we recommend keeping them brief and using short bullets. We highly recommend either using a second screen next to your monitor, or even print out a copy of the notes to have on hand and refer to.
+
+My presentation includes a demo, can I share my screen for that?
+Yes, you can share your live screen for a demo. Unfortunately, you cannot switch from your screen share to another camera because if you switch the camera input, it will take away the audio from the computer so we would not be able to hear you.
+
+I am submitting a .PPTX file to record within the platform, what animations and build are supported?
+All Slide LayoutsAll Standard FontsBullet Points and NumbersAll Standard Charts and GraphsAll Standard ShapesUser Drawn ShapesConverts Uploaded ImagesSmart ArtHyperlinksConverts Artistic Effects3D Images and AnimationAll Exit and Entrance EffectsAll Standard Motion PathsCustom Motion PathsWAV Audio files only
+NOT Supported Animations and Builds:
+Multi-ThreadChart animations“repeat until end of slide” Animations“by letters” animation of Word Art objectsVideo (use Video Slides in Studio)Slide TransitionsAudio File Types excluding WAVPassword ProtectionVBA scriptsSlide Note StylesCustom WatermarkUpdated Date and TimePortrait OrientationsAudio of midi formatHighlight clickEmojisGifsCustom Fonts
+
+How do I get access to my session for live Q&A?
+You will receive a calendar invitation from the Intrado team which will include a personalized link to log-into, and a phone bridge number that you have to dial into. Log-on and dial in 30 Minutes before your session, and the Intrado engineer, and an LF representative, will be in there to get your tech tested and prepare you for the session.
+Note for Residents Outside the US & Canada: Underneath the phone bridge information, you will see a line that says, “For additional dial-in numbers, click here.” Just click that, choose your country, and it will give you additional options for call-in numbers local to you – you would still want to use the same conference code, as that is unique to your session.
+
+
+
+
+Pre-recorded Sessions – Within the Platform 
+I want to pre-record my session in the platform, what do I do now? 
+If you are pre-recording within the platform, you will need to book a time to record with an Intrado engineer by filling out this form and entering the access code: KCCNCNASPKREC. 
+At least 48-hours prior to your recording appointment, you must upload your PowerPoint presentation slides and any accompanying videos into your designated folder:
+Go to the Session Recordings FolderFind the folder with the date of your recording appointmentClick on that folder to openLocate the folder with the time of your appointment, open folderUpload your PowerPoint formatted presentation slides and any accompanying videoEmail Nanci Lancaster once you have done the above
+IMPORTANT NOTE: Please make sure your presentation is viewable by anyone. The Intrado team will need to be able to see your presentation in order to download and then upload into the platform.
+You will receive a calendar invite from Intrado 24-hours before the recording, and this will include the details needed to access the platform and your session. 
+
+Who sends the invite to the recording session?
+This invitation will come from a member of the Intrado team. As a reminder, the calendar invite will not be sent until 24 to 48-hours before the recording appointment, so make sure you block off the time on your calendar the moment you book your recording appointment.
+
+What happens in the recording session?
+You will receive details instructions on how to log-in to the platform and phone bridge via the calendar invite. When you log-in via the link you were sent in the calendar invite and dial-in to the phone bridge, you will meet with the engineer for 20 minutes and they will walk you through the system, show you how to advance your slides, and answer any questions you might have. After 15-20 minutes, you will be ready to record and the engineer will walk you through the process. You will only have one chance at recording your talk; they cannot stop/restart the recording or edit the recording afterwards.
+
+Will you provide any platform training to help us feel more comfortable recording our session?
+The engineer will spend 20 minutes reviewing the platform with you and we also recommend that prior to your recording date, you watch the Intrado Studio Speaker & Moderator Training, which provides platform training as well. Note: If the training video fails to load, try loading it in an incognito window.
+
+What presentation formats are supported when recording in the platform?
+The platform only supports PowerPoint format. We’ve created an optional presentation template for you to use. Note that this template is updated from the one we previously created earlier this year.
+We understand limiting to PowerPoint as a presentation format is not ideal and apologize for the inconvenience this may cause. If you have any issues with converting your presentation to PowerPoint, please let us know as we are happy to convert your file for you. We do request that if we are converting your slides, you limit it to basic fonts to make it easier for us. If you wish to convert your presentation on your own from PDF, we recommend following Adobe’s instructions on how to convert to PowerPoint. If you are using Google Slides, Keynote, or any other presentation software, we recommend using their built-in export-to-PowerPoint converter and reviewing for any custom text errors before sending your presentation to us.
+
+I want to use slides in my talk. How do I do that?
+You are required to upload your final presentation slides and any videos that are part of your presentation into the designated Google folder according to the date and time of your recording appointment at least 48-hours prior to your booked time with the engineers. Any separate video files must be under 4GB in size. Please do not embed your videos.
+
+I am submitting a .PPTX file for recording within the platform, what animations and build are supported?
+All Slide LayoutsAll Standard FontsBullet Points and NumbersAll Standard Charts and GraphsAll Standard ShapesUser Drawn ShapesConverts Uploaded ImagesSmart ArtHyperlinksConverts Artistic Effects3D Images and AnimationAll Exit and Entrance EffectsAll Standard Motion PathsCustom Motion PathsWAV Audio files only
+NOT Supported Animations and Builds:
+15Multi-ThreadChart animations“repeat until end of slide” Animations“by letters” animation of Word Art objectsVideo (use Video Slides in Studio)Slide TransitionsAudio File Types excluding WAVPassword ProtectionVBA scriptsSlide Note StylesCustom WatermarkUpdated Date and TimePortrait OrientationsAudio of midi formatHighlight clickEmojisGifsCustom Fonts
+ 
+
+Will my speaker notes transfer over?
+Speaker notes will transfer over but the space allocated for them is small, and can be hard to read once your pre-record session starts so we recommend keeping them brief and using short bullets. We highly recommend either using a second screen next to your monitor, or even print out a copy of the notes to have on hand and refer to.
+
+Can I embed videos in my presentation?
+Do not embed any videos in your slides. You will need to upload any videos separately, in .mp4 format only into the designated Google folder. Intrado will upload any videos prior to your recording session and walk you through how it will all work.
+
+When do you need my slides and video?
+We need to receive your slides by 7:00AM Pacific Daylight Time (EDT) two days BEFORE your recording. Please upload your final presentation slides and any videos that are part of your presentation into the designated Google folder.
+
+What happens if I don’t send my presentation or videos before my recording session?
+This means that you will lose at least 10–20 minutes of practice time as the Intrado engineer will have to use that time to upload your slides and get them synced in their system.
+
+If I make a mistake, will that get edited out?
+Unfortunately, there will not be an opportunity to edit the session recording if you make a mistake. People make mistakes, even during presentations. Realize that flubs happen and they won’t derail your presentation – unless you let them. Just keep going in your planned presentation and remember, the audience is forgiving. 
+
+My presentation has more than one speaker. Do we all need to be present at the same time to record the session on the platform?
+Yes, you will all need to be present if you choose to pre-record your session. Please note that you do not have to be in the same space, as you will all get links to the session and will join remotely. 
+
+What happens if I have to cancel my pre-recording session last minute? Can I reschedule?
+Once you reserve a recording appointment, that is final and we are unable to accommodate time swaps and/or rescheduling. With over 200 sessions, and 300+ speakers, bandwidth is extremely limited and we cannot make scheduling changes. If you have to cancel at the last minute, or do not make your appointment, you will not have another chance to pre-record and you will have to upload your own self-recording .mp4 file no later than Thursday, October 22.
+
+I want to change a slide in my deck before the event, is this possible after I have recorded?
+No, we cannot update slide decks after you have recorded your presentation.
+
+Can I edit my slide deck after the event?
+Unfortunately, we cannot update decks after the event.
+
+
+
+
+Pre-recorded Sessions – Self-Recording Outside of Platform (Recommended)
+I want to pre-record my session on my own, outside of the platform, what do I do now? 
+Because of the limitations with the virtual event platform on presentation format and limited supported animations and fonts (eg, emojis are not supported), we highly recommend that you record your presentation on your own. 
+We can accept MP4 files, H.264 codec that are less than 4GB in file size, less than 2MB Bitrate, and in 16:9 format. Note: Your final MP4 file is due Thursday, October 22, 11:59 PM EDT. The reason for this deadline is that we have to stitch together an informative video with all self-recorded videos and upload these videos into the platform no later than October 30. In order to meet this deadline, we have to have all self-recordings sent to us by October 22.
+You must upload the recording by Thursday, October 22. This is a hard deadline. If you cannot meet this deadline we may have to cancel your session.
+Please upload your .mp4 file into the Google Folder and make sure your file is named in this format: 
+DateOfPresentation_TitleOfPresentation_YourName.mp4
+Example: Nov18_How_to_share_video_files_Nanci_Lancaster.mp4
+Email Nanci Lancaster as soon as you have uploaded your video file so she can move it to a private folder.
+
+Is there anything specific I need to know before I record my presentation on my own?
+If you self-record, the software you choose and the way you present is entirely up to you. Want to show your face or not; want to use PowerPoint, Keynote, or Google slides, or no slides, totally up to you. Please make sure the resolution of your file is at least 720p.
+
+What presentation format is required?
+If you are recording on your own (not within the platform), there is no presentation format limitation or requirement.
+What recording software do you recommend I use to record my presentation?
+While you may choose whichever software you wish, some options we recommend are: Zoom (highly recommended), OBS: Open Broadcaster Software, Vimeo, Bandicam, Twitch, Screencast-O-Matic
+Helpful Zoom Documents:
+Enabling HD Video (This is disabled by default, so you will need to enable it before recording)Recording Side-by-Side for more than one speaker sessionsHow to Record in Zoom Instructional Video – Created by our A/V vendor, Matt O’Donnell, guiding you through recording your presentation for either single or multiple speaker sessions, as well as providing tips on lighting, cameras, and audio.
+I am presenting a tutorial. How does pre-recording work with this format?
+We recommend recording 60–70 minutes of presentation teaching the attendees the content and leaving 20–25 minutes for Q&A at the end to answer any questions the attendees may have.
+Helpful Examples of Pre-Recorded Tutorials from KubeCon + CloudNativeCon Europe 2020 VIrtual event:
+Tutorial: Communication is Key – Understanding Kubernetes NetworkingTutorial: Building Secure & Decentralized Global Applications on Kubernetes with NATS
+When do you need my recording?
+We need to receive your recording by 11:59PM Eastern Daylight Time (EDT) on Thursday, October 22.
+If I make a mistake, will that get edited out?
+Unfortunately, there will not be an opportunity to edit the session recording if you make a mistake. People make mistakes, even during presentations. Realize that flubs happen and they won’t derail your presentation – unless you let them. Just keep going in your planned presentation and remember, the audience is forgiving. 
+I want to change a slide in my deck before the event, is this possible after I have recorded?
+No, we cannot update slide decks after you have recorded your presentation.
+Can I edit my slide deck after the event?
+Unfortunately, we cannot update decks after the event.
+
+
+
+
+Live Q&A 
+
+What is the live Q&A? Why is it important?
+We recommend that speakers leave at least 10–15 minutes of their allotted session time to answer questions from attendees which makes the event more interactive and seem less like a webinar. Speakers will be able to join their session and answer questions via video, audio, or the text chat function. 
+Additionally, we are asking speakers to continue conversations with their session’s designated Slack channel after their session concludes to answer any remaining questions and increase engagement with attendees.
+
+How does the live Q&A work?
+As a speaker, you can read the questions in the Q&A Box, prioritize them (high/med/low), and either answer them via text during the pre-recorded session playback or answer them via voice after your live presentation. If you answer them via text, you can opt to make your answer public or private. Only the speakers in the session can see the Q&A Box. If you would like to answer questions via voice or video, the Intrado Engineer in the room will enable the session audio for you and test it when you log into your session 30-minutes early.
+
+I am pre-recording, do I need to participate in the live chat?
+Yes. Live Q&A is required as this will provide added value to the audience and create more of an ‘event’ vs a webinar. Please note that your allotted session time should include Q&A and you will be able to answer questions via audio, video, or the live text chat. If you are unable to participate in live Q&A due to time zone constraints, please email Nanci Lancaster to let her know as soon as possible.
+
+Should I read the questions out loud?
+Yes. We recommend that before you answer, you read the question out loud so the audience clearly knows what the question is that you are answering. 
+
+Within my pre-recording, how do I let attendees know that it is time for Q&A?
+We recommend putting your last slide as “Thank you! Any Questions?” and state in the pre-recording, “Thank you! I am now happy to answer any questions you may have.” Then, you can answer the questions via video, audiot, or text chat. 
+
+Will attendees see the questions I am receiving?
+When attendees submit questions, only the speaker will be able to see them at first and will have the option to publish them. Again, we recommend you read the question so that attendees know what question you are answering.
+
+I am unable to participate in a live Q&A session, what do I need to do?
+While we recommend you join the live Q&A portion of the event, your session will not be canceled in the instance you cannot participate in Q&A. Contact us immediately to let us know if you cannot participate.
+
+
+
+
+
+Schedule and Speaker Point of Contact
+Nanci Lancaster is your main point of contact for any speaker or schedule-related questions. Please contact her at speakers@cncf.io.
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+gold
+silver
+Start-up
+End User
+Diversity Supporters
+Media Partners 
+
+
+
+
+
+
+Join the CNCF mailing list to learn more about KubeCon + CloudNativeCon and other upcoming CNCF events!
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+#KubeCon + #CloudNativeCon
+
+
+
+
+Register
+Experiences
+Instant Giveaways
+CNCF Slack Workspace Community Guidelines
+Diversity + Inclusion
+Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+Interactive Sessions
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

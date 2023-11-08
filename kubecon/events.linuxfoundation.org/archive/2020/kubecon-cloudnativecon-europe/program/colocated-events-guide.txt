@@ -1,0 +1,254 @@
+
+
+
+
+Co-Located Events Best Practices + Guide | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Virtual Backgrounds
+Keep Cloud Native Well
+Experiences
+Where in the World is Phippy?
+Diversity Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon Europe. 
+
+
+
+
+
+
+ 
+
+
+						Co-Located Events Best Practices + Guide					
+
+
+
+
+Skip to page sectionOverviewRequirementsCo-Located Event PackagesAdditional Items + ServicesBest Practices + Reminders
+
+Overview
+
+Thank you for your interest in co-locating your event at KubeCon + CloudNativeCon Europe 2020!
+In order to meet the needs of all events and create the best possible experience for attendees, we have updated co-located event packages and inclusions for 2020 events.
+
+
+
+EU 2020 Co-Located Event Requirements
+
+Companies hosting co-located events must be KubeCon + CloudNativeCon Europe 2020 sponsors.Host companies are asked to choose between five co-located event packages.Deadline to submit a request for event space: Monday, January 20, 2020Deadline to submit a request for off-site cross-promotion package: Monday, February 3, 2020Co-located events will run from 9:00 – 17:00 with access to meeting space starting at 8:00 for set-up.All receptions must be held off-site unless held within your meeting room during the allotted event time.The minimum registration fee for co-located events is USD $50. If the host company elects to donate its profits to the CNCF Diversity Scholarship Fund, this will be reflected on the website.Companies looking to customize their event beyond the packages offered are encouraged to look at local venues and cross-promote their event on our website, event schedule, and registration platform for $6,000 + registration processing fees (Package E – See page 5 for more information).Please ensure someone from your team is available to check the room set-up, orders, shipments, etc. on Sunday, March 29 from 16:00 – 18:00.To maintain a uniform website, all co-located events will be listed with: Title (Event Name hosted by Company Name), Date, Time, Location (RAI Amsterdam or offsite location), Registration Fee, 300-word max description, and external event link.All on-site event rooms will be set classroom style, and the configuration is required to remain as such throughout the duration of your event.If using “Kubernetes” in your event title, please follow the correct and incorrect usage examples in the Linux Foundation trademark guide.
+
+
+On-Site Co-Located Event Packages A-D
+
+Meeting space in classroom setup (required)Access to meeting space for set-up from 16:00 – 18:00 the evening priorAccess to meeting space from 9:00 – 17:00 on event day (8:00 set-up access)Conference Wi-FiAudio Visual (AV) Services: (1) projector, (1) screen, (1) wireless presentation advancer, basic audio, (2) microphonesIn-room AV technician for the duration of your eventMeeting room + wayfinding signageContact information of registered attendees (including first name, last name, company, title, and email address)(1) session scanner for managing attendee check-in onsite(1) KubeCon + CloudNativeCon Pass for event coordinatorAll-day water/coffee/tea serviceOn-site event supportMarketing and promotion: Featured placement on KubeCon + CloudNativeCon website and registration formManaged event registration and fee collection (less credit card processing fees)Attendee check-in table and two chairs outside event space
+
+
+
+Additional Items + Services
+Additional Items/Services (available at the organizer’s expense to be ordered and paid for directly with the venue/service provider)
+Additional AV: Additional screens, projectors, monitors, microphones, etc.Dedicated internet: Hardline to podiumVideo recording: Session recording or livestreamingCatering: Lunch and break optionsPower: To each classroom table or a charging station in the back of the roomExpo Genie should be used to access additional order information
+
+
+
+Best Practices + Reminders
+BudgetingEnsure a budget is set aside for all event requirements, including items not included in your package (e.g. food and beverage service beyond coffee/water/tea service, additional AV requirements, hardline internet for your presenter, power for attendees and session recording).
+CommunicationAs a courtesy, the CNCF co-lo team will send order deadline reminders. Room allocation communication will go out a month before event day. A “Know Before You Go” guide will be sent a week from event day.
+Competitor Registration PolicyIn the spirit of community, we do not endorse or recommend that sponsors place restrictions on registrations from “competitor” companies or organizations. If the sponsoring company insists on restricting who can register for their Day Zero event, said company is required to list such registration stipulations/parameters in their event description prior to canceling existing registrations or declining new registrations. We also require that said sponsor reach out to the individual directly to explain why their registration is being canceled prior to sending said cancellation requests to our team for processing.
+ContentEvent topics are not exclusive to one event. Posting event details early allows attendees to plan their travel (tends to ensure higher ticket sales)!
+DemoingWe recommend all events that intend to demo order hardline internet to ensure maximum speed for the presenter(s)!
+External Food and BeveragesAll food and beverage orders must be placed with our catering vendor; no external food/beverage/catering orders will be permitted onto the premises.
+MarketingIn addition to CNCF’s marketing efforts, we encourage host companies to market their event to their target audience! You may also create an external website to be linked on our official co-located event page. (For security reasons, on-site events may not utilize external registration systems in addition to ours. Sponsors contracting a cross-promotion package have the option of using our registration system or their own.)
+Post-Event PaymentIf you are charging a registration fee for your event, The Linux Foundation will pass through registration revenue less credit card and registration processing fees (3.5%). Within 30 day post-event, you will receive an email noting your revenue (less fees) with instructions to submit an invoice to The Linux Foundation for payment. If you are donating your fees to the Diversity Scholarship, we will confirm the final amount donated.
+Publishing Events to the Official WebsiteEvents may be posted once the contract is fully executed. In order to have your co-located event listed on the website and registration form, please provide the following information as soon as possible (but no later than Monday, January 27, 2020). Once this event information is received, an Expo Genie ERC login will be emailed to the event coordinator.
+Information Needed to Post Event
+Pre-event coordinator name and email addressOn-site event coordinator name, email address, and cell phone numberOfficial event title – Event Name hosted by Company Name300 word (maximum) event descriptionEvent time frame (9:00 – 17:00 maximum)Cost to attendees (USD $50 minimum)Link to external event site (optional)Email address for attendee questionsVenue + room name/number (Package E only)
+You may view published co-located events here.
+On-site Event LogisticsAll activities (including meals) must take place in your meeting room. No signage may be placed outside of your meeting room (except on your check-in table).
+RegistrationAll attendees, including speakers and staff, MUST be registered for KubeCon + CloudNativeCon AND your co-located event in order to enter the venue. Please direct discount or comp code requests to the CNCF co-lo team. Attendee information will be shared via private registration portal link. Once your event sells out, a waitlist will be enabled and your event will be marked as “Sold Out – Waitlist Available” on the co-located event website. Waitlist contact information will be shared, but we ask that you only use this to send information about your event and not as a contact list.
+All discount or comp code requests should be directed to the CNCF co-lo team and should include the code desired, discount percentage/amount, and number of uses.
+Sponsors are required to ensure all attendees — including internal staff, trainers, speakers, etc. — are registered prior to event day.  This responsibility lies solely with the sponsor and special registration requests may be considered until Friday, March 13, 2020.  No requests will be considered after this deadline. 
+StaffingPlease ensure at least (2) people are prepared to staff the event check-in table outside of your room, and at least (1) person attends the pre-event walk-through to see the space and pick-up your session scanner. Your team is responsible for ensuring the correct attendees are checked in at your event.
+Website / Sched / Registration UpdatesFor accuracy and efficiency, please create a Google doc to share update requests with the CNCF co-lo team. Kindly notify the co-lo team via email when updates are required. Deadline for website/Sched/registration updates is Friday, March 13, 2020.
+Wi-FiPlease send all packets and downloadable information to attendees prior to the event, as no amount of bandwidth is guaranteed to support 100+ people downloading all at once.
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+GOLD
+SILVER
+START-UP
+END USER
+DIVERSITY SUPPORTERS
+MEDIA PARTNERS 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Virtual Backgrounds
+Keep Cloud Native Well
+Experiences
+Where in the World is Phippy?
+Diversity Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,664 @@
+
+
+
+
+The Linux Foundation Member Summit 2021 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Health & Safety
+Diversity & Inclusion
+Code of Conduct
+
+
+Program
+
+Schedule
+Featured Keynote Speakers
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Leadership & Community Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Leadership & Community Events. 
+
+
+
+				The Linux Foundation Member Summit			
+
+
+
+
+
+
+
+November 2-4, 2021
+Silverado Resort | Napa, California | #lfmembersummit
+
+
+post event report
+explore the schedule
+sponsor
+
+
+
+
+thank you for attending!
+The Linux Foundation Member Summit is a wrap! Thank you to all of the attendees, sponsors, and speakers that joined us in Napa Valley this year. 
+
+
+
+FEATURED KEYNOTE SPEAKERS
+
+
+
+
+
+
+
+ 
+
+
+Josh Aas
+Executive Director, ISRG (Let’s Encrypt, Prossimo)
+
+
+
+
+
+Josh Aas co-founded Let’s Encrypt and the entity behind it, Internet Security Research Group, in 2013. Let’s Encrypt, a nonprofit service, is now the world’s largest provider of TLS certificates. Josh currently serves as the organization’s Executive Director and Chair of the Board of Directors. Josh has dedicated much of his professional life to creating a better Web, with a focus on privacy and security. Prior to starting Let’s Encrypt, Josh spent more than a decade with Mozilla.
+ 
+
+
+
+
+
+
+ 
+
+
+Brian Christian
+Author of “The Alignment Problem: Machine Learning and Human Values” & “The Most Human Human”; Co-author of “Algorithms to Live By”
+
+
+
+
+
+Brian Christian is the author of The Most Human Human — a Wall Street Journal bestseller, New York Times editors’ choice, and a New Yorker favorite book of the year — and the coauthor, with Tom Griffiths, of Algorithms to Live By.
+
+
+In his most recent book, The Alignment Problem: Machine Learning and Human Values, Brian offers an unflinching reckoning with humanity’s biases and blind spots, our own unstated assumptions and often contradictory goals. A dazzlingly interdisciplinary work, it takes a hard look not only at our technology but at our culture – and finds a story by turns harrowing and hopeful.
+
+
+Christian’s writing has appeared in The Atlantic, The New Yorker, Wired, The Wall Street Journal, The Guardian, The Paris Review, and in scientific journals such as Cognitive Science. Christian has been featured on The Daily Show with Jon Stewart and has lectured at Google, Facebook, Microsoft, the Santa Fe Institute, and the London School of Economics. His work has won several awards, including fellowships at Yaddo and the MacDowell Colony, publication in Best American Science & Nature Writing, and an award from the Academy of American Poets.
+
+
+Born in Wilmington, Delaware, Christian holds degrees in philosophy, computer science, and poetry from Brown University and the University of Washington. His work has been translated into twelve languages. He lives in San Francisco.
+ 
+
+
+
+
+
+
+ 
+
+
+Ali Fenn
+President, ITRenew
+
+
+
+
+
+Ali Fenn is the President at ITRenew, where she oversees all revenue and leads the Company’s circular data center initiatives, including market development and business model innovation. Open hardware platforms and open source software innovation are the critical foundation underpinning the transformation to a circular global IT hardware industry, and Ali has extensive experience leveraging open innovation to catalyze and accelerate new markets. She has been building enterprise and cloud technology companies for 20 years; previous to ITRenew, she was the CEO of Impact Atlas, a real-time analytics SaaS platform company in the global development sector, led WW market development for cloud systems and solutions at Seagate, and held executive leadership positions at Wyse Technology, BEA Systems, and several SaaS companies in the enterprise space.
+ 
+
+
+
+
+
+
+ 
+
+
+Gabriele Columbro
+General Manager, Linux Foundation Europe & Executive Director, Fintech Open Source Foundation (FINOS)
+
+
+
+
+
+Gabriele is an open source executive and technologist at heart. He spent over 15 years building developer ecosystems to deliver value through open source across Europe and the US. He thrives on driving innovation both contributing to open source communities and joining commercial open source ventures, whether it’s for an early-stage tech startup, a Fortune 500 firm, or a non-profit foundation. Previously Director of Product Management at Alfresco, as Executive Director Gabriele grew the Fintech Open Source Foundation FINOS from the ground up, with the vision of creating a trusted arena for the global financial services industry to innovate faster, leveraging open source as a model of collaboration. Gabriele holds a Master in Computer Engineering, is a Committer for the Apache Software Foundation, and advises open source startups. He’s a passionate soccer fan, reggae music connoisseur, and special needs dad and advocate wannabe.
+ 
+
+
+
+
+
+
+ 
+
+
+Colin Eberhardt
+Technology Director, Scott Logic
+
+
+
+
+
+Colin divides his time between leading the R&D team and providing advisory consultancy to clients. Widely recognized as a thought leader, Colin has a reputation throughout development circles as an expert in mobile technologies. He has also directed the team that developed a Securities Lending System for one of the world’s most instantly recognizable banks. A published author, blogger and tech visionary, Colin still finds time to practice his considerable skills as a 7-ball juggler.
+ 
+
+
+
+
+
+
+ 
+
+
+Jennifer Fernick
+SVP & Global Head of Research, NCC Group
+
+
+
+
+
+Jennifer Fernick is a computer scientist and the SVP & Global Head of Research at NCC Group, a major information assurance firm, and serves on the Governing Board and Technical Advisory Committee of the Open Source Security Foundation. Most recently, she was Director, Information Security at a large global financial institution, after a tenure as their Senior Cryptographic Security Architect. She spent four years as a PhD researcher at the University of Waterloo, as a member of the Institute for Quantum Computing and the Centre for Applied Cryptographic Research, where her research focused on cryptography & quantum algorithms. Jennifer was a part of the 2018 cohort of the Berkman Assembly at Harvard University and MIT Media Lab, and was a 2019 Technologist Fellow at the National Security Institute at George Mason University. Her career has included designing and building satellite systems, working on bleeding edge cryptography research, building secure systems at massive scale, running incident response events for core pieces of critical infrastructure, and leading the development of global technology standards. She holds a Master of Engineering degree in Systems Design Engineering from the University of Waterloo, and an Honours Bachelor of Science in Cognitive Science & Artificial Intelligence from the University of Toronto. Jennifer spent multiple years as CFP Chair of Crypto & Privacy Village at DEF CON, and has served on the review boards of venues including USENIX CSET, USENIX Enigma, USENIX WOOT, multiple NeurIPS workshops, and IEICE Transactions Japan, and regularly speaks at major technology conferences including European Conference on Machine Learning, RSA, CFI-CIRT, DEF CON, O’Reilly Artificial Intelligence, and Black Hat USA.
+ 
+
+
+
+
+
+
+ 
+
+
+Luke Hinds
+Security Engineering Lead, Office of the CTO, Red Hat
+
+
+
+
+
+Luke Hinds works in Red Hat’s office of the CTO as the security engineering lead. He is a long term contributor to open source and manages the bug bounty program and vulnerabilities within Kubernetes. He is a  member of the technical advisory council on the Open Source Security Foundation. Luke is the co-founder of sigstore and developed ‘Keylime’ the open source trust system housed within the CNCF.
+ 
+
+
+
+
+
+
+ 
+
+
+Sumer Johal
+Executive Director, AgStack Foundation
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Kim Lewandowski
+Founder / Product, Chainguard, Inc
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Dan Lorenc
+Founder & Chief Executive Officer, Chainguard, Inc
+
+
+
+
+
+Dan Lorenc is Founder & Chief Executive Officer at Chainguard, Inc. Previously, he was a Staff Software Engineer at Google, where he’d been working in the PAAS-space for 6 years. He managed s a team focused on building open source tools to improve the container/Kubernetes developer experience. Prior to that, he founded projects such as Minikube, Skaffold and Kaniko.
+ 
+
+
+
+
+
+
+ 
+
+
+Gary O’Neall
+CTO, Principal Consultant & Co-founder, Source Auditor
+
+
+
+
+
+Source Auditor was co-founded by Gary O’Neall, where he also serves as the Chief Technology Officer and as a Principal Consultant.  He has served for over 20 years in a wide variety of technology management roles in F500 companies like HP and Motorola, and in smaller startups like Placeware and Icarian.  He has managed technology due diligence both from the point of view of the acquirer and from the point of view of the acquisition.  As the Chief Technology Officer of Placeware when it was acquired by Microsoft in 2003, Gary drove the required technical due diligence and learned many helpful lessons about finding out what open source was really inside his own source code.  As the General Manager of Electronic Commerce for Hewlett Packard, Gary drove the required technical due diligence when HP acquired VeriFone. 
+ 
+
+
+
+
+
+
+ 
+
+
+Calista Redmond
+CEO, RISC-V International
+
+
+
+
+
+Calista Redmond is the CEO of RISC-V International with a mission to expand and engage RISC-V stakeholders, compel industry adoption, and increase visibility and opportunity for RISC-V within and beyond RISC-V International. Prior to RISC-V International, Calista held a variety of roles at IBM, including Vice President of IBM Z Ecosystem where she led strategic relationships across software vendors, system integrators, business partners, developer communities, and broader engagement across the industry. Focus areas included execution of commercialization strategies, technical and business support for partners, and matchmaker to opportunities across the IBM Z and LinuxOne community. Calista’s background includes building and leading strategic business models within IBM’s Systems Group through open source initiatives including OpenPOWER, OpenDaylight, and Open Mainframe Project. For OpenPOWER, Calista was a leader in drafting the strategy, cultivating the foundation of partners, and nurturing strategic relationships to grow the org from zero to 300+ members. While at IBM, she also drove numerous acquisition and divestiture missions, and several strategic alliances. Prior to IBM, she was an entrepreneur in four successful start-ups in the IT industry. Calista holds degrees from the University of Michigan and Northwestern University.
+ 
+
+
+
+
+
+
+ 
+
+
+Liz Rice
+Chief Open Source Officer, Isovalent & Emeritus Chair, Technical Oversight Committee, CNCF
+
+
+
+
+
+My background and core competence is systems software engineering, but I love the whole process of building products. I’ve been in startups that have succeeded and others that have failed. I enjoy writing code, and understanding how other people will use it.
+
+
+I’m Chief Open Source Officer with eBPF pioneers Isovalent, creators of the Cilium project, which provides cloud native networking, observability and security. Prior to that I was VP Open Source Engineering with security specialists Aqua Security. I’m chair of the CNCF’s Technical Oversight Committee, and I co-chaired the KubeCon / CloudNativeCon 2018 events in Copenhagen, Shanghai and Seattle. I’m also an Ambassador for Open UK.
+ 
+
+
+
+
+
+
+ 
+
+
+Mark Shan
+Chairperson, Tencent Open Source Alliance
+
+
+
+
+
+Mark Shan has a long career and practical experience in cloud-native, microservices, big data, edge computing, and open-source ecosystem. As the chairperson of Tencent Open Source Alliance, he works full of passion to build the ecosystem for Tencent Open Source and makes great efforts to accelerate innovation in technology and product with the open-source way.At Tencent Cloud, Mark leads the open-source team and works with organizations and communities including Apache Software Foundation, Linux Foundation, Open Atom Foundation, CAICT, COPU and others to build open-source ecosystem. He is also the observer of Linux Foundation Board, chairperson of TARS Foundation, TOC member of Open Atom Foundation and Magnolia Open Source Community, TSC member of Akraino Edge Stack, a fellow of China Cloud Native Industry Alliance, advisor of Open Source Community.
+ 
+
+
+
+
+
+
+ 
+
+
+Jon Stine
+Executive Director, The Open Voice Network
+
+
+
+
+
+Jon is the leader of the Open Voice Network, an organization that seeks to create a future of AI voice that is standards-based, interoperable, accessible, and data protected. While the voice movement is growing rapidly, it is still very much in a fledgling state. This makes the task of setting up governance and standards in the space highly relevant, and one which Jon is working hard to address.
+ 
+
+
+
+
+
+
+ 
+
+
+Jenny Wanger
+Director of Programs, LF Public Health
+
+
+
+
+
+Jenny Wanger co-founded the TCN Coalition, a community dedicated to creating open source exposure notification tools and apps at the beginning of the pandemic. TCN Coalition then merged in with Linux Foundation Public Health and Jenny joined the leadership team with the late open source hero Dan Kohn. Now Jenny heads up a number of different initiatives there, building community and infusing the organization with customer-centric DNA.
+
+
+Prior to starting the TCN Coalition, Jenny was a product manager for SpotHero, a top-ranking app that helps people park more easier. Her years of product management experience include running the developer experience team at Arity, a startup founded by Allstate, in downtown Chicago, and consulting for companies large and small as the owner of Avenir Design.
+
+
+When offline, Jenny is usually up in the mountains outside of her home in Colorado hiking and skiing with her family.
+ 
+
+
+
+
+
+
+ 
+
+
+Dr. David A. Wheeler
+OSS Event Chair & Director, Open Source Supply Chain Security, Linux Foundation
+
+
+
+
+
+Dr. David A. Wheeler is an expert on open source software (OSS) and on developing secure software. He is the Director of Open Source Supply Chain Security at the Linux Foundation and teaches a graduate course in developing secure software at George Mason University (GMU). Dr. Wheeler has a PhD in Information Technology, a Master’s in Computer Science, a certificate in Information Security, a certificate in Software Engineering, and a B.S. in Electronics Engineering, all from George Mason University (GMU). He is a Certified Information Systems Security Professional (CISSP) and Senior Member of the Institute of Electrical and Electronics Engineers (IEEE). He lives in Northern Virginia.
+ 
+
+
+
+
+
+
+ 
+
+
+Jeff Wittich
+Chief Product Officer, Ampere
+
+
+
+
+
+Jeff Wittich is the chief product officer at Ampere. Jeff has extensive leadership experience in the semiconductor industry in roles ranging from product and process development to business strategy to marketing. Prior to joining Ampere, he worked at Intel for 15 years in a variety of positions throughout the company. Most recently, he was responsible for the Cloud Service Provider Platform business, driving global market reach, product customization, and ultimately defining the products and platforms being used across the cloud worldwide. While at Intel, Jeff also led a product development team responsible for 5 generations of Xeon processors. He received an Intel Achievement Award for his work in developing the Custom CPU program.
+
+
+Jeff has an MS in Electrical and Computer Engineering from the University of California, Santa Barbara, and a BS in Electrical Engineering from the University of Notre Dame.
+ 
+
+
+
+
+
+
+ 
+
+
+Prakash Linga
+CEO & Founder, BluBracket
+
+
+
+
+
+Prakash is a visionary whose passion for the human aspects of security has powered multiple startups and game-changing products. He is the CEO and founder of BluBracket, a developer-focused code security solution. Prakash received his PhD from Cornell University and earned his Bachelors from IIT Madras, both in Computer Science.
+ 
+
+
+
+
+
+
+ 
+
+
+Jim Zemlin
+Executive Director, The Linux Foundation
+
+
+
+
+
+Jim’s career spans three of the largest technology trends to rise over the last decade: mobile computing, cloud computing and open source software. Today, as executive director of The Linux Foundation, he uses this experience to accelerate innovation in technology through the use of open source and Linux.
+
+
+At The Linux Foundation, Jim works with the world’s largest technology companies, including IBM, Intel, Google, Samsung, Qualcomm, and others to help define the future of computing on the server, in the cloud, and on a variety of new mobile computing devices. His work at the vendor-neutral Linux Foundation gives him a unique and aggregate perspective on the global technology industry.
+
+
+Jim has been recognized for his insights on the changing economics of the technology industry. His writing has appeared in Businessweek, Wired, and other top technology journals, and he is a regular keynote speaker at industry events. He advises a variety of startups, including Splashtop, and sits on the boards of the Global Economic Symposium, Open Source For America, and Chinese Open Source Promotion Union.
+ 
+
+
+
+
+
+
+
+2021 Keynote Videos
+
+
+View All Videos
+
+
+
+
+
+
+
+
+
+
+the ONSITE EXPERIENCE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+SHOW MORE
+
+
+
+
+
+
+
+Sponsors
+
+Co-Hosts
+Reception
+Breakfast and Breaks
+Lunch
+supporter 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#lfmembersummit
+
+
+
+
+Health & Safety
+Diversity & Inclusion
+Code of Conduct
+
+Schedule
+Featured Keynote Speakers
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

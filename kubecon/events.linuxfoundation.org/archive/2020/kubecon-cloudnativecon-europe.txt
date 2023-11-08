@@ -1,0 +1,363 @@
+
+
+
+
+KubeCon + CloudNativeCon Europe 2020 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Virtual Backgrounds
+Keep Cloud Native Well
+Experiences
+Where in the World is Phippy?
+Diversity Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon Europe. 
+
+
+
+				KubeCon + CloudNativeCon Europe			
+
+
+
+
+
+
+August 17 – 20
+Keep Cloud Native Connected – An Online Experience
+#KubeCon + #CloudNativeCon
+
+
+
+
+
+KubeCon + CloudNativeCon Europe 2020 Virtual is a wrap! Thank you to all the attendees and sponsors that joined us online. The conference sessions and keynotes will be available on-demand to registrants in the InXPo platform until Friday, November 13.To experience the best of this year’s event be sure to watch the keynotes and breakout sessions on YouTube. Review session slides from speakers who provided them via the event schedule.
+Already registered? Access the event platform here.
+
+
+
+TAKE THE POST EVENT SURVEY
+
+
+
+Save the Dates!KubeCon + CloudNativeCon North America 2020 Virtual November 17-20
+
+
+
+
+WHAT ATTENDEES ARE SAYING
+
+
+
+
+Update: the #KubeCon Keep Cloud Native Well page links to MULTIPLE puppy cams pic.twitter.com/UGsxaSj4KP— Dr KellyAnn Fitzpatrick (@drkellyannfitz) August 18, 2020
+
+
+
+
+Uplifting #kubecon keynote message from @pritianka – "our lives have gone remote – our challenges have gone global". 💯 pic.twitter.com/76nJNJnYMO— Bridget Kromhout (@bridgetkromhout) August 18, 2020
+
+
+Having so much fun at #KubeCon. My notes are pretty huge. I have material to play around for a loonng time and the conference didn't even finish yet… I even did meditation during the conference!— Fernanda Martins (@flmmartins) August 19, 2020
+
+
+
+
+
+
+https://twitter.com/tompetrocelli/status/1295713619276107781
+
+
+
+
+Some great stats shared by @pritianka about CNCF – "50+ projects, 97000 contributors. 177 countries, 1.3 million lines of code, 550+ members, 144 end users". Great keynote!! #KubeCon #CloudNativeCon #CNCF— Kaushik Chaubal (@kaushikchaubal) August 18, 2020
+
+
+
+
+
+
+Another appreciable thing about #KubeCon EU virtual – diversity, esp gender diversity. One of many examples: this security and HPC panel right now. 4/5 are female-identified or nonbinary. pic.twitter.com/aNAz2O7YqE— Beth Pariseau (@PariseauTT) August 20, 2020
+
+
+
+
+
+#KubeCon #CloudNativeCon always sets a new bar for inclusion & diversity. Day 1 speakers include @pritianka @oicheryl @ccaramanolis @krisnova @umohnani8 @lizrice @vmcheung Register for a FREE keynote https://t.co/yCNKKK6z4o— Arun Gupta (@arungupta) August 18, 2020
+
+
+
+
+
+
+I love that the keynote is all about end-users: the community is really exciting to be a part of! #KubeCon #CNCF @oicheryl— Phoebe Goh (wears many hats) 🙂 (@phoebegoh) August 18, 2020
+
+
+#KubeCon2020 just ended! Kudos to the organisers and everyone that was part of this year's @CloudNativeFdn virtual KubeCon. A great event indeed!— Uchechukwu Obasi (@Thisisobate) August 20, 2020
+
+
+
+
+Great to see @oicheryl promoting the "real world" view of cloud native and also the new @CloudNativeFdn end-user tech radar in the #KubeCon keynote"End-users have a lot of learning to share — they don't only have to be passive consumers" pic.twitter.com/Rk8TMKWj7Q— Daniel Bryant (@danielbryantuk) August 18, 2020
+
+
+
+
+EVENT SELFIES
+
+Thank you to this year’s 18k+ attendees who made the event what it was! Each of you builds this community to be stronger every day.
+
+
+
+
+
+
+
+ 
+
+The obvious conclusion: If you’re interested in enterprise IT infrastructure, Kubernetes should be your technology of choice, and KubeCon is the place to be. – Jason Bloomberg, SiliconANGLE
+
+
+
+
+
+
+SCHEDULE AT-A-GLANCE
+
+Thursday, August 1309:00 – 17:00Day Zero Co-Located Events (Additional registration required. Additional fees may apply.)16:00 – 17:00Lightning TalksFriday, August 1409:00 – 10:20Keynotes10:20 – 20:05Sponsor Showcase11:05 – 18:05Breakout Sessions18:05 – 20:05Welcome Reception + Sponsor Booth CrawlSaturday, August 1509:00 – 10:10Keynotes10:10 – 17:45Sponsor Showcase10:55 – 17:55Breakout Sessions18:00 – 21:00All-Attendee PartySunday, August 1609:00 – 10:20Keynotes10:20 – 16:40Sponsor Showcase11:05 – 18:05Breakout Sessions
+
+
+
+
+Program Co-Chairs
+
+
+
+
+
+
+
+ 
+
+
+Constance Caramanolis
+Principal Software Engineer, Splunk
+
+
+
+
+
+
+
+
+
+
+
+Constance is a senior software engineer at Splunk, formerly Omnition, contributing to OpenTelemetry. Previous to Omnition, she worked at Lyft as part of the data platform and server networking teams. While at Lyft, Constance built, deployed, and configured Envoy internally, and maintained the open source project.
+ 
+
+
+
+
+
+
+ 
+
+
+Vicki Cheung
+Engineering Manager, Lyft
+
+
+
+
+
+Vicki is an engineering manager at Lyft, where she helps drive the company-wide Kubernetes migration. Previously, she was the Head of Infrastructure and founding engineer at OpenAI, where she and her team built out their Kubernetes-based deep learning infrastructure.
+ 
+
+
+
+
+
+
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+GOLD
+SILVER
+START-UP
+END USER
+DIVERSITY SUPPORTERS
+MEDIA PARTNERS 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Virtual Backgrounds
+Keep Cloud Native Well
+Experiences
+Where in the World is Phippy?
+Diversity Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

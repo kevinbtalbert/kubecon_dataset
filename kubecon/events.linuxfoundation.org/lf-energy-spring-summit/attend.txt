@@ -1,0 +1,199 @@
+
+
+
+
+About | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Diversity & Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Program Committee
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Emerging Technology Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Emerging Technology Events. 
+
+
+
+
+
+
+ 
+
+
+						About					
+
+
+
+
+
+Open source leads the way.
+The LF Energy “Virtual” Spring Summit supports global collaboration of utilities, OEMs, suppliers, and significant energy users.  Together we will learn, participate, build community and fundamentally reimagine software investments – whether spent on commercial, in-house, or by joining us to leverage an open source development model.  We hope to see you there!
+Open is more than a buzzword.
+At the Linux Foundation, we have found that in the early days of a new market or industry transformation, custom, proprietary solutions can meet acute short-term needs. Utilizing these sorts of solutions is often sensible to jump start an evolution, but as industries mature in their digitization efforts, proprietary stacks perpetuate vendor lock-in, one-off solutions, and ultimately stifle innovation. With climate change and the need for rapid decarbonization, we need a revolution to move at the speed of the global urgency. 
+LF Energy’s focus on the decarbonization of power systems through digitalization and open source represents an unprecedented change for electrification, electric mobility, and the grid. Mitigating climate change, while ensuring economic prosperity and the restoration of natural systems, requires that we be able to network supply and demand through secure distributed hardware, data, and software. The future grid will be built on infrastructure platforms that will mostly consist of bare metal hardware, VMs and containers, coordinated through cloud orchestration systems that can manage and choreograph those resources using controllers that enable high data processing. 
+At LF Energy, we support you to build the operational, developer, and leadership capacity to create the future together leveraging a healthy, supportive, robust ecosystem. The promise of open source is that moving to software-defined energy systems will enable us to take a far more agile approach. This is in direct contrast to traditional proprietary solutions, some of which would require end-users to bring an entire forklift to upgrade. LF Energy enables system and network operators, significant energy users, along with their vendors and suppliers, to “fail fast, fail often” while bringing new software functions and services to market quickly and efficiently. Transitioning from fossil-fuel requires that decarbonization make economic sense. We will win on cheaper, faster, more secure. That is a classic open source playbook.
+Join us to securely scale the future of power systems.
+
+
+
+
+
+
+Sponsors
+
+Event Partners
+Media Partners 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#lfenergysummit
+
+
+
+
+Diversity & Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Program Committee
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

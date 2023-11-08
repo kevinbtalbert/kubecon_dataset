@@ -1,0 +1,154 @@
+
+
+
+
+Mentorship Session: Fuzzing Linux Kernel | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Mentorship Session: Fuzzing Linux Kernel			
+
+
+
+
+
+Fuzzing Linux KernelMarch 2, 2021 | 7:30 – 9:00 AM PST
+
+
+VIEW THE FULL SERIES
+
+
+
+
+
+
+
+Join us for Fuzzing Linux Kernel, with Andrey Konovalov, Senior Software Engineer, Google.
+Fuzzing (or Fuzz Testing) is an automated process of finding bugs by feeding random inputs into a program. 
+In this session, Andrey will explain how to apply fuzzing to the Linux kernel and what kind of kernel interfaces a fuzzer can target. He will briefly cover the existing ready-to-use fuzzers (such as Trinity and syzkaller) but mainly focus on the underlying ideas and approaches: writing fuzzing harnesses, generating inputs, and collecting coverage (via kcov).
+The session will begin with an overview by Andrey Konovalov (45 minutes) and will be followed by Q&A – an opportunity to both ask Andrey questions and for group discussion (45 minutes).
+
+
+
+
+VIEW RECORDING 
+VIEW SLIDES
+
+
+
+
+
+
+
+Andrey Konovalov, Senior Software Engineer, Google
+Andrey Konovalov is a software engineer at Google working on fuzzers and mitigations for the Linux kernel. He is a contributor to multiple fuzzing-related Linux kernel subsystems and tools: KASAN (a bug-finding tool), kcov (a coverage collection subsystem), and syzkaller (a fuzzer). He previously worked on fuzzing the network and USB subsystems and found several severe security vulnerabilities. 
+Andrey keeps more information about his work and research interests on his personal page: https://xairy.github.io/
+
+
+
+
+
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

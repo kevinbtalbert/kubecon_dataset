@@ -1,0 +1,155 @@
+
+
+
+
+Mentorship Session: Coccinelle: Automating Large-scale Evolution and Bug Finding in C Code | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Mentorship Session: Coccinelle: Automating Large-scale Evolution and Bug Finding in C Code			
+
+
+
+
+
+Coccinelle: Automating Large-scale Evolution and Bug Finding in C CodeFebruary 2, 2021 | 7:30 – 9:00 AM PST
+
+
+VIEW THE FULL SERIES
+
+
+
+
+
+
+
+Join us for Coccinelle: Automating Large-scale Evolution and Bug Finding in C Code, with Julia Lawall, Senior Research Scientist, Inria.
+Coccinelle is a program transformation tool for C code. Short scripts expressed using a patch-like syntax make it possible to make changes consistently and reliably across a C codebase. In this talk, we will see how to use existing scripts in the Linux kernel, write new scripts for some simple changes, and give an overview of more advanced concepts.
+The session will begin with an overview by Julia Lawall (45 minutes) and will be followed by Q&A – an opportunity to both ask Julia questions and for group discussion (45 minutes).
+
+
+
+
+VIEW RECORDING 
+VIEW SLIDES
+
+
+
+
+
+
+
+
+Julia Lawall, Senior Research Scientist, Inria
+Julia Lawall is a Senior Research Scientist at Inria. Her research is at the intersection of programming languages and operating systems. She develops the tool Coccinelle and has over 2000 patches in the Linux kernel based on this work.
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

@@ -1,0 +1,224 @@
+
+
+
+
+Anyscale Academy | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+About
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Speakers
+Anyscale Academy
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsAll Past EventsRay Website 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View upcoming Linux Foundation events. 
+
+
+
+
+
+
+ 
+
+
+						Anyscale Academy					
+
+
+
+
+Skip to page sectionOverviewFirst SessionSecond Session
+
+
+From Ray Beginner to Reinforcement Learning
+Taking place Tuesday, September 29
+Fee:Attendees: $100Students: $50
+This five hour tutorial will occur in two sessions, 2.5 hours in the morning and 2.5 hours in the afternoon, will take you from being a Ray beginner to using Ray for reinforcement learning. You will receive a certificate of completion from Anyscale after completing the course and taking the two quizzes in the last 30 minutes of each session.
+
+
+
+First Session | Ray Crash Course and Intro to Reinforcement Learning
+September 29 | 10:00 AM – 12:30 PM, Pacific Daylight Time (PDT), UTC -7 
+
+Ray was created to make it easier to scale diverse computation tasks and distributed state across a cluster, with a minimum of distributed systems expertise and knowledge required. You’ll learn how Ray meets these goals with a concise, intuitive API while performing efficient scheduling and execution of tasks for you. You’ll learn this API and see how it breaks through the constraints of the Python interpreter’s global interpreter lock. Whether you need better utilization of the cores in your workstation or you need massive compute resources scheduled across a cluster, you’ll understand how to leverage Ray to meet your computation needs.
+Then you’ll learn the core concepts of reinforcement learning that we’ll explore in greater depth in the afternoon. This morning tutorial provides foundational “building blocks” for Ray in general and use of RL in particular. We’ll use those building blocks for the afternoon tutorial.
+
+Lessons:
+Ray Tasks: Distributed, stateless computingRay Actors: Distributed, stateful computingRay Multiprocessing: Ray replacements for popular multiprocessing and multithreading libraries that let you break the single-node boundary.Introduction to Reinforcement Learning: Learning core concepts of RL while solving a popular test environment (CartPole) with production-ready algorithms and tools.Quiz – 60-70% pass required for the certificate
+
+
+
+
+Second Session | Ray RLlib for Reinforcement Learning: Multi-armed Bandits and Recommendation Systems
+September 29 | 2:00 PM – 4:30 PM Pacific Daylight Time (PDT), UTC -7
+
+Using hands-on examples, we’ll learn how to use RLlib and Tune to train and run reinforcement learning systems. This session builds on the morning’s introduction to reinforcement learning concepts.
+Lessons:
+Optimizing Market Investments with Multi-Armed Bandit: A real-world problem addressed with a “constrained” class of RL algorithms.Keystone lesson: RL for Recommender Systems: New approaches to recommenders, which can be adapted to similar use cases, such as personalization.Quiz – 60-70% pass required for the certificate
+
+ 
+
+
+
+
+Sponsors
+
+platinum
+GOLD
+Host Sponsor
+Community Partners
+
+
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+About
+Code of Conduct
+
+Sponsor
+Schedule
+Speakers
+Anyscale Academy
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

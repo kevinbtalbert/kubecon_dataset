@@ -1,0 +1,521 @@
+
+
+
+
+Featured Speakers | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+FAQ
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Featured Speakers
+
+
+Features &Add-Ons
+
+OpenJS Collaborator Summit
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Web Development/Platform EventsOpenJS Foundation Website 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Web Development/Platform Events. 
+
+
+
+
+
+
+ 
+
+
+						Featured Speakers					
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Anil Dash
+CEO, Glitch
+
+
+
+
+
+Anil Dash is an entrepreneur, activist and writer recognized as one of the most prominent voices advocating for a more humane, inclusive and ethical technology industry. He is the CEO of Glitch, the friendly community where millions of creators collaborate on making and discovering apps, bots, art, and anything else they can imagine.Dash was an advisor to the Obama White House’s Office of Digital Strategy, and today advises major startups and non-profits including Medium, DonorsChoose and Project Include. He also serves as a board member for companies like Stack Overflow, the world’s largest community for computer programmers, and non-profits like the Data & Society Research Institute, which examines the impact of tech on society and culture, and the Lower East Side Girls Club, which serves girls and families in need in New York City.Described as a “blogging pioneer” by the New Yorker, Dash has a unique presence on social media, where he’s been maintaining his Webby-recognized personal website since 1999, with citations in sources ranging from the New York Times to the BBC to TMZ to hundreds of academic papers. As a writer and artist, Dash has been a contributing editor and monthly columnist for Wired, has had his works exhibited in the New Museum of Contemporary Art, and collaborated with Hamilton creator Lin-Manuel Miranda on one of the most popular Spotify playlists of 2018. In 2013, Time named @anildash one of the best accounts on Twitter, and he is the only person ever retweeted by both Bill Gates and Prince, a succinct summarization of Dash’s interests. Dash has addressed events ranging from the Aspen Ideas Festival to SXSW, lectured at universities ranging from Harvard to NYU to Berkeley, made TV appearances on MSNBC and CNN, and guested on dozens of high-profile podcasts.Dash is based in New York City, where he lives with his wife Alaina Browne and their son Malcolm. Dash has never played a round of golf, drank a cup of coffee, or graduated from college.
+ 
+
+
+
+
+
+
+ 
+
+
+Christina H Koch
+NASA Astronaut
+
+
+
+
+
+Christina Hammock Koch was selected as an astronaut by NASA in 2013.  She completed astronaut candidate training in 2015.  Koch graduated from North Carolina State University with a Bachelor of Science in Electrical Engineering and Physics and a Master of Science in Electrical Engineering.  She most recently served as flight engineer on the International Space Station for Expedition 59, 60 and 61.  Koch set a record for the longest single spaceflight by a woman with a total of 328 days in space.
+ 
+
+
+
+
+
+
+ 
+
+
+Dr. Joy Lisi Rankin
+Research Lead at the AI Now Institute and Research Scholar at New York University
+
+
+
+
+
+As Research Lead at the AI Now Institute, Dr. Rankin develops and oversees the strategy and initiatives for AI Now’s Gender, Race, and Power in AI program. She brings to AI Now her decade of experience working at the intersection of technology and education combined with her academic expertise. Her book A People’s History of Computing in the United States (Harvard University Press, 2018) has been featured in The Nation,  Public Books, and the Australian Book Review and widely reviewed elsewhere. Dr. Rankin’s essays have been published in both popular and academic media, including Slate,  Lady Science, the Smithsonian’s What It Means to Be American series, Information & Culture, and IEEE Annals of the History of Computing. She has shared her historical expertise at venues ranging from MIT, Cambridge, and New York University to the United Nations, Computer History Museum, and Google and consulted on projects including the pilot television episode of Girls Code, and the documentaries The Queen of Code and The Birth of BASIC. Dr. Rankin earned her PhD from Yale in 2015; prior to that she also studied at MIT, Duke, UCL, Cambridge, and Dartmouth, where she earned her BA with a double major in mathematics and history.
+ 
+
+
+
+
+
+
+ 
+
+
+Robin Bender Ginn
+Executive Director, OpenJS Foundation
+
+
+
+
+
+Robin Bender Ginn is the Executive Director of the OpenJS Foundation, the open and neutral home to grow and sustain the JavaScript and web ecosystem.
+ 
+
+
+
+
+
+
+ 
+
+
+Prosper Otemuyiwa
+Co-founder & CTO, Eden
+
+
+
+
+
+Prosper is a speaker, community leader, open source hacker, technical consultant, and a fervent Developer Advocate. He is a full-stack software engineer who has worked on biometric, health and developer tools. Prosper recently co-founded a startup called Eden that’s focused on improving the quality of lives in Nigeria and currently leads the engineering team. He also co-founded forloop, the largest developer community in Africa.
+ 
+
+
+
+
+
+
+ 
+
+
+Jessica Wilkerson
+Cyber Policy Analyst, Food and Drug Administration
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Adam Baldwin
+Sr. Product Manager, Supply Chain Security at GitHub
+
+
+
+
+
+Adam Baldwin is a Senior Product Manager focused on supply chain security at GitHub. A security focused leader with over 25 years of experience, Adam has spent his career building companies, breaking into companies, managing teams, designing products, and talking about security non-stop. 
+
+
+Previously, Adam was the VP of security at npm (recently acquired by GitHub). Adam also founded ^Lift Security, a successful application security service company, and the Node Security Platform, an initiative to discover and track vulnerabilities in the JavaScript ecosystem. The project evolved into a SaaS platform at the forefront of the DevSecOps movement. Both were acquired by npm, Inc. in early 2018.
+ 
+
+
+
+
+
+
+ 
+
+
+Shubhie Panicker
+Software Engineer, Google
+
+
+
+
+
+Shubhie is a member of Chrome’s Web Platform team and the engineering lead for Chrome’s engagement in the web framework ecosystem, where she collaborates with open source tools, frameworks and communities.She has worked on web standards and chromium’s implementation for several web performance APIs.Prior to Chrome, she worked on infrastructure and web frameworks for Google products like Search, Google Photos etc.
+ 
+
+
+
+
+
+
+ 
+
+
+Nicole Sullivan
+Chrome Product Manager, Google
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Juan Pablo Buritica
+Engineering Executive
+
+
+
+
+
+Juan Pablo Buriticá is a software engineering executive who has built and led distributed teams for the past 10 years from New York City. Juan Pablo Buriticá was most recently the VP of Engineering at splice.com where he leads a distributed engineering team throughout North and South America, with the mission of building the creative hub for the modern musician.Juan Pablo has built high-performing software engineering organizations by emphasizing Open Source software values, technical excellence, trust, and empathy. He has also organized more than 10 software engineering conferences in the US & Latin-America, founded multiple JavaScript meetups, and led the growth of Colombia’s JavaScript community, now one of the largest Spanish-speaking JS communities in the world. His favorite food group is empanadas.”
+ 
+
+
+
+
+
+
+ 
+
+
+Michael Dawson
+Node.js Community Lead, IBM
+
+
+
+
+
+Michael Dawson is an active contributor to the Node.js project and chair of the Node.js Technical Steering Committee(TSC). He contributes to a broad range of community efforts including platform support, build infrastructure, N-API, Release, as well as tools to help the community achieve quality with speed (ex: ci jobs, benchmarking and code coverage reporting). As IBM Node.js community lead, he works with IBM’s internal teams to plan and facilitate their contributions to Node.js and v8 within the Node and Google communities.Past experience includes building IBM’s Java runtime, building and operating client facing e-commerce applications, building PKI and symmetric based crypto solutions as well as a number of varied consulting engagements. In his spare time, he uses Node.js to automate his home and life for fun.Recent talks: https://github.com/mhdawson/resume/blob/master/conferences.md
+ 
+
+
+
+
+
+
+ 
+
+
+Keeley Hammond
+Senior Software Engineer, InVision
+
+
+
+
+
+Keeley Hammond (she/her) is a senior software engineer at InVision and a member of the Electron governance team. Her work spans from building front-end UI to engine API design in InVision Studio. When not working, Keeley volunteers for Women Who Code Portland and spends as much time as possible with her dog, Luna.
+ 
+
+
+
+
+
+
+ 
+
+
+Malte Ubl
+Principal Engineer, Google
+
+
+
+
+
+Malte is a Principal Engineer at Google, the creator of AMP, and now a member of the AMP Project’s Technical Steering Committee. Previously Malte has created JavaScript infrastructure for lots of Google web apps and he is a founder and curator of JSConf EU. 
+ 
+
+
+
+
+
+
+ 
+
+
+Cassidy Williams
+Principal Developer Experience Engineer, Netlify
+
+
+
+
+
+Hi there! My name is Cassidy and I’m a Principal Developer Experience Engineer at Netlify. I often make silly videos on the internet, enjoy building mechanical keyboards, and playing music in my free time.
+ 
+
+
+
+
+
+
+ 
+
+
+Allen Wirfs-Brock
+Exploring the Future of Software: Innovator, Architect, Standards, Consultant, Advisor
+
+
+
+
+
+I was the project editor of the ECMAScript 2015 Language Specification, the international standard that defines the latest version of the JavaScript programming language.
+
+
+My services are available as a consultant or adviser. My current passion is thinking, experimenting, and writing about the technical and societal implications of the rapidly emerging Ambient Computing Era. 
+
+
+I’m an expert in programming languages and their implementation with broad experience developing compilers, virtual machines, programming environments, and complete computer systems. I was technical innovator and business leader during the emergence of object-oriented programming technology and was deeply involved with the development and commercialization of the Smalltalk programming language. I made major contributions to the standardization of both the JavaScript and Smalltalk programming languages. 
+
+
+I’ve been a startup advisor, strategic technologist, researcher, software architect, assembly language programmer, product developer, and manager. I’ve worked at both large and small companies and with both commercial and open source development models. I founded two successful companies that provided tools and services to enterprise software developers.
+ 
+
+
+
+
+
+
+ 
+
+
+Alex Williams
+Founder and Publisher, The New Stack
+
+
+
+
+
+Alex Williams is founder and publisher of The New Stack, an online technology publication that explains and analyzes at scale application development and management. He was an editor at ReadWrite and TechCrunch before leaving in 2014 to start The New Stack. Alex hosts The New Stack Makers podcast and pancake breakfast, and livestreams from tech events around the globe with the generous support of more than 40 sponsors in the cloud native ecosystem.
+ 
+
+
+
+
+
+
+ 
+
+
+Kris Borchers
+Senior Program Manager, Microsoft
+
+
+
+
+
+Kris is an open source enthusiast/advocate, a contributor and maintainer on many open source projects, and is a Senior Program Manager driving open source and inner source for Azure Production Infrastructure Engineering at Microsoft.
+ 
+
+
+
+
+
+
+
+
+
+
+Sponsors
+
+Diamond
+Gold
+Silver
+Bronze
+Media
+Collaborators Summit – General 
+
+
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+FAQ
+Code of Conduct
+
+Sponsor
+Schedule
+Featured Speakers
+
+OpenJS Collaborator Summit
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

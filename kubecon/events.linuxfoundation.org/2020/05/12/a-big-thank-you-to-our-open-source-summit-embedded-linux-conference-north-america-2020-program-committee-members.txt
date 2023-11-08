@@ -1,0 +1,213 @@
+
+
+
+
+A Big THANK YOU to Our Open Source Summit + Embedded Linux Conference North America 2020 Program Committee Members! | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+May 12, 2020
+A Big THANK YOU to Our Open Source Summit + Embedded Linux Conference North America 2020 Program Committee Members!		
+
+
+
+
+By now we’re sure you’ve seen the schedule for the Open Source Summit + Embedded Linux Conference North America 2020 Virtual Experience – and if not, take some time to explore it here!  This year’s schedule is jam-packed with 230+ keynotes, conference sessions, tutorials, and BoFs across 14 different topic tracks.
+Putting together a schedule of this size takes a great deal of time, careful review, and thoughtful analysis and would not be possible without the dedication of our Program Committee Members. 
+A few fun facts:
+This year’s OSS + ELC North America Program Committee includes a whopping 59 members – and is 38% women!  WOW, one of our largest groups to-date.Together, they reviewed 816 total submissions from our Call for Presentations. This is a 31% increase in submissions from 2019 – incredible!Each Program Committee Member received a Digital Badge via Acclaim, to honor their work and commitment to the OSS + ELC North America 2020 schedule and event. 
+We’d like to thank each and every one of our Open Source Summit + Embedded Linux Conference North America 2020 Program Committee Members. Your hard work, expertise, and energy are the actual building blocks for OSS + ELC North America 2020.  This event would not be possible without you! 
+Take a look at our 2020 event tracks below and the Program Committee Members who reviewed each presentation submitted.
+AI/ML/DL:  Thank you to Dr. Ofer Hermoni (SybarIP & member of the LF AI Technical Advisory Council), Zhipeng (Howard) Huang (Huawei), Jessica Kim (Huawei & LF AI Outreach Chair), Yanjun Ma (Baidu), Starlord (Zilliz), Dr. Han Xiao (Tencent AI Lab) and Ibrahim Haddad (LF AI & Linux Foundation).
+Cloud App Development: Thank you to Neville George (Comcast), Josephene Pynadath (Pivotal), Miranda LeBlanc (Liberty Mutual Insurance), Dr. Michael Maximilien (IBM), Maggie Neterval (Google), Laura Santamaria (LogDNA) and Denise Yu (GitHub).
+Cloud Infrastructure: Thank you to Donnie Berkholz (CWT), Tim Pepper (VMware), Tameika Reed (Expansia & Women in Linux), Shilla Saebi (Comcast), Laura Santamaria (LogDNA) and Chris Aniszczyk (Linux Foundation & Cloud Native Computing Foundation).
+Diversity Empowerment Summit: Thank you to Nicole Huesman (Intel), Tameika Reed (Expansia & Women in Linux) and Nithya Ruff (Comcast).
+Cloud, Embedded & Linux Administration Intro/101: Thank you to Tameika Reed (Expansia & Women in Linux), Behan Webster (Converse in Code), and Jerry Cooperstein, Lee Elston and Timothy Serewicz (Linux Foundation).
+IoT:  Thank you to Malini Bhandaru (VMware), Frédéric Desbiens (Eclipse Foundation), Kathy Giori (EdTech and IoT Entrepreneur), Maureen Helm (NXP Semiconductors), Ron Minnich (Google), Jean-Marie Verdun (HPE) and Kate Stewart (Linux Foundation).
+Linux Systems: Thank you to Jonathan Corbet and Jake Edge (LWN.net), Sasha Levin (Microsoft), Tameika Reed (Expansia & Women in Linux), Steven Rostedt (VMware), Theodore Ts’o (Google), Elena Zannoni (Oracle) and Shuah Khan, Greg Kroah-Hartman and Kate Stewart (Linux Foundation).
+Wildcard: Thank you to Jake Edge (LWN.net), Joshua Lock (VMware), Laura Santamaria (LogDNA) and Kate Stewart (Linux Foundation).
+OS Databases: Thank you to Divya Bhargov (Pivotal), Dr. Michael Meskes (Credativ) and Sunil Kamath (Microsoft).
+OS Dependability: Thank you to Lukas Bulwahn (LF ELISA Project & BMW), Jake Edge (LWN.net), Darren Hart (VMware), Nicole Pappler (AlektoMetis), Jason Smith (UL LLC), Christopher Temple (Arm Germany GmbH) and Shuah Khan and Kate Stewart (Linux Foundation).Community Leadership & Open Source Program Management/TODO: Thank you to Jono Bacon (Jono Bacon Consulting), Darren Hart (VMware), Tameika Reed (Expansia & Women in Linux) and Chris Aniszczyk (Linux Foundation & Cloud Native Computing Foundation).
+Embedded Linux Conference: Thank you to Tim Bird and Frank Rowand (Sony), Marta Rybczynska, Yoshitake Kobayashi (Toshiba Corporation), Thomas Petazzoni (Bootlin) and Kate Stewart and Jeffrey Osier-Mixon (Linux Foundation).
+To learn more about the Program Committee Members, please click here and here.
+We hope you’ll join us for the Open Source Summit + Embedded Linux Conference North America 2020 Virtual Experience – an all new, immersive, digital event that will provide you with unparalleled access to interactive content and dynamic collaboration opportunities with the global open source community. 
+The entire event is available from the comfort and safety of your own home and for only US$50 – don’t miss out! Visit our FAQ page, and make your plans to join us.
+
+
+
+
+
+Post navigation
+Virtual Event Suggestions for Open Source CommunitiesSuccess with QiqoChat
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

@@ -1,0 +1,866 @@
+
+
+
+
+Hyperledger Global Forum 2021 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Diversity & Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Program Committee
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Hyperledger EventsHyperledger Homepage 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Hyperledger Events. 
+
+
+
+				Hyperledger Global Forum			
+
+
+
+
+
+
+
+June 8 – 10, 2021
+Virtual Experience | #hyperledgerforum
+
+
+Hyperledger Global Forum 2021 is a wrap! Thank you to all of the attendees and sponsors that joined us this year. To experience the best of the event, be sure to watch the session recordings on the Hyperledger YouTube channel and review slides from speakers who provided them via the event schedule.
+
+
+event recap
+
+
+
+
+Great start to 2nd day at #HyperledgerForum.  Looking forward to the @Accenture sessions from @TracyKuhrt, @leong_identity and @AWorley414.  You can check out all of the sessions here – https://t.co/L5WERpSCyq— Sownak Roy (@SownakR) June 9, 2021
+
+
+
+
+Key development: @IBM announces major code contribution to Fabric at #HyperledgerForum. Most important: Fabric Operations Console. Details: https://t.co/HBIShJ7sxa @Hyperledger @IBMBlockchain— Martha Bennett (@martha_bennett) June 9, 2021
+
+
+
+
+Listening to the #HyperledgerForum Keynotes over coffee ☕️–a great way to start the day on the West Coast! If you're a @Hyperledger member, listen in using the instructions below. 👇 https://t.co/5iW48fsEFw— Mary C. Hall (@SystemsandTech) June 8, 2021
+
+
+
+
+Kiva is an easy way to make a real difference in someone's life. Will you join me in helping Elías in Ramón Castilla- Alto Biavo-Bellavista to pursue their dream?Thanks #Hyperledger Global Forum 2021 for one of the best GiveAways I got so far… https://t.co/jS0wilYk05 via @Kiva— Peter Busch (@pbusch42) June 8, 2021
+
+
+
+
+
+
+Enlightening fireside with @brianbehlendorf and @VitalikButerin discussing blockchain issues such as keeping a level and inclusive playing field for blockchain contributors, environmental concerns, enterprise applications, and privacy. #HyperledgerForum #Ethereum #opensource pic.twitter.com/fsZdBAskJm— Hilary Carter 🇨🇦🇮🇪🇬🇧🇺🇦 (@TweetFromHilary) June 9, 2021
+
+
+
+
+Global Forum Happening NOW! https://t.co/mVmCfxZXa3@Hyperledger pic.twitter.com/2JiHUbZlBG— Bobbi (@LedgerAcademy) June 9, 2021
+
+
+
+
+Looking forward to the #HyperledgerForum. We're building the technology stack of @sonemashq with both Besu and Indy.So it's fair to say that we're #Hyperledger fans.— ⬇️ (@ArjanvanEersel) June 8, 2021
+
+
+
+
+'Attending' dual conferences all week (a silver lining of the times of 'Rona)- the @WomenTechNet Global Conference #WTGC2021 and the @Hyperledger Global Forum #hyperledgerforum. AI, and blockchain, and data, oh my!! #SmartWater #MyWaterLegacy #WatersWorthIt— Jennifer Loudon (@JenniferLoudon) June 8, 2021
+
+
+
+
+session recordings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Click on session titles in the agenda and click ‘Video Stream’ to go directly to the video for that session.  Don’t forget to ‘like’ the video to support the speaker!
+
+ABOUT HYPERLEDGER
+
+
+Hyperledger is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments. It is a global collaboration, hosted by The Linux Foundation, and includes leaders in finance, banking, Internet of Things, supply chains, manufacturing and Technology. Built under technical governance and open collaboration, individual developers, service and solution providers, government associations, corporate members and end users are all invited to participate in the development and promotion of these game-changing technologies.
+Similar to The Linux Foundation, Hyperledger has a modular approach to hosting projects. The Hyperledger greenhouse hosts developing business blockchain projects from Hyperledger Labs (seed) to stable code ready for production (fruition). All are invited to contribute to the greenhouse; collectively advancing industry goals of distributed ledger and smart contracts.
+
+LEARN MORE
+
+
+
+
+
+
+KEYNOTE SPEAKERS
+
+
+
+
+
+
+
+ 
+
+
+Arnaud Le Hors
+Senior Technical Staff Member, Blockchain & Web Open Technologies, IBM
+
+
+
+
+
+Arnaud Le Hors is Senior Technical Staff Member of Blockchain & Web Open Technologies at IBM. Arnaud has been working on standards and open source for over 25 years and has been involved in every aspect of the open technology development process: technical, strategic, political, and legal. Arnaud was editor of several key web specifications including HTML and DOM and was a pioneer of open source with the release of libXpm in 1990. Arnaud currently is the main representative for IBM at W3C, a member and chair of the Hyperledger Technical Steering Committee, a contributor to Hyperledger Fabric, and a member of the European Blockchain Observatory.
+ 
+
+
+
+
+
+
+ 
+
+
+Dr. Mary C. Lacity
+Walton Professor and Director of the Blockchain Center of Excellence
+
+
+
+
+
+Dr. Mary C. Lacity is Walton Professor of Information Systems and Director of the Blockchain Center of Excellence in the Sam M. Walton College of Business at The University of Arkansas. She was previously Curators’ Distinguished Professor at the University of Missouri-St. Louis. She has held visiting positions at MIT, the London School of Economics, Washington University, and Oxford University. She is a Senior Editor for MIS Quarterly Executive, a fellow of the Association of Information Systems (AIS), and a Certified Outsourcing Professional. Her recent research focuses on improving business services using Robotic Process Automation (RPA), Cognitive Automation (CA),and Blockchain technologies. She has published 30 books, most recently, Blockchain Foundations for the Internet of Value (2020) and Becoming Strategic with Robotic Process Automation (2019). Her publications have appeared in the Harvard Business Review, Sloan Management Review, MIS Quarterly, MIS Quarterly Executive, IEEE Computer, Communications of the ACM, and many other academic and practitioner outlets. According to Google Scholar, her work has been cited over 19,000 times, with an h-index of 58.
+ 
+
+
+
+
+
+
+ 
+
+
+Frank Yiannas
+Deputy Commissioner for Food Policy and Response, Food and Drug Administration
+
+
+
+
+
+Frank Yiannas is the Deputy Commissioner for Food Policy and Response, a position he assumed in December of 2018. He is the principal advisor to the FDA Commissioner in the development and execution of policies related to food safety, including implementation of the landmark FDA Food Safety Modernization Act (FSMA). His leadership role within the Agency covers a broad spectrum of food safety priorities, such as outbreak response, traceback investigations, product recall activities, and supply chain innovation across the full spectrum of FDA-regulated products.
+
+
+Mr. Yiannas is, in effect, the Agency’s chief ambassador to reduce food safety risks and achieve high rates of compliance with FDA food safety standards, working to develop innovative collaborations with external partners and stakeholders and effective relationships with government and industry leaders, as well as consumer groups.
+
+
+A renowned food safety expert and author, Mr. Yiannas came to FDA from leadership roles with two industry giants: Walmart and the Walt Disney Company. Through his career, he’s been recognized for his role in elevating food safety standards and building effective food safety management systems based on modern science and risk-based prevention principles.
+
+
+At Walmart, which he joined in 2008 and served for over a decade, Mr. Yiannas was the Vice President for Food Safety. In this role, he led the effort to make Walmart the first U.S. retailer to require suppliers to achieve certification against one of the Global Food Safety Initiative (GFSI) benchmarked food safety schemes.  More recently, he has become a globally recognized pioneer in using blockchain technology to create a more digital and transparent food system. His work has shown that by leveraging technology, the amount of time taken to trace the origin of a food back to source can be reduced from weeks and days down to seconds. Based on his work, other major food companies are now exploring the use of this technology.
+
+
+His experiences in the food safety arena have also made him an advocate for the promotion of a Food Safety Culture to protect the world’s food supply, arguing that science and policy alone are not enough. Advancing food safety also requires an understanding of organizational culture and principles of human behavior. Engaging on this level to help shape an organization’s culture is the subject of his books Food Safety Culture, Creating a Behavior-based Food Safety Management System, and Food Safety = Behavior, 30 Proven Techniques to Enhance Employee Compliance.
+
+
+At Disney, where he worked for 19 years, he was the Director of Safety and Health. During his tenure, Disney received the prestigious Black Pearl Award for corporate excellence in food safety from the International Association for Food Protection.
+
+
+The recipient of numerous awards, in 2007, he received the National Science Foundation’s International Lifetime Achievement Award for Leadership in Food Safety. He is also the recipient of the Collaboration Award by FDA in 2008 and he was named the 2015 Industry Professional Food Safety Hero Award by STOP Foodborne Illness, a consumer advocacy group.
+
+
+Mr. Yiannas is a past president of the International Association for Food Protection and a past vice-chairman of the Global Food Safety Initiative.  He is also an adjunct Professor in the Food Safety Program at Michigan State University, and in 2017 was awarded the MSU Outstanding Faculty Award.
+
+
+A microbiologist, Mr. Yiannas received a B.S. in microbiology from the University of Central Florida and a Master of Public Health degree from the University of South Florida.
+ 
+
+
+
+
+
+
+ 
+
+
+Jonathan Dotan
+Founding and Director of the Starling Lab, Stanford University + USC Shoah Foundation
+
+
+
+
+
+Jonathan Dotan is a fellow at the Stanford Compression Forum and Stanford’s Center for Blockchain Research, and the USC Shoah Foundation. He researches and lectures on applied strategy and policy for the decentralized web. For the last two years, he has led the creation of the Starling Framework for Data Integrity, a comprehensive set of tools and principles that empowers organizations to securely capture, store and verify human history. He brings to Stanford over 20 years of experience navigating the intersections of media, tech, and policy as a c-level tech executive, producer, and investor. Jonathan recently wrapped six seasons writing and producing HBO’s Emmy Award-winning series, SILICON VALLEY. He received an MPhil in International Relations from Oxford University, St. Antony’s College.
+ 
+
+
+
+
+
+
+ 
+
+
+Vitalik Buterin
+Co-founder, Ethereum
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Marie Masserey
+Head Industry Architecture, IATA
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Kareem Yusuf
+IBM General Manager, AI Applications and Blockchain, IBM
+
+
+
+
+
+Kareem Yusuf leads the AI Applications and Blockchain business at IBM, focused on enabling clients to leverage intelligent insights to transform how they operate, particularly in asset intensive industries. Kareem has been with IBM for over 22 years and has held senior leadership positions in a variety of disciplines across the company. Kareem has a Ph.D from the University of Leeds, focused on Decision Support Systems for Civil Engineering construction.
+ 
+
+
+
+
+
+
+ 
+
+
+Robert Palatnick
+Managing Director – Global Head of Technology Research and Innovation, DTCC
+
+
+
+
+
+Robert Palatnick is Managing Director – Global Head of Technology Research and Innovation at DTCC, where he has responsibility for the global IT strategy, architecture, standards and engineering design of the systems and applications that support the firm’s broad range of products and services. In addition, he leads DTCC’s technology innovation initiatives, including cloud, automation, big data analytics and distributed ledger technologies and co-sponsors DTCC’s Office of Fintech Strategy.
+
+
+Before this role, Rob held a number of senior technology positions at DTCC including Application Development Domain Lead, Chief Administrative Officer of IT and CIO of FICC. Prior to joining DTCC, Mr. Palatnick was Vice President, Development and Systems, at Security Pacific Corporation Sequor Software Services.An active technology voice in the industry, Rob has been a featured guest speaker at key conferences worldwide and is often quoted in the press. He also serves as Chairman of the Governing Board of the Linux Foundation’s Hyperledger Project, a collaborative effort to establish, build and sustain an open, distributed ledger platform across industries.
+
+
+Rob received his BS in Electrical Engineering from the University of Buffalo, and is an alumnus of the David Rockefeller fellowship.
+ 
+
+
+
+
+
+
+ 
+
+
+David Treat
+Senior Managing Director, Global Metaverse Continuum Business Group & Blockchain Lead, Accenture & Hyperledger Governing Board Chair
+
+
+
+
+
+Dave Treat is a Senior Managing Director, Global Metaverse Continuum Business Group & Blockchain Lead, Accenture & Hyperledger Governing Board Chair. He has over 20 years of experience in Financial Services split between consulting and industry roles spanning Capital Markets, Retail Banking, and Cards.Over the past several years, Dave has driven the formation of Accenture’s Blockchain Business which now spans the globe, engages clients across all industries, and ranges from pure R&D to full scale client business transformation.
+
+
+In addition to managing several of Accenture’s strategic alliances in the blockchain domain, he serves as a member of the boards of Hyperledger, a Linux Foundation Project, the Enterprise Ethereum Alliance (Vice Chair), the Global Blockchain Business Council, The Chamber of Digital Commerce, and the ID2020 Alliance. David also serves on the World Economic Forum C4IR Blockchain Business Council and is the Project Advisor for the World Economic Forum’s Digital Identity Initiative and the Known Traveler Digital Identity project.
+
+
+Dave holds over 26 blockchain patents and pending patents, is a frequent speaker and the author / contributor of multiple papers, including: Powered by blockchain: Realizing AI’s full potential, Connecting ecosystems: Blockchain integration, Digital Identity: On the Threshold of a Digital Identity Revolution and Banking on Blockchain: A value analysis for investment banks.He has been quoted extensively on blockchain-related topics in the New York Times, Fortune, Financial Times, Wall Street Journal, among others.
+
+
+He is a regular speaker at major international conferences, including: Consensus, Davos – World Economic Forum, Hyperledger Global Forum, ID2020 Summit, IBM Think, ITPC (SEMI), Milken Institute Asia Summit, Money2020, Singapore Fintech Festival, SIBOS, SXSW, Synchronize, USDA – Food Forward, UN General Assembly – WEF Social Impact Summit and the World Trade Symposium. Dave was named one of the Sci-Tech 100 2018: The Architects of the Future by Silicon Republic.
+
+
+Dave received his bachelor’s degree from the University of Pennsylvania and his master’s degree from the University of Michigan. He is based in New York.
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Drummond Reed
+Chief Trust Officer, Evernym
+
+
+
+
+
+Drummond has spent over two decades in Internet identity, security, privacy, and governance. He joined Evernym as Chief Trust Officer after Evernym acquired Respect Network, where he was co-founder and CEO. At the W3C he is co-editor of the DID (Decentralized Identifiers) specification. At the Trust over IP Foundation, Drummond is a member of the Steering Committee and co-chair of the Governance Stack Working Group. At the Sovrin Foundation, he serves as co-chair of the Sovrin Governance Framework Working Group. For ten years he served as co-chair of the OASIS XDI Technical Committee, a semantic data interchange protocol that implements Privacy by Design. He is also co-author of the forthcoming book, Self-Sovereign Identity, from Manning Publications. Prior to starting Respect Network, Drummond was Executive Director of two industry foundations: the Information Card Foundation and the Open Identity Exchange. He has also served as a founding board member of the OpenID Foundation, ISTPA, XDI.org, and Identity Commons. In 2002 he received the Digital Identity Pioneer Award from Digital ID World, and in 2013 he was cited as an OASIS Distinguished Contributor.
+ 
+
+
+
+
+
+
+ 
+
+
+David MacFadyen
+Professor, UCLA
+
+
+
+
+
+https://www.davidmacfadyen.com/about
+ 
+
+
+
+
+
+
+ 
+
+
+Imogen Heap
+Musician / Founder of The Creative Passport
+
+
+
+
+
+Self-produced British composer and recording artist for 25 years, Imogen Heap has released five solo albums, another as one half of Frou Frou and collaborated with countless and varied artists including Taylor Swift, Nitin Sawhney, Deadmau5, Eric Whitacre, Jeff Beck and Jon Hopkins. Her compositions and songs pop up in blockbuster and indie films as well as countless TV shows, are featured in underground rap and dance music and covered by the likes of Ariana Grande. As composer and arranger for one of the biggest hits in theatrical history, Harry Potter and The Cursed Child, Imogen won the Drama Desk Outstanding Music in a Play award. As a sought-after speaker and performer, Heap hosted 2020’s Grammys Premiere Ceremony. Heap’s collaborative and multi-dimensional workflow attracts companies for commissioned works, leading to songs such as Tiny Human, the first song to distribute payments via a Smart Contract, and The Happy Song, a highly successful song for children in their early-years. Heap, recognised as an artist’s artist, has won two Grammys and an Ivor Novello award. In recognition of her pioneering work at the intersection of music and tech, Heap has a hat trick of three honorary doctorates for the gestural music-ware ‘MI.MU gloves’ system and recently for ’The Creative Passport’, an integrated digital ID solution, empowering music makers to be the change toward a fair and flourishing music ecosystem. Between projects a constant for the past year is every Thursday afternoon, Imogen Q&A chats with her fans via The Listening Chair with those who subscribe to Imogenheap.app to collaborate together on Augmented Imogen, Imogen’s in dev AI. 
+ 
+
+
+
+
+
+
+ 
+
+
+Brendan Cooper
+Director – NFT, Blockchain & Digital Systems, Panini America
+
+
+
+
+
+Panini is the world leader in officially licensed collectibles and is the leading multi-national publisher of comics, children’s magazines and Manga in Europe and Latin America. The company is the exclusive licensor of trading cards and stickers for the FIFA World Cup, NBA, NFL, NFL PLAYERS, NHL, NHLPA, MLBPA and. The company also has licenses from Disney and Marvel, with more than 700 global licenses in other sports and entertainment properties worldwide. Every four years Panini’s officially licensed FIFA World Cup Sticker Albums are a global cultural phenomenon.Brendan Cooper is global digital transformation leader of digital business strategies for Fortune 1000 companies and angel/venture funded startups. An expert with comprehensive vision of NFT technology across the digital content lifecycle using the converged stack of emerging cryptographic platforms, primitives, smart contracts, artificial intelligence/machine learning, eCommerce, mobile and XR technologies. Previously, as the Director of License Acquisition, he has executed thousands of contracts with the top athletes and entertainers around the world.Brendan has led digital transformation with a comprehensive re-imagining of the customer experience. He has deployed new NFT Collectible, eCommerce, mobile commerce, and mobile gaming platforms at scale. These platforms powered the officially licensed mobile games, the Panini FIFA Trader, NFL Blitz, NBA Dunk and others, collectively with over 7,000,000 users in 7 languages. He has also implemented a China-based FIFA World Cup mini-app on Tencent News and Sports mobile app with access to WeChat’s 800,000,000 daily active users. This embedded mini-app achieved peak on-boarding loads of 45,000+ users per minute. In January of 2020 Brendan launched the Panini Blockchain, then the world’s largest officially licensed NFT Collectible platform. This platform creates digital-only collectibles as real property with perfect authenticity, perfect chain-of-custody, and best-in-class contractual property rights.
+ 
+
+
+
+
+
+
+ 
+
+
+Daniel Heyman
+Co-Founder and CEO, Palm NFT Studio
+
+
+
+
+
+Dan Heyman is a blockchain industry veteran with experience building and leading organizations through the design, development, and implementation of enterprise-grade blockchain protocols.Prior to co-founding Palm, Dan was the Co-Founder and General Manager for PegaSys, ConsenSys’s protocol engineering division. As the GM for PegaSys Dan grew the organization from a team of 2 into the largest Ethereum-focused research and engineering organization outside of the Ethereum Foundation. During his 4 years at the helm of PegaSys Dan led the design and development of Ethereum 1.0, Ethereum 2.0, and Enterprise Ethereum blockchain protocols, the last of which serves as the foundation for the Palm blockchain.
+ 
+
+
+
+
+
+
+ 
+
+
+HE Serey Chea
+Assistant Governor, National Bank of Cambodia (NBC)
+
+
+
+
+
+Serey Chea is an Assistant Governor at National Bank of Cambodia. Since Cambodia is a highlydollarized economy, she as a central banker is a vocal proponent for greater use of the localcurrency to promote the country’s greater independence on economic and monetary policy.Under her guidance, innovative policy instruments were introduced to develop the interbankmarkets and promote the use of local currency. Serey is also a member of different policy-driven committees within the bank and nationally. She is chairwoman of the Credit BureauCambodia Ltd., the first and only privately-run credit sharing system in Cambodia. As achairwoman of Clearing House Operation Committee, she has been leading the BakongProject, an acclaimed initiative of the National Bank of Cambodia in exploring and introducinga new generation of payment system using Blockchain technology. Currently, she serves as anInternational Council Member of the Global FinTech Institute. She is a member of the SoutheastAsia Advisory Council of Women World Banking, and is a member of Young Global Leaders,Class of 2019, a forum of Young Global Leaders created by the World Economic Forum (WEF).Also, she is a member of the WEF’s Digital Currency Governance Consortium and the AdvisoryCommittee of the Digital Payments for Trade and Commerce project. She is a strong advocatefor women economic empowerment and financial inclusion and served as Alliance for FinancialInclusion’s (AFI’s) high level Gender and Women’s Financial Inclusion Committee (GWFIC).Serey was a senior fellow of Lee Kuan Yew School of Public Policy and is currently pursuing herPhD degree with the University of Adelaide (Australia).
+ 
+
+
+
+
+
+
+ 
+
+
+Sopnendu Mohanty
+Chief Fintech Officer, Monetary Authority of Singapore
+
+
+
+
+
+Sopnendu Mohanty is the Chief Fintech Officer at the Monetary Authority of Singapore (MAS). He joined MAS in August 2015 and is responsible for creating development strategies, public infrastructure and regulatory policies around technology innovation. Since 2015, Singapore has become one of the top global fintech hubs covering a wide range of financial asset classes including adjacent technology innovations in areas such as insurance, digital assets, blockchain, artificial intelligence, reg-tech and green-finance. Before joining MAS, Sopnendu spent more than 20 years in various leadership roles in technology, finance and innovation with most of his career with Citigroup. Sopnendu is a member of multiple advisory committees of multilateral global agencies, associations, universities, and governments. He is an avid speaker, global thought leader in FinTech, and advocate of accelerated transformation to a digital economy for solving financial inclusion and sustainability challenges.
+ 
+
+
+
+
+
+
+ 
+
+
+Michael del Castillo
+Associate Editor, Forbes
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Xue Wang
+General Manager, FinLab at China Construction Bank Fintech Corp
+
+
+
+
+
+Ms. Wang is the General Manager of FinLab at CCB Fintech Corp (CCBFT). She is a domain expert with over 10 years of experience in financial technology. Prior to CCBFT, Ms. Wang was the Executive Solution Expert in FSS department at IBM China between 2005 and 2018. She is instrumental in delivering Cognitive and Big Data solutions to large banking customers with her deep insights in the financial industry and technical expertise of the cognitive data analysis, blockchain and banking IT systems. Prior to joining IBM in 2005, she was an Assistant Professor in ICT, ACM on semantic web domain.
+ 
+
+
+
+
+
+
+ 
+
+
+Rajesh Dhuddu
+Blockchain & Cybersec Leader, Tech Mahindra
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Marta Belcher
+Board Chair, Filecoin Foundation; General Counsel, Protocol Labs
+
+
+
+
+
+Marta Belcher is the General Counsel and Head of Policy at Protocol Labs and the Board Chair of the Filecoin Foundation and the Filecoin Foundation for the Decentralized Web. She also serves as special counsel to the Electronic Frontier Foundation. Marta is a pioneer in cryptocurrency law and has spoken on the topic around the world, including in U.S. Congress, European Parliament, the New York Senate, the OECD, and in Davos during the World Economic Forum. Marta has drafted amicus briefs in the U.S. Supreme Court and U.S. appellate courts for high-profile public interest organizations, including EFF, the Center for Democracy & Technology, Public Knowledge, the Cato Institute, the National Consumers’ League, Project Gutenberg, and the Blockchain Association. Marta has been recognized twice by the Financial Times Innovative Lawyer awards, was named to Law360’s list of Top Attorneys Under 40, and was #18 on CryptoWeekly’s list of Most Influential Women in Crypto.
+ 
+
+
+
+
+
+
+ 
+
+
+Mike Dolan
+SVP, GM of Projects, The Linux Foundation
+
+
+
+
+
+Michael Dolan is VP of Strategic Programs supporting open source projects and legal programs at The Linux Foundation. He has set up and launched dozens of open source and open standards projects covering technology segments including networking, virtualization, cloud, blockchain, Internet of Things, big data and analytics, security, containers, storage, and embedded devices.Mike is also involved in OpenChain and SPDX, and runs open source legal programs such as The Linux Foundation’s annual Legal Summit and Open Compliance Summit. Prior to joining The Linux Foundation, he spent eight years at IBM in roles across systems, services, and software.He received an M.B.A. from Case Western Reserve University, a J.D. from Cleveland State University, and a B.S. in economics from John Carroll University. Mike is a member of the Ohio State Bar Association.
+ 
+
+
+
+
+
+
+ 
+
+
+Veronica Garcia
+CEO, Bitlumens
+
+
+
+
+
+Veronica Garcia was an investment consultant at Credit Suisse and UBS for Latin American Asset Managers. After finishing her graduate studies at the ETH in Zurich she joined IBM Research Lab. She also worked as a consultant for the World Bank, IADB and Castalia. Her research focused on renewable technologies and on quantifying investment needs to reach the country targets for renewable power generation. In 2018 she founded BitLumens which facilitates the scaling of green generating sources using Lora and the blockchain.
+ 
+
+
+
+
+
+
+ 
+
+
+Dr. Andreas Kind
+Vice President Cybersecurity & Trust, Siemens AG
+
+
+
+
+
+Dr. Andreas Kind leads the global research for Cybersecurity & Trust at Siemens. He received his Ph.D. degree in computer science from the University of Bath, UK and worked in various positions for IBM Research from 2000 until 2019. Andreas holds over 20 patents and authored and co-authored over 40 research publications. He presented at numerous peer-review conferences and was invited for keynote presentations at Blockchain Revolution Global 2020, World Web Forum 2019, MIT Technology Review EmTech 2018 and IMF Global SME Finance Forum 2016.
+ 
+
+
+
+
+
+
+ 
+
+
+Dr. Martin Wainstein
+Executive Director​ Open Earth Foundation, Yale Open Innovation Lab and Hyperledger Climate Action SIG​
+
+
+
+
+
+Martin Wainstein is a resident fellow at the Yale Center for Business and the Environment, where he leads the research efforts behind the Yale Open Innovation Lab. Martin held appointments at the Yale Department of Electrical Engineering, the Tsai Center for Innovative Thinking at Yale, and is a research affiliate at the Digital Currency Initiative of the MIT Media Lab. He is the founder of the Open Earth Foundation, a research and deployment non-profit focusing on digital innovations and open collaborations around planetary-scale projects such as Open Climate. He is the chair of the Hyperledger Climate Action and Accounting SIG at the Linux Foundation, and actively advises deep tech startups such as the Spatial Web, Verses, and Raise Green.
+ 
+
+
+
+
+
+
+ 
+
+
+José Luis Núñez Díaz
+Global Head for Blockchain Businesses, Telefónica
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Paolo Migliari
+Connected Channel Lead, Merck Sharp & Dohme
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Lidija Pozaic Frketic
+“Business Development Manager for Pharma; Smart Digital Innovation; Antares Vision Group Managing Director, Tradeticity; Member of Antares Vision Group”
+
+
+
+
+
+Chem Tech Eng, MrSc, MBA; have been working in pharmaceutical companies in various positions from R&D to PM and QC Management positions.
+
+
+Leaving direct work for pharma companies I am joining top management becoming CEO of Instrumentalia (Lab equipment, Waters representative for Croatia)
+
+
+In 2014 I have entered an adventure of establishing IT Start up (Tradeticity) where I am still a partner and Managing Director. Tradeticity was acquired in 83% by Antares Vision in 2020 and I am becoming part of a Smart Digital Innovation Global team taking ownership of Track&Trace solutions on L4.
+
+
+In private life I am a mother of 7Y old son and President of The Scout Association of Croatia (being previously President of the European Scout Region and Member of The World Scout Committee) and passionate about Environmental protection and projects working towards it.
+ 
+
+
+
+
+
+
+ 
+
+
+Daniel Laverick
+Head of SAP & IT Solutions, Zuellig Pharma
+
+
+
+
+
+Daniel Laverick is an SAP and IT solutions expert, evangelizing the use of technology to drive digital transformation and innovation. Combining his 20 years’ experience working within the SAP arena for MNCs in Banking, Pharma, Oil & Gas and Telecoms, he strategises and develops new solutions using the latest platforms including the Internet of Things, Machine Learning, Blockchain and others.In his role at Zuellig Pharma, he managed and oversaw the largest SAP migration in Asia to public cloud, along with the development of the first Blockchain hosted drug traceability application in Asia named eZTracker. Daniel has also championed the use of machine learning to streamline internal operations with the introduction of bots.
+ 
+
+
+
+
+
+
+ 
+
+
+Brian Behlendorf
+General Manager, Open Source Security Foundation
+
+
+
+
+
+Brian Behlendorf was a primary developer of the Apache Web server, the most popular web server software on the Internet, and a founding member of the Apache Software Foundation. He has also served on the board of the Mozilla Foundation since 2003 and the Electronic Frontier Foundation since 2013. He was the founding CTO of CollabNet and CTO of the World Economic Forum. Most recently, Behlendorf was a managing director at Mithril Capital Management LLC, a global technology investment firm. 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Sponsors
+
+DIAMOND
+PLATINUM
+SILVER
+Closed Captioning & Translation
+Diversity & Inclusion 
+BoF Session
+Community Partners
+MEDIA PARTNERS
+
+
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+#hyperledgerforum
+
+
+
+
+Diversity & Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Program Committee
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

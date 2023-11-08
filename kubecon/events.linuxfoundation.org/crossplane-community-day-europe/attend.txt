@@ -1,0 +1,198 @@
+
+
+
+
+About | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  KubeCon + CloudNativeCon + other CNCF Events. 
+
+
+
+
+
+
+ 
+
+
+						About					
+
+
+
+
+
+Crossplane Community Day Europe (#Crossplaneday) is designed to foster collaboration, discussion and knowledge sharing of Crossplane, a CNCF project which extends the Kubernetes API to manage and compose infrastructure from multiple cloud vendors and infrastructure providers. Topics include getting started with and adopting Crossplane, scaling and managing Crossplane across clouds,securing applications with Crossplane, lessons learned from production deployments, technical sessions from Crossplane maintainers and thought leadership from both the Crossplane and Kubernetes communities. 
+We have a speaker lineup that features an array of backgrounds, experience levels and perspectives – to help everyone increase their understanding of open source Crossplane and unlock new levels of productivity and efficiency in their organizations.
+Who Should Attend?
+Crossplane delivers a powerful open source control plane to enterprise platforms, enabling companies to standardize on application and infrastructure management, effectively implement their security and governance policies and publish an internal API that integrates with their development workflows and tools. #Crossplaneday is a chance to learn from a global community of experts and take away a better understanding of Crossplane as well as the skills to leverage the power of an API-centric approach to provisioning infrastructure. As a virtual event, we hope that engineers everywhere will be able tap into this knowledge.
+Platform Engineers and OperatorsSREsDevOps PractitionersIT OperationsTechnical ManagementCNCF Contributors
+
+
+
+
+
+
+Sponsors
+
+DIAMOND
+PLATINUM
+GOLD
+HOSTED BY 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+#Crossplaneday
+
+
+
+
+Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

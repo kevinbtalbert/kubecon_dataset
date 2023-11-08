@@ -1,0 +1,203 @@
+
+
+
+
+The Linux Foundation’s Open Networking and Edge (ONE) Summit Expands Programming with Keynote and Mini Summit by the US Government, Enabling Secure, Open, and Programmable 5G Networks | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+September 22, 2021
+The Linux Foundation’s Open Networking and Edge (ONE) Summit Expands Programming with Keynote and Mini Summit by the US Government, Enabling Secure, Open, and Programmable 5G Networks		
+
+
+
+
+The US DoD, DARPA, and NWIC Pacific host mini summit on accelerating innovation and deployments at scale based on open source 5G architecture & use cases 
+SAN FRANCISCO, September 22, 2021 – The Linux Foundation, the nonprofit organization enabling mass innovation through open source, along with co-hosts LF Edge, LF Networking, and Cloud Native Computing Foundation (CNCF), today announced additional programming for ONE Summit contributed by the United States government. New programming includes a keynote address by Dr. Dan Massey, Project Leader, Operate through DoD 5G to NextG Initiative, as well as a US GOV OPS Mini Summit. 
+“We are honored to have such a broad and distinguished swath of experts participating in ONE Summit,” said Arpit Joshipura, general manager, Networking, Edge and IoT, the Linux Foundation. “The latest additions to our program bring an even more diverse perspective on the future of 5G, and how initiatives like the 5G Super Blue Print can be consumed by both governments and enterprises.”
+Dr. Dan Massey, who leads the Operate Through portion of the DoD 5G to NextG Initiative, will give a keynote address on “Securly Operating through 5G Networks” on Monday, October 11 at 12:15pm PST. Operate Through aims to ensure the DoD can securely operate through commercial 5G networks across the globe. 
+Following a keynote by Dr. Jonathan Smith during the Open Networking & Edge Executive Forum (ONEEF) earlier this year, the US GOV OPS mini summit will examine requirements and progress of 5G, edge, and IoT technologies within enterprise and government entities. Hosted by NWIC Pacific division of the United States Navy and led by Doug Evans, Neil Hoff and Andrew Leidy from the Department of the Navy, the program will cover use cases and solutions that rely on the foundations of open source networking, edge, and cloud project communities (including LF Networking, LF Edge, CNCF, Kubernetes, Magma, and more). Specific discussion topics include:  
+Introduction to United States Government Open Programmable Secure (US-GOV OPS) initiative within the Linux Foundation Overview of DARPA’s Open, Programmable, Secure 5G (OPS-5G) project The Linux Foundation’s 5G Super Blue PrintDiscussion of the Office of the Under Secretary of Defense (OUSD) for Research & Engineering’s 5G initiative, and the Multi-site OPS-5G Joint Independent Test Option (MOJITO) project
+The mini-summit takes place October 11 from 2:00 PM to 4:50 PM PST. Registration to this mini-summit is included in the overall conference registration. Standard registration ends October 5, so register today for only US$50. 
+For more details on the ONE Summit, including information on registration and program agenda, please visit: https://events.linuxfoundation.org/open-networking-edge-summit-north-america/
+About the Linux Foundation
+Founded in 2000, the Linux Foundation is supported by more than 2,000 members and is the world’s leading home for collaboration on open source software, open standards, open data, and open hardware. Linux Foundation’s projects are critical to the world’s infrastructure including Linux, Kubernetes, Node.js, and more. The Linux Foundation’s methodology focuses on leveraging best practices and addressing the needs of contributors, users and solution providers to create sustainable models for open collaboration. For more information, please visit linuxfoundation.org.
+
+
+
+
+
+Post navigation
+The Linux Foundation Announces Agenda and Speaker Lineup for the 2021 Linux Foundation Member SummitThe Linux Foundation and Fintech Open Source Foundation Announce Keynote Speakers for Open Source Strategy Forum New York 2021
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

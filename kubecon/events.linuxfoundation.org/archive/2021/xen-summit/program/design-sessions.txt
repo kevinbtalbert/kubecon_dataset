@@ -1,0 +1,231 @@
+
+
+
+
+Design Sessions | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Xen EventsXen Project Homepage 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Xen Events. 
+
+
+
+
+
+
+ 
+
+
+						Design Sessions					
+
+
+
+
+Skip to page sectionSubmit a Design SessionSuggested Topics for Design and Problem Solving SessionsSample Submissions - Design and Planning SessionsFirst Time Submitting?Code of Conduct
+
+Design Session Submissions are now open
+
+
+
+SUBMIT A DESIGN
+
+
+
+
+Suggested Topics for Design and Problem Solving Sessions
+
+The aim of the Design and Problem Solving sessions are to give developers the opportunity to work together to:
+Coordinate and plan upcoming featuresDiscuss and agree on best practices and changes to how the community worksDiscuss and agree on the design and architecture of future functionalityInteractive lessons learned sessions covering experiences of contributors, users and vendors
+Examples of Design and Problem Solving Sessions from past Hackathons were:
+Cadence of Xen Project and maintenance releasesChanges to the COLO architecture and interdependencies with migration v2Developing the architecture and design for Xen Project live patchingof new Xen Project security policyEvolution of virtual machine introspection (including HW assistance) in the Xen HypervisorHow to de-privileging QEMU and the x86 emulator to reduce the impact of security vulnerabilities in those components,Implementing KConfig support which allows to remove parts of Xen at compile time and run-time disablement of Xen features to reduce Xen’s trusted computing base.Planning the next stage of PVH (which led to a re-think and PVH v2)Planning sessions for Xen Hardware support, including how to implement PCI passthrough on ARM, how we can improve testing for the increasing range of ARM HW with support for virtualization, and how to implement alt2pm on Intel architecturesRelease planningRestartable Dom0 and driver domainsTesting and testing frameworks
+
+
+
+
+Sample Submissions – Design and Planning Sessions
+
+If you are proposing a design and planning session, please clearly state:
+The problem that you are trying to solveHow attendees of the session can contribute to solving your problemWhether any preparation work is desirable (including links to existing material)
+The proposer of design and planning sessions is expected to moderate sessions, which are held in smaller breakout rooms that are equipped with whiteboards. Some rooms will also contain projectors. Moderators can give a short presentation to introduce the problem, but design and planning sessions are not presentations. As a guide, presentations should not exceed more than 25% of the overall session time. Sessions will not be recorded, but we expect that the moderator either takes minutes or nominates an attendee to do so. Minutes will be posted on the relevant mailing list. (Note that design and planning sessions only scale well to a maximum of 30 people.)
+
+
+
+First Time Submitting? Don’t Feel Intimidated.
+
+We know that the open source community can be very intimidating for anybody who is interested in participating.
+Xen Project events are an excellent way to get to know the community and share your ideas and the work that you are doing. You do not need to be a maintainer or a chief architect to submit a proposal. In fact, we strongly encourage first-time speakers to submit talks for all of our events. In the instance that you aren’t sure about your abstract, reach out to us and we will be more than happy to work with you on your proposal.
+Our events are working conferences intended for professional networking and collaboration in the Xen community and we work closely with our attendees, sponsors and speakers to help keep Xen Project events professional, welcoming and friendly. If you have any questions about participating please don’t hesitate to contact us.
+
+
+
+Code of Conduct
+
+The Linux Foundation is dedicated to providing a harassment-free experience for participants at all of our events. We encourage all submitters to review our complete Code of Conduct.
+
+
+
+
+ 
+
+
+
+
+Sponsors
+
+platinum 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+ 
+#xendevsummit
+
+
+
+
+Code of Conduct
+
+Sponsor
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

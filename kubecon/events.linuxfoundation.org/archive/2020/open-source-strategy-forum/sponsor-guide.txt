@@ -1,0 +1,321 @@
+
+
+
+
+Sponsor Guide | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Explore the Tracks
+Featured Speakers
+
+
+Features &Add-Ons
+
+Experiences
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Financial Services Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Financial Services Events. 
+
+
+
+
+
+
+
+
+
+						Sponsor Guide					
+
+
+
+
+Skip to page sectionGeneral InformationConference ScheduleSponsor RegistrationMarketing & PRVirtual Exhibit - SwagVirtual BoothBooth HoursBooth StaffLead RetrievalVirtual Best Practices GuideCode of ConductNeed assistance? Contact us!
+
+General Information
+
+Welcome to the Open Source Strategy Forum Sponsor Portal! This is your one-stop resource for all your sponsorship deliverables and exhibit-related needs. 
+The virtual event dates are Thursday, November 12 – Friday, November 13, 2020. The event platform will be accessible 24 hours a day to all registered attendees.  Live content will begin daily at 9:00 am EST with presentations over two consecutive days.
+If you have any questions or need assistance, please contact Jennifer and Courtenay at lfcoresponsorship@linuxfoundation.org.
+Open Source Strategy Forum Sponsor is a virtual event and will be hosted on the online platform, Pathable.
+
+
+
+Conference Agenda – Keynotes & Sessions
+
+For the most current schedule visit the OSSF Schedule webpage.
+Visit the Open Source Strategy Forum website for more information on the session schedule, co-located events, add-on features, and onsite experiences.
+
+
+
+Sponsor Registration
+
+Sponsor Registration Access CodeEach sponsor receives a Sponsor Access Code good for a number of complimentary conference registrations. The access codes may be used for booth staff, other employees or customers. To register, please go to OSSF Sponsor Registration and enter your access code. 
+Need your access code? Please email lfcoresponsorship@linuxfoundation.org to request it be resent. Note: We only provide the sponsor code to the designated sponsor contact.
+Our registration system is now integrated with the Linux Foundation Single sign-on (SSO) platform. After clicking “Register Now”, you will be prompted to log in with your existing SSO account or to create a new one. If you have forgotten the password for an existing account, reset it by clicking “Forgot Password.”
+Please note: Speakers will receive a Speaker Access Code and do not need to be registered with the code above. Please contact our Content Manager, Jillian Hall, if you need the speaker code re-sent.
+Important Notes For Booth Staff Registration
+All booth staff must be registered for the conference.Use the same email to add staff to the booth builder that they used to register.All booth staff must be added in the booth builder in order to have access to the booth back end.Do not abandon a registration once you have entered the sponsor access code. The access code will expire if the registration is not completed.It is currently not possible to add multiple people to the same registration. Each person has to be registered individually.  If you are registering multiple people, please complete a separate registration for each person.
+
+
+
+Marketing & PR
+
+Press/Analyst ListThe contact list for the attending Press/Analyst will be provided in the portal and via email two weeks prior to the conference.
+Conference Logos & BrandingOfficial conference logos are available for download here.
+The official conference hashtag for Open Source Strategy Forum is #OSfinserv
+
+
+
+Virtual Exhibit – Swag
+
+All sponsors have the opportunity to provide (1) promotional item for the virtual swag page within the event platform. Attendees can browse the available swag and add items to their personal virtual swag bag. This is your chance to get creative! Provide digital assets such as downloadable stickers, virtual backgrounds or e-books or give out special promotions such as free trials, discounts, and coupon codes.
+Submission Guidelines:
+Be creative and share giveaways that attendees are actually interested in. Monetary incentives are not required, however, sales brochures or marketing collateral without any special value or incentives for attendees are not eligible.Virtual swag may be submitted either as a PDF file or a URL to an external website. No other file types will be accepted.Only (1) file or URL is permitted per sponsor. If you would like to offer multiple giveaways, you may group items together in (1) PDF or on (1) external webpage.
+If you choose to submit a PDF:
+PDF file size must be under 20 MB.PDF file name must be labeled as follows: YourCompanyName_TitleofGiveawayPDFs must be submitted via the task list no later than Friday, November 6.
+If you choose to submit a URL:
+URL must be submitted via email at lfcoresponsorship@linuxfoundation.org no later than Friday, November 6.Include a title for your swag/giveaway item (visible to attendees).In addition to submitting your promotional item(s) for the virtual swag page, you are welcome to make them available at your booth, too.
+
+
+
+Virtual Booth
+
+A virtual booth is included in each sponsorship package. The virtual booth is your pace to interact with conference attendees and to showcase your products, services and activities. Check out the booth feature and capabilities in the booth overview video and complete your booth set-up no later than Wednesday, November 11. Booths changed will be paused after this date to allow for quality assurance testing. 
+Booth Builder Login – Your booth builder login is the same as it is for the event. An email from the system was sent with your login information.
+Booth Builder Guide Think of your booth as a self-serve kiosk and organize your content in a way that makes it easy for attendees to browse through on their own. Check out our Exhibitor Best Practices Guide to get started. We will have the booth builder guide available shortly. 
+A Booth Overview Video is available for you to review before you get started.
+
+Custom Banner SpecsThe Organization Header Banner is a great way to enhance an organization’s page. Organization staff can upload their custom banner from their Edit My Organization menu, when setting up their page.
+The banner image should be 1170px x 145px, and in .PNG or .JPG format.
+
+
+
+Booth Hours
+
+The virtual event platform including the virtual booths will open to attendees 30 minutes prior to the sessions start on Thursday, November 12. During the event days, the platform and booths remain accessible 24 hours a day. However, it is not required nor expected that sponsors staff their booth continuously, please find the set booth hours below. Note, the booths will NOT be accessible after Friday, November 13 
+Please see the full conference schedule for all keynotes, sessions and activities. 
+Important Notes: 
+All times are Eastern Standard Time (EST).Recommend booth hours and break times are subject to change and are based on the final conference schedule.  
+Thursday, November 12:
+Booth staff hours: 10:30 am – 3:00 pm EST
+Friday, November 13:
+Booth staff hours: 10:30 am – 2:30 pm EST
+
+
+
+Booth Staff
+
+Setting Up Access for Booth StaffAll booth staff must be registered for Open Source Strategy Forum in order to be added as booth staff. We suggest you request booth staff to register no later than Friday, November 6. Please see the registration section for instructions on how to register.
+Additionally, all booth staff must be added to the event platform as booth staff no later than Friday, November 6. Follow the instructions in the Booth Builder Guide on how to add booth staff.  This will allow booth staff time to access the platform prior to the start of the event. 
+Best Practices for Booth Staff
+We recommend staffing your booth as you would for an in-person event with a minimum of (2) booth staff available for live chat during recommended booth hours and to monitor the in-booth message board (group chat).Create shifts for your staff. If you have team members across different times of OSSF to cover booth duties outside the recommended booth hours, you are welcome to do so.If your staffing hours differ from the set booth hours, consider adding a content tab with your hours to your virtual booth to let attendees know when your staff is available.Include technical, product and sales experts who can answer any attendee questions immediately.When setting up a booth staff profile, enter the name of the staffer as it should appear in the booth. It is recommended to include a job title or area of expertise to help attendees identify who they should talk to about specific topics. Add a photo of each staffer to their profile. Attendees are more likely to talk to a friendly face than an anonymous icon.Host a training session before the event to walk your staff through the booth layout, staffing portal, lead reporting portal, and booth builder (if applicable).
+
+
+
+
+Lead Retrieval
+
+Attendees who enter a virtual booth will be captured as leads and their information will be provided to the virtual booth sponsor. Detailed lead reports provide further insights into the attendees’ behavior within the booth and include information such as what videos they watch or which items they downloaded. 
+Lead Report InformationAccess to the real-time lead reporting is available inside the event platform.  
+The following attendee information will be included in the leads report: 
+First nameLast nameCompany nameEmail addressJob titleIndustryPhysical address incl. country, city, state, zip code/postal code
+For privacy reasons, phone numbers will NOT be included in the leads reports. 
+GDPR & Data Protection InformationAll Linux Foundation events are fully GDPR compliant. By registering for this event, each attendee agrees to the following privacy policy: 
+GDPR / DATA PROTECTION & ATTENDEE COMMUNICATION
+By submitting this registration form, you understand that the data you include will be submitted to The Linux Foundation and that The Linux Foundation may contact you regarding this event. Personal data collected from this registration form is subject to The Linux Foundation’s Privacy Policy.
+If applicable, by signing up to attend a Co-Located Event hosted by a third party, you understand that a portion of the data you submit will be provided to the third party, to enable the third party to hold the event. The third parties’ use of the data will be subject to their own privacy policies.
+In order to facilitate networking and business relationships at the event, you may choose to visit a third party’s virtual booth. You are never required to visit these third party booths. When visiting a booth (clicking on a third party’s logo on a booth icon in the exhibit hall, and any actions within the booth thereafter including viewing resources) the third party will receive some of your registration data. This data includes your First Name, Last Name, Title, Company, Address, Email, Standard Demographics Questions (I.e. Company Size, Job Function, Industry), and details about the resources you interacted with in their booth. If you choose to interact with a virtual booth, you are explicitly consenting to receipt and use of such data by the third-party recipients, which will be subject to their own privacy policies.
+Types of Lead ReportsDifferent types of lead reports are available in the reporting portal: 
+Lead Report – Attendees who click the call to action buttonVisit Report – Attendees who visited your booth site
+
+
+
+
+Virtual Best Practices Guide
+
+Download our Best Practices Guide for tips and tricks to maximize your exposure at a virtual event.
+
+
+
+Code of Conduct
+
+The Linux Foundation is dedicated to providing a harassment-free experience for participants at all of our events.  All participants are expected to behave in accordance with the Linux Foundation Code of Conduct.
+
+
+
+Need assistance? Contact us!
+
+If you have any questions, please contact Jennifer Tucker and Courtenay Pope at lfcoresponsorship@linuxfoundation.org.
+
+
+ 
+
+
+
+
+Sponsors
+
+LEADER
+Contributor
+Community 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#OSfinserv
+
+
+
+
+Code of Conduct
+
+Sponsor
+Schedule
+Explore the Tracks
+Featured Speakers
+
+Experiences
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

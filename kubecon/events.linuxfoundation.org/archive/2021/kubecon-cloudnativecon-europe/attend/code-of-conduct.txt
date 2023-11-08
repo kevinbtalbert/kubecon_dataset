@@ -1,0 +1,275 @@
+
+
+
+
+Code of Conduct | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Experiences
+Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Keynote Speakers
+Interactive Sessions
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF EventsCNCF Homepage 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon Europe. 
+
+
+
+
+
+
+ 
+
+
+						Code of Conduct					
+
+
+
+
+Skip to page sectionExpected BehaviorUnacceptable BehaviorConsequences of Unacceptable BehaviorWhat To Do If You Witness or Are Subject To Unacceptable BehaviorIncident ResponsePre-Event ConcernsTerms + Conditions
+
+The Cloud Native Computing Foundation and its project communities are dedicated to providing a harassment-free experience for participants at all of our events, whether they are held in person or virtually. CNCF events are working conferences intended for professional networking and collaboration within the open source community. They exist to encourage the open exchange of ideas and expression and require an environment that recognizes the inherent worth of every person and group. While at Linux Foundation events or related ancillary or social events, any participants, including members, speakers, attendees, volunteers, sponsors, exhibitors, booth staff and anyone else, should not engage in harassment in any form.
+This Code of Conduct may be revised at any time by Cloud Native Computing Foundation and the terms are non-negotiable. Your registration for or attendance at any CNCF event, whether it’s held in person or virtually, indicates your agreement to abide by this policy and its terms.
+
+
+
+Expected Behavior
+All event participants, whether they are attending an in-person event or a virtual event, are expected to behave in accordance with professional standards, with both this Code of Conduct as well as their respective employer’s policies governing appropriate workplace behavior and applicable laws.
+
+
+
+
+Unacceptable Behavior
+Harassment will not be tolerated in any form, whether in person or virtually, including, but not limited to, harassment based on gender, gender identity and expression, sexual orientation, dis/ability, physical appearance, body size, race, age, religion or any other status protected by laws in which the conference or program is being held. Harassment includes the use of abusive, offensive or degrading language, intimidation, stalking, harassing photography or recording, inappropriate physical contact, sexual imagery and unwelcome sexual advances or requests for sexual favors. Any report of harassment at one of our events, whether in person or virtual, will be addressed immediately. Participants asked to stop any harassing behavior are expected to comply immediately. Anyone who witnesses or is subjected to unacceptable behavior should notify a conference organizer at once.
+Exhibitors should not use sexualized images, activities, or other material in their booths and must refrain from the use of sexualized clothing, uniforms, costumes, or otherwise creating a sexualized environment. Speakers should not use sexual language, images, or any language or images that would constitute harassment as defined above in their talks.
+Individuals who participate (or plan to participate) in CNCF events, whether its an in-person event or a virtual event, should conduct themselves at all times in a manner that comports with both the letter and spirit of this policy prohibiting harassment and abusive behavior, whether before, during or after the event.  This includes statements made in social media postings, on-line publications, text messages, and all other forms of electronic communication.
+
+
+
+
+
+Consequences of Unacceptable Behavior
+If a participant engages in harassing behavior, whether in person or virtually, the conference organizers may take any action they deem appropriate depending on the circumstances, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund. CNCF reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further Linux Foundation events, trainings or other activities.
+If a participant (or individual wishing to participate in a CNCF event, in-person and/or virtual), through postings on social media or other online publications or another form of electronic communication, engages in conduct that violates this policy, whether before, during or after a CNCF event, CNCF may take appropriate corrective action, which could include imposing a temporary or permanent ban on an individual’s participation in future CNCF events.
+
+
+
+
+
+What To Do If You Witness or Are Subject To Unacceptable Behavior
+If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the conference staff immediately. You are also encouraged to contact the following individuals:
+Vanessa Heric, Associate Director of CNCF Events (+1-949-415-4442; vheric@linuxfoundation.org)Colleen Mickey, Director of Events (+1-516-945-9285; cmickey@linuxfoundation.org)Angela Brown, General Manager of Events (+1-575-694-2263; angela@linuxfoundation.org)
+
+
+
+
+
+Incident Response
+Our staff has taken incident response training and responds to harassment reports quickly and thoroughly. As referenced above, if a participant engages in harassing behavior, whether in-person or virtually, the conference organizers may take any action they deem appropriate, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund, depending on the circumstances. CNCF reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further CNCF events, trainings or other activities.
+Conference staff will also provide support to victims, including, but not limited to:
+Providing an EscortContacting Hotel/Venue Security or Local Law EnforcementBriefing Key Event Staff For Response/Victim AssistanceAnd otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference.
+
+
+
+
+Pre-Event Concerns
+If you are planning to attend an upcoming event, whether in-person or virtually and have concerns regarding another individual who may be present, please contact:
+Vanessa Heric, Associate Director of CNCF Events (+1-949-415-4442; vheric@linuxfoundation.org)Colleen Mickey, Director of Events (+1-516-945-9285; cmickey@linuxfoundation.org)Angela Brown, General Manager of Events (+1-575-694-2263; angela@linuxfoundation.org)
+Precautions will be taken to ensure your comfort and safety, including, but not limited to: providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events and providing onsite contact cell phone numbers for immediate contact.
+
+
+
+
+
+Terms + Conditions
+Code of Conduct
+The Cloud Native Computing Foundation is dedicated to providing a harassment-free experience for participants at all of our events, whether they are held in person or virtually. Linux Foundation events are working conferences intended for professional networking and collaboration in the Linux community. They exist to encourage the open exchange of ideas and expression and require an environment that recognizes the inherent worth of every person and group. While at Linux Foundation events, in-person or virtual, or related ancillary or social events, any participants, including speakers, attendees, volunteers, sponsors, exhibitors, booth staff, and anyone else, should not engage in harassment in any form. The expanded Code of Conduct contains full details and examples, which cover behavior expectations, unacceptable behavior, and consequences, as well as incident reporting and response protocol.
+Photo + Video Release
+By registering for this event you consent to the photographing of yourself and the recording of your voice and the use of these photographs and/or recordings singularly or in conjunction with other photographs and/or recordings for advertising, publicity, commercial or other business purposes for The Cloud Native Computing Foundation. You understand that the term “photograph” as used herein encompasses both still photographs and motion picture footage.
+GDPR / Data Protection + Attendee Communication
+By submitting a registration for this event, you understand that the data you include will be submitted to The Cloud Native Computing Foundation and that The Cloud Native Computing Foundation may contact you regarding this event. Personal data collected from this registration form is subject to The Cloud Native Computing Foundation’s Privacy Policy. 
+If applicable, by signing up to attend a Co-Located Event hosted by a third party, you understand that a portion of the data you submit will be provided to the third party, to enable the third party to hold the event. The third parties’ use of the data will be subject to their own privacy policies. 
+In order to facilitate networking and business relationships at the event, you may choose to visit a third party’s virtual booth or to access sponsored content. You are never required to visit third party booths or to access sponsored content. When visiting a booth (e.g. by clicking on a third party’s logo in the Solutions Showcase or exhibitor directory, and any actions within the booth thereafter including viewing resources), when accessing sponsored sessions in the Sponsor Theater, or by participating in sponsored activities, the third party will receive some of your registration data. This data includes your first name, last name, title, company, address, email, standard demographics questions (i.e. job function, industry), and details about the sponsored content or resources you interacted with. If you choose to interact with a virtual booth or access sponsored content, you are explicitly consenting to receipt and use of such data by the third-party recipients, which will be subject to their own privacy policies.
+
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+GOLD
+SILVER
+START-UP
+END USER
+DIVERSITY EVENT + SCHOLARSHIP
+MEDIA PARTNERS 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+#KubeCon + #CloudNativeCon
+
+
+
+
+Experiences
+Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Keynote Speakers
+Interactive Sessions
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

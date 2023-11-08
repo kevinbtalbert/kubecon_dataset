@@ -1,0 +1,698 @@
+
+
+
+
+cdCon 2020 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Code of Conduct
+
+
+Sponsor
+Program
+
+Speakers
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast CI/CD Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  CI/CD Events. 
+
+
+
+				cdCon			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+October 7 – 8, 2020Virtual Experience
+
+That’s a wrap on the first ever virtual cdCon! Thank you to the nearly 950 attendees, sponsors and speakers that joined us virtually this year from around the world. 
+To experience the best of this year’s event, be sure to watch all of the sessions on the Continuous Delivery Foundation YouTube channel, available by October 22.  Session slides are also available via the event schedule from speakers that provided them.
+
+Join the CD Foundation for a two-day virtual event focused on improving the world’s capacity to deliver software with security and speed. Become part of the conversation that drives continuous delivery by meeting peers, sharing ideas and talking to industry leaders on all things software delivery and DevOps.
+
+
+EVENT RECAP
+
+
+
+
+"You're gonna fail over and over again" Love the insights from Art Butler & the end user panel on taking risks and organisations acknowledging this will take time and offer cover for managers/devs trying to bring about change. #cdCON pic.twitter.com/jCUmXj9MCN— Tracy Miranda (@tracymiranda) October 8, 2020
+
+
+I loved Abby Kearns #cdCON talk. Focusing on the people, the needs they have, and building the tech around it? Amazing! I’m excited to see how @puppetize grows their platform offering.— bethpdx (@thatgrrlpdx) October 7, 2020
+
+
+
+
+Yesterday was the official opening of #cdcon, and the @CDeliveryFdn issued this press release featuring new members, the CDCon schedule, and a welcome to the new ED, @tracymiranda! https://t.co/7GFFwyHLff— John Mark (@jm_stuff) October 8, 2020
+
+
+We are loving the pics in the #cdcon selfie booth! Keep 'em coming!https://t.co/rqGuVbHMDO pic.twitter.com/haYM1WhmJ0— Continuous Delivery Foundation (CDF) (@CDeliveryFdn) October 7, 2020
+
+
+
+
+SNAPBAR PHOTOS
+
+
+
+
+KEYNOTE SPEAKERS
+
+
+
+
+
+
+
+ 
+
+
+Edith Harbaugh
+CEO and Cofounder, LaunchDarkly
+
+
+
+
+
+
+
+
+
+
+
+Edith Harbaugh is CEO & Co-Founder of LaunchDarkly, the leading feature management platform. LaunchDarkly serves over a thousand global customers like IBM, Atlassian, and Intuit. She has more than 15 years of experience in engineering, product, and marketing with both consumer and enterprise startups, including TripIt and Concur. She is co-host of “To Be Continuous,” a podcast on software trends. She holds two patents in deployment. Edith earned a B.S. in Engineering from Harvey Mudd College.
+ 
+
+
+
+
+
+
+ 
+
+
+Rob Zuber
+CTO, CircleCI
+
+
+
+
+
+Rob Zuber is a 20-year veteran of software startups; a four-time founder, and three-time CTO. Since joining CircleCI, Rob has seen the company through its Series E funding and delivered on product innovation at scale while leading a team of 150+ engineers who are distributed around the globe. Prior to CircleCI, Rob was the CTO and Co-founder of Distiller, a continuous integration and deployment platform for mobile applications acquired by CircleCI in 2014. Before that, he cofounded Copious an online social marketplace. Rob was the CTO and Co-founder of Yoohoot, a technology company that enabled local businesses to connect with nearby consumers, which was acquired by Appconomy in 2011. Rob holds a Bachelor’s degree in Applied Science from Queen’s University in Kingston, Ontario, and lives in Oakland, California with his wife and two children.
+ 
+
+
+
+
+
+
+ 
+
+
+John Mark Walker
+Director, Open Source Program Office, Capital One
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Yasemin Blanton
+Head of Technology Delivery, BMO Financial Group
+
+
+
+
+
+Yasemin Blanton has 20+ years of technology leadership in the financial services industry. She has driven business growth through digital, mobile and core product technology delivery and transformation. She has led global teams in application development, portfolio management, DevOps and Agile Center of Excellence with a focus of accelerating end to end delivery, automation and quality in a sustainable way.
+ 
+
+
+
+
+
+
+ 
+
+
+Isaac Mosquera
+Principal GTM Leader, Serverless, AWS
+
+
+
+
+
+
+
+
+My experience has been focused on building startups from the ground up, where I have served as CTO, with 4 successful exits/acquisitions. In my past I’ve enjoyed building software products across multiple domains (e.g., adtech, big data, mobile, social, DevOps tooling) that bring joy to the people who use them. Although my title has mostly been CTO, I am passionate about product development, organizational psychology, and a penchant for gummy bears. I’m a big supporter of OSS communities the impact they can make on the world. I’m a core contributor & part of the steering committee for Spinnaker which is used by some of the world’s largest organizations ( Netflix, Adobe, AirBnb, Adobe, Cisco, Grubhub, The Home Depot, JPMorgan Chase, Salesforce, Sony PlayStation, and more) to reliably deliver software at scale. In Addition to Spinnaker OSS, I’m ex-member of the Technical Oversight Committee (TOC) for the Continuous Delivery Foundation (CDF).
+ 
+
+
+
+
+
+
+ 
+
+
+Christie Wilson
+Software Engineer, Google
+
+
+
+
+
+Christie Wilson (she/her) is a software engineer at Google and co-creator of the Tekton project. Over the past decade+ she has worked in the mobile, financial, and video game industries. Prior to working at Google she built load testing tools for AAA video game titles, and founded the Vancouver chapter of PyLadies. In her spare time, she influences company culture through cat pictures.
+ 
+
+
+
+
+
+
+ 
+
+
+Abby Kearns
+CTO, Puppet
+
+
+
+
+
+With nearly twenty years in the tech world, Abby Kearns is a true veteran of the technology industry. Her lengthy career has spanned product marketing, product management and consulting across Fortune 500 companies and startups alike. At Puppet, she will lead the vision and direction of its current and future enterprise product portfolio. Prior to joining Puppet, Abby was the Executive Director of the Cloud Foundry Foundation where she focused on driving the Foundation’s vision and growing the open-source project. Through her tenure, Abby built an install base that included more than half of the Fortune 500. Abby has deep cloud experience. At Pivotal, she drove the adoption of Pivotal Cloud Foundry, and at Verizon, she led the Product Management teams dedicated to the early days of cloud services. Her background also includes operations spanning companies such as Totality, EDS, and Sabre.
+ 
+
+
+
+
+
+
+ 
+
+
+Tracy Miranda
+Executive Director, Continuous Delivery Foundation, The Linux Foundation
+
+
+
+
+
+Tracy Miranda is the executive director of the Continuous Delivery Foundation (CDF) where she leads the mission to improve the world’s capacity to deliver software with security and speed.  Prior to CDF, Tracy was the Director of Open Source at CloudBees. Tracy is a veteran of the open source technology industry with nearly twenty years of experience with large scale projects such as Jenkins and Eclipse. Tracy’s background also includes developer tools, embedded software, and electronics system design. Tracy has two patents for her work on processor architectures.
+ 
+
+
+
+
+
+
+ 
+
+
+Christina Noren
+Strategic Product Advisor & CPO Emeritus, CloudBees
+
+
+
+
+
+Christina has 25 years of technology experience. Now at CloudBees, she is powering the continuous economy, as a strategic product advisor, having formerly served as CPO there leading a 200+ member product organization including product management, engineering, and product marketing. She is also a board member at Honeycomb.io, the driver of the observability movement. She has also held leadership roles in product management, professional services and sales engineering and been responsible for building teams in virtually all operating functions. Christina is an expert in big data, machine data, logging, systems management, enterprise software, complex web services, product management practices and building companies from the ground up. Passionate about art, design, data, systems, furniture, fashion, cars, literature, political systems and philosophy.
+ 
+
+
+
+
+
+
+ 
+
+
+Zainab Abubakar
+Open Source Programs Coordinator, She Code Africa
+
+
+
+
+
+Zainab is a software engineer at Interswitch Group and the open source programs coordinator for She Code Africa a non-profit organization focused on celebrating and technically empowering young girls and women in technology across Africa. Her role at She Code Africa involves promoting a more diverse, inclusive and innovative culture within the African open source ecosystem. Aside from her roles at Interswitch and She Code Africa, Zainab is also a technical writer who is passionate about contributing to open source, improving technical documentation and advocating for gender diversity in open source collaboration. She has worked on improving technical documentation for Wikimedia and is currently working on Jenkins on Kubernetes documentation for Jenkins organization under the Google Season of Docs Program.
+ 
+
+
+
+
+
+
+ 
+
+
+Baruch Sadogursky
+Head of DevOps Advocacy, JFrog
+
+
+
+
+
+Baruch Sadogursky (a.k.a JBaruch) is the Head of DevOps Advocacy and a Developer Advocate at JFrog. His passion is speaking about technology. Well, speaking in general, but doing it about technology makes him look smart, and 19 years of hi-tech experience sure helps. When he’s not on stage (or on a plane to get there), he learns about technology, people and how they work, or more precisely, don’t work together.
+
+
+He is a co-author of the Liquid Software book, a CNCF ambassador and a passionate conference speaker on DevOps, DevSecOps, digital transformation, containers and cloud-native, artifact management and other topics, and is a regular at the industry’s most prestigious events including KubeCon, DockerCon, Devoxx, DevOps Days, OSCON, Qcon, JavaOne and many others. You can see some of his talks at jfrog.com/shownotes
+ 
+
+
+
+
+
+
+ 
+
+
+Art Butler
+Product Manager, Discover Financial Services
+
+
+
+
+
+Art Butler is a product manager at Discover Financial Services and a continuous delivery champion helping value streams achieve operational excellence while consuming infrastructure services.  Prior to this role Art lead a team in developing the core continuous delivery platform at DFS.  Before DFS, Art was an architect at OpenMake software where he evaluated, designed and implemented improvements of the SDLC through automation at several Fortune 500 companies generally within the regulated industries of banking, insurance and health.  
+ 
+
+
+
+
+
+
+FEATURED SPEAKERS
+
+
+
+
+
+
+
+ 
+
+
+Tracy Ragan
+CEO and Co-Founder, DeployHub
+
+
+
+
+
+Tracy is CEO and Co-Founder of DeployHub. DeployHub is the first microservice management platform designed to facilitate the sharing, relationship mapping and deployments of microservices. Tracy is expert in configuration management and pipeline life cycle practices with a hyper focus on microservices and cloud native architecture. She currently serves as a board member of the Continuous Delivery Foundation (CDF) where she is the elected General Member Representative. Tracy is a recognized evangelist in microservices and the continuous delivery pipeline. She is the creator of the Continuous Delivery Foundation Interactive Landscape, a blog contributor for the CDF and speaks at many DevOps events such as CNCF’s KubeCon and CloudBees DevOpsWorld. Tracy is also a DevOps Institute Ambassador and speaks at AWS Marketplace webinar educational events. She is also the leader of the New Mexcio CI/CD Foundation Meetups.
+ 
+
+
+
+
+
+
+ 
+
+
+Angel Rivera
+Developer Advocate, CircleCI
+
+
+
+
+
+Angel started his career as an US Air Force Space Systems Operations specialist in Cape Canaveral AF Station where he realized his passion for technology and software development. He has extensive experience in the private, public, and military sectors. His technical experience includes military/space lift operations, technical writing, software development, and SRE/DevOPs engineering. He also has a wealth of experience in defense and federal sectors such as contracting, information systems, security, and management. You can find him speaking at or organizing local tech meetups and hackathons where he enjoys engaging with developers. Angel’s passions are positive disruption, learning, teaching, and mentoring. But most of all, he enjoys inspiring all forms of technologists and building awesome tech communities.
+ 
+
+
+
+
+
+
+ 
+
+
+Marky Jackson
+Director of Open Source Software, OpsMx
+
+
+
+
+
+Software developer. Lover of family and friends. Die-hard San Francisco Giants fan.
+ 
+
+
+
+
+
+
+ 
+
+
+Beth Fuller
+Senior Product Manager, Armory
+
+
+
+
+
+Continue to grow my skills in building customer relations based on trust, effective team communications and delegation, as well as working with and managing a cross functional team. Specifically, leveraging and growing my technical knowledge allowing me to bridge the gap between customers business needs and software engineers requirements in a Software as a Service (SaaS) or On-Premises setting. I have a strong desire to continue working in InfoSec. As the former InfoSec Product manager at Puppet I fell in love with working with Ops, Devs and Security people and finding ways to make their lives better while allowing them to work better together.
+ 
+
+
+
+
+
+
+ 
+
+
+Jimmy McNamara
+Product Manager of Software Engineering, Fidelity Investments
+
+
+
+
+
+Jimmy is a Product Manager of Software Engineering within Enterprise Cloud Computing at Fidelity Investment. He is responsible for the Application Lifecycle Management area with a current focus on multi cloud support. Jimmy has 22 years of experience across a variety of industries with a focus on engineering and technology excellence. Key Programs – Rollout of Cloudbees Jenkins Core on AWS EKS for Fidelity to promote Pipeline As Code capability across the organization. Previous Speaking Jenkins World 2019 Cloudbees Connect 2020 DevOps Radio Podcasts.
+ 
+
+
+
+
+
+
+ 
+
+
+Adam Roberts
+Software Developer, IBM
+
+
+
+
+
+Adam joined IBM seven years ago out of university and has presented internationally on several occasions as a subject matter expert on a wide range of topics, including DIY machine learning and analytics, the use of GPUs from Java, and on the benefits of using Tekton and webhooks for CI/CD.
+ 
+
+
+
+
+
+
+ 
+
+
+Tiffany Jachja
+Technical Evangelist, Harness
+
+
+
+
+
+Tiffany Jachja is a technical evangelist at Harness. She is an advocate for better software delivery, sharing applicable practices, stories, and content around modern technologies. Before joining Harness, Tiffany was a consultant with Red Hat’s Consulting practice. There she used her experience to help customers build their software applications living in the cloud. Tiffany enjoy speaking at conferences such as Red Hat Summit, SpringOne, and DeveloperWeek.
+ 
+
+
+
+
+
+
+ 
+
+
+Melissa Sussmann
+Senior Technical Product Marketing Manager, Puppet
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Mohamed Bakr
+Senior DevOps Engineer, SAP
+
+
+
+
+
+As part of the monitoring team, I work in deploying and maintaining monitoring and performance management systems.With over 5 years of experience as a DevOps engineer, I am heavily invested in deploying scalable containerized projects with an intensive focus on automation. In my Free time, I enjoy traveling, outdoor activities, and soccer.
+ 
+
+
+
+
+
+
+ 
+
+
+Jerop Kipruto
+Software Engineer, Google
+
+
+
+
+
+Jerop is a Software Engineer at Google working on Cloud Continuous Delivery, specifically Tekton. She works on projects that enable software developers to build and ship cloud native applications. Jerop has a BSc. in Electrical Engineering and Computer Science from Massachusetts Institute of Technology. Jerop is also a speaker with technical talks featured in Linux Foundation Member Summit, Continuous Delivery Conference, Open Source Summit, North American DevOps Group, Women TechMakers, and Google DevFest.
+ 
+
+
+
+
+
+
+ 
+
+
+Priti Desai
+Software Engineer, IBM
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Serge Poueme
+Senior DevOps Engineer, SAP
+
+
+
+
+
+
+
+
+
+
+
+Serge currently works as a Senior DevOps Engineer at SAP, tackling topics under the Continuous Delivery umbrella. With 13 years of experience in both development and operations, Serge has contributed to multiple large-scale delivery projects in several industries, spanning from civic technology to healthcare. During his free time, he enjoys traveling to new countries, reading books, and team sports.
+ 
+
+
+
+
+
+
+
+SEE ALL THE SPEAKERS
+
+
+
+
+
+
+
+
+
+Sponsors
+
+Diamond
+Platinum
+Gold
+SILVER
+Start-Up
+End User
+Media 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+Register
+Code of Conduct
+
+Sponsor
+Speakers
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,290 @@
+
+
+
+
+Call For Proposals (CFP) | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Why Attend
+Venue + Travel
+Novel Coronavirus Update
+Visa Request
+Diversity + Inclusion
+Diversity Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Day 2 Co-Located Events
+Call For Proposals (CFP)
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  KubeCon + CloudNativeCon + other CNCF Events. 
+
+
+
+
+
+
+ 
+
+
+						Call For Proposals (CFP)					
+
+
+
+
+Skip to page sectionOverviewGeneral Info + Dates to RememberRequirements + ConsiderationsHow to Submit Your ProposalSample Submission + Scoring GuidelinesTravel Support + Speaker PassesCode of ConductCFP Questions?
+
+
+Overview
+
+The Call for Proposals (CFP) for Kubernetes Forum Bengaluru 2020 is now closed.
+For any questions regarding the CFP process, please email cfp@cncf.io.
+
+
+
+General Info + Dates to Remember
+
+Kubernetes Forums in global cities bring together international and local experts with adopters, developers, and practitioners in an accessible and compact format. The Forums are designed to promote face-to-face collaboration and deliver rich educational experiences. At the Forums, attendees can engage with the leaders of Kubernetes and other CNCF-hosted projects and help set direction for the cloud native ecosystem. Kubernetes Forums have both a beginner and an advanced track; about half of the speakers are international experts and half are from the local area.
+International and Bengaluru forum speakers will arrive in Bengaluru no later than Sunday, February 16. The CFP-based sessions occur Monday, February 17. On Tuesday, February 18, attendees select among several co-located events. These may be cloud- or distribution-specific training or any other topics of interest to Kubernetes Forum attendees. Tuesday night, the sponsors and international speakers short, non-stop flight to Delhi and recover Wednesday. The international speakers will present the same material from the Bengaluru event on Thursday, February 20, interspersed with a slate of new talks from different local speakers in Delhi. On Friday, February 21, the co-located events repeat.
+Dates to Remember
+CFP Opens: Wednesday, October 9, 2019CFP Closes: Friday, November 1, 2019CFP Notifications: Thursday, December 19, 2019Schedule Announcement: Friday, December 20, 2019Event Dates: Bengaluru: February 17–18, 2020; Delhi: February 20–21, 2020
+Reminder: This is a community conference — so no product and/or vendor sales pitches.
+Local to Bengaluru or Delhi, and, it’s Your First Time Submitting? Don’t Feel Intimidated
+CNCF events are an excellent way to get to know the community and share your ideas and the work that you are doing. You do not need to be chief architect or long time industry pundit to submit a proposal, in fact, we strongly encourage first-time speakers to submit talks for all of our events.
+Our events are working conferences intended for professional networking and collaboration in the CNCF community and we work closely with our attendees, sponsors and speakers to help keep CNCF events professional, welcoming, and friendly. If you have any questions on how to submit a proposal, or the event in general, please contact cfp@cncf.io.
+
+Chairperson – Davanum “Dims” Srinivas
+Davanum Srinivas (a.k.a Dims) is a Staff Engineer with VMware working on Kubernetes and related projects at CNCF. Dims is on the Kubernetes Steering Committee and actively involved in various Kubernetes SIGs and working groups like the Architecture, Testing, Node, Infrastructure etc. Previously at Huawei and Mirantis, he was involved in OpenStack Nova, Oslo, KeyStone, Magnum and related projects and on the Technical Committee in OpenStack.He also worked on IBM PureApplication product as an Architect and led a team working on Web Services support in WebSphere. Dims has a long track record in open source projects including Apache Cocoon, Axis2, Geronimo at the Apache Software Foundation and co-founded WSO2 based on the open source business model.
+
+
+
+
+
+Requirements + Considerations
+
+Requirements
+Any platforms or tools you are describing need to be open source.If you are submitting a talk to either the Bengaluru or Delhi event, specifically, the proposed speakers must reside in India.If you would like to speak at both events, the proposed speakers must have spoken previously at KubeCon + CloudNativeCon and are willing and able to travel to both events to present their talk.The proposed talk’s level of expertise for the intended audience needs to state whether it is beginner or advanced.
+Consider the Following as You Write Your Proposal
+What do you expect the audience to gain from your presentation?Why should YOU be the one to give this talk? You have a unique story. Tell it.Be prepared to explain how this fits into the CNCF and overall Open Source Ecosystem.
+We definitely do not expect every presentation to have code snippets and technical deep-dives but here are two things that you should avoid when preparing your proposal because they are almost always rejected due to the fact that they take away from the integrity of our events, and are rarely well-received by conference attendees:
+Sales or marketing pitchesUnlicensed or potentially closed-source technologies
+There are plenty of ways to give a presentation about projects and technologies without focusing on company-specific efforts. Remember the things to consider that we mentioned above when writing your proposal and think of ways to make it interesting for attendees while still letting you share your experiences, educate the community about an issue, or generate interest in a project.
+
+
+
+How to Submit Your Proposal
+
+We have done our best to make the submission process as simple as possible. Here is what you will need to prepare:
+1. Choose a submission format:
+Solo Presentation: 25-minute presentation, limited to 1 speakerDual Presentation: 25-minute presentation, limited to 2 speakers
+2. Choose which CNCF hosted software your presentation will be focused on (Choose all that apply):
+containerd (Graduated)CoreDNS (Graduated)Envoy (Graduated)Fluentd (Graduated)Jaeger (Graduated)Kubernetes (Graduated)Prometheus (Graduated)CloudEvents (Incubating)CNI (Incubating)CRI-O (Incubating)etcd (Incubating)gRPC (Incubating)Harbor (Incubating)Helm (Incubating)Linkerd (Incubating)NATS (Incubating)Notary (Incubating)Open Policy Agent (Incubating)OpenTracing (Incubating)Rook (Incubating)TiKV (Incubating)TUF (Incubating)Vitess (Incubating)One or more Sandbox projectsOther
+Note: Final tracks for the conference will be based on accepted submissions.
+3. Choose a topic to narrow down the focus:
+Application & Development (includes Brigade, Helm & Telepresence)Case studiesCI/CDCommunityCustomizing & Extending KubernetesMachine Learning & DataNetworking (includes CoreDNS, CNI, gRPC, NATS, KubeEdge, & Network Service Mesh)Observability (includes Fluentd, Prometheus, Jaeger, OpenTracing, Cortex, OpenTelementry, & Thanos)OperationsPerformanceRuntimes (includes containerd & CRI-O)Security, Identity & Policy  (includes Notary, OPA, TUF, & SPIFFE/SPIRE)Serverless (includes CloudEvents)Service Mesh (includes Envoy & Linkerd)Storage (includes Vitess, OpenEBS & Rook)
+4. Provide a detailed and focused description with a max of 900 characters. This is what will be used on the online schedule if your talk is accepted.
+5. Provide more in-depth information in the “Benefits to the Ecosystem” section. This is your opportunity to elaborate on your content and share any more details with the committee with a max of 1,500 characters.
+6. Provide a biography for all speakers, including previous speaking experience.
+7. Provide resources to enhance your proposal. These can be videos of you or your speakers presenting elsewhere, links to personal websites (including LinkedIn), links to your open source projects, or published books.
+
+
+
+Sample Submission & Scoring Guidelines
+
+Sample Submission
+Your abstract will be the cornerstone of your proposal.
+This is your chance to *sell* your talk to the program committee, so do your best to highlight the problem/contribution/work that you are addressing in your presentation. The technical details are still important, but the relevance of what you are presenting will help the program committee during the selection process.
+This is the abstract that will be posted on the website schedule, so please ensure that it is incomplete sentences (and not just bullet points), free of typos and that it is written in the third person (use your name instead of “I”).
+Example:
+Kernel Weather Report (Jon Corbet, LWN.net) – The Linux kernel is at the core of any Linux system; the performance and capabilities of the kernel will, in the end, place an upper bound on what the system can do as a whole. In this presentation, Jon Corbet will review recent events in the kernel development community, discuss the current state of the kernel, the challenges it faces, and look forward to how the kernel may address those challenges.
+Scoring Guidelines
+To help you further understand what is considered while the program committee and co-chairs are reviewing your proposal, please review the Scoring Guidelines and Best Practices page.
+
+
+
+Travel Support + Speaker Passes
+
+If you require travel support, you will be given the chance to apply for travel funding upon acceptance. Only speakers whose talks are accepted will be considered for travel funding.
+All accepted speakers and panelists will receive a complimentary conference pass.
+
+
+
+Code of Conduct
+
+The Linux Foundation and its project communities are dedicated to providing a harassment-free experience for participants at all of our events. We encourage all submitters to review our complete Code of Conduct.
+
+
+
+CFP Questions?
+
+If you have any questions regarding the CFP process, please contact Nanci Lancaster: cfp@cncf.io
+
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+GOLD
+SILVER
+BRONZE 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Register
+Why Attend
+Venue + Travel
+Novel Coronavirus Update
+Visa Request
+Diversity + Inclusion
+Diversity Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+Day 2 Co-Located Events
+Call For Proposals (CFP)
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

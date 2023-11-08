@@ -1,0 +1,272 @@
+
+
+
+
+Co-Located Events Best Practices + Event Guide | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Experiences
+Instant Giveaways
+CNCF Slack Workspace Community Guidelines
+Diversity + Inclusion
+Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Interactive Sessions
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon North America. 
+
+
+
+
+
+
+ 
+
+
+						Co-Located Events Best Practices + Event Guide					
+
+
+
+
+Skip to page sectionOverviewRequirementsCo-Located Event Package AAdditional Items + Services for Package ACo-Located Event Package BBest Practices + Reminders
+
+Overview
+
+Thank you for your interest in co-locating your event at KubeCon + CloudNativeCon North America 2020 – Virtual! 
+In order to meet the needs of all events and create the best possible experience for attendees, we have updated co-located event packages and inclusions for this event. 
+
+
+
+North America 2020 Virtual Co-Located Event Requirements
+
+Companies hosting co-located events must be level sponsors of KubeCon + CloudNativeCon North America 2020 – Virtual.Host companies are asked to choose between two co-located event packages.Deadline to return a fully-executed contract for KubeCon + CloudNativeCon North America 2020 – Virtual is Wednesday, September 30 by 11:59 PM PT.To mitigate attrition and target the desired audience, the minimum recommended registration fee for co-located events is USD $20. If the host company elects to donate its profits to the CNCF Diversity Scholarship Fund, this will be reflected on the event website.Companies looking to customize their event beyond the packages offered are encouraged to look at other platforms and cross-promote their event on our website, event schedule, and registration platform for $6,000 + registration processing feesTo maintain a uniform website, all co-located events will be listed with: Title (Event Name hosted by Company Name), Date, Time, Registration Fee, 300-word max description, and external event link (optional).If using “Kubernetes” in your event title, please follow the correct and incorrect usage examples in The Linux Foundation trademark guide.Package A only: Co-located events may run any time between 9:00 AM – 6:00 PM ET Package A only: Please ensure two to three people from your team are available to moderate the duration of the event; an additional staff person will be required to monitor your event-specific Slack channel.
+
+
+
+Co-Located Event Package A
+
+Package A Includes:
+Pre-recorded sessions + optional live Q+A (option to record on your own or within the platform in accordance with platform deadlines)Up to 5 hours of content Up to 10 sessions (session may be up to 60 minutes)Unlimited speakers: Single speaker, co-speakers, or panel options availableUnlimited registrations: No capacity constraintsLead generation: Contact information of registered attendees (including first name, last name, company, title, and email address)Theater branding during event(1) Slack channel during eventPlatform project managementEvent configuration + testingFront line supportEvent management servicesMarketing + promotionFeatured placement on KubeCon + CloudNativeCon website and registration formManaged event registration and fee collection (less credit card processing fees)(1) KubeCon + CloudNativeCon pass for event coordinator
+
+
+
+Additional Items + Services for Package A
+These items are available at the organizer’s expense to be ordered and paid for via ExpoGenie ERC.
+Closed captioning services
+
+
+
+Co-Located Event Package B
+
+Package B Includes:
+Marketing + promotionFeatured placement on KubeCon + CloudNativeCon website and registration formOptional Managed event registration and fee collection (less credit card processing fees)
+
+
+
+Best Practices + Reminders
+BudgetingEnsure a budget is set aside for all event requirements, including items that are not part of your package (e.g. closed captioning, recording equipment for your speakers, day-of staffing, etc.).
+Communication from CNCFAs a courtesy, the CNCF event team will send order deadline reminders. A speaker best practices guide will be sent upon contract execution, and a “Know Before You Go” guide will be sent a week from event day.
+Competitor Registration PolicyIn the spirit of community, we do not endorse or recommend that sponsors place restrictions on registrations from “competitor” companies or organizations. If the sponsoring company insists on restricting who can register for their co-located event, said company is required to list such registration stipulations/parameters in their event description prior to canceling existing registrations or declining new registrations. We also require that said sponsor reach out to the individual directly to explain why their registration is being canceled prior to sending said cancellation requests to our team for processing.
+ContentEvent topics are not exclusive to one event.  Posting event details early allows attendees to plan their registration and schedules accordingly (and tends to ensure increased ticket sales)!
+DemoingWe recommend all speakers that intend to demo connect via hardline to their internet to ensure maximum speed and recording quality!
+MarketingIn addition to CNCF’s marketing efforts, we encourage host companies to market their event to their target audience! You may also create an external website to be linked on our official co-located event page. (For security reasons, Package A events may not utilize external registration systems in addition to ours. Sponsors contracting a cross-promotion package have the option of using our registration system, their own, or both.) 
+Post-Event PaymentIf you are charging a registration fee for your event, The Linux Foundation will pass through registration revenue less credit card and registration processing fees (3.5%). Within 30 days post-event you will receive an email noting your revenue (less fees) with instructions to submit an invoice to The Linux Foundation for payment. If you are donating your fees to the Diversity Scholarship Fund, we will confirm the final amount donated.
+Publishing Events to the Official WebsiteEvents may be posted once the contract is fully executed.  In order to have your co-located event listed on the website and registration form, please provide the following information as soon as possible (but no later than Friday, October 16). Once this event information is received, Cvent registration portal information will be emailed to the event coordinator.
+Information Needed to Post Event
+Pre-event coordinator name and email addressDay-of event moderators’ names, email addresses, and cell phone numbersOfficial event title – Event Name hosted by Company Name300 word (maximum) event descriptionEvent time frame (any time between 9:00 AM – 6:00 PM ET with a maximum of five hours of content)Cost to attendees (USD $20 recommended minimum)Link to external event site (optional)Email address for attendee questionsPACKAGE B ONLY: Platform link or information — solely intended to help our team direct your attendees to the platform when questions (inevitably) arise!
+You may view published co-located events here.
+RegistrationAll attendees, including speakers and staff, MUST be registered for KubeCon + CloudNativeCon North America Virtual with an Attendee Full Access pass AND your co-located event in order to gain access to our platform. Attendee information will be shared via private registration portal link.  
+Package B only: You have the option of setting a capacity limit in our registration system or leaving the session “uncapped”.  Should you decide to set a capacity limit and your event sells out, a waitlist will be enabled and your event will be marked as “Sold Out – Waitlist Available” on the co-located event website. Waitlist contact information will be shared, but we ask that you only use this to send information about your event and not as a contact list.
+All discount or comp code requests should be directed to the CNCF event team and should include the code desired, discount percentage/amount, and number of uses.
+Sponsors are required to ensure all attendees — including internal staff, trainers, speakers, etc. — are registered prior to event day. This responsibility lies solely with the sponsor and special registration requests may be considered until Tuesday, November 3, 2020.  No requests will be considered after this deadline. 
+Session LengthFor the sake of attendee engagement and to ensure speakers are able to present themselves in the best light possible, sessions are capped at a maximum of 60 minutes. This runtime includes any live Q+A you wish to conduct. (For example, if you wish to allow for a 10 minute Q+A session, please cap the presentation at 50 minutes.)
+Slack Promotion PostsAll sponsor promotions (including those related to co-located events) must take place in your sponsor Slack channel. Sponsor promotion posts are prohibited in all other channels (including announcements, help desk, etc.). 
+Sponsor Emails to AttendeesTurning leads into revolving customers takes time and dedication. Analyze the available data in your registration portal carefully and develop a lead nurturing strategy specific to the attendees and the content they interacted with during your co-located event. One size does not fit all. Following up in a timely manner with personalized and relevant content is key to stay on top of mind of prospective customers. 
+All KubeCon + CloudNativeCon North America 2020 – Virtual sponsors are required to abide by these terms and best practices when sending emails to attendees. Sponsor emails should always:
+Be sent from an email address affiliated with your company (e.g. address@company.com) If using a personal account, clearly identify that the sender is employed by your company (e.g. “Hi, I’m Jane with XYZ Company”)Indicate how you came into possession of the attendee’s email address (e.g. “You are receiving this email because you registered for our co-located event at KubeCon + CloudNativeCon”)Provide targeted content based on the attendee data that you’ve gathered instead of sending generic boilerplate messages. Personalize emails whenever possible.Don’t bombard attendees with messages. Receiving too many emails is one of the top reasons for recipients to unsubscribe. Find a balance between staying in consistent contact and giving recipients time to digest your information.
+If you require further information/clarification on these terms, please feel free to contact the CNCF co-located event planning team!
+StaffingPlease ensure two to three people are prepared to moderate the duration of your event day-of, and ensure at least one person is available to monitor your event-specific Slack channel.
+Website / Sched / Registration UpdatesFor accuracy and efficiency, please create a Google doc to share update requests with the CNCF event team. Kindly notify the co-located events team via email when updates are required. Deadline for website/Sched/registration updates is Tuesday, November 3, 2020.
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+gold
+silver
+Start-up
+End User
+Diversity Supporters
+Media Partners 
+
+
+
+
+
+
+Join the CNCF mailing list to learn more about KubeCon + CloudNativeCon and other upcoming CNCF events!
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+#KubeCon + #CloudNativeCon
+
+
+
+
+Register
+Experiences
+Instant Giveaways
+CNCF Slack Workspace Community Guidelines
+Diversity + Inclusion
+Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+Interactive Sessions
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

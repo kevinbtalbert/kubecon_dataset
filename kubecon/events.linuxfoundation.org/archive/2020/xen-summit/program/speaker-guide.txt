@@ -1,0 +1,290 @@
+
+
+
+
+Speaker Guide | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Design Sessions
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsAll Past EventsXen Project Homepage 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View upcoming Linux Foundation events. 
+
+
+
+
+
+
+ 
+
+
+						Speaker Guide					
+
+
+
+
+Skip to page sectionOverviewDeadlinesRegistrationVisa RequestsVenue + Hotel DetailsSchedule InformationAV Details + RequirementsPowerPoint Template + Presentation RequirementsPromote Your TalkInclusivity CourseCode of ConductContact Us
+
+
+Overview
+
+Thank you for speaking at the Xen Project Developer & Design Summit 2020, taking place on June 2-4, 2020 at the PRECIS Center in Bucharest, Romania.
+This is your official event speaker guide. Please bookmark this page for easy reference and continue to check back as the event gets closer as we will be adding additional speaker information, such as on-site details, as they are available. If you have any questions, please email cfp@linuxfoundation.org.
+
+NOVEL CORONAVIRUS UPDATE
+
+Please click through the menu on the left to access information.
+
+
+
+Important Deadlines
+
+Speaker Registration Deadline: Monday, April 6Upload Bio + Headshot to Sched.com Deadline: Monday, April 6AV Requests Due: Monday, May 4Presentation Deadline: Monday, May 11
+
+
+
+Registration
+
+To confirm that you will be presenting, please register as a speaker by Monday, April 6th
+You were previously sent the registration link and access code in your notification email. If you did not receive this, please contact cfp@linuxfoundation.org. 
+
+
+
+Visa Requests + Travel Funding
+
+If you require a visa letter, please register for the event, and then complete the visa letter request form.
+All visa letter requests must be submitted no later than two weeks prior to the event. Any visa letter requests made after the two-week deadline cannot be guaranteed.
+We also ask that you please note the following:
+Provision of a visa letter by The Linux Foundation does not guarantee visa approval as final approval is made at the sole discretion of the government of the event’s host country.The Linux Foundation strongly recommends requesting a visa letter at your earliest possible convenience and to contact your local Embassy/Consulate with any visa questions you may have.The Linux Foundation processes most visa letter requests in (3) business days.
+
+
+
+Venue Location
+
+Xen Project Developer & Design Summit 2020, is taking place June 2-4, 2020 at the PRECIS Center in Bucharest, Romania.
+PRECIS CenterBulevardul Iuliu Maniu 6DBucurești 061344, Romania
+Hotel Accommodations
+
+A list of nearby hotels can be found on our Venue & Travel page of our website. Please note, we have not contracted rooms at these properties and cannot guarantee rates or availability.
+We encourage you to book early to secure a room.
+We look forward to welcoming you to Bucharest!
+
+
+
+Schedule Information
+
+The schedule will be announced Wednesday, March 25th, and will be posted on our website using sched.com. You will receive an email directly from sched.com asking you to create your account; please make sure to upload your bio and photo.
+Please note conference sessions are either 25 minutes (short talk) or 40 minutes (long talk) in length. If you have a conflict with the timing of your talk or find that it conflicts with the content of another talk; or are having problems uploading your bio and photo, please contact Jennifer Crowley. 
+
+
+
+AV Details + Requirements
+
+Any additional AV requests are due by Monday, May 4
+The room will include a screen, projector, and (2) wireless microphones. At the end of the session a mic will be used for questions, so be sure to leave time at the end of your talk. Required: All speakers will need to supply their own computers and necessary adaptors to use during their session.
+NOTE: The projectors have both VGA and HDMI capabilities/outputs and can accommodate either. If you require any additional AV, please contact Jennifer Crowley with those needs by May 4.  The Xen Project will make every effort to accommodate additional A/V needs; however, final approval for additional A/V requests will be made on a case-by-case basis.
+
+
+
+PowerPoint Template + Presentation Requirements
+
+Due by Monday, May 11
+All speakers are required to submit their final presentation slides ahead of the event. In addition to providing a hard copy for accessibility purposes, we find that adding the presentations before the event helps to drive interest in attending the session.
+Please note that your presentation slides should be submitted in PDF-format to Sched.com and must be formatted in 4:3.
+If you would like to use the Xen Project PowerPoint template for your presentation, it is available HERE for download. (Please note it is not required to use the presentation template.)
+To upload slides:
+Log into your Xen speaker profile through Sched.com or via the mobile siteOn the top of the page, click “Manage and Promote Your Session”Click “Add Presentation”Click in the “Select a File” box and add the PDF document (note: there is a 50MB size limit)Click “Upload” and your slides will automatically be saved
+
+
+
+Promote Your Talk
+
+Once the schedule is announced on Wednesday, March 25, we appreciate you spreading the word about #xendevsummit and your session – please find some sample tweets below to share on your social channels!
+Proud to be chosen as a speaker for #xendevsummit  – visit “link to your session” to add my talk to your schedule!Thrilled to announce I’ll be presenting at #xendevsummit! Visit Xen 2020 to see the full schedule 👍Just learned my talk “Session Name” was accepted 🎉 See you all in Bucharest for #xendevsummit ! “link to your session”Can’t wait to speak at #xendevsummit in Bucharest, Romania – visit Xen 2020 to check out the full lineup!
+
+
+
+Inclusivity Course
+
+The Linux Foundation, in collaboration with the National Center for Women in Technology (NCWIT), has created an online course designed to teach the viewer about inclusion, diversity and unconscious bias. It is strongly encouraged by the Linux Foundation that all our speakers watch the course to learn tips/tools to use when speaking to encourage inclusivity in presentations and messaging.
+
+
+
+Code of Conduct
+
+Please read and abide by our code of conduct, which can be found here. We ask that speakers especially review this code of conduct and are inclusive in the words and images used during their presentation.
+
+
+
+Contact Us
+
+Do you have a speaker or schedule-related question? Please contact us at cfp@linuxfoundation.org.
+
+
+
+ 
+
+
+
+
+Sponsors
+
+sponsors 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+Register
+Code of Conduct
+
+Sponsor
+Schedule
+Design Sessions
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

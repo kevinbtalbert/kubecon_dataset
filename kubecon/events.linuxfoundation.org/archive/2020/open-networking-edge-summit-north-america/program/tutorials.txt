@@ -1,0 +1,279 @@
+
+
+
+
+Tutorials | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Explore the Tracks
+Featured Keynote Speakers
+Tutorials
+Program Committee
+
+
+Features &Add-Ons
+
+LF Networking + LF Edge Demos
+Co-Located Events
+Experiences
+Ask the Expert Sessions
+Nightly Networking
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Networking & Edge Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Networking & Edge Events. 
+
+
+
+
+
+
+ 
+
+
+						Tutorials					
+
+
+
+
+Skip to page sectionAttend a TutorialCloud Native for Edge and Service Providers, sponsored by Cloud Native Computing Foundation Bringing Enterprise Workloads from the Cloud to the Edge with 5G, sponsored by IBMOpen Next-Gen Cloud Infrastructure at Scale, sponsored by FutureweiBuild Better Telco Clouds with ODIM™, sponsored by Hewlett Packard Enterprises (HPE)
+
+We are excited to offer sponsored tutorials throughout the conference! Tutorials will run on Monday – Tuesday and are complementary to Open Networking & Edge Summit attendees.  Add a tutorial to your schedule by using the Sched buttons belw.
+
+
+
+
+Cloud Native for Edge and Service Providers, sponsored by Cloud Native Computing Foundation 
+
+Monday, September 28 | 2:00  – 5:00 PM EDT
+Please join us for a multi-part workshop on using a selection of Cloud Native technologies from CNCF. These technologies can be used as part of the solution for edge computing and service provider’s needs. There will be time for Q/A. Attendees should come away with an understanding of how to get started using the technology demonstrated.
+
+VIEW ON SCHED
+
+
+
+
+
+Bringing Enterprise Workloads from the Cloud to the Edge with 5G, sponsored by IBM
+
+Tuesday, September 29 | 10:30 AM – 12:00 PM EDT
+Edge computing with 5G creates tremendous opportunities in every industry. It brings computation and data storage closer to where data is generated, enabling better data control, reduced costs, faster insights and actions, and continuous operations. 5G also offers telcos an opportunity to deliver services to enterprise customers.  What must Telcos do to make a success of Edge computing? 
+Developers are focused on making new services easy to deploy and operate. They have adopted container platforms, like Kubernetes, that enable automation and scalability. Telcos must offer an open, cloud-native, platform for edge computing – one with a large ecosystem of developers, partners and tooling. In addition, Telcos must also create an Edge Factory – a dedicated program to enable and deploy innovative new edge services.
+Telcos need the best of both worlds.  1) An open platform, to attract a broad ecosystem of developers, using cloud native technology such as containers and CI/CD.  2) Open network interfaces, to avoid lock-in, and connect. 
+This session will cover:
+ High-level overview of 5G, Edge and key use casesArchitecture overview, including how network and applications workloads will be deployed and managed at the edge and core network. Network workloads considered will include vRAN, 5G core and other essential 5G networks functions.  Application workloads will include different industry workloads built on AI and Analytics.
+Demonstration and details of an actual 5G implementation at edge covering key use cases, such as 5G network slicing with close loop automation to manage security and optimize network traffic at the network level with applications such as worker safety deployed at the edge. Customer implementation examples, lessons learned and discussion of key challenges to be addressed to ensure a 5G journey at the edge is successful.
+
+VIEW ON SCHED
+
+
+
+
+
+Open Next-Gen Cloud Infrastructure at Scale, sponsored by Futurewei
+
+Tuesday, September 29 | 2:00 PM – 5:00 PM EDT 
+This tutorial will introduce a new open source cloud compute and network infrastructure project (Centaurus) and discuss its revolutionary cloud network solution(Mizar) that unifies the network provisioning for both VMs and containers at a regional scale and provides a high-performance data plane for traffic routing among VMs and containers. In this tutorial, we will also discuss Arktos compute infrastructure project as well as KubeEdge for edge computing.
+Agenda
+Opening and Overall of Project Centaurus – Ying Xiong, Head of Cloud Lab, Futurewei TechnologiesMizar – A Novel Network Virtualization Approach for Enabling Multi-tenant Cloud Networking at Scale – Phu Tran and Deepak Vij, Cloud Lab, Futurewei TechnologiesArktos & Mizar – Virtual Cloud Networking with XDP – Xiaoning Ding and Hong Wei Chen, Cloud Lab, Futurewei TechnologiesKubeEdge – A Cloud Native Approach to Extend Cloud Computing to the Edge – Yin Ding, Cloud Lab, Futurewei TechnologiesClosing Remark – Community Involvement, Partnership and Open Source Activities – Anni Lai, Open Source, Futurewei Technologies
+
+VIEW ON SCHED
+
+
+
+
+
+
+Build Better Telco Clouds with ODIM™, sponsored by Hewlett Packard Enterprises (HPE)
+
+Wednesday, September 30 | 9:00 AM – 12:00 PM EDT 
+With the rise of virtualized architectures comes the complexity of managing highly distributed, heterogeneous, multi-vendor environments and the proliferation of infrastructure management APIs with minimal alignment across compute, storage, and networking.
+Open Distributed Infrastructure Management (ODIM™) is a Linux Foundation® project aimed at addressing the increased complexity of managing geographically distributed physical infrastructure at scale.
+This tutorial will include both a demonstration of ODIM in action and an architectural deep dive into this exciting new project.
+
+VIEW ON SCHED
+
+
+
+
+ 
+
+
+
+
+Sponsors
+
+Diamond
+Gold
+Bronze
+Partner 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#onesummit
+
+
+
+
+Register
+Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+Explore the Tracks
+Featured Keynote Speakers
+Tutorials
+Program Committee
+
+LF Networking + LF Edge Demos
+Co-Located Events
+Experiences
+Ask the Expert Sessions
+Nightly Networking
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

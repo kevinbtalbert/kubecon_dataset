@@ -1,0 +1,302 @@
+
+
+
+
+LF Networking + LF Edge Demos | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Explore the Tracks
+Featured Keynote Speakers
+Tutorials
+Program Committee
+
+
+Features &Add-Ons
+
+LF Networking + LF Edge Demos
+Co-Located Events
+Experiences
+Ask the Expert Sessions
+Nightly Networking
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Networking & Edge Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Networking & Edge Events. 
+
+
+
+
+
+
+ 
+
+
+						LF Networking + LF Edge Demos					
+
+
+
+
+Skip to page sectionLow-touch Automated Onboarding and Application Delivery with SDO and Open HorizonReal-Time Sensor Fusion for Loss Detection (EdgeX Foundry)Managing Industrial IoT Data Using LF Edge (Fledge, EVE)Onboarding 5G CNFs with ONAP: As easy as 1, 2, 3 (ONAP, OPNFV, K8s) AI Innovation with ONAP Mapping ETSI ENI - EPC Intelligent Energy Optimization (ONAP, ETSI)Building CNFs with FD.io VPP and Network Service Mesh + VPP Traceability in Cloud-Native Deployments (FD.io VPP, Ligato.io, Network Service Mesh, K8s)Policy-based RAN Management Using O-RAN's Open-Source Non-RealTime-RIC (ONAP, ORAN-SC)Self-Healing Using Streaming Analytics & Observability for Latency Sensitive Kubernetes Workloads (OPNFV, K8s, Prometheus, Collectd)ONAP Policy Framework Integration with Bell Control Loop Use-cases (ONAP)OVP Automation DevOps: Agile Adoption in VNF/CNF based Network Service Industry (ONAP, OPNFV)
+Immerse yourself in the latest open source innovations across networking and edge with community-driven demos in the LF Networking & LF Edge Pavilion. The demos will be open throughout the event but visit during booth hours to engage with the demo managers and ask questions. 
+For more information about these demos or projects featured in the pavilion, email pr@lfnetworking.org or pr@lfedge.org. 
+
+
+Low-touch Automated Onboarding and Application Delivery with SDO and Open Horizon
+Presented by IBM and Intel
+
+An OEM or ODM can generate a voucher with SDO utilities that is tied to a specific device. Upon purchase, they can send the voucher to the purchaser. With LF Edge’s Open Horizon SDO integration, an administrator can load the voucher into Open Horizon and pre-register the device. Once the device is powered on and connected to the network, it will automatically authenticate, download and install the Open Horizon agent, and begin a negotiation to receive and run relevant workloads. 
+
+
+
+
+Real-Time Sensor Fusion for Loss Detection (EdgeX Foundry)
+Presented by HP, Intel, and IOTech
+
+Learn how different sensor devices can use LF Edge’s EdgeX Foundry open-middleware framework to optimize retail operations and detect loss at checkout. The sensor fusion is implemented using a modular approach, combining point-of-sale , computer vision, RFID and scale data into a POC for loss prevention.
+
+
+
+
+Managing Industrial IoT Data Using LF Edge (Fledge, EVE)
+Presented by Flir, Dianomic, OSIsoft, ZEDEDA
+
+LF Edge projects Fledge and EVE will show how together they can securely manage, connect, aggregate, process, buffer and forward any sensor, machine or PLC’s data to existing OT systems and any cloud. Specifically, this demo will show a FLIR IR Camera video and data feeds being managed as described.
+
+
+
+
+Onboarding 5G CNFs with ONAP: As Easy as 1, 2, 3 (ONAP, OPNFV, K8s)
+Presented by A10, Altran, Aarna Networks, Intel, Kaloom, Lenovo, Rebaca, Red Hat, Turnium, IOL-UNH
+
+The LFN community has now evolved the 5G Cloud Native Network Demo to integrate ONAP in for the onboarding and deploymeny of 5G Cloud Native Network Functions (CNFs). This POC helps to show the versatility of ONAP and its compatability with cloud native functions.
+
+
+
+
+AI Innovation with ONAP Mapping ETSI ENI – EPC Intelligent Energy Optimization (ONAP, ETSI)
+Presented by Astri, ChinaMobile, Intel, QCT
+
+This demo shows network NFV AIOps and power savings developed by the core network, with a focus on Artificial Intelligence/Machine Learning (AI/ML), as defined by ETSI ENI with ONAP. It maps the ENI architecture for network Self-Organization and energy optimization by integrated ONAP and ML-training models to do closed-loop automation with vEPC and more. 
+
+
+
+
+Building CNFs with FD.io VPP and Network Service Mesh + VPP Traceability in Cloud-Native Deployments (FD.io VPP, Ligato.io, Network Service Mesh, K8s)
+Presented by PANTHEON.tech and FD.io
+
+This demo will showcase an example CNF deployment running in a Kubernetes cluster. It will demonstrate several reference CNFs containing FD.io VPP as the data plane and Ligato.io agent used as the management / control plane. The interconnections between CNFs will be handled by Network Service Mesh, running FD.io VPP as its data plane as well. 
+
+
+
+
+Policy-based RAN Management Using O-RAN’s Open-Source Non-RealTime-RIC (ONAP, ORAN-SC)
+Presented by Ericsson and LF Networking
+
+This demo will use O-RAN’s Non-RealTime-RIC function to show how policy-based guidance of RAN functions/use-cases and can be used for closed-loop optimization of 5G radio functions. It uses the open source implementation developed in the O-RAN Source Community “NONRTRIC” project to show how such control loops can be realized and the progress made for non-realtime RAN control.
+
+
+
+
+Self-Healing Using Streaming Analytics & Observability for Latency Sensitive Kubernetes Workloads (OPNFV, K8s, Prometheus, Collectd)
+Presented by Intel and Red Hat
+
+This demo showcases components necessary towards zero touch infrastructure automation using Kubernetes enhancements, streaming analytics, host telemetry, and a viable path to deployment. It also shows application of service assurance and required automation and demonstrates observability (monitoring & logging) and closed loop interfaces at scale across 1000s of nodes.
+
+
+
+
+ONAP Policy Framework Integration with Bell Control Loop Use-cases (ONAP)
+Presented by Bell Canada and Ericsson
+
+ONAP Policy Framework provides a solution for full lifecycle management of policies which is the core of Control Loop Automation. This demo proposal showcases how ONAP Policy Framework can be integrated with Analytics components and actors/controllers to design various control loop use cases for an operator. 
+
+
+
+
+OVP Automation DevOps: Agile Adoption in VNF/CNF based Network Service Industry (ONAP, OPNFV)
+Presented by Aarna Networks, China Mobile, Huawei, Spirent
+
+This demo will leverage ONAP SDC, ONAP VF-C, and OVP VTP projects to build DevOps for OVP end-to-end VNF and Network service testing which helps to address agility, automation, and testing challenges. It will also show how certified VNFs are published into VNF marketplace for operators can further incubate their 5G ecology along with AI and edge technologies. 
+
+
+ 
+
+
+
+
+Sponsors
+
+Diamond
+Gold
+Bronze
+Partner 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#onesummit
+
+
+
+
+Register
+Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+Explore the Tracks
+Featured Keynote Speakers
+Tutorials
+Program Committee
+
+LF Networking + LF Edge Demos
+Co-Located Events
+Experiences
+Ask the Expert Sessions
+Nightly Networking
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

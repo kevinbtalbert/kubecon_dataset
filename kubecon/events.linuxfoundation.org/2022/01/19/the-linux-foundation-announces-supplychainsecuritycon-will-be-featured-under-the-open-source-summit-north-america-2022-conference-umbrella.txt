@@ -1,0 +1,221 @@
+
+
+
+
+The Linux Foundation Announces SupplyChainSecurityCon will be Featured Under the Open Source Summit North America 2022 Conference Umbrella | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+January 19, 2022
+The Linux Foundation Announces SupplyChainSecurityCon will be Featured Under the Open Source Summit North America 2022 Conference Umbrella		
+
+
+
+
+Open Source Summit continues to focus on covering the most critical topics, innovative technologies and pivotal open source projects as the premier event for the open source community.
+SAN FRANCISCO, January 19, 2022 —  The Linux Foundation, the nonprofit organization enabling mass innovation through open source, has announced that SupplyChainSecurityCon, an event launched last fall at KubeCon + CloudNativeCon North America, will be hosted in 2022 as part of Open Source Summit North America, June 21-24, in Austin, TX and virtual.
+Open Source Summit is the premier event for open source developers, technologists, and community leaders to collaborate, share information, solve problems, and gain knowledge, furthering open source innovation and ensuring a sustainable open source ecosystem.
+Co-hosted by CNCF and OpenSSF, along with The Linux Foundation, SupplyChainSecurityCon will gather security practitioners, open source developers, and others interested in software supply chain security to explore the security threats affecting the software supply chain, share best practices and mitigation tactics, and increase knowledge about how to best secure open source software.  
+SupplyChainSecurityCon will be one of thirteen events held under the Open Source Summit North America 2022 umbrella. As the open source ecosystem continues to evolve, Open Source Summit will do so as well, as a conference umbrella composed of a collection of events that will always cover the most important projects, technologies and topics in open source today – in one place.
+Open Source Summit North America 2022 is comprised of the following events:
+LinuxCon – the precursor to OS Summit and the event for Linux developers
+SupplyChainSecurityCon – addressing supply chain security
+CloudOpen – covering cloud infrastructure and cloud native for developers
+OSPOCon – for those working in open source program offices
+Embedded Linux Conference – the premier vendor-neutral technical conference for developers working on embedded Linux since 2005
+Critical Software Summit – for developers working to increase dependability of OS projects in safety, mission and business critical applications
+ContainerCon – for those adopting containerization to further automation, portability and efficiency
+Community Leadership Conference – where community leaders gather to share, learn and collaborate with each other
+Embedded IoT Summit – for developers working on IoT for embedded devices across open source
+Emerging OS Forum – where to find out about the latest trends and technologies touching open source
+Open AI + Data Forum – a forum to drive open source innovation in the AI, ML, DL, and Data domains
+Diversity Empowerment Summit – a forum for driving more diversity and inclusion in open source communities
+Open Source On-Ramp – for developers new to open source
+Save the Date.Open Source Summit will be held on the following dates and locations:
+Open Source Summit North America: June 21-24 • Austin, Texas, USAOpen Source Summit Europe: September 13-16 • Dublin, IrelandOpen Source Summit Japan: December 5-6 • Yokohama, Japan
+Additional locations to be announced shortly. Registration will open in February 2022.Submit to Speak.The Call for Proposals for Open Source Summit North America events and Open Source Summit Europe events are now open. View suggested topics and submit talks for all events at the links provided.The Linux Foundation strongly values the need to increase diversity, equity and inclusion in open source, and a great place for that to begin is on a conference stage. We encourage those from all marginalized communities to submit to speak. We also welcome and encourage first-time speakers to submit.
+Sponsor.Open Source Summit North America 2022 is made possible thanks to our sponsors, including Diamond Sponsor: Google, and Gold Sponsors: InfluxData and Styra. Open Source Summit Europe 2022 is made possible thanks to our sponsors, including Diamond Sponsor: Google, and Gold Sponsor: Styra. For information on becoming an event sponsor, click here or email us.PressMembers of the press who would like to request a press pass to attend should contact Kristin O’Connell.
+About the Linux FoundationFounded in 2000, the Linux Foundation is supported by more than 2,000 members and is the world’s leading home for collaboration on open source software, open standards, open data, and open hardware. Linux Foundation’s projects are critical to the world’s infrastructure including Linux, Kubernetes, Node.js, and more. The Linux Foundation’s methodology focuses on leveraging best practices and addressing the needs of contributors, users and solution providers to create sustainable models for open collaboration. For more information, please visit linuxfoundation.org.
+The Linux Foundation Events are where the world’s leading technologists meet, collaborate, learn and network in order to advance innovations that support the world’s largest shared technologies.
+Visit our website and follow us on Twitter, Linkedin, and Facebook for all the latest event updates and announcements.The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see its trademark usage page: www.linuxfoundation.org/trademark-usage. Linux is a registered trademark of Linus Torvalds. 
+###
+Media ContactKristin O’ConnellThe Linux Foundationkoconnell@linuxfoundation.org
+
+
+
+
+
+Post navigation
+The Linux Foundation Announces Keynote Speakers for  Open Source Summit Japan + Automotive Linux Summit 2021Linux Foundation Events Monthly Snapshot – January 2022
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

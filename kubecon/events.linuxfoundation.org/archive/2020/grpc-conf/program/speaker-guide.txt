@@ -1,0 +1,286 @@
+
+
+
+
+gRPC Conf 2020 Speaker Guide | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+FAQ
+Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  KubeCon + CloudNativeCon + other CNCF Events. 
+
+
+
+
+
+
+ 
+
+
+						gRPC Conf 2020 Speaker Guide					
+
+
+
+
+Skip to page sectionOverviewDeadlinesRegistrationSchedule Information + Requesting Updates to Your SessionVirtual Event Platform + Live Q&ARecording Your Session + Presenting Virtually Best PracticesPowerPoint Template + Presentation RequirementsPromote Your TalkInclusivity CourseCode of ConductSchedule + Speaker Point of Contact
+
+Overview
+
+Thank you for speaking at gRPC Conf 2020, taking place July 27–28, 2020, on an online virtual platform.
+This is your official event speaker guide, which contains pertinent information regarding deadlines and speaker responsibilities. Please bookmark this page for easy reference and continue to check back as the event gets closer as we will be adding additional speaker information, such as virtual presentation instructions, as they are available. If you have any questions, please email Nanci Lancaster.
+Please click through the menu on the left of this page to access information.
+
+
+
+Important Dates + Deadlines
+Speaker Registration Deadline: Friday, May 29, 2020Upload Bio + Headshot to Sched.com Deadline: Monday, June 1, 2020Last Day to Request Speaker Additions or Changes: Monday, June 8, 2020Last Day to Record Your Presentation With Tim Arthur: Tuesday, July 7, 2020Presentation Upload Deadline: Wednesday, July 8, 2020
+
+
+
+Registration
+To confirm that you will be presenting, please go to the speaker-specific registration page and use the voucher code, gRPCSPK20, to register as a speaker. If you are not registered by Friday, May 29, there is a possibility that your speaking slot will be replaced by one on our waiting list so please do so promptly. If you previously purchased your registration, please email Nanci Lancaster and she will get your registration updated and any refunds processed.
+
+
+
+
+
+Schedule + Uploading a Bio/Photo
+The schedule was posted on our website using Sched.com. You will receive an email directly from Sched.com asking you to create your account. Please upload your photo and bio no later than Monday, June 1, 2020.
+
+Speaker Cancellation and Session Update Policy
+If you need to cancel or update your session, please contact Nanci Lancaster and note the below policy. All requests must be made no later than Monday, June 8.
+If you are on a solo session and are no longer able to attend the conference, your session will be canceled and replaced with a session from the waitlist. Neither you nor your company will be allowed to replace you as a speaker.If you are on a session with one speaker, and would like to add a co-speaker, or you are on a dual session and would like to replace a speaker,  speakeryour replacement or additional request will need to be approved by the program committee before we are able to add them as a speaker.
+If you have any update requests to your session (speaker changes, description updates, etc.), those requests must be made no later than Monday, June 8.
+
+
+Platform Details
+We are using the virtual event platform, MeetingPlay, which allows speakers to deliver content via pre-recorded talks and join live for Q&A with attendees via text chat. The platform is web-based with HTML5, and will be easy for everyone to access and use. 
+The MeetingPlay platform is allowing us to create an immersive experience for attendees, with educational sessions that offer speaker and attendee Q&A and interaction, attendee collaboration and networking through topical chat rooms, 1:1 and group chats, gamification to keep attendees engaged throughout the event, and a sponsor showcase where attendees can view demos, download resources, check out job openings, and speak directly with sponsor company reps. While this won’t be able to exactly replicate the value of a face-to-face event, we think it captures a lot of the opportunities and we look forward to having you join us as a speaker for this new experience.
+
+Live Q&A
+As with physical events, live interaction is essential to the success of virtual events and we are requiring every presenter, to be available during their session for live Q&A within the platform. This will provide added value to the audience and create more of an ‘event’ versus a ‘webinar’ experience. All speakers will be invited for training sessions to get familiar with the platform ahead of the event.
+We recommend having your presentation be 20-minutes in duration and leave 5-10 minutes at the end to answer any questions from the audience via text chat. We also encourage you to engage with the audience throughout the session, as well.
+If you are concerned about your timezone and how that could impact the live Q&A portion of your session, we will do our best to reschedule your session slot to a time that is convenient for you. 
+If you are not comfortable with the idea of a live Q&A, or cannot participate “live,” please contact us immediately.
+
+
+
+Pre-Recording Details
+Presentations must be recorded no later than Tuesday, July 7, 2020.
+All speakers will be required to pre-record their presentation with Timothy Arthur no later than Tuesday, July 7, 2020, and be available, live, during their session to answer questions from the audience. The deadline of July 7 is due to the editing process that is needed for the recordings and the event platform requiring every video to be uploaded no later than July 9, 2020.
+Please set up a time to pre-record your session with Timothy Arthur via his Calendly Link.
+If you believe you will not be able to record your presentation by July 7, 2020, please let Nanci Lancaster know immediately.
+
+Presenting Virtually Best Practices
+We understand that presenting virtually is vastly different than presenting on stage in-person. Our great A/V team that is usually with us on-site has compiled a list of best practices and equipment recommendations to help presenters have the highest quality virtual presentation. Please review their detailed document before meeting with Timothy.
+
+
+
+Speaker PowerPoint Presentation Template
+We designed an optional gRPC Conf 2020 PowerPoint template for our speakers. Use of this template is not required but we do welcome you to use it for your convenience.
+
+Helpful Notes on Presentation Design
+Obsolete, low-res (i.e., pixelated), and malformatted logos are an epidemic among conference presentations. High-res logos of over 1000 cloud native projects, products, and companies are available in the cloud native landscape and the serverless and member landscapes. All logos are in the card mode and can be found with Cmd-F or Cntl-F from your browser. Note that all of these logos are stacked, not horizontal, and include the name. The logos are all the most current (or you can open a pull request if they’re not). Also note that the text below the logo shows the proper capitalization of projects like gRPC and containerd. In particular, Alibaba Cloud, Amazon Web Services, Google Cloud, and Microsoft Azure have all changed their logos in the last couple years; please use their current one.Please see the CNCF style guide which covers things like abbreviating Kubernetes as K8s not K8 or K8S.
+
+Presentation Requirements
+Upload to Sched.com by Wednesday, July 8
+All speakers are required to upload their final presentation slides ahead of the event. In addition to providing a hard copy for accessibility purposes, we find that adding the presentations before the event helps to drive interest in attending the session. 
+Please note that your presentation slides should be uploaded in PDF-format to Sched.com and must be formatted in 16:9.
+To upload slides:
+Log into your gRPC Conf 2020 speaker profile through Sched.comAfter logging in, go to grpcconf20.sched.com. Click on “You’re speaking at this event! Manage & promote your session →” at the top of the scheduleOn the next page, click “Add Presentation”Then, click on the “Select a File” box and add the PDF document (note: there is a 50MB size limit)Click “Upload” and your slides will automatically be saved
+
+
+
+
+
+
+Promote Your Talk
+We appreciate you spreading the word about #gRPCConf and your session – please find some sample tweets below to share on your social channels! Note: The short link to your session can be found on your session’s sched.com page, just below the title, to the left of the “Tweet” and “Share” buttons.
+I just found out that my talk about [TOPIC] was accepted for #gRPCConf! 🎉 Come see me on [DATE]! [SESSION LINK]Attending #gRPCConf in June? Come check out my session [SESSION NAME] on [DATE]. Hope to see you there! [SESSION LINK]My first talk on [TOPIC] was just accepted for #gRPCConf  –  visit [SESSION LINK] to add my talk to your schedule⚡️! Can’t wait for #gRPCConf! 👍 I will be speaking on [DATE] – Come see my session [TITLE] – Hope to see you there! [LINK TO SESSION]Thrilled to have my session [SESSION TITLE] accepted for #gRPCConf! Visit https://bit.ly/2Wwj0dP to check out the full lineup!
+
+
+
+
+Inclusive Speaker Orientation Online Course
+The Linux Foundation, in collaboration with the National Center for Women in Technology (NCWIT), has created an online course designed to teach the viewer about inclusion, diversity and unconscious bias. It is strongly encouraged by the Cloud Native Computing Foundation that all our speakers watch the course to learn tips/tools to use when speaking to encourage inclusivity in presentations and messaging.
+
+
+
+
+Code of Conduct
+
+Please read, and abide by our code of conduct. Our code of conduct is strictly enforced. We ask that speakers especially review this code of conduct and are careful to be inclusive in the words and images used during their presentation.
+
+
+
+
+Schedule and Speaker Point of Contact
+
+Nanci Lancaster is your main point of contact for any speaker or schedule-related questions. Please contact her at speakers@cncf.io.
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+FAQ
+Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

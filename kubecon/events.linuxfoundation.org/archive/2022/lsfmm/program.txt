@@ -1,0 +1,224 @@
+
+
+
+
+Call for Proposals (CFP) | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Venue & Travel
+Health & Safety
+About Palm Springs
+Visa Letter Request
+Travel Funding
+Child Care
+Diversity & Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Call for Proposals (CFP)
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsLinux Plumbers ConferencePast Linux Dev Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Linux Dev Events. 
+
+
+
+
+
+
+ 
+
+
+						Call for Proposals (CFP)					
+
+
+
+
+
+The Call for Proposals is now closed.
+LSF/MM/BPF is an invitation-only technical workshop to map out improvements to the Linux storage, filesystem, BPF, and memory management subsystems that will make their way into the mainline kernel within the coming years.
+This year’s event will be a three-day, stand-alone conference with four subsystem-specific tracks, cross-track discussions, as well as BoF and hacking sessions. 
+Proposals for agenda topics should be sent to the following lists to allow for discussion among your peers. This will help us figure out which topics are important for the agenda.
+    lsf-pc@lists.linux-foundation.org
+
+and CC the mailing lists that are relevant for the topic in question:
+    FS:     linux-fsdevel@vger.kernel.org
+    MM:     linux-mm@kvack.org
+    Block:  linux-block@vger.kernel.org
+    ATA:    linux-ide@vger.kernel.org
+    SCSI:   linux-scsi@vger.kernel.org
+    NVMe:   linux-nvme@lists.infradead.org
+    BPF:    bpf@vger.kernel.org
+
+Please tag your proposal with [LSF/MM/BPF TOPIC] to make it easier to track. In addition, please make sure to start a new thread for each topic rather than following up on an existing one. Agenda topics and attendees will be selected by the program committee, but the final agenda will be formed by consensus of the attendees on the day.
+
+
+
+
+
+
+Sponsors
+
+Diamond
+PLATINUM
+GOLD
+
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+Register
+Venue & Travel
+Health & Safety
+About Palm Springs
+Visa Letter Request
+Travel Funding
+Child Care
+Diversity & Inclusion
+Code of Conduct
+
+Sponsor
+Call for Proposals (CFP)
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

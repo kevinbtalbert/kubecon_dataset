@@ -1,0 +1,428 @@
+
+
+
+
+KubeCon + CloudNativeCon North America 2021 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Health + Safety
+Diversity + Inclusion
+Code of Conduct
+
+
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF EventsCNCF Homepage 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon North America. 
+
+
+
+				KubeCon + CloudNativeCon North America			
+
+
+
+
+
+
+
+October 11-15
+
+Los Angeles, California + Virtual#KubeCon + #CloudNativeCon
+
+
+
+
+
+KubeCon + CloudNativeCon North America 2021 is a wrap! Thank you to all the attendees, speakers, and sponsors that joined us this week both in-person and online. To experience the best of this year’s event, be sure to:
+
+
+
+Watch keynotes and breakout sessions on CNCF’s YouTube channel (available by October 29)
+
+
+
+Review session slides from speakers who provided them + closed caption transcripts via the event schedule.
+
+
+
+
+
+take the post-event survey
+
+
+Save the Dates!
+KubeCon + CloudNativeCon Europe 2022  |  May 17-20, 2022  | Valencia, Spain
+KubeCon + CloudNativeCon North America 2022 | October 25-28, 2022 | Detroit, MI
+
+
+The Cloud Native Computing Foundation’s flagship conference gathers adopters and technologists from leading open source and cloud native communities from October 11-15, 2021. Join containerd, CoreDNS, Envoy, etcd, Fluentd, Harbor, Helm, Jaeger, Kubernetes, Open Policy Agent, Prometheus, Rook, TiKV, TUF, Vitess, Argo, Buildpacks, CloudEvents, CNI, Contour, Cortex, CRI-O, Dragonfly, Falco, Flux, gRPC, KubeEdge, Linkerd, NATS, Notary, OpenTelemetry, Operator Framework, SPIFFE, SPIRE, and Thanos as the community gathers for four days to further the education and advancement of cloud native computing.
+
+
+
+
+
+2021 photos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+SHOW MORE
+
+
+
+ 
+
+Organizations focused on newer open source software (OSS) technologies and solutions are well-positioned to respond to app modernization pressures stemming from today’s economic and societal challenges. More than ever KubeCon + CloudNativeCon provides an important forum for exchanging relevant information and insights on Kubernetes and broader DevOps trends.’ – Charlotte Dunlap, Principal Analyst, GlobalData
+
+
+
+
+
+
+
+Highlights from KubeCon + CloudNativeCon North America 2021
+
+
+
+
+
+
+
+
+
+
+
+ La La Land. The City of Angels.
+The City of Los Angeles holds many distinctions. L.A. is the entertainment capital of the world, a cultural mecca boasting more than 100 museums, and a paradise of idyllic weather. From tourist attractions like the Walk of Fame’s collection of stars (numbering more than 2,614 and counting) to career opportunities like those presented in the expanding tech industry, Los Angeles is the place to be.
+
+Explore the city
+
+
+
+
+Program Co-Chairs
+
+
+
+
+
+
+
+ 
+
+
+Constance Caramanolis
+Principal Software Engineer, Splunk
+
+
+
+
+
+
+
+
+
+
+
+Constance is a senior software engineer at Splunk, formerly Omnition, contributing to OpenTelemetry. Previous to Omnition, she worked at Lyft as part of the data platform and server networking teams. While at Lyft, Constance built, deployed, and configured Envoy internally, and maintained the open source project.
+ 
+
+
+
+
+
+
+ 
+
+
+Stephen Augustus
+Head of Open Source, Emerging Technologies & Incubation Division, Cisco
+
+
+
+
+
+Stephen is a Black engineering director and leader in open source communities.
+
+
+He is Cisco’s first Head of Open Source, within the Emerging Technologies & Incubation division.
+
+
+For Kubernetes, he has co-founded transformational elements of the project, including the KEP (Kubernetes Enhancements Proposal) process, the Release Engineering subproject, and Working Group Naming. Stephen has also previously served as a chair for both SIG PM and SIG Azure.
+
+
+He continues his work in Kubernetes as a Chair for SIG Release, a Lead for WG Naming, and an owner of Enhancements subproject.
+
+
+Across the wider CNCF (Cloud Native Computing Foundation) ecosystem, Stephen has the pleasure of being one of the Program Chairs for KubeCon / CloudNativeCon, the cloud native community’s flagship conference, a SIG Contributor Strategy Chair, and a maintainer for the Dex project.
+
+
+He is a prolific contributor to CNCF projects, amongst the top 25 (as of writing) code/content committers, all-time.
+
+
+In 2020, Stephen co-founded the Inclusive Naming Initiative, a cross-industry group dedicated to helping projects and companies make consistent, responsible choices to remove harmful language across codebases, standards, and documentation. He leads multiple workstreams here and maintains the initiative’s infrastructure.
+
+
+He has previously held positions at VMWare (via Heptio), Red Hat, and CoreOS.
+
+
+Stephen is based in New York City.
+ 
+
+
+
+
+
+
+ 
+
+
+Jasmine James
+Senior Engineering Manager-Developer Experience
+
+
+
+
+
+Jasmine is an engineering manager leading the developer experience pillar in the engineering effectiveness organization. She has previously worked at Delta Air Lines enabling cloud native application development by providing modern tooling and capabilities utilizing various CNCF projects to create a streamlined development experience.
+ 
+
+
+
+
+
+
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+gold
+silver
+Start-up
+End User
+Diversity Supporters
+Media Partners
+
+
+
+
+
+
+
+
+Join the CNCF mailing list to learn more about KubeCon + CloudNativeCon and other upcoming CNCF events!
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+Slack
+ 
+#KubeCon + #CloudNativeCon
+
+
+
+
+Health + Safety
+Diversity + Inclusion
+Code of Conduct
+
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

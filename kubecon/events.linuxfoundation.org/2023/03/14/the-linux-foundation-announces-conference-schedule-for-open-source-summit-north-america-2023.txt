@@ -1,0 +1,222 @@
+
+
+
+
+The Linux Foundation Announces Conference Schedule for Open Source Summit North America 2023 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+March 14, 2023
+The Linux Foundation Announces Conference Schedule for Open Source Summit North America 2023		
+
+
+
+
+The foremost conference for the global open source community features 300 sessions across 15 micro conferences, covering the most important and cutting edge topics in open source today.
+SAN FRANCISCO, March 14, 2023 —  The Linux Foundation, the nonprofit organization enabling mass innovation through open source, today announced the full schedule for Open Source Summit North America, the premier event for open source code and community contributors. The conference is taking place May 10-12 in Vancouver, Canada, with pre-event programming and co-located events on May 8-9 as well. The schedule can be viewed here.
+Open Source Summit North America 2023 comprises 15 micro conferences that gather together the projects and communities working to further open source innovation and ensure a sustainable open source ecosystem. This year’s schedule of 300 conference sessions, tutorials, lightning talks, and BoFs is dedicated to sharing knowledge and best practices, in a collaborative environment, around a variety of topical areas including Linux Systems, AI, Security, OSPOs, Community Leadership, Cloud, Containers, Diversity, Metaverse, Sustainability, and more.
+2023 Conference Session Highlights Include:
+
+Advanced Tracing Features to See What Your Application Is Waiting On – Steven Rostedt, Google (LinuxCon)
+Tutorial: Take the Power Back on Your Containers with Flatcar – Mathieu Tortuyaux, Microsoft (CloudOpen)
+A Guide to Dapr: Open Source APIs & SDKs for Developers – Alice Gibbons & Samantha Coyle, Diagrid (ContainerCon)
+Panel Discussion: Open Source Supply Chain Security – Are Containers the Biggest Blind Spot? – Lisa-Marie Namphy, CockroachDB; Liz Rice, Isovalent; Josh Bressers, Anchore; Ayse Kaya, Slim.AI (SupplyChainSecurityCon)
+Linux Kernel Tracing Using eBPF – Vandana Salve, Prasme Systems (Open Source On-Ramp)
+Is ChatGPT (and Other AI) the Enemy of Diversity? – Quiana Berry, Red Hat (Diversity Empowerment Summit) 
+Alignment of Community Contributions and Business Goals – How Can Your OSPO Help? – Masae Shida, VMware (OSPOCon)
+PyTorch 2.0: Unlocking the Power of Deep Learning with the Torch Compile API – Justin Jeffress, Meta (Open AI + Data Forum)
+How Do You Know You’re Done – After a Security Fix? – Peter Brink, UL Solutions & Kate Stewart, The Linux Foundation (Critical Software Summit)
+OpenWallet Holds the Key to Unlock A New Wave of Trustworthy Digital Services – Wenjing Chu, Futurewei Technologies, Inc. (Emerging OS Forum)
+Decarbonizing Our Global Supply Chain Infrastructure: The Role (and Need) for Open Source & Distributed Ledger Technology – Sherwood Moore, Hyperledger Foundation & Bertrand Rioux, Two Ravens Consulting (SustainabilityCon)
+Synthetic Reality: How Artificial Intelligence Will Shape the Metaverse and Everything in It – Matt White, Berkeley Synthetic (Open Metaverse Summit)
+What is Open Source Without Collaboration? – Ildiko Vancsa, Open Infrastructure Foundation (Open Source Leadership Summit)
+Real-time Multi-User State Management for the Collaborative Web – Matt Hayes, Wizards of the Coast (OpenJS World)
+Hardening Next Generation Military Software Containers for Use By DoD Software Factories – Russ Andersson, RapidFort Inc. (OpenGovCon)
+
+Keynote speakers will be announced on March 29.
+Registration (in-person) is offered at the early price of $799 through March 19. Registration to attend virtually is complimentary. Members of The Linux Foundation receive a 20 percent discount off registration and can contact events@linuxfoundation.org to request a member discount code. 
+Applications for diversity and need-based scholarships are currently being accepted. For information on eligibility and how to apply, please click here. The Linux Foundation’s Travel Fund is also accepting applications, with the goal of enabling open source developers and community members to attend events that they would otherwise be unable to attend due to a lack of funding. To learn more and apply, please click here.
+Event SponsorsOpen Source Summit North America 2023 is made possible thanks to our 32 sponsors (and counting), including Platinum Sponsors: OpenSearch and Red Hat, and Gold Sponsors: Delta Lake, GitLab, Google, and Intel. For information on becoming an event sponsor, click here or email us.
+PressMembers of the press who would like to request a press pass to attend should contact Kristin O’Connell.ABOUT THE LINUX FOUNDATIONThe Linux Foundation is the world’s leading home for collaboration on open source software, hardware, standards, and data. Linux Foundation projects are critical to the world’s infrastructure including Linux, Kubernetes, Node.js, ONAP, PyTorch, RISC-V, SPDX, OpenChain, and more. The Linux Foundation focuses on leveraging best practices and addressing the needs of contributors, users, and solution providers to create sustainable models for open collaboration. For more information, please visit us at linuxfoundation.org.
+The Linux Foundation Events are where the world’s leading technologists meet, collaborate, learn and network in order to advance innovations that support the world’s largest shared technologies.
+Visit our website and follow us on Twitter, LinkedIn, and Facebook for all the latest event updates and announcements.The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see its trademark usage page: www.linuxfoundation.org/trademark-usage. Linux is a registered trademark of Linus Torvalds. 
+###Media ContactKristin O’ConnellThe Linux Foundationkoconnell@linuxfoundation.org
+
+
+
+
+
+Post navigation
+The Linux Foundation Events Monthly Snapshot – March 2023The Linux Foundation Announces Keynote Speakers for Open Source Summit North America 2023
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

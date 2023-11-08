@@ -1,0 +1,264 @@
+
+
+
+
+Sponsor | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Health + Safety
+Diversity + Inclusion
+Code of Conduct
+
+
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF EventsCNCF Homepage 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon North America. 
+
+
+
+
+
+
+ 
+
+
+						Sponsor					
+
+
+
+
+Skip to page sectionDiamond Sponsorship LotteryWhy SponsorAdditional OpportunitiesPast Event HighlightsFAQ + Contact
+
+
+Sponsorship sales for KubeCon + CloudNativeCon North America 2021 are now closed. 
+Thank you to all of our sponsors!
+
+
+
+Why Sponsor
+
+Join our community at KubeCon + CloudNativeCon North America in Los Angeles, California, October 11-15, 2021. Engage, network and collaborate with peers and like-minded people in the cloud native community. Sponsoring this event allows you to gain valuable mindshare of a targeted audience while engaging with 10,000+ developers, architects, and technical leaders. Together we will shape the future of the rapidly evolving cloud native ecosystem.
+
+Engage with the industry’s top developers, end users, and vendors – including the world’s largest public cloud and enterprise software companies as well as hundreds of innovative startups.Inform and educate the cloud native community about your organization’s products, services, open source strategies, and cloud native direction.Take advantage of a professionally-organized conference run by a neutral nonprofit where content is curated by the community.Meet with developers and operations experts ranging from startup CTOs to corporate developers to senior technology executives from all over the world.Associate your brand with one of the fastest-growing technology communities.Support and engage with the ecosystem and the community that is the engine driving some of the highest velocity open source projects in the industry.Join CNCF’s hosted projects – containerd, CoreDNS, Envoy, etcd, Fluentd, Harbor, Helm, Jaeger, Kubernetes, Prometheus, Rook, TiKV, TUF, Vitess, Argo, Buildpacks, CloudEvents, CNI, Contour, Cortex, CRI-O, Dragonfly, Falco, gRPC, KubeEdge, Linkerd, NATS, Notary, Open Policy Agent, OpenTracing, Operator Framework, SPIFFE, SPIRE, and Thanos – and help bring cloud native project communities together.Give back to the open source community. CNCF reinvests profits from our events to directly support CNCF’s hosted projects.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Additional Opportunities
+
+Co-located Events: Host your own event at KubeCon + CloudNativeCon North America 2021 and take advantage of our preset event packages. See our sponsorship prospectus for more information.
+
+Other CNCF Events:  Engage with highly targeted audiences by sponsoring additional events that focus on specific cloud native topics or CNCF hosted projects. See our sponsorship prospectus for more information.
+
+
+
+
+KubeCon + CloudNativeCon North America 2020 Highlights 
+
+
+For full event recaps and additional attendee demographics, see our transparency reports for previous KubeCon + CloudNativeCon North America events.
+
+download 2020 virtual event report
+DOWNLOAD 2019 In-Person Event REPORT
+
+
+
+
+
+
+FAQ + Contact
+
+What is a hybrid event? Our hybrid event is an in-person event with a virtual component for those that cannot attend in person. We will take all necessary precautions to ensure the safety of those who attend the event in person. We are evaluating virtual components and will be excited to share details as they become available. Given the fluid COVID-19 situation, this may change, and we may need to once again pivot from a hybrid event to a virtual event.
+What is the value of participating in this event?We believe everyone will find value in joining us for the high-quality content that is expected from a KubeCon + CloudNativeCon event. Our open source communities inspire us to be resilient – to adapt and thrive with speed and consideration, immersed in the goal of bringing together a distributed group of people from around the globe. It’s in the DNA of the open source community to connect, learn and collaborate, therefore, what better place to do so than one of the premier open source developer conferences in the world?
+What happens if the event can’t be held in-person?Given the fluid COVID-19 situation, we may need to pivot from a hybrid event to a virtual event once again. We will make the decision and notify all participants at least 3 months in advance. Sponsors will, at that time, be presented with the new virtual event sponsorship pricing and benefits, and will have 14 days to choose whether to transfer their sponsorship to the virtual event, apply a credit to a future CNCF event in 2022 or receive a full refund.
+When will access to the sponsor portal (ERC) be provided? We are looking to provide access to confirmed sponsors by mid-summer so you can get started on planning your deliverables. Our sponsor services team will be in touch with updates as we get closer to the event. 
+What information will be provided in the leads report that sponsors receive? Included in sponsor reports are the names, job titles, company names, email addresses, and physical work addresses (if provided) of all attendees who visited the sponsor’s booth space and got their name badge scanned. Phone numbers will not be shared. More information on lead reporting will be provided in the sponsor portal.
+Will a breakdown of attendees be provided to sponsors?We will share a list of attending companies with all sponsors twice prior to the event. This list will include the company names only but no contact information. After the event, all sponsors will receive a detailed transparency report with overall attendee statistics and demographics, event highlights and media coverage. Attendee contact information will not be shared.
+What is your policy for sharing attendee information?The Linux Foundation’s data protection and privacy policy is part of our general terms and conditions that all registrants must accept before they can complete their registration. This includes the registrant’s confirmation that they understand their data will be shared with the sponsor if they have their name badge scanned at a sponsor booth. All Linux Foundation events are GDPR compliant. For more information, please see The Linux Foundation’s Privacy Policy. 
+Who should I contact with further questions?Please email sponsor@cncf.io to discuss sponsorship opportunities.
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+gold
+silver
+Start-up
+End User
+Diversity Supporters
+Media Partners
+
+
+
+
+
+
+
+
+Join the CNCF mailing list to learn more about KubeCon + CloudNativeCon and other upcoming CNCF events!
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+Slack
+ 
+#KubeCon + #CloudNativeCon
+
+
+
+
+Health + Safety
+Diversity + Inclusion
+Code of Conduct
+
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+

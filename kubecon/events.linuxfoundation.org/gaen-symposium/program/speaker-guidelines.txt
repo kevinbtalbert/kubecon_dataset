@@ -1,0 +1,207 @@
+
+
+
+
+Speaker Guidelines | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+About
+Code of Conduct
+
+
+Program
+
+Schedule At-A-Glance
+Speaker Guidelines
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast LF Public Health EventsLF Public Health Website 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  LF Public Health Events. 
+
+
+
+
+
+
+
+
+
+						Speaker Guidelines					
+
+
+
+
+
+LFPH GAEN SymposiumJuly 16, 2020, 11 am – 2 pm ET
+
+The goal of the symposium is to have meaningful discussions about a number of challenges implementers of the GAEN APIs are currently facing. As such, it is not designed for experts to share “how it should be” but rather for specialists to introduce challenges and have the community work together to overcome them. 
+The Plenary Session will be a chance to introduce the problems, and the breakout sessions will be where the real work happens to try and find solutions. As a result, we ask that all speakers plan to stay for the entire event because their participation in both halves will be meaningful. 
+
+House Rules
+These are all supplemental to the Code of Conduct and will be shared with all participants. 
+This conference is focused on the GAEN APIs. While there are other great frameworks out there for exposure notification, we are not going to talk about them on this day. This is not about what Apple and Google should have done. We are taking the world as it is today and trying to make sure that what we have will be usable. If there’s a small change they can make with a big impact, suggest it. But don’t bring in solutions that would require starting over. Do not promote a particular app or a specific framework that only works for one app. This is about improving everyone’s implementations. Bring in diverse voices. Please keep an eye on the virtual room to make sure that nobody is monopolizing the conversation and that everyone has a chance to speak.We will follow Chatham House rules – nothing said at the event may be attributed to an individual or specific organization, but can be attributed to a type of individual (aka “an app developer said….” is fine, but “someone from the LFPH team” is not OK.).
+Schedule
+11:00 – 12:15 | Plenary Session 12:15 – 12:20 | Transition to Breakout Session12:20 – 2:00 | Breakout Sessions
+Plenary Session
+There will be two types of plenary session speakers: presenters and panelists. 
+Presenters will be introducing a topic. They will provide a summary of what the challenge is around the topic and present a handful of options that might resolve it. We ask that you keep your talk of about 10-12 minutes (absolutely no more than 15) and pre-record it. Your talk should follow the following structure (approximately):
+Introduce the topic broadlyDescribe the challenges that are currently being faced around this topicDescribe what a successful solution would look like, but do not describe the solutionIf time permits, present a few potential solutions up for debate. If you do not have three or more solutions to present, please do not present any solutions. 
+Because it is pre-recorded, we expect that while you are presenting you are available to answer some Q&A in the chat. These recordings will not be shared after the event unless you explicitly give us permission to do so. Please email your recording to events@lfph.io. 
+Q&A will be gathered for the breakout sessions by using sli.do. Participants can add and vote on discussion questions there. 
+Breakout Sessions
+The breakout sessions will have three main components: a Slack room, a Google Doc, and a Zoom room. These will all be attended by a moderator to help navigate the conversation. 
+The goal of the breakout session is to find solutions, consensus, or next steps around the topics that were introduced in the plenary. The moderator, combined with the people who presented in the plenary, are responsible for bringing the group together around this conversation and keeping it focused. 
+Feel free to jump between Slack channels and Zoom rooms as much as you’d like; there is no rule about sticking in one room or on one channel. Find the conversation that’s most meaningful for you. We do ask that you keep your conversations in the conference channels – please try to avoid 1-on-1 conversations. 
+“Poster Sessions:” Anyone who has submitted a white paper or slide deck on the topic will have their document pinned in the relevant Slack channel and a thread will be started so that attendees can discuss the paper together. 
+The google doc will be for live notetaking. The moderator will be the primary notetaker, though the rest of the group will be invited to add their own contributions and comments. At the end of the symposium, the moderator will take the google doc and clean it up to circulate among symposium participants. Once all the documents have been gathered, they will be scrubbed of any attributions from individuals and shared on a public GitHub (so that they are still following Chatham House rules).
+If you have a document that you are willing to share with the symposium attendees but not publicly, please be sure to mark that clearly both in the Slack message and in the document itself. However, if feasible, we would instead request that you remove any affiliation information from the document to allow it to be shared publicly so that teams that are implementing GAEN apps later can benefit from your work.
+Moderating a Virtual Room
+It can be especially hard to get a word in edgewise when the conversation is happening on a screen. If you’re soliciting ideas, consider giving everyone a minute or two to type their ideas into the Slack channel, then have a discussion around them. This allows everyone to have the ability to speak up. The Zoom text-based chat will be disabled so all written discussion can happen in the respective Slack channel and a record can be maintained. If someone starts to talk for too long, encourage them to take a moment to type their thoughts into Slack instead. 
+
+
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+Register
+About
+Code of Conduct
+
+Schedule At-A-Glance
+Speaker Guidelines
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

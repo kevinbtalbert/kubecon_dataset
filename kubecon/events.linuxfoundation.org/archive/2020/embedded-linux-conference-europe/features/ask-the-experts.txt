@@ -1,0 +1,215 @@
+
+
+
+
+Ask the Experts Sessions | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Explore the Tracks
+Featured Speakers
+Program Committee
+
+
+Features &Add-Ons
+
+Experiences
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Embedded & IoT Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming Embedded Linux Conference Europe. 
+
+
+
+
+
+
+ 
+
+
+						Ask the Experts Sessions					
+
+
+
+
+
+October 26 – 29 | Timing Varies; View the Schedule!Registration Cost: Complimentary; No Sign-up Required
+This is your chance to chat directly with Linux kernel and other open source project maintainers, community leaders and technical experts to get all of your questions answered in our Reddit AMA style Q&A sessions. Sessions with speakers below are listed on the schedule. Be sure not to miss out! Our Ask the Expert lineup includes:
+Sam Ramji, Chief Strategy Officer, DataStax | Expert Topic: Microservices 2.0Calista Redmond, CEO, RISC-V Foundation | Expert Topic: RISC-V / Open Hardware + Leading Open Source from Within Corporations + Community LeadershipTim Bird, Principal Software Engineer, Sony | Expert Topic: Embedded LinuxTracy Miranda, Executive Director, Continuous Delivery Foundation | Expert Topic: CI/CD and DevOpsShuli Goodman, Executive Director, LF Energy | Expert Topic: LF EnergyThomas Gleixner, CTO, Linutronix GmbH | Expert Topic: All Things KernelGreg Kroah-Hartman, Linux Kernel Developer and Linux Fellow, The Linux Foundation | Expert Topic: Linux KernelDawn Foster, Director of Open Source Community Strategy, VMware | Expert Topic: CHAOSS, Community Management & OS LeadershipLiz Rice, VP, Open Source Engineering, Aqua Security | Expert Topic: Container SecuritySveta Smirnova, Principal Support Escalation Specialist, Percona | Expert Topic: Open Source DatabasesMandy Chessell, ODPi TSC Chairperson and ODPi Egeria project chairperson, IBM Distinguished Engineer, IBM | Expert Topic: ODPi EgeriaRichard Purdie, Fellow & Yocto Project Architect, The Linux Foundation | Expert Topic: Yocto ProjectJan Kiszka, Sr. Key Expert, Siemens AG | Expert Topic: TBA
+Note: You must be registered for OSS+ELC Europe Virtual Experience to participate.
+
+
+
+
+
+
+
+Sponsors
+
+Diamond
+PLATINUM
+GOLD
+SILVER
+BRONZE
+Partner 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#lfelc
+
+
+
+
+Register
+Code of Conduct
+
+Sponsor
+Schedule
+Explore the Tracks
+Featured Speakers
+Program Committee
+
+Experiences
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

@@ -1,0 +1,245 @@
+
+
+
+
+登録Register | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+登録Register
+参加Attend
+
+行動規範Code of Conduct
+
+
+スポンサーSponsor
+プログラムProgram
+
+スケジュールSchedule
+各トラックのご案内Explore the Tracks
+注目の講演者Featured Speakers
+
+
+併設プログラムFeatures &Add-Ons
+
+体験できることExperiences
+
+
+お問い合わせContact Us
+View All Events
+EventsAll Upcoming EventsPast Open Source Summit Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming Open Source Summit Japan. 
+
+
+
+
+
+
+ 
+
+
+						登録Register					
+
+
+
+
+
+REGISTRATION CLOSED
+PLATFORM CLOSED
+
+
+登録システムは、Linux Foundationのシングルサインオン (SSO) プラットフォームに統合されました。
+[登録する] をクリックすると、既存のSSOアカウントでログインするか、新しいアカウントを作成するよう求められます。
+既存のアカウントのパスワードをお忘れの場合は、[Forgot Password] をクリックしてリセットしてください。
+Gmail、GitHub、LinkedIn、Facebookなどのサードパーティの認証プロバイダーを使用して、SSOアカウントを自動生成することもできます。
+問題が発生した場合は、SSOページの [Contact Us] リンクをクリックして、サポートチームまでお問い合わせください。
+Our registration system is now integrated with the Linux Foundation Single sign-on (SSO) platform. After clicking “Register Now”, you will be prompted to log in with your existing SSO account or to create a new one. 
+If you have forgotten the password for an existing account, reset it by clicking “Forgot Password.” 
+You will also be able to use 3rd party authentication providers (Gmail, GitHub, LinkedIn, and Facebook) to automatically generate your SSO Account.
+If you experience issues, click the “Contact Us” link on the SSO page to connect with our support team.
+
+
+
+注意：わたしたちは出席者リストや連絡先情報を販売することはありません。また、そのような行為を容認しません。Linux Foundationイベントの参加者リストを販売する旨のeメールを受け取った方は、events@linuxfoundation.orgに転送してください。
+Quick Note: We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.  
+スピーカー講演者への承認通知メールには、講演者登録用のリンクが含まれています。リンクが見つからない場合は、cfp@linuxfoundation.orgへお問い合わせください。 
+SpeakersYou should have received a registration link in your acceptance email. If you did not, please contact cfp@linuxfoundation.org for more details. 
+スポンサースポンサー企業には、各社のスポンサーシップ担当の方あてに、専用登録サイトへのリンクをお送りしています。スポンサーとして登録する場合は、各社のスポンサーシップ担当者にご確認ください。ご質問がある場合は、events@linuxfoundation.orgまでお問い合わせください。
+SponsorsA registration link was shared in an email to your company’s sponsorship contact. Please reach out to your company’s sponsorship contact if you need to register as a Sponsor. For further questions, please email events@linuxfoundation.org. 
+メディアこのイベントに参加ご希望で、無料アクセス コードをお持ちでないメディアの方は、events@linuxfoundation.orgまでご連絡ください。PRチームからご連絡を差し上げます。
+MediaIf you are a member of the media interested in attending this event and have not received a complimentary access code to attend, please contact events@linuxfoundation.org and a member of our PR team will be in touch. 
+
+ディスカウントDISCOUNTS
+Linux FoundationメンバーLinux Foundationメンバーは20%の割引を受けることができます。LFメンバーのディスカウント コードについては、events@linuxfoundation.orgまでお問い合わせください。
+Linux Foundation MembersLinux Foundation Members are eligible to receive a 20% discount. Please email events@linuxfoundation.org to request the LF Member discount code. 
+非営利の専門家IRSが定めた非課税機関に在籍する専門家は、適用される登録料金より20%のディスカウントが受けられます。ディスカウント コードについては、events@linuxfoundation.orgまでお問い合わせください。ただしこのディスカウントは、他のディスカウントと併用できません。また、このディスカウントを受けるには、非課税機関の従業員証を提出する必要があります。
+Non-Profit ProfessionalsProfessionals who work at a tax-exempt organization as defined by the IRS may receive a 20% discount on the applicable, full-event registration rate. Please email events@linuxfoundation.org for a discount code. Please note: this discount may not be combined with any additional discounts. Professionals must submit proof of employment as a tax-exempt organization before receiving this discount.
+団体割引5人以上の参加者をまとめて登録すると、すべてのパスで10％の割引を受けることができます。ただしすべてのパス タイプが同じで、すべての登録が1つのグループ登録として処理され、同じクレジットカードで支払われる必要があります。グループを作成するには、登録時に“Add Another Person”を選択してください。5人以上追加されると、自動的に10%割引が適用されます。ただしこのディスカウントは、他のディスカウントと併用できません。ご質問がある場合は、events@linuxfoundation.orgまでお問い合わせください。
+Group DiscountsIf you have a group of 5 or more people, you can receive a 10% discount on all passes. All pass types must be the same, and all registrations must be processed under one group registration and must be paid with the same credit card. To create a group, select “Add Another Person” to your registration. When 5 or more people are added the 10% discount will be automatically applied. Please note: this discount may not be combined with any additional discounts. Please contact events@linuxfoundation.org for any questions.
+
+キャンセルや代理参加についてCANCELLATIONS & SUBSTITUTIONS
+
+何らかの理由でキャンセルする必要がある場合は、確認番号を使用して登録に再度ログインし、”unregister” を選択してください。さらにサポートが必要な場合は、events@linuxfoundation.org までメールでお問い合わせください。返金処理は、イベント開始日より2週間前までのキャンセルに対してのみ行われます。また、返金までに14日ほどかかる場合がありますので、ご了承ください。手数料はかかりません。
+参加できなくなった際には、キャンセルする以外に、参加者を変更するという選択肢もあります。参加者を変更するには、登録フォームに戻り、”Already Registered” でログインし、登録内容を新しい参加者の情報に変更します。この機能を利用して、領収書や確認書を再発行することもできます。
+If you must cancel for any reason, log back into your registration using your confirmation number and select “unregister.” If you need further assistance, email events@linuxfoundation.org. Refunds will only be issued for cancellations received two weeks before the start date of the event and may take up to 14 days to process. We have waived all processing fees.
+If you are unable to attend, you may substitute another attendee in lieu of cancellation. To substitute an attendee, you may return to the registration form, log in as ‘Already Registered’ and edit the registration with the new attendee’s information. Utilizing this feature will also allow you to re-issue yourself a receipt and/or confirmation should you need it.
+
+
+
+
+
+スポンサー Sponsors
+
+ダイアモンド Diamond
+プラチナ Platinum
+ゴールド GOLD
+シルバー Silver
+ブロンズ BRONZE 
+
+
+
+
+
+
+メーリングリストに参加して、イベントの最新情報やニュースをゲットしましょう。Join our mailing list to hear all the latest about events, news, and more!
+
+ 
+	入力された宛先に今後のイベント情報が配信されます。メーリングリストの登録はいつでも解除できます。詳細については、プライバシー ポリシーを参照してください。The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#ossummit
+
+
+
+
+登録 Register
+行動規範 Code of Conduct
+
+スポンサー Sponsor
+スケジュール Schedule
+各トラックのご案内 Explore the Tracks
+注目の講演者 Featured Speakers
+
+体験できること Experiences
+
+お問い合わせ Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

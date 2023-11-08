@@ -1,0 +1,258 @@
+
+
+
+
+Sponsor | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Experiences
+Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Keynote Speakers
+Interactive Sessions
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF EventsCNCF Homepage 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon Europe. 
+
+
+
+
+
+
+ 
+
+
+						Sponsor					
+
+
+
+
+Skip to page sectionWhy SponsorPast Event HighlightsFAQ + Contact
+
+Sponsorship sales for KubeCon + CloudNativeCon Europe 2021 – Virtual are now closed.
+Thank you to all of our sponsors!
+Why Sponsor
+
+Join our community for an immersive digital experience that provides interactive content, networking opportunities and collaboration with peers. Sponsoring this event allows you to gain valuable mindshare of a targeted audience while engaging with 15,000+ developers, architects, and technical leaders. Together we will shape the future of the rapidly evolving cloud native ecosystem.
+
+Expand the number of attendees you can reach by participating in a global digital event that can be accessed anytime, anywhere.Participate in an online sponsor showcase to present videos, demos, and other resources, capture leads, and communicate directly with attendees via live chat.Engage with the industry’s top developers, end users, and vendors – including the world’s largest public cloud and enterprise software companies as well as hundreds of innovative startups.Inform and educate the cloud native community about your organization’s products, services, open source strategies, and cloud native direction.Take advantage of a professionally-organized conference run by a neutral nonprofit where content is curated by the community.Associate your brand with one of the fastest-growing technology communities.Support and engage with the ecosystem and the community that is the engine driving some of the highest velocity open source projects in the industry.Join CNCF’s hosted projects – containerd, CoreDNS, Envoy, etcd, Fluentd, Harbor, Helm, Jaeger, Kubernetes, Prometheus, Rook, TiKV, TUF, Vitess, Argo, Buildpacks, CloudEvents, CNI, Contour, Cortex, CRI-O, Dragonfly, Falco, gRPC, KubeEdge, Linkerd, NATS, Notary, Open Policy Agent, OpenTracing, Operator Framework, SPIFFE, SPIRE, and Thanos – and help bring cloud native project communities together
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KubeCon + CloudNativeCon Europe 2020 Virtual Highlights 
+
+
+For a full event recap and additional attendee demographics see the KubeCon +CloudNativeCon Europe 2020 Virtual Transparency Report.
+
+DOWNLOAD 2020 EVENT TRANSPARENCY REPORT
+
+
+
+
+
+
+FAQ + Contact
+
+What is the value of participating in this event?We believe everyone will find value in joining us for the high-quality content that is expected from a KubeCon + CloudNativeCon event. Our open source communities inspire us to be resilient – to adapt and thrive with speed and consideration, immersed in the goal of bringing together a distributed group of people from around the globe. It’s in the DNA of the open source community to connect, learn and collaborate, therefore, what better place to do so than one of the premier open source developer conferences in the world?
+What virtual platform will be used for this event? The virtual event platform for KubeCon + CloudNativeCon Europe 2021 will be MeetingPlay. For a quick overview of a virtual exhibit space in MeetingPlay, watch this video. Please note that the actual exhibit space for KubeCon + CloudNativeCon may differ from what is shown in this demo.
+What is a virtual exhibit space?Your booth will be your space to brand and connect directly with attendees at KubeCon + CloudNativeCon. Each sponsor will receive their personal virtual exhibit space including the following features:
+Option to present live demos or host expert office hoursUpload pre-recorded videos and downloadable resources such as whitepapers, case studies, or collateralShare special offers and surveys in your exhibit spaceEngage with attendees via public live chat or private 1:1 chatPost job opportunities if your company is hiringLink to external websites and social mediaAdd tags and filters for your exhibitor directory listingCapture leads and track visitor traffic in real-time
+What are the exhibit hours? The event platform and virtual exhibit spaces can be accessed at any time during conference days, however, we will advise on expected peak hours and recommended staffing hours in the sponsor portal once the overall conference schedule is finalized. 
+When will access to the sponsor portal (ERC) be provided? We are looking to provide access to confirmed sponsors in early March so you can get started on planning your deliverables. Our sponsor services team will be in touch with updates as we get closer to the event. 
+What information will be provided in the leads report that sponsors receive? Included in sponsor reports are the names, job titles, company names, email addresses, and physical work addresses (if provided) of attendees who visited a sponsor’s virtual exhibit space. Phone numbers will not be shared. More information on lead reporting will be provided in the sponsor portal.
+Will a breakdown of attendees be provided to sponsors?We will share a list of attending companies with all sponsors twice prior to the event. This list will include the company names only but no contact information. After the event, all sponsors will receive a detailed transparency report with overall attendee statistics and demographics, event highlights and media coverage. Attendee contact information will not be shared.
+What is your policy for sharing attendee information?The Linux Foundation’s data protection and privacy policy is part of our general terms and conditions that all registrants must accept before they can complete their registration. This includes the registrant’s confirmation that they understand their data will be shared with the sponsor if they access a sponsor booth, interact with sponsored content or participate in a sponsored activity. All Linux Foundation events are GDPR compliant. For more information, please see The Linux Foundation’s Privacy Policy. 
+Who should I contact with further questions?Please email sponsor@cncf.io to discuss sponsorship opportunities.
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+GOLD
+SILVER
+START-UP
+END USER
+DIVERSITY EVENT + SCHOLARSHIP
+MEDIA PARTNERS 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+#KubeCon + #CloudNativeCon
+
+
+
+
+Experiences
+Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Keynote Speakers
+Interactive Sessions
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+

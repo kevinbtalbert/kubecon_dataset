@@ -1,0 +1,594 @@
+
+
+
+
+Co-Located Events | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Health + Safety
+Diversity + Inclusion
+Code of Conduct
+
+
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF EventsCNCF Homepage 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon North America. 
+
+
+
+
+
+
+ 
+
+
+						Co-Located Events					
+
+
+
+
+Skip to page sectionAdvanced Kubernetes Cert: Learn How To Build Your Next App With Kube, Istio, and Advanced Services Like Watson hosted by IBM CloudAdvanced Kubernetes Troubleshooting Made Simple with Open Source Tools hosted by ReplicatedAir Gap Lab: Delivering Kubernetes Applications to Air Gapped Environments hosted by ReplicatedAWS Container Day x KubeCon hosted by AWSCloud Native Data Management Day hosted by Kasten, Veeam, MinIO, NetApp, Nutanix, Portworx, Scality, StorageOS, and VMwareCloud Native DevX Day North America Hosted by CNCFCloud Native eBPF Day North America Hosted By CNCFCloud Native for Eclipse Foundation Day hosted by Eclipse FoundationCloud Native Security Conference North America Hosted by CNCFCloud Native Wasm Day North America Hosted By CNCFData on Kubernetes Day Hosted By CNCFEnvoyCon North America Hosted By CNCFFluentCon North America Hosted By CNCFGetting Started with Kubernetes hosted by Google CloudGitLab Commit at KubeCon: DevOps hosted by GitLabGitOpsCon North America Hosted by CNCFGovernance as Code Day with Cloud Custodian hosted by StackletInstantly Debug your Kubernetes Clusters with Pixie hosted by New RelicKubernetes AI Day North America Hosted by CNCF + LFAIKubernetes Platform Design hosted by VMwareKubeSec Enterprise Summit hosted by Aqua SecurityOperator Day hosted by CanonicalOpenShift Commons Gathering hosted by Red HatOvercoming Data-Tier Challenges on Kubernetes and Cloud-Native Deployments hosted by DataStaxProduction Identity Day: SPIFFE + SPIRE North America Hosted By CNCFPromCon North America Hosted By CNCFQuest for the Kubernetes Ring hosted by ReplicatedServiceMeshCon North America Hosted by CNCFSupplyChainSecurityCon North America Hosted by CNCF + CDF
+
+
+Advanced Kubernetes: Learn How To Build Your Next App with Kube, Istio, and Advanced Services Like Watson hosted by IBM Cloud – SOLD OUT
+Date: Tuesday, October 12, 2021 | Times: Session 1: 10:00 AM – 1:00 PM PDT; Session 2: 2:00 PM – 5:00 PM PDT |Location: Concourse Hall 153ABC | Registration Fees: Complimentary
+
+Do you need to select the right technologies to build your next application? Get your hands dirty with those technologies before you start your build. Learn how Kubernetes and Istio give you full control over your microservices. Kubernetes minimizes outages and disruptions through self-healing, intelligent scheduling, horizontal scaling, and load balancing. Istio gives you security, advanced routing, policy, and insights into your application. Our developers will walk you through the step-by-step in this Hands-on-Lab, and you’ll walk away with a certification badge.
+How to Register: This event is sold out. Please click here if you would like IBM to send you more information!
+For questions regarding this event, please reach out to  allie.stanton@gpj.com.
+
+
+
+Advanced Kubernetes Troubleshooting Made Simple with Open Source Tools hosted by Replicated – IN-PERSON SOLD OUT (Waitlist Available)
+Date: Tuesday, October 12, 2021 | Time: 11:30 AM – 1:30 PM PDTLocation: Room 402AB + Virtual | Registration Fees: Complimentary
+
+As engineers, operators, and administrators, we grapple with vexing and expensive problems. Support bottlenecks caused by technical language barriers, differing time zones, incomplete information, and other typically minor issues can extend the time between identifying an issue and resolving it by hours or even days. Fortunately, a fully open source toolset available called Troubleshoot can drastically reduce the time between diagnosis and solution. This lightweight, fully customizable Kubernetes plugin consists of two parts – preflight and support-bundle. Troubleshoot is capable of collecting, analyzing, and packaging the data needed to get and keep your cluster operating at peak functionality. If it sounds too good to be true, just wait – it gets even better. 
+Join our live lab to see tiny-yet-mighty troubleshoot.sh in action in a live demo, plus the opportunity to learn how to customize troubleshoot components to fit your needs.
+Some background info: 
+Attendees will be provided with instructions on how to log into a Linux Host running a Kubernetes Application. Attendees will also be provided with step-by-step instructions on how to find and troubleshoot an issue. They will try to login/open a webpage The page will error out/show an error message The attendee will then follow the instructions to fix the issue. (This may involve running some kubectl commands) Once the issue is fixed, the web page should load and allow the participant to sign up for the ring. 
+The attendee will require some Kubernetes knowledge and a laptop that they can use to SSH into a LINUX VM running in GCP.
+How to Register: The in-person event is sold out (waitlist available). To register for Advanced Kubernetes Troubleshooting Made Simple with Open Source Tools virtual or add yourself to the in-person waitlist, add it on during your KubeCon + CloudNativeCon registration.
+For questions regarding this event, please reach out to events-team@replicated.com.
+
+
+
+Air Gap Lab: Delivering Kubernetes Applications to Air Gapped Environments hosted by Replicated – IN-PERSON SOLD OUT (Waitlist Available)
+Date: Tuesday, October 12, 2021 | Times: 9:00 – 11:00 AM PDT | Location: Room 402AB + VirtualRegistration Fees: Complimentary
+
+Air gapped environments are enjoying increased popularity with the Enterprise in cloud, on-prem, and hybrid environments. While more secure, losing the convenience of internet connectivity means that your applications are potentially inaccessible to your air gapped clients – or are they? 
+Fortunately, there are innovative and timely open source tools available to streamline the process of getting your customers up and running as quickly as possible. These open source tools can do everything from launching your application to even deploying an embedded Kubernetes cluster specific to your needs. 
+In this lab, you will receive a hands-on lesson on how to successfully build custom Kubernetes clusters, deploy and manage applications, and investigate and resolve issues in highly secured Kubernetes environments. 
+What you will do: 
+Access and verify a single-node air gap setup via a bastion server Learn how to use KOTS (Kubernetes-Off-The-Shelf) to install in an air gap environment Create an SSH tunnel to configure an air gap instance Perform an upgrade of an application in an air gap environment Use the kubectl support-bundle CLI in an air gap environment.
+Who this is for:
+This lab is for anyone who builds/maintains KOTS applications (see note below)Full Stack / DevOps / Product Engineers 
+Pre-requisites: Basic working knowledge of Kubernetes 
+Outcomes: 
+You will be ready to deliver a KOTS application into an air gap environment You will build confidence in performing upgrades and troubleshooting in air gap environments 
+Note — a more minimal air gap lab is in the works for non-dev teams to learn the user-side installation workflow without needing to understand the building/packaging of new air gap versions. Until that is made available, this lab is also appropriate for: 
+Implementation / Field EngineersSupport Engineers
+How to Register: The in-person event is sold out (waitlist available). To register for Air Gap Lab virtual or add yourself to the in-person waitlist, add it on during your KubeCon + CloudNativeCon registration.
+For questions regarding this event, please reach out to  events-team@replicated.com.
+
+
+
+AWS Container Day x KubeCon hosted by AWS
+Date: Tuesday, October 12, 2021 | Times: 8:00 AM – 4:00 PM PDT | Location: Online – VirtualRegistration Fees: Complimentary
+
+Join us on October 12, 8:00 AM – 4:00 PM PT for AWS Container Day x KubeCon, a fully live, virtual day of sessions all about Amazon EKS and Kubernetes at AWS, hosted by Containers from the Couch. At this KubeCon + CloudNativeCon co-located event, the AWS Kubernetes team will discuss new launches, demo products and features, cover best practices, and answer your questions live on Twitch. 
+How to Register: Pre-registration is required. Register for AWS Container Day here! 
+For questions regarding this event, please reach out to awscontainerday@amazon.com.
+
+
+
+Cloud Native Data Management Day hosted by Kasten by Veeam, MinIO, NetApp, Nutanix, Portworx, Scality, StorageOS, and VMware (REGISTRATION CLOSED)
+Date: Tuesday, October 12, 2021 | Time: 12:00 – 5:00PM PDT | Location: GRAMMY® Museum at L.A. LIVERegistration Fees: $75
+
+As this event is being hosted by a third party, please be aware that this event does not fall under CNCF’s health and safety onsite protocols. Click here to view CNDM Day’s health and safety protocols. 
+Do not miss this event! Doors open at 12:00 PM, and the program begins at 1:00 PM. This is a hybrid event, co-located with KubeCon + CloudNativeCon North America 2021, consisting of a live in-person program held at the GRAMMY® Museum L.A. Live in Los Angeles, CA and live-streamed on the CNDM Day YouTube channel including three tracks of on-demand presentations. 
+Registration includes CNDM Day backpack filled with sponsor swag, Wolfgang Puck Catering boxed lunch, access to all GRAMMY® Museum exhibits, and great cloud native data management discussions with powerful speakers! 
+The current agenda is updated on our event page. The virtual event is free and requires no registration. The live in-person event located in the GRAMMY® Museum is limited to the first 200 registrants. 
+Register today, and we’ll see you in Los Angeles! We are currently seeking abstracts to provide sessions for the on-demand tracks listed below. 
+Apply today to our CFP!
+Community Track: Customers talking about their cloud native journeys, tales from the field, and practical knowledge sharing 101 Technical Track: Experts sharing technical knowledge, technical solutions to problems, and how-tos Industry Track: Lighting talks on products solving issues/pain points, vendors sharing innovations and solutions Each prerecorded session should be 15-30 minutes long depending on content and can be given by one or more individuals.
+
+How to Register: Registration for this event is now closed.
+For questions regarding this event, please reach out to info@cndmday.com.
+
+
+
+Cloud Native DevX Day North America hosted by CNCF
+Date: Tuesday, October 12, 2021 | Time: 9:00AM – 5:00PM PDT | Location: Los Angeles, CA + VirtualRegistration Fees: In-Person: $249 standard / $349 on-site [includes free virtual access] | Virtual-Only: $20
+
+Cloud Native DevX Day is a space where creators can collaborate, listen, discuss and declutter dev workflows, toolchains and minds to improve the developer experience.
+More details available here.
+
+EXPLORE THE SCHEDULE
+
+SCHOLARSHIPS CLOSED
+
+
+How to Register: Pre-registration is required. To register for Cloud Native DevX Day North America, add it on during your KubeCon + CloudNativeCon registration.
+For questions regarding this event, please reach out to  CNCFcolocatedevents@cncf.io.
+
+
+
+Cloud Native eBPF Day North America hosted by CNCF
+Date: Monday, October 11, 2021 | Time: 9:00AM – 5:00PM PDT | Location: Los Angeles, CA + VirtualRegistration Fees: In-Person: $249 standard / $349 on-site [includes free virtual access] | Virtual-Only: $20
+
+eBPF is transforming Cloud Native. Co-located with KubeCon + CloudNativeCon, eBPF Day is a vendor-neutral conference that explores this transformational technology and its impact on the future of Cloud Native.
+More details available here. 
+
+explore the schedule
+
+SCHOLARSHIPS CLOSED
+
+
+How to Register: Pre-registration is required. To register for Cloud Native eBPF Day North America, add it on during your KubeCon + CloudNativeCon registration.
+For questions regarding this event, please reach out to CNCFcolocatedevents@cncf.io.
+
+
+
+Cloud Native for Eclipse Foundation Day hosted by Eclipse Foundation (REGISTRATION CLOSED)
+Date: Monday, October 11, 2021 | Time: 9:00AM – 5:00PM PDT | Location: Online – VirtualRegistration Fees: Complimentary
+
+Cloud Native for Eclipse Foundation (CN4EF) Day is a full day of expert talks, demos, and thought-provoking sessions focused on enterprise applications implemented using Eclipse Foundation projects on Kubernetes — from the cloud and all the way to the edge. The Eclipse Cloud Development Tools, Jakarta EE, MicroProfile, and Eclipse Edge Native communities will all be represented. Event website coming soon!
+How to Register: Registration is now closed.
+For questions regarding this event, please reach out to anne.jacko@eclipse-foundation.org.
+
+
+
+
+Cloud Native Security Conference North America hosted by CNCF
+Date: Tuesday, October 12, 2021 | Time: 9:00AM – 5:00PM PDT | Location: Los Angeles, CA + VirtualRegistration Fees: In-Person: $249 standard / $349 on-site [includes free virtual access] | Virtual-Only: $20
+
+Cloud Native Security Conference is designed to foster collaboration, discussion and knowledge sharing of cloud native security projects and how to best use these to address security challenges and opportunities. The goal is not just to propose solutions that incrementally improve what has come before, but to give room to breakthrough technology and advances in modern security approaches.
+More details available here.
+
+explore the schedule
+
+SCHOLARSHIPS CLOSED
+
+
+How to Register: Pre-registration is required. To register for Cloud Native Security Conference North America, add it on during your KubeCon + CloudNativeCon registration.
+For questions regarding this event, please reach out to CNCFcolocatedevents@cncf.io.
+
+
+
+Cloud Native Wasm Day North America hosted by CNCF
+Date: Tuesday, October 12, 2021 | Time: 9:00AM – 5:00PM PDT | Location: Los Angeles, CA + VirtualRegistration Fees: In-Person: $249 standard / $349 on-site [includes free virtual access] | Virtual-Only: $20
+
+As an open and portable technology WebAssembly is being applied and designed in numerous independent domains such as the edge or as a web browser specific technology. The emergence and adoption of WebAssembly as a cloud native platform, embedded into application, and as cloud native applications demonstrates the power and possibility of Cloud Native technologies and WebAssembly to be Better Together.
+More details available here. 
+
+explore the schedule
+
+SCHOLARSHIPS CLOSED
+
+
+How to Register: Pre-registration is required. To register for Cloud Native Wasm Day North America, add it on during your KubeCon + CloudNativeCon registration.
+For questions regarding this event, please reach out to CNCFcolocatedevents@cncf.io.
+
+
+
+Data on Kubernetes Day hosted by CNCF
+Date: Tuesday, October 12, 2021 | Time: 9:00AM – 5:00PM PDT | Location: VirtualRegistration Fees: Complimentary
+
+Kubernetes is increasingly used to run databases and other stateful workloads, unlocking new potential for leveraging your data. Join experienced practitioners from the Data on Kubernetes Community (DoKC) who are at the forefront of running data on Kubernetes. Learn the use cases, techniques, and best practices from those who have been there, done that. 
+Data on Kubernetes Community is an openly governed group of technologists who are championing the emergence and development of techniques for the use of Kubernetes for data. Join us! 
+Visit the Data on Kubernetes Day website for more information!
+How to Register: Pre-registration is required. To register for Data on Kubernetes Day, add it on during your KubeCon + CloudNativeCon registration.
+For questions regarding this event, please reach out to events@dok.community.
+
+
+
+EnvoyCon North America hosted by CNCF
+Date: Monday, October 11, 2021 | Time: 9:00AM – 5:00PM PDT | Location: Los Angeles, CA + VirtualRegistration Fees: In-Person: $249 standard / $349 on-site [includes free virtual access] | Virtual-Only: $20
+
+The Envoy maintainers are excited to announce the 4th annual EnvoyCon, a practitioner-driven community conference that emphasizes end-user case studies as well as deep technical talks from vendors that have chosen to build offerings on top of Envoy (zero product pitches!). Come join us for an exciting day of technical content and networking (both the social and computing kind).
+More details available here. 
+
+Explore the schedule
+
+SCHOLARSHIPS CLOSED
+
+
+How to Register: Pre-registration is required. To register for EnvoyCon North America, add it on during your KubeCon + CloudNativeCon registration.
+For questions regarding this event, please reach out to CNCFcolocatedevents@cncf.io.
+
+
+
+FluentCon North America hosted by CNCF
+Date: Tuesday, October 12, 2021 | Time: 9:00AM – 5:00PM PDT | Location: Los Angeles, CA + VirtualRegistration Fees: In-Person: $249 standard / $349 on-site [includes free virtual access] | Virtual-Only: $20
+
+FluentCon is a vendor-neutral conference on log and metric collection with Fluentd and Fluent Bit. Topics include running the technologies in production, general observability, getting started, and the future of how collection is evolving.
+More details available here. 
+
+explore the schedule
+
+SCHOLARSHIPS CLOSED
+
+
+How to Register: Pre-registration is required. To register for FluentCon North America, add it on during your KubeCon + CloudNativeCon registration.
+For questions regarding this event, please reach out to CNCFcolocatedevents@cncf.io.
+
+
+
+Getting Started with Kubernetes hosted by Google Cloud
+Date: Monday, October 11, 2021 | Time: 9:00 – 11:30AM PDT | Location: Online – VirtualRegistration Fees: Complimentary
+
+New to Kubernetes (K8s) or need a refresher? Have you started or are considering containerizing your applications? Find out how Google, the birthplace of Kubernetes, makes it easy to learn and use K8s. Join us to hear from Google Cloud experts, get exclusive access to hands-on tutorials, and learn how to build and innovate easily in a cost-optimized way.
+How to Register: Pre-registration is required. Register for Getting Started with Kubernetes on Google Cloud here! 
+For questions regarding this event, please reach out to Denna Nazem.
+
+
+
+GitLab Commit at KubeCon: DevOps hosted by GitLab
+Date: Monday, October 11, 2021 | Time: 8:00 AM – 1:30 PM PDT | Location: Online – VirtualRegistration Fees: Complimentary
+
+GitLab’s annual user conference is making a special appearance at KubeCon + CloudNativeCon North America 2021 to share how teams can modernize software development and delivery. Attendees will learn cutting-edge techniques to maximize the overall return on software development.
+ From stories of digital transformation to in-depth training, attendees will gain practical insight into how DevOps can elevate teams to drive business outcomes faster with complete transparency, consistency and traceability. The event also features fun activities to delight attendees throughout the day. 
+Register for free to learn how modern DevOps transforms companies of all sizes and pushes teams to drive innovation to market with the DevOps platform. See you on October 11th! 
+Visit the event website!
+How to Register: Pre-registration is required. To register for GitLab Commit, add it on during your KubeCon + CloudNativeCon registration.
+For questions regarding this event, please reach out to commit@gitlab.com.
+
+
+
+GitOpsCon North America hosted by CNCF
+Date: Tuesday, October 12, 2021 | Time: 9:00AM – 5:00PM PDT | Location: Los Angeles, CA + VirtualRegistration Fees: In-Person: $249 standard / $349 on-site [includes free virtual access] | Virtual-Only: $20
+
+GitOpsCon North America (#GitOpsCon) is designed to foster collaboration, discussion and knowledge sharing on GitOps. This event is aimed at audiences that are new to GitOps as well as those currently using GitOps within their organization. 
+More details available here. 
+
+explore the schedule
+
+SCHOLARSHIPS CLOSED
+
+
+How to Register: Pre-registration is required. To register for GitOpsCon North America, add it on during your KubeCon + CloudNativeCon registration.
+For questions regarding this event, please reach out to CNCFcolocatedevents@cncf.io.
+
+
+
+Governance as Code Day with Cloud Custodian hosted by Stacklet
+Date: Tuesday, October 12, 2021 | Time: 9:00AM – 5:00PM PDT | Location: Online – VirtualRegistration Fees: Complimentary
+
+Cloud Custodian is a CNCF Sandbox project that enables you to use code to manage and automate various aspects of cloud governance, including cost, operations, security, and compliance. Cloud Custodian is adopted by thousands of organizations and has more than 300 contributors across the globe. 
+On October 12, join Cloud Custodian users, contributors, and maintainers virtually as they share best practices, tips, project updates, and demonstrations of Cloud Custodian’s usage in production. You will also have an opportunity to network with peers in cloud and security engineering. 
+Visit our event website!
+How to Register: Pre-registration is required. To register for Governance as Code Day, add it on during your KubeCon + CloudNativeCon registration.
+For questions regarding this event, please reach out to c7nday@stacklet.io.
+
+
+
+Instantly Debug your Kubernetes Clusters with Pixie hosted by New Relic – SOLD OUT (Waitlist Available)
+Date: Tuesday, October 12, 2021 | Time: 9:00 – 11:00 AM PDT; 12:30 – 2:30 PM PDT; 3:00 – 5:00 PM PDTLocation: Concourse Hall 150ABC | Registration Fees: Complimentary
+
+Kubernetes environments are inherently dynamic with teams adding 15+ services to an average K8s cluster every week. Those new services either become 15+ apps that must be instrumented with language agents every week or the absence of instrumentation results in observability blindspots. 
+Pixie is an open source observability platform for Kubernetes that automatically provides observability for every new service in seconds without instrumentation. By getting telemetry data at the kernel level, Pixie is a language-agnostic solution that helps developers debug faster through code-level insights and removes the observability gaps that naturally emerge in Kubernetes environments. 
+Join us for a hands-on workshop where we will instrument a cloud-native application with Pixie and use out-of-the-box scripts to identify and root-cause bottlenecks and errors. In 2 hours, you will learn to: 
+Install and Deploy Pixie Visualize Kubernetes clusters and application performance data Use Continuous Profiling to investigate Infrastructure anomalies Analyze Slow DB Queries Dynamic Logging (without log.withfield()) AND MORE!
+
+How to Register: This event is sold out. To add yourself to the waitlist for Instantly Debug your Kubernetes Clusters Using Pixie, add it on during your KubeCon + CloudNativeCon registration.
+For questions regarding this event, please reach out to mcardiff@newrelic.com.
+
+
+
+Kubernetes AI Day North America hosted by CNCF + LFAI & Data
+Date: Tuesday, October 12, 2021 | Time: 9:00AM – 5:00PM PDT | Location: Los Angeles, CA + VirtualRegistration Fees: In-Person: $249 standard / $349 on-site [includes free virtual access] | Virtual-Only: $20
+
+Kubernetes is becoming a common substrate for AI that allows for workloads to be run either in the cloud or in its own data center, and to easily scale. Join us for Kubernetes AI Day to delve deeper into deploying AI at scale using Kubernetes.
+More details available here. 
+
+explore the schedule
+
+SCHOLARSHIPS CLOSED
+
+
+How to Register: Pre-registration is required. To register for Kubernetes AI Day North America, add it on during your KubeCon + CloudNativeCon registration.
+For questions regarding this event, please reach out to CNCFcolocatedevents@cncf.io.
+
+
+
+Kubernetes Platform Design hosted by VMware – SOLD OUT (Waitlist available)
+Date: Tuesday, October 12, 2021 | Time: 9:00AM – 5:00PM PDT | Location: Online – VirtualRegistration Fees: $50
+
+Through a series of lectures and lab exercises, the operational and internal workings of Kubernetes are explored. System administrators and Cluster Operators will learn the skills of operating an existing Kubernetes cluster using common open source Kubernetes components. 
+Objectives: By the end of the course, you should be able to meet the following objectives: 
+Understand cluster logging architectures and implement a reference solution in labLearn how to troubleshoot cluster problemsSuccessfully onboard new Applications and TeamsBecome confident in managing a Kubernetes ClusterExplore community tooling to support a fully-featured Kubernetes platform
+How to Register: This event is sold out (waitlist available). To add yourself to the waitlist for Kubernetes Platform Design, add it on during your KubeCon + CloudNativeCon registration.
+For questions regarding this event, please reach out to ldupuis@vmware.com.
+
+
+
+KubeSec Enterprise vSummit hosted by Aqua Security
+Date: Tuesday, October 12, 2021 | Time: 9:00AM – 6:00PM PDT | Location: Online – VirtualRegistration Fees: Early Bird Rate (prior to September 10): $35; Standard Rate (after September 10): $50
+
+KubeSec Enterprise vSummit is a full-day virtual event that focuses on the challenges faced by larger organizations with demanding security and compliance requirements when deploying Kubernetes in production. Whether you are just now beginning to roll out your first production implementation of Kubernetes or are an early adopter looking to learn from the experience of your peers, you are sure to get valuable insights from this educational event.
+Apply to our CFP! The CFP deadline is Tuesday, August 31, 2021.
+How to Register: Pre-registration is required. Register here for KubeSec Enterprise vSummit!
+For questions regarding this event, please reach out to Tara Sullivan.
+
+
+
+
+Operator Day hosted by Canonical
+Date: Tuesday, October 12, 2021 | Time: 5:00AM – 3:45PM PDT | Location: Online – VirtualRegistration Fees: Complimentary
+
+Operators simplify everyday application management on Kubernetes. But enterprises still deploy their apps on a combination of bare metal, virtual machines, and Kubernetes. Enter model-driven operations. This approach allows management of the application lifecycle regardless of the environment they run on. Operator Day is back with fresh content, focusing on the various use cases of Kubernetes operators. From MLOps and Data Ops to enterprise Observability and even vertical specific workshops. The sessions will repeat in two timezone-friendly blocks, for EMEA and Americas. Each block starts with a keynote introduction with Mark Shuttleworth, then leads attendees through a series of technical demos from the Canonical team, customers, and partners. Bonus feature: Five industry thought leaders from the CNCF, AWS, Google and more, will join a one-off panel discussion on the state and future of cloud native and Kubernetes.
+How to Register: Pre-registration is required. To register for Operator Day, add it on during your KubeCon + CloudNativeCon registration.
+For questions regarding this event, please reach out to Anastasia Valti.
+
+
+
+OpenShift Commons Gathering hosted by Red Hat
+Date: Tuesday, October 12, 2021 | Time: 9:00AM – 5:00PM PDT | Location: Room 403AB + VirtualRegistration Fees: Complimentary
+
+This OpenShift Commons Gathering will be held live in person in Los Angeles and virtually broadcast live to regional watch parties around the globe. As always, our focus is on creating a space for peer-to-peer interactions and we’ll be going hybrid, so if you are unable to attend in person, join us online via Hopin. This Gathering will focus on talks from and by end-users with production deployments of OpenShift sharing their use cases, insights into their workloads, and lessons learned along the way. Reserve your seat (in-person or virtual) and register today. 
+Topics covered during this Gathering include hybrid cloud infrastructure, cloud-native development, and new technology initiatives on the Edge and in Data Science. We have a keynote and update from Red Hat’s Clayton Coleman on all things Hybrid Cloud and Kubernetes Control Plane along with an Update/Road Map on the latest release of OpenShift with deep-dive live demos and Q/A with Red Hat engineers & upstream leads. Red Hat’s DevOps Black Belt Sasha Rosenbaum on SRE+Managed Services, and an update on the latest Red Hat OpenShift Data Science initiatives from Red Hat’s Data Scientist Audrey Reznik. 
+In addition, we’re hosting a Kubernetes 101 Boot Camp (virtual) limited to 100 attendees, so reserve your seat for the Boot Camp here. The event is free and registration for the virtual event is open to all. In-person event is limited to the first 300 registrants, register today if you are coming to Los Angeles! 
+Full agenda here! 
+How to Register: Pre-registration is required. To register to attend the OpenShift Commons Gathering in-person, add it on during your KubeCon + CloudNativeCon registration. Register here for the virtual event! 
+For questions regarding this event, please reach out to dmueller@redhat.com.
+
+
+
+Overcoming Data-Tier Challenges on Kubernetes and Cloud-Native Deployments hosted by DataStax
+Date: Monday, October 11, 2021 | Time: 8:00 – 11:00AM PDT | Location: Online – VirtualRegistration Fees: Complimentary
+
+Many teams building highly scalable, cloud-native applications, have struggled with finding a data solution that can keep pace with the needs of their application. Often this has meant a choice between using a managed database, or taking on the task of deploying and managing a database on Kubernetes. Apache Cassandra™ is a powerful database used in many applications that require resilience and scalability, but has traditionally been challenging to deploy and manage effectively. Now the Kubernetes and Cassandra communities have come together in a great collaboration called K8ssandra, a production-ready platform that makes it easy to run Cassandra™ on Kubernetes. In this workshop, you will learn the challenges of managing a data tier in Kubernetes and how to overcome them using K8ssandra. 
+With a primarily hands-on approach, we will cover introductory and in-depth topics that include: 
+Creating a K8ssandra release using Helm Monitoring database performance through metrics and alerts Breaking nodes in the database cluster on purpose to observe self-healing Scaling the database resources up and down Deploying applications on top of the database using CQL and REST APIs Backing up and restoring data Multi region deployment (time and resources permitting) 
+Attendance at this workshop is free. If you’d like to attend any other sessions that KubeCon has to offer, you will need to register for the conference here!
+How to Register: Pre-registration is required. To register for Overcoming Data-Tier Challenges on Kubernetes and Cloud-Native Deployments, add it on during your KubeCon + CloudNativeCon registration. 
+For questions regarding this event, please reach out to events@datastax.com.
+
+
+
+Production Identity Day: SPIFFE + SPIRE North America hosted by CNCF
+Date: Monday, October 11, 2021 | Time: 9:00AM – 5:00PM PDT | Location: Los Angeles, CA + VirtualRegistration Fees: In-Person: $249 standard / $349 on-site [includes free virtual access] | Virtual-Only: $20
+
+Production Identity Day: SPIFFE + SPIRE is a vendor-neutral conference focused on solving for zero trust security using SPIFFE/SPIRE, Workload Identity, and Hardware and Software attestation. 
+More details available here. 
+
+explore the schedule
+
+SCHOLARSHIPS CLOSED
+
+
+How to Register: Pre-registration is required. To register for Production Identity Day: SPIFFE + SPIRE North America, add it on during your KubeCon + CloudNativeCon registration.
+For questions regarding this event, please reach out to CNCFcolocatedevents@cncf.io.
+
+
+
+PromCon North America hosted by CNCF
+Date: Monday, October 11, 2021 | Time: 9:00AM – 5:00PM PDT | Location: Los Angeles, CA + VirtualRegistration Fees: In-Person: $249 standard / $349 on-site [includes free virtual access] | Virtual-Only: $20
+
+PromCon North America 2021 is the seventh installment of the PromCon conference dedicated to the Prometheus monitoring system. PromCon aims to connect Prometheus users and developers from around the world in order to exchange knowledge, best practices, and experience gained around using Prometheus. We also want to collaborate to build a community and grow professional connections around systems and service monitoring.
+More details available here. 
+
+explore the schedule
+
+SCHOLARSHIPS CLOSED
+
+
+How to Register: Pre-registration is required. To register for PromCon North America, add it on during your KubeCon + CloudNativeCon registration.
+For questions regarding this event, please reach out to CNCFcolocatedevents@cncf.io.
+
+
+
+Quest for the Kubernetes Ring hosted by Replicated – IN-PERSON SOLD OUT
+Date: Tuesday, October 12, 2021 | Time: 2:00 – 4:00PM PDT | Location: Room 402AB + VirtualRegistration Fees: Complimentary
+
+Troubleshoot.sh 
+Embark on a new adventure to earn the Ring of Kubernetes with Replicated! Put your troubleshooting skills to the test in this interactive session and earn a Kubernetes ring! 
+On this quest, you will be given instructions on how to deploy a one node Kubernetes cluster and deploy an application. But things won’t be that easy! The application will run into some issues and we’ll provide you with instructions to help you find the cause and how to fix it. 
+How to Register: The in-person event is sold out (waitlist available). To register for Quest for the Kubernetes Ring virtual or add yourself to the in-person waitlist, add it on during your KubeCon + CloudNativeCon registration.
+For questions regarding this event, please reach out to events-team@replicated.com.
+
+
+
+ServiceMeshCon North America hosted by CNCF
+Date: Tuesday, October 12, 2021 | Time: 9:00AM – 5:00PM PDT | Location: Los Angeles, CA + VirtualRegistration Fees: In-Person: $249 standard / $349 on-site [includes free virtual access] | Virtual-Only: $20
+
+ServiceMeshCon is a vendor-neutral conference on service mesh technologies. Topics include getting started with and adopting a mesh, lessons learned from production deployments, and technical sessions from service mesh maintainers.
+More details available here. 
+
+explore the schedule
+
+SCHOLARSHIPS CLOSED
+
+
+How to Register: Pre-registration is required. To register for ServiceMeshCon North America, add it on during your KubeCon + CloudNativeCon registration.
+For questions regarding this event, please reach out to CNCFcolocatedevents@cncf.io.
+
+
+
+SupplyChainSecurityCon North America hosted by CNCF + CDF
+Date: Monday, October 11, 2021 | Time: 9:00AM – 5:00PM PDT | Location: Los Angeles, CA + VirtualRegistration Fees: In-Person: $249 standard / $349 on-site [includes free virtual access] | Virtual-Only: $20
+
+SupplyChainSecurityCon is a new, vendor-neutral conference for security practitioners, open source developers and those interested in software supply chain security. Due to the uptick in supply chain attacks, this event is to bring the community together to discuss supply chain threats, best practices, mitigation tactics including up and coming frameworks and specifications.
+More details are available here. 
+
+explore the schedule
+
+SCHOLARSHIPS CLOSED
+
+
+How to Register: Pre-registration is required. To register for SupplyChainSecurityCon North America, add it on during your KubeCon + CloudNativeCon registration.
+For questions regarding this event, please reach out to CNCFcolocatedevents@cncf.io.
+
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+gold
+silver
+Start-up
+End User
+Diversity Supporters
+Media Partners
+
+
+
+
+
+
+
+
+Join the CNCF mailing list to learn more about KubeCon + CloudNativeCon and other upcoming CNCF events!
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+Slack
+ 
+#KubeCon + #CloudNativeCon
+
+
+
+
+Health + Safety
+Diversity + Inclusion
+Code of Conduct
+
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,394 @@
+
+
+
+
+Open Source Summit Japan 2021 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+登録Register
+参加Attend
+
+ダイバーシティ&インクルージョンDiversity & Inclusion
+行動規範Code of Conduct
+
+
+プログラムProgram
+
+スケジュールSchedule
+
+
+お問い合わせContact Us
+View All Events
+EventsAll Upcoming EventsPast Open Source Summit Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming Open Source Summit Japan. 
+
+
+
+				Open Source Summit Japan			
+
+
+
+
+
+
+2021年12月14日～15日December 14-15, 2021 
+バーチャル開催Virtual Experience#ossummit
+
+イベントに参加Join the virtual event
+イベント レポートを表示VIEW THE POST EVENT REPORT
+登録するREGISTER NOW
+スポンサーsponsor
+
+
+
+
+
+Open Source Summit Japan + Automotive Linux Summit 2021 バーチャル イベントは、無事終了いたしました。30か国から約430名の方々にご参加いただきました。ご参加くださいました参加者、スポンサー、講演者の皆様、どうもありがとうございました。
+That’s a wrap on the Open Source Summit Japan + Automotive Linux Summit 2021 Virtual Experience! We welcomed almost 430 attendees, from 30 countries – thank you to all the attendees, sponsors, and speakers that joined us virtually this year. 
+イベント プラットフォームは30日間アクセス可能で、セッション記録を見ることができ、多くの素晴らしい体験をお楽しみいただけます。また、すべてのセッションの記録はYouTubeチャンネルに移行されます。
+The event platform will continue to be accessible for 30 days where you can view session recordings, visit sponsor booths and enjoy many of our experiences. We will also migrate all session recordings to our Linux Foundation YouTube channel.
+
+
+Open Source Summit Japanは、日本で開催される大規模なカンファレンスで、オープンソース エコシステムが一堂に会します。技術者やオープンソース リーダー企業が、コラボレーションと情報共有のために、そして最新のオープンソース技術を学ぶために、あるいは革新的なオープン ソリューションを使った競争力の付け方を見つけるために集結します。Open Source Summit Japan is the leading conference in Japan connecting the open source ecosystem under one roof, providing a forum for technologists and open source industry leaders to collaborate and share information, learn about the latest in open source technologies and find out how to gain a competitive advantage by using innovative open solutions.
+
+
+注目の講演者FEATURED SPEAKERS
+
+
+
+
+
+
+
+ 
+
+
+Jim Zemlin
+Executive Director, The Linux Foundation
+
+
+
+
+
+Jim’s career spans three of the largest technology trends to rise over the last decade: mobile computing, cloud computing and open source software. Today, as executive director of The Linux Foundation, he uses this experience to accelerate innovation in technology through the use of open source and Linux.
+
+
+At The Linux Foundation, Jim works with the world’s largest technology companies, including IBM, Intel, Google, Samsung, Qualcomm, and others to help define the future of computing on the server, in the cloud, and on a variety of new mobile computing devices. His work at the vendor-neutral Linux Foundation gives him a unique and aggregate perspective on the global technology industry.
+
+
+Jim has been recognized for his insights on the changing economics of the technology industry. His writing has appeared in Businessweek, Wired, and other top technology journals, and he is a regular keynote speaker at industry events. He advises a variety of startups, including Splashtop, and sits on the boards of the Global Economic Symposium, Open Source For America, and Chinese Open Source Promotion Union.
+ 
+
+
+
+
+
+
+ 
+
+
+Kate Stewart
+OSS Event Chair & Vice President, Dependable Embedded Systems, The Linux Foundation
+
+
+
+
+
+Kate Stewart is a Senior Director of Strategic Programs, responsible for the Open Compliance programs encompassing the SPDX, FOSSology, OpenChain, and other compliance-related projects. Kate was one of the founders of SPDX, and is currently the specification lead. Since joining The Linux Foundation, she has also launched Real-Time Linux and Zephyr Project.
+
+
+With almost 30 years of experience in the software industry, she has held a variety of roles and worked as a developer in Canada, Australia, and the US and for the last 20 years has managed software development teams in the US, Canada, UK, India, and China. She received her Master’s in computer science from the University of Waterloo and her Bachelor’s of computer science (co-op program) from the University of Manitoba.
+ 
+
+
+
+
+
+
+ 
+
+
+Dan Cauchy
+Executive Director, Automotive Grade Linux
+
+
+
+
+
+Dan is the General Manager of Automotive at The Linux Foundation and the Executive Director of Automotive Grade Linux. He is responsible for the overall management and execution of the Automotive Grade Linux collaborative project, an industry effort to build an open source automotive reference platform backed by leading car manufacturers around the world.
+
+
+Dan has over 22 years of experience spanning the automotive, telecom, networking, and mobile business verticals. Prior to his current position, Dan was the Vice President and General Manager of MontaVista’s Automotive Business Unit (acquired by Mentor), responsible for P&L and worldwide execution of MontaVista’s automotive software strategy, sales, marketing, products, and services. During this period, Dan served on the Board of Directors of the GENIVI Alliance and was responsible for the creation of the GENIVI Compliance Program, a group that he chaired for its first three years, which led to the release of the GENIVI Specification, a widely adopted standard in the automotive industry. While at MontaVista, Dan previously held the position of VP of Marketing and BD, where he was responsible for the development and execution of MontaVista’s global marketing strategy, which led to an acquisition by Cavium.
+
+
+Based in Silicon Valley, Dan has extensive startup experience. He was the Director of Product Management at Atrica (acquired by Nokia-Siemens Networks), a carrier Ethernet equipment provider startup. Prior to Atrica, Dan was the Director of Architecture and Strategy at BlueLeaf Networks, a tunable laser optical networking startup (now Picarro). He also previously held senior management positions and engineering leadership positions at Cisco Systems, Newbridge Networks (acquired by Alcatel), and Nortel.
+
+
+Dan earned a Bachelor’s degree in Electrical Engineering (with a Computer Engineering major) from the University of Ottawa. He holds three patents in the areas of routing and networking, with several others pending.
+ 
+
+
+
+
+
+
+ 
+
+
+Miguel Ojeda
+Software Engineer, Rust for Linux maintainer
+
+
+
+
+
+Miguel is a software engineer that maintains the Rust for Linux effort, as well as the auxdisplay, compiler attributes and clang-format trees. He also participates in the ISO C committee, with an interest in UB and memory-safety topics.
+
+
+Previously, Miguel was a Staff Member at CERN (the European Organization for Nuclear Research) in the Beams department and Fellow in the Physics department.
+ 
+
+
+
+
+
+
+ 
+
+
+Ibrahim Haddad
+Executive Director, LF AI & Data Foundation
+
+
+
+
+
+Dr. Ibrahim Haddad is the Executive Director of the LF AI & Data Foundation . Throughout his career, Haddad has held technology and portfolio management roles at Ericsson Research, the Open Source Development Labs, Motorola, Palm, Hewlett-Packard, the Linux Foundation and Samsung Research. He writes and speaks on topics ranging from legal compliance to using open source as an R&D tool to drive collaboration and innovation. [@IbrahimAtLinux]
+ 
+
+
+
+
+
+
+ 
+
+
+Josh Aas
+Executive Director, ISRG (Let’s Encrypt, Prossimo)
+
+
+
+
+
+Josh Aas co-founded Let’s Encrypt and the entity behind it, Internet Security Research Group, in 2013. Let’s Encrypt, a nonprofit service, is now the world’s largest provider of TLS certificates. Josh currently serves as the organization’s Executive Director and Chair of the Board of Directors. Josh has dedicated much of his professional life to creating a better Web, with a focus on privacy and security. Prior to starting Let’s Encrypt, Josh spent more than a decade with Mozilla.
+ 
+
+
+
+
+
+
+ 
+
+
+Brian Behlendorf
+General Manager, Open Source Security Foundation
+
+
+
+
+
+Brian Behlendorf was a primary developer of the Apache Web server, the most popular web server software on the Internet, and a founding member of the Apache Software Foundation. He has also served on the board of the Mozilla Foundation since 2003 and the Electronic Frontier Foundation since 2013. He was the founding CTO of CollabNet and CTO of the World Economic Forum. Most recently, Behlendorf was a managing director at Mithril Capital Management LLC, a global technology investment firm. 
+ 
+
+
+
+
+
+
+ 
+
+
+Dr. Audrey Lee
+Sr. Director of Energy Strategy, Microsoft & LF Energy Board Member
+
+
+
+
+
+Dr. Audrey Lee is Senior Director of Energy Strategy at Microsoft, where she works at the intersection of policy, technology, and commercial opportunities on the Microsoft datacenter energy and sustainability team. She also serves on the Boards of ArcLight Clean Transition II (NASDAQ: ACTD), a special purpose acquisition company focused on sustainable energy, and Redaptive Inc., deploying energy efficiency-as-a-service across large commercial real estate portfolios. She volunteers as a board member of Gridworks and Clean Energy for America Education Fund. Between 2020 and 2021, she served as an Advisor to LF Energy.
+ 
+
+
+
+
+
+
+
+2021 Recordings
+
+
+
+
+
+
+
+
+view all recordings
+
+
+
+
+
+
+
+
+
+
+スポンサー Sponsors
+
+ダイアモンド Diamond
+プラチナ Platinum
+ゴールド GOLD
+シルバー Silver
+ブロンズ BRONZE 
+
+
+
+
+
+
+メーリングリストに参加して、イベントの最新情報やニュースをゲットしましょう。Join our mailing list to hear all the latest about events, news, and more!
+
+ 
+	入力された宛先に今後のイベント情報が配信されます。メーリングリストの登録はいつでも解除できます。詳細については、プライバシー ポリシーを参照してください。The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+登録 Register
+ダイバーシティ&インクルージョン Diversity & Inclusion
+行動規範 Code of Conduct
+
+スケジュール Schedule
+
+お問い合わせ Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+

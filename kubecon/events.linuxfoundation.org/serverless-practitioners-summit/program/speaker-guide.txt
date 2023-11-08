@@ -1,0 +1,205 @@
+
+
+
+
+Speaker Guide | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+About
+Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  KubeCon + CloudNativeCon + other CNCF Events. 
+
+
+
+
+
+
+ 
+
+
+						Speaker Guide					
+
+
+
+
+
+Due to the postponement of KubeCon + CloudNativeCon Europe 2020 and the Day Zero co-located events, speaker deadlines will be updated once a new date event date is announced. Please see the postponement update for further information.
+
+Thank you for speaking at Serverless Practitioners Summit Europe 2020
+This is your official event speaker guide. Please continue to check back as the event gets closer as we will be adding additional speaker information, such as onsite details, as they are available. If you have any questions, please email speakers@cncf.io. 
+Dates to Remember
+Register: Friday, February 28, 2020Submit Session Slides: Monday, March 23, 2020Event Date: Monday, March 30, 2020Event VenueServerless Practitioners Summit will take place Monday, March 30 at the RAI Amsterdam.RAI AmsterdamEuropaplein 24 1078 GZ AmsterdamThe NetherlandsGet detailed information on parking, directions, and public transportation here.
+Please register no later than Friday, February 28.To confirm that you will be presenting, please add Serverless Practitioners Summit to your KubeCon + CloudNativeCon registration by using the code KCEUSPSSPEAK. If you are not registered by Friday, February 28, there is a possibility that your speaking slot will be replaced by one on our waiting list, so please register ASAP.
+Visa Letter Requests We recommend that you check with your local government for information on required documents and arrangements you’ll need for travel to the Netherlands. If you need a letter to accompany your visa application confirming your attendance at KubeCon + CloudNativeCon Europe 2020, request it here.All visa letter requests must be submitted no later than two weeks prior to the event. Any visa letter requests made after the two-week deadline cannot be guaranteed.
+HotelMore information on negotiated hotel rates can be found on the KubeCon + CloudNativeCon Europe 2020 Venue & Travel website page. 
+Upload Slides by Monday, March 23, 2020.Presentation slides should be submitted in PDF-format to sched.com by Monday, March 23, 2020.*Screens will be set for a 16:9 formatted slide deck.*A slide template will be available for download shortly. Please note, use of the template is optional. 
+How to Upload Slides to Sched.org:1. Login to  https://spseu20.sched.com2. Click on “Manage and Promote Your Session”3. Click on “Add Presentation”4. Click on “Select File”, choose the PDF you want to share and click “Upload”5. Your presentation will now be attached to your session.
+
+Inclusive Speaker Orientation Online CourseThe Linux Foundation, in collaboration with the National Center for Women in Technology (NCWIT), has created an online course designed to teach the viewer about inclusion, diversity and unconscious bias. It is strongly encouraged by the ServiceMeshCon that all our speakers watch the course to learn tips/tools to use when speaking to encourage inclusivity in presentations and messaging.Click here for the course.  Once you complete the course, please click on the “Completed” button. 
+Code of ConductPlease read and abide by our code of conduct, which can be found here.We ask that speakers especially review this code of conduct and are inclusive in the words and images used during their presentation.  Promote Your TalkWe want to thank you for submitting a proposal and we appreciate you spreading the word about the event and your presentation on Twitter #serverlesspractitionerssummit, Facebook, and LinkedIn.
+Thank you again for your contribution, we couldn’t do it without your hard work!
+Best,Serverless Practitioners Summit Events Team
+
+
+
+
+
+Sponsors
+
+PLATINUM
+HOSTED BY 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Register
+About
+Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

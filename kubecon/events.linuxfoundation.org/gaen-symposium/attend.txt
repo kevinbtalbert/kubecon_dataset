@@ -1,0 +1,216 @@
+
+
+
+
+About | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+About
+Code of Conduct
+
+
+Program
+
+Schedule At-A-Glance
+Speaker Guidelines
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast LF Public Health EventsLF Public Health Website 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  LF Public Health Events. 
+
+
+
+
+
+
+
+
+
+						About					
+
+
+
+
+Skip to page sectionAboutSpeakers and SessionsFormatCode of Conduct and ConfidentialityOrganizers
+
+About
+LF Public Health is excited to host our first event, a half-day symposium dedicated to discussing some of the hard problems around implementing Google and Apple’s Exposure Notification (GAEN) apps. We will gather online on July 16 from 11am – 2pm ET.
+This interactive, free, online event will be limited to teams who are already actively developing on the GAEN framework and are looking to discuss how to make sure their app is as effective as possible given the capabilities of the API. Additionally, we will have epidemiologists, infectious disease specialists and representatives from public health agencies to round out the conversations. 
+
+
+
+Speakers and Sessions
+We have selected the following topic categories for the symposium:
+Diagnosis and authentication processHandling different kinds of diagnoses, setting values for the transmission risk key, authenticating a diagnosis, and retracting/changing a diagnosisNotification and user experienceThe user experience of receiving an exposure notification, including the amount of information provided about that exposureMeasurements and signal attenuationWhat should constitute a reportable exposure, including protocols for doing experiments with signal attenuation and measurement of exposure detectionAnalytics, app accuracy, and disease progression in a communityCollecting analytics in a way that maintains privacy and allows us to better understand how accurate the app is, how the disease is progressing through the community, and other data important to researchers and epidemiologistsRoaming and federationSharing data across apps as users travel from one jurisdiction to anotherApp adoptionEncouraging adoption and use in our communitiesCOVID info for app buildersWhat developers need to know about how COVID-19 is transmitted and diagnosed
+On each of these topics, we are looking for knowledgable speakers to present an overview and some of the key questions in the plenary session. We also welcome you to submit materials (white papers or presentations) to be made available and discussed in the breakout session on the topic. If you would like to participate in any of these roles and on any of these topics, please indicate so in your registration form or email events@lfph.io.
+If you have an idea for a submission that doesn’t fit the categories above, we welcome additional suggestions. The deadline for submission to participate as a speaker or to submit proposals for materials is Wednesday, July 8th at 11:59 PM PT.
+
+
+
+Format
+The symposium will start with a plenary session that will include brief presentations introducing each of the topics, discussing the challenging questions that need to be addressed, and touching on some of the materials submitted for breakout sessions on the topic.
+After the plenary session, we will have breakout sessions. The breakout sessions will be hosted on Slack channels so that attendees can engage in discussion on the topic and materials and “attend” multiple breakout sessions that match their interests. Authors of the whitepapers and presentations on each topic will be available to discuss their work. Depending on interest, there may be a scheduled panel session for a breakout session or the group may have a video call to discuss the topic further.
+Near the end of the scheduled time for the symposium, we will ask participants in each breakout session for their suggestions for most important take-aways and next-steps and ask for participants interested in helping to write up a summary of the discussions on their topic. These summaries and the papers and presentations available for public dissemination will be shared with all participants and with the general public. After the symposium, the slack will remain open for continued discussion and for collaborations to prepare public summaries or contributions for each topic.
+If you need any accommodations in order to fully participate in this symposium, please let us know by emailing events@lfph.io and we will make appropriate arrangements.
+
+
+
+Code of Conduct and Confidentiality
+This symposium will be following the Linux Foundation Events Code of Conduct. With regards to sharing information, this event will follow Chatham House Rules – in other words, no comments will be attributed to any individual speaker or participant. If you have any questions please don’t hesitate to reach out to any of our organizers.
+
+
+
+Organizers
+Co-Chairs
+Bill PughProfessor of Computer Science at the University of Maryland, author of GAEN Explorer, an iPhone research app for measuring the strength of the signals reported by the GAEN frameworkJolene ElizabethHead of Strategic Partnerships at Covid Watch, Jolene has more than 10 years of research experience in global health and biomedical sciences, focusing on health equity and evidence-based public health interventions. In addition to COVID-19 mitigation, her current focus is on the development of digital health tools and medical technology to prevent disease and increase access to care.  Ellie DawAs a researcher and consultant, Ellie’s focus is largely on security, privacy, and privacy-preserving technologies. She serves as the Interoperability Working Group Lead at the TCN Coalition, connecting teams and facilitating conversations about technical hurdles as we move toward exposure notification deployment.Jenny WangerA co-founder of the TCN Coalition, Jenny built a community of teams creating exposure notification tools. She is now Head of Implementer’s Forum for LFPH, helping to bridge the gap between the teams’ shipping apps and the teams working on the source code. 
+
+
+
+ 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+Register
+About
+Code of Conduct
+
+Schedule At-A-Glance
+Speaker Guidelines
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

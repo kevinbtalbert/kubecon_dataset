@@ -1,0 +1,327 @@
+
+
+
+
+OpenJS World 2020 Speaker Guide - Breakouts & Workshops | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+FAQ
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Featured Speakers
+
+
+Features &Add-Ons
+
+OpenJS Collaborator Summit
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Web Development/Platform EventsOpenJS Foundation Website 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Web Development/Platform Events. 
+
+
+
+
+
+
+ 
+
+
+						OpenJS World 2020 Speaker Guide – Breakouts & Workshops					
+
+
+
+
+Skip to page sectionWelcomeImportant Dates & DeadlinesSchedule, Timing & Speaker ProfilesVirtual Platform  Pre-recording Information & ToolsLive Steaming Information & Tools (Workshop Speakers)Presentation TemplateUploading Instructions for Pre-recorded SessionsLive Q&ATechnical Tips for Virtual PresentationsLighting, Webcam and Microphone Best PracticesTips to Keep your Virtual Audience EngagedInclusivity CourseCode of ConductAdditional ResourcesFAQ
+
+Welcome!
+
+We are excited to welcome you as a speaker for OpenJS World 2020, which will take place virtually Tuesday, June 23 – Wednesday, June 24 during Central Daylight Time (CDT), UTC -5. Please click through the tabs on this page to access information. We recommend bookmarking this page and checking back for additional updates as we get closer to the event. 
+Please click through the menu on the left of this page to access information.
+
+
+
+Important Dates + Deadlines
+Speaker Registration Deadline: If you have not registered, please do so ASAP to confirm your registration. Click here to register and use the access code OJSWSPK20. Pre-Recording File Submission Due Date: Friday, June 12Event Dates: Tuesday, June 23 – Wednesday, June 24Timezone: Central Daylight Time (CDT), UTC -5.
+
+
+
+
+Schedule, Timing & Speaker Profiles
+The schedule has been posted on our website using Sched.com.
+All track sessions are thirty (30) minutes (inclusive of Q&A), lightning talks are 5 minutes, and workshops range from 1 hour to 1.5 hours long. Please confirm your timing on the schedule. If you would like to make updates to your speaker profile on Sched.com (biography, headshot, titles), send updates directly to openjsspeakers@linuxfoundation.org, so they can be integrated with the virtual platform.
+
+
+
+
+Virtual Platform 
+We are using the virtual event platform Intellum, which allows speakers to deliver content via pre-recorded talks and join live for Q&A with attendees via text chat. The platform is web-based and HTML 5, and will be easy for everyone to access and use. 
+The Intellum platform service is allowing us to create an immersive experience for attendees, with educational sessions that offer speaker and attendee Q&A and interaction; attendee collaboration and networking through topical chat rooms, and 1:1 and group chats; gamification to keep attendees engaged throughout the event; and a sponsor showcase where attendees can view demos, download resources, check out job openings, and speak directly with sponsor company reps. While this won’t be able to exactly replicate the value of a face-to-face event, we think it captures a lot of the opportunities and we look forward to having you join us as a speaker for this new experience.
+
+
+
+Pre-recording Information & Tools
+All breakout speakers will need to pre-record their talk, which will be played through the event platform. As the session ends, the speaker will then join live for Q&A with attendees (text chat only). 
+Some suggested tools to use for recording are Quicktime, a screen recorder, Google Hangouts, Zoom or something similar that records you and your slides as you present. Please feel free to reach out to us with any questions.
+You are welcome to use an OpenJS Foundation Zoom account to record your session. Please schedule a time by emailing operations@openjsf.org, and we will let you know when there’s an opening. 
+Zoom Overview
+If you’re using an OpenJS Foundation Zoom account, simply connect at the proper time. We will have it set to automatically record as soon as you connect.Before you do anything else, silence your phone and set your computer’s notifications to “Do Not Disturb.”Start your camera and use this time to make final adjustments to your lighting, hair, etc.Start your slideshow.In Zoom, share your screen but (and this is important) only share the slideshow. Do not share “Desktop” unless you are absolutely, completely, 100% sure that nothing private will pop up as a notification.When you’re ready, take a deep breath, let it out slowly, flash a big smile at the camera, count to 5, and begin. When we get the video file we’ll trim everything up to that point.If you mess up, don’t worry. A classic way to recover is to smile as you restart. It should go without saying, but don’t tear yourself down verbally or curse in front of your audience.If something really bad happened (such as sneezing), go back to the beginning of the slide, wait 5 seconds, and then start again. Tell us to look for it, and we can do our best to trim it.When you’re done, thank the audience, smile again, and then sit still for 5 seconds. This will give us time to trim.Finally, remember to breathe and smile. Both of these things cause you to slow down, and your audience will have an easier time understanding you.
+Finishing up with OpenJS Foundation Zoom account:
+When you’re done, just disconnect. Please email us, and we will know to look for your file. If there’s something we need to trim, make sure you tell us early so we can fix it.
+What if I want to use something other than Zoom?
+It’s totally fine if you want to record using something other than Zoom, particularly if you have a special requirement due to a demo, or if you have access to a professional setup. Just please make sure the resulting video is in HD, is an mp4, and is using a reasonably common encoding.
+Videos need to be received on Friday, June 12.
+
+
+
+Live Streaming Information & Tools (Workshop Speakers)
+Workshop speakers have the option to livestream or pre-record their workshop. If you have not done so already, please email openjsspeakers@linuxfoundation.org with your choice (livestream or pre-record) as soon as possible. 
+More information on the logistics of live streaming will be provided shortly. 
+
+
+
+Presentation Template
+An optional PowerPoint template is available for your use but is not required.
+
+
+
+Uploading Instructions for Pre-recorded Sessions
+We have multiple options for uploading your pre-recorded presentation:
+Add your recording directly into the Google folderShare your file with openjsspeakers@linuxfoundation.org Or let us know if you have an alternate method (Drop Box, file sharing service, etc)
+Videos need to be received no later than Friday, June 12.
+
+
+
+Live Q&A
+As with physical events, live interaction is essential to the success of virtual events and we are asking every presenter, to be available during their session for live Q&A via text chat within the platform. This will provide added value to the audience and create more of an ‘event’ experience, Please ensure you have left 5-10 minutes for questions that you will be able to answer within the system’s chat tool.
+If you are concerned about your timezone and how that could impact the live Q&A portion of your session, we will do our best to reschedule your session slot to a time that is convenient for you. If you are not comfortable with the idea of a live Q&A, or cannot participate “live,” please contact us immediately at openjsspeakers@linuxfoundation.org. 
+
+
+
+Technical Tips for Virtual Presentations
+Audio – as counterintuitive as it may sound, the single most important factor in a good video, is the audio quality. Eliminate ambient noise – close the doors and windows. You’d be surprised how much environmental noise gets picked up.Lighting – Do not put lights overhead and don’t put any lights or windows behind you as they will alter the light levels in your videos and create shadows.Background – don’t be afraid to show your natural environment – bookcases, plants, paintings – as long as they are not too distracting.Framing – place yourself slightly off-center to the left or right rather than directly in the middle of the frame.Camera Height – the lens should either be directly level or pointing ever so slightly downwards towards your face.Stand – we recommend you stand during your presentation to help project your voice and improve your posture. However, if you’re more comfortable sitting, then please do.Timer – Have a clock to keep track of the time you have remaining. 
+From: https://www.greatspeech.co/video-presentations/
+
+
+
+Lighting, Webcam and Microphone Best Practices
+Best Practices for Lighting
+For best results, use natural light and supplement with additional light as needed.Keep natural light in front of you to avoid shadows. A bright window behind you can make you appear as a dark silhouette. Interior rooms with no natural light source may require additional targeted lighting, such as a ring light, to brighten the speaker’s face.
+Best Practices for Webcams
+To ensure the speaker is looking directly at the audience, place the webcam at eye level.Avoid distracting backgrounds by checking the surroundings behind you to make sure there are no distracting colors or movement.Presenters should use chairs that are adjustable for height but do not swivel. Swiveling on camera creates a poor attendee experience and can be distracting.
+Best Practices for Microphones
+Use external microphones whenever available, as microphones built into computers and cameras often have lower quality. An external microphone allows the speaker to place it in the optimal location for sound.Place the microphone close to the speaker’s mouth, but not in the camera view.Test audio levels in advance.Manage noise by turning off fans, phones, or speakers and keep ambient noise to a minimum. Do not touch the microphone while unmuted.
+Dress Code
+There is no dress code for presentations, and we encourage you to be comfortable. That said, you must be aware that the OpenJS Foundation Code of Conduct applies to this space, both in terms of what you show on camera and what you say. We ask that you be tasteful and considerate in choosing your clothing and surroundings. Keep in mind that we are a global community. Please refrain from wearing shirts with global brand logos that are not your own. Solid colors (not white) also work best instead of prints. 
+
+
+
+Tips to Keep your Virtual Audience Engaged
+Learn the Content: Familiarity with the content allows a speaker to focus on presenting, rather than trying to remember the points to make. To minimize worry about forgetting elements of the presentation, include notes in your presentation file and have a printout of your script or talking points.Practice Makes Perfect: Speakers should practice their content delivery in the environment in which they will deliver it, such as in front of a computer. Presenting alone to a computer can be awkward at first. To make speakers more comfortable, ask colleagues, roommates, or family to sit in front so they can present to familiar faces.Understand the Tools: Speakers should understand and utilize the content options available to them, to maximize the effectiveness of the presentation technology. It’s important to know the basic functions of the software, e.g. how to advance slides, manage Q&A or chats, before the presentation. Speak Up: Check audio levels before presenting, but also make sure to breathe at regular intervals to speak audibly and clearly. Maintaining a clear, even tone throughout the presentation will allow the audience to hear it without adjusting their volume settings.Look at Your Camera: If presenting via video, remember, the webcam is your link to your audience. Make eye contact with the camera so it appears to the audience that you are speaking directly to them.Don’t Fear Mistakes: Humans make mistakes, even during presentations. Realize that flubs happen and they won’t derail your presentation – unless you let them. Just keep going in your planned presentation and remember, the audience is forgiving.Be Prepared: During the presentation, have a glass of water nearby to sip as needed. Also, keep handy a printout of your slides or notes in case you need to refer to them.
+From: https://www.inxpo.com/assets/pdfs/litepapers/How-To-Be-An-Engaging-Speaker.pdf
+
+
+
+Inclusive Speaker Orientation Online Course
+The Linux Foundation, in collaboration with the National Center for Women in Technology (NCWIT), has created an online course designed to teach the viewer about inclusion, diversity and unconscious bias. It is strongly encouraged by the Cloud Native Computing Foundation that all our speakers watch the course to learn tips/tools to use when speaking to encourage inclusivity in presentations and messaging.
+
+
+
+Code of Conduct
+
+The OpenJS Foundation and its member projects use  Contributor Covenant v2.0 as their code of conduct. The full text is included  below in English, and translations are available from the Contributor Covenant organisation:
+contributor-covenant.org/translationsgithub.com/ContributorCovenant
+In addition, please remember that this is a professional presentation. Stay on topic, get excited about your material, but do not feel the need to make jokes or resort to gimmicks to keep them engaged. On the topic of humor. Remember that we have a multinational audience, and jokes which land well on some audiences may completely mystify others, be taken out of context, or be perceived as cruel. This is particularly true when talking about other technologies and their users. If in doubt, leave it out.
+
+
+
+Additional Resources
+Best Gear for Online Meetings Webcams, lights, mics, tripods and more
+19 Video Presentation Tips to help you give a great presentation (even if you hate the way you look on camera)
+9 Tips for Giving Engaging Virtual Presentations This article gives 9 tips and within each tip has folks from the tech world giving their advice in a fun/relatable way.
+PACE Acronym for Virtual Presentations
+Checklist for Speakers – this article provides checklists applicable for speakers that are live streaming.
+
+
+
+FAQ
+Please check back frequently, as these will be continually updated closer to the event. 
+When is my pre-recorded presentation due?
+Friday, June 12
+Where do I send my pre-recorded presentation?
+Add your recording directly into the Google folder, Share your file with openjsspeakers@linuxfoundation.org, or let us know if you have an alternate method (Drop Box, file sharing service, etc)
+I have a question not listed here, who do I contact?
+Please reach out to the content team at openjsspeakers@linuxfoundation.org
+
+
+ 
+
+
+
+
+Sponsors
+
+Diamond
+Gold
+Silver
+Bronze
+Media
+Collaborators Summit – General 
+
+
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+FAQ
+Code of Conduct
+
+Sponsor
+Schedule
+Featured Speakers
+
+OpenJS Collaborator Summit
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

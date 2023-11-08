@@ -1,0 +1,821 @@
+
+
+
+
+Embedded Linux Conference North America 2020 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Featured Speakers
+Explore the Tracks
+Program Committee
+
+
+Features &Add-Ons
+
+Experiences
+Speed Mentoring
+Resume Writing Workshop
+Allyship Workshop
+Ask the Expert Sessions
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Embedded & IoT Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming Embedded Linux Conference. 
+
+
+
+				Embedded Linux Conference North America			
+
+
+
+
+
+
+Virtual Experience
+June 29 – July 2, 2020#lfelc
+
+VIRTUAL EVENT ACCESS
+EXPLORE THE VIRTUAL SCHEDULE
+2020 EVENT REPORT
+
+
+
+
+That’s a wrap on the Open Source Summit + Embedded Linux Conference North America 2020 Virtual Experience! We welcomed over 4000 attendees, from 109 countries – thank you to all the attendees, sponsors and speakers that joined us virtually this year. All session recordings have been uploaded to our YouTube channel.
+
+
+2020 Session Recordings
+
+
+
+
+
+
+
+
+VIEW ENTIRE PLAYLIST
+
+
+
+
+
+
+EVENT RECAP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WHAT ATTENDEES ARE SAYING
+
+
+
+
+A fabulous morning of keynotes at #OSSummit – so much to think about, relevant for the period we are living in and the role we can play as #opensource technologists –  to be kinder, more inclusive and more aware.   Thank you @linuxfoundation— Nithya Ruff (@nithyaruff) June 30, 2020
+
+
+
+
+This was just awesome, awesome, awesomex100Thanks @linuxfoundation for the opportunity to participate via the complementary pass to the #OSSummit #lfelc. I'm watching the recorded sessions, this was the best online event I attended entire lockdown😁🥳😎🙏👍— pr0PM (@MP0rp) July 3, 2020
+
+
+
+
+
+
+
+Thank you @linuxfoundation for the Zen Zone at the virtual #OpenSource Summit. The penguin cams, and the puppy cams are so cute!! Also love the desk yoga option and stretch class. <3 #OSSummit #LFELC pic.twitter.com/NvCg98zhQe— Shilla Saebi 🥑 😷 (@ShillaSaebi) June 30, 2020
+
+
+
+
+this is a supercool way of keeping it interesting #lfoss #OSSummit pic.twitter.com/4ey2Auifgj— Stefano Maffulli (@smaffulli) June 30, 2020
+
+
+
+
+
+
+The RISC-V keynote is totally worth watching (if you're not at the event, it'll be on YouTube later!), gives probably the best introduction to ISAs I've ever seen, which is saying a lot because I spent way too much time trying to understand the concept #OSSummit pic.twitter.com/ZgDzCTNBaO— Elizabeth K. Joseph (@pleia2) July 1, 2020
+
+
+
+
+My second talk at #OSSummit starts in 5 minutes! 👩‍💻👩‍🏫 All the Databases! Pretty proud to share the knowledge of different databases I have learned over the years! #apachecassandra #PostgreSQL #graphdatabases #mysql pic.twitter.com/V3ldObWHHx— Amanda (@AmandaK_Data) July 1, 2020
+
+
+
+
+I have been so lucky to land on an open source team that has done so many of these things, and it has meant so much. The talks on leadership and diversity and inclusion at the #OSSummit have been phenomenal, and I hope help experiences like mine become the norm. https://t.co/20ViX5ReOL— Monica Ayhens-Madon (@peripateticacad) June 30, 2020
+
+
+
+
+
+
+
+
+
+FEATURED SPEAKERS
+
+
+
+
+
+
+
+ 
+
+
+Kate Stewart
+OSS Event Chair & Vice President, Dependable Embedded Systems, The Linux Foundation
+
+
+
+
+
+Kate Stewart is a Senior Director of Strategic Programs, responsible for the Open Compliance programs encompassing the SPDX, FOSSology, OpenChain, and other compliance-related projects. Kate was one of the founders of SPDX, and is currently the specification lead. Since joining The Linux Foundation, she has also launched Real-Time Linux and Zephyr Project.
+
+
+With almost 30 years of experience in the software industry, she has held a variety of roles and worked as a developer in Canada, Australia, and the US and for the last 20 years has managed software development teams in the US, Canada, UK, India, and China. She received her Master’s in computer science from the University of Waterloo and her Bachelor’s of computer science (co-op program) from the University of Manitoba.
+ 
+
+
+
+
+
+
+ 
+
+
+Linus Torvalds
+Creator of Linux & Git
+
+
+
+
+
+Linus was born on December 28, 1969, in Helsinki, Finland. He enrolled at the University of Helsinki in 1988, graduating with a master’s degree in computer science. His M.Sc. thesis was titled “Linux: A Portable Operating System” and was the genesis for what would become the most important collaborative software project in history. In August 1991, Linus announced that he was developing the Linux kernel, proclaiming, “it won’t be big and professional.” Never in the history of technology has someone been so wrong. In spite of his humble proclamation, Linux has become the world’s most pervasive operating system. Today the Linux kernel forms the basis of the Linux operating system and powers billions of Android devices, powers ChromeOS, and has permeated almost every industry and form factor. Smartphones, TVs, appliances, cars, nuclear submarines, air traffic control, stock exchanges, and scientific research all run Linux. Linux also provides the underpinnings of the internet and the cloud computing industry. In 2005, citing a lack of free and open-source version control tools that met his needs for performance and scale, Linus famously created Git in only 10 days. Today Git is widely used in software development and for other version-control tasks such as configuration management and has become popular as an integral part of the DevOps culture. In 2000, Linus was listed by Time Magazine as Number 17 in the Time 100: Most Important People of the Century. Again, in 2004, Time Magazine named him one of the Most Influential People in the world. He was honored in 2008 with the Millennium Technology Prize by the Technology Academy Finland, “in recognition of his creation of a new open-source operating system for computers leading to the widely used Linux kernel.” He is also the recipient of the 2014 IEEE Computer Society Computer Pioneer Award. A true tech titan, he was admitted to the Computer History Museum Hall of Fellows, joining the ranks of the tech elite including Rear Admiral Grace Murray Hopper, Tim Berners-Lee, Gordon Moore, Ken Thompson, Dennis Ritchie, Steve Wozniak, and others. Torvalds remains the ultimate authority on what new code is incorporated into the standard Linux kernel.
+ 
+
+
+
+
+
+
+ 
+
+
+Daniel Qian
+Software Engineer, eBay
+
+
+
+
+
+Shijun (Daniel) Qian works on eBay’s cloud team. He has a wide range of interests in many aspects of cloud native computing, mainly focused on cluster lifecycle management, monitoring, and networking.He is also an active open source contributor (github: @danielqsj)
+ 
+
+
+
+
+
+
+ 
+
+
+Heather Miller
+Assistant Professor, Carnegie Mellon University School of Computer Science, Institute for Software Research
+
+
+
+
+
+Heather Miller is interested in various flavors of distributed and concurrent computation, often from the perspective of programming languages:
+
+
+Data-centric,Data-intensive (big data),Eventually-consistent (edge computing)
+
+
+A major recurring theme in her work is composability. She seeks to enable the construction of complex distributed systems via the composition of well-understood components that are correct by construction.
+
+
+Some of Heather’s projects include programming models and type systems to facilitate the design of new, functional distributed systems, such as distributable closures, flexible, extensible, and performant serialization, asynchronous and concurrent programming via futures and promises, and deterministic concurrent dataflow.
+
+
+She works on and around the Scala programming language
+ 
+
+
+
+
+
+
+ 
+
+
+Dirk Hohndel
+Head of the Open Source Program Office, Verizon
+
+
+
+
+
+Dirk is the Head of the Open Source Program Officer at Verizon. Prior to that, he was Chief Open Source Officer of the Cardano Foundation; where he focused on creating a vibrant open source third party contribution ecosystem for the Cardano infrastructure. Dirk was previously VMware’s Chief Open Source Officer, where he lead the company’s Open Source Program Office, directing the efforts and strategy around use of and contribution to open-source projects and driving common values and processes across the company for VMware’s interaction with the open-source communities. Before joining VMware, Dirk spent almost 15 years as Intel’s Chief Linux and Open Source Technologist. Before that, among other roles, he worked as Chief Technology Officer of SuSE and Unix Architect of Deutsche Bank.
+
+
+Dirk has been an active developer and contributor in several dozen open source projects since the early 1990s, today most of his work is on the Subsurface dive log project and many of the related open source projects around that. Dirk holds a degree in Mathematics and Computer Science from the University of Würzburg, Germany. He lives in Portland, OR.
+ 
+
+
+
+
+
+
+ 
+
+
+Joel Lehman
+Senior Research Scientist, Uber AI
+
+
+
+
+
+Joel Lehman is a senior research scientist at Uber AI, where he leads efforts into AI safety research. Previously, he was the first employee of Geometric Intelligence (acquired by Uber) and a tenure-track professor at the IT University of Copenhagen, where his research focused on evolutionary computation, neural networks, artificial life, and computational creativity. He was co-inventor of the popular novelty search evolutionary algorithm, and co-wrote a popular science book called “Why Greatness Cannot be Planned,” on what AI search algorithms imply for individual and societal accomplishment. He has presented research papers at many conferences, and delivered several keynotes and invited talks for academic workshops and other gatherings.
+ 
+
+
+
+
+
+
+ 
+
+
+Grace Francisco
+Vice President, Developer Relations Strategy & Experience, Cisco
+
+
+
+
+
+As the Vice President of Developer Relations Strategy and Experience at Cisco, Grace Francisco is responsible for defining and growing Cisco’s broad-based developer strategy. Creating new capabilities and programming for Enterprise Software Developers, DevOps, Site Reliability Engineers (SREs), and cloud architects, she is building an expanded ecosystem supporting cloud native architectures. She also leads Cisco DevNet, Cisco’s 500,000-plus-strong developer community, which features programs that catalyze innovations and accelerate automation and digital transformation throughout the industry. 
+ 
+
+
+
+
+
+
+ 
+
+
+Kohsuke Kawaguchi
+Creator of Jenkins and Co-CEO & Co-Founder, Launchable
+
+
+
+
+
+Kohsuke Kawaguchi is the creator of Jenkins and co-CEO of Launchable. He is a well-respected developer and popular speaker at industry and Jenkins community events. Kawaguchi’s sensibilities in creating Jenkins and his deep understanding of how to translate its capabilities into usable software have also had a major impact on CloudBees’ strategy as a company, where he served as CTO. Before joining CloudBees, Kawaguchi was with Sun Microsystems and Oracle, where he worked on a variety of projects and initiated the open source work that led to Jenkins.
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Krste Asanovic
+Professor, Computer Science Division, University of California, Berkeley
+
+
+
+
+
+Krste Asanovic is a Professor in the EECS Department at the University of California, Berkeley. He received a Ph.D. in Computer Science from UC Berkeley in 1998 then joined the faculty at MIT, receiving tenure in 2005.  He returned to join the faculty at Berkeley in 2007, where he co-founded the Berkeley Par Lab and then led the ASPIRE lab.  His main research areas are computer architecture, VLSI design, parallel programming and operating system design. He is currently Co-Director of the Berkeley ADEPT lab, tackling the challenge of creating and deploying specialized processors, and is also an Associate Director at the Berkeley Wireless Research Center.  He leads the free RISC-V ISA project at Berkeley, is Chairman of the RISC-V Foundation, and is Chief Architect and a co-founder at SiFive Inc.  He is an ACM Fellow and an IEEE Fellow.
+ 
+
+
+
+
+
+
+ 
+
+
+Katelin Ramer
+Business Development Manager, Cloud Native Computing Foundation
+
+
+
+
+
+Katelin is the Business Development Manager at Cloud Native Computing Foundation. She is responsible for driving growth globally for the foundation in the form of partnerships with the member community and gaining support for CNCF global events. 
+
+
+Katelin has a background in sales from Dell Technologies and a passion for helping businesses transform to leverage cloud native and open source technology. She has worked with clients in high tech, oil and gas, manufacturing, state and local government, the DOD, finance, and healthcare. Katelin holds a Bachelor of Science in Apparel Design and Production from Colorado State University.
+
+
+When she’s not traveling, Katelin enjoys baking, playing tennis, snowboarding, and all things Colorado with her husband, Justin, and Australian Shepherd, Rocky.
+ 
+
+
+
+
+
+
+ 
+
+
+Deepak Kodihalli
+Senior Engineer, IBM
+
+
+
+
+
+Deepak Kodihalli is a Senior Engineer at IBM (Bangalore, India) working on the OpenBMC [1] project. He maintains several OpenBMC repositories, including phosphor-logging, phosphor-settingsd and PLDM. He is the IBM lead on the PLDM [2] deliverables for OpenBMC. He is also a member of the DMTF’s PMCI [3] workgroup.
+ 
+
+
+
+
+
+
+ 
+
+
+Jim Zemlin
+Executive Director, The Linux Foundation
+
+
+
+
+
+Jim’s career spans three of the largest technology trends to rise over the last decade: mobile computing, cloud computing and open source software. Today, as executive director of The Linux Foundation, he uses this experience to accelerate innovation in technology through the use of open source and Linux.
+
+
+At The Linux Foundation, Jim works with the world’s largest technology companies, including IBM, Intel, Google, Samsung, Qualcomm, and others to help define the future of computing on the server, in the cloud, and on a variety of new mobile computing devices. His work at the vendor-neutral Linux Foundation gives him a unique and aggregate perspective on the global technology industry.
+
+
+Jim has been recognized for his insights on the changing economics of the technology industry. His writing has appeared in Businessweek, Wired, and other top technology journals, and he is a regular keynote speaker at industry events. He advises a variety of startups, including Splashtop, and sits on the boards of the Global Economic Symposium, Open Source For America, and Chinese Open Source Promotion Union.
+ 
+
+
+
+
+
+
+ 
+
+
+Karen Catlin
+Author of Better Allies, Karen Catlin Consulting
+
+
+
+
+
+After spending 25 years building software products and serving as a vice president of engineering at Adobe, Karen Catlin witnessed a sharp decline in the number of women working in tech. Frustrated but galvanized, she knew it was time to switch gears.
+
+
+Today, Karen is a leadership coach, a keynote speaker, and author of three books:
+
+
+Better Allies: Everyday Actions to Create Inclusive, Engaging WorkplacesThe Better Allies™ Approach to HiringPresent! A Techie’s Guide to Public Speaking
+
+
+She is a highly sought-after, engaging speaker, and has delivered talks and workshops at more than 100 conferences and corporate events. Get a feeling for her speaking styleby viewing her speaker reel: bit.ly/KC_Reel. Find Karen online at karencatlin.com and betterallies.com.
+ 
+
+
+
+
+
+
+ 
+
+
+Chris Wright
+Senior Vice President & Chief Technology Officer, Red Hat
+
+
+
+
+
+Chris Wright is senior vice president and chief technology officer (CTO) at Red Hat. Wright leads the Office of the CTO, which is responsible for incubating emerging technologies and developing forward-looking perspectives on innovations such as artificial intelligence, cloud computing, distributed storage, software defined networking and network functions virtualization, containers, automation and continuous delivery, and distributed ledger.
+
+
+During his more than 20 years as a software engineer, Wright has worked in the telecommunications industry on high availability and distributed systems, and in the Linux industry on security, virtualization, and networking. He has been a Linux developer for more than 15 years, most of that time spent working deep in the Linux kernel. He is passionate about open source software serving as the foundation for next generation IT systems.
+ 
+
+
+
+
+
+
+ 
+
+
+Todd Moore
+Vice President – Open Technology and Developer Advocacy, CTO DEG, IBM
+
+
+
+
+
+Todd Moore, IBM VP of Open Technology, IBM Developer and Developer Advocacy, leads the global IBM team developing open source technologies and working in open communities. Using both digital assets and face to face interaction with developers, he seeks to build developer confidence and capabilities to solve Cloud Native, AI, Blockchain and Quantum computing challenges.  Over his career, Todd and his team of developers have worked with leading open source communities such as the Apache Software Foundation, Linux Foundation, Eclipse, OpenStack, Cloud Foundry, Docker, CNCF, JS Foundation, Node.js and more to develop great code and spread best practices. He currently serves as Chairperson of both the OpenJS Foundation Board of Directors and the CNCF Governing Board. “If you consume open source code, you need to give back to the community just as much and more.” are the words he lives by.
+ 
+
+
+
+
+
+
+ 
+
+
+Gabriele Columbro
+General Manager, Linux Foundation Europe & Executive Director, Fintech Open Source Foundation (FINOS)
+
+
+
+
+
+Gabriele is an open source executive and technologist at heart. He spent over 15 years building developer ecosystems to deliver value through open source across Europe and the US. He thrives on driving innovation both contributing to open source communities and joining commercial open source ventures, whether it’s for an early-stage tech startup, a Fortune 500 firm, or a non-profit foundation. Previously Director of Product Management at Alfresco, as Executive Director Gabriele grew the Fintech Open Source Foundation FINOS from the ground up, with the vision of creating a trusted arena for the global financial services industry to innovate faster, leveraging open source as a model of collaboration. Gabriele holds a Master in Computer Engineering, is a Committer for the Apache Software Foundation, and advises open source startups. He’s a passionate soccer fan, reggae music connoisseur, and special needs dad and advocate wannabe.
+ 
+
+
+
+
+
+
+ 
+
+
+Megan Byrd-Sanicki
+Manager, Research & Operations, Google Open Source Program Office
+
+
+
+
+
+Megan Byrd-Sanicki is the Manager, Research & Operations for Google Open Source Program Office. With a decade of experience stewarding and advising open source projects and communities, Megan champions open source citizenship and sustainability within Google and the industry at large.
+ 
+
+
+
+
+
+
+ 
+
+
+Eddie Tejeda
+Director of Cloud.gov, General Services Administration, US Government
+
+
+
+
+
+Eddie Tejeda is the Director of the Cloud.Gov in the Technology Transformation Services within GSA. Since 2019, he has led the Cloud.gov in transforming how federal agencies move to the cloud. He is currently working on simplifying procurement, security, and compliance of the cloud so that agencies can focus on their mission.
+
+
+Before becoming the Director of Cloud.gov, Eddie was on the 18F team in the Technology Transformation Services. 18F partners with federal agencies to improve the user experience of government services by helping them build and buy technology.
+
+
+With over 15 years of experience, Eddie came to the government after co-founded Civic Insight (acquired in 2015), a data platform used by residents across the country to search and visualize building permits, planning and code enforcement data. In 2012, he served as a Code for America Fellow and worked with the city of New Orleans to help residents track the progress of vacant and abandoned homes. He also worked with Cornell University and the Department of Transportation (DOT) to develop Regulation Room, a commenting platform used to increase public participation in the regulatory process.
+ 
+
+
+
+
+
+
+ 
+
+
+Priyanka Sharma
+General Manager, CNCF
+
+
+
+
+
+
+
+
+
+
+
+Priyanka is the General Manager of the Cloud Native Computing Foundation. She was previously the director of Cloud Native Alliances at GitLab Inc., where she built the developer evangelism team that participates regularly in the cloud native community.
+
+
+Priyanka also serves as an advisor at Heavybit Industries, an accelerator for developer products. She has contributed to several CNCF projects such as Jaeger and Vitess and was a founding team member of the OpenTracing standard. In addition, Priyanka is a leading speaker and subject matter expert on cloud native and observability and has spoken about Kubernetes, Prometheus, Jaeger, OpenTracing, Envoy, Vitess, SPIFFE/SPIRE, and more. She was a startup founder featured at TechCrunch Disrupt and started her career at Google.
+ 
+
+
+
+
+
+
+ 
+
+
+Steven Tan
+VP & CTO Cloud Solution, Storage, Futurewei
+
+
+
+
+
+Steven Tan is VP & CTO Cloud Solution, Storage at Futurewei where he is responsible for open source strategy and collaboration. Steven brought together leaders across industries and founded the SODA Foundation which he currently serves as chair. SODA Foundation is a transformation of the Linux Foundation OpenSDS project which he initiated previously. Steven’s career brought him across Singapore, US, China and Taiwan, and includes roles as founder and CTO at Cloudena, VP Engineering at ProphetStor, and VP Engineering and Technology at CipherMax. Steven is an alumnus of Nanyang Technological University and National University of Singapore.
+ 
+
+
+
+
+
+
+ 
+
+
+Camilla Sharpe
+Global Offerings Leader Multivendor Software Support, IBM
+
+
+
+
+
+Camilla is the Global Leader for IBM’s Software Support business focusing on multivendor products. In this role she has had the opportunity to travel the world to meet with clients, sellers, and business partners, which has helped her gain a unique perspective on how clients are leveraging open source technologies across their organizations. She is passionate about constructing support solutions to help solve complex client challenges related to open source, as well as working with strategic alliances to bring exciting new offerings to market. Since joining IBM in 2005, Camilla has held a range of leadership positions across several business units and functions including finance, operations and sales.
+ 
+
+
+
+
+
+
+ 
+
+
+Alan Clark
+CTO, Directing Industry Initiatives & Emerging Standards, SUSE
+
+
+
+
+
+Alan Clark, a member of the SUSE CTO Office, is an experienced industry, corporate leader, open source advocate and strategy adviser for new industry initiatives and open source. He helps foster the creation, growth, awareness and adoption of open source and open standards as an industry leader, contributor, speaker and sponsor, Alan currently serves in several key industry positions.
+ 
+
+
+
+
+
+
+ 
+
+
+Ioana Culic
+Teaching Assistant, Politehnica University of Bucharest
+
+
+
+
+
+Ioana is a Teaching Assistant at the Politehnica University of Bucharest and a PhD candidate in the field of Security for Internet of Things. She has been teaching IoT technologies to high school and university students at different events for the last 7 years. Despite the technical background, writing has always been Ioana’s passion and she managed to mix the two. She has published several articles in magazines such as the MagPi and Make: and books on Internet of Things technologies. Ioana is also a co-founder of Wyliodrin, a company that offers educational and industrial IoT solutions.
+ 
+
+
+
+
+
+
+ 
+
+
+Cosmin Daniel Radu
+Undergraduate Teaching Assistant, Politehnica University of Bucharest
+
+
+
+
+
+Cosmin is a student at the Politehnica University of Bucharest, where he also works as an Undergraduate Teaching Assistant, teaching Introduction to Operating Systems laboratories. He is also one of the contributors to Wyliodrin STUDIO and has experience in working with IoT technologies.
+ 
+
+
+
+
+
+
+
+
+
+
+
+Sponsors
+
+Diamond
+Platinum
+Gold
+Silver
+Bronze
+Partner 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+Featured Speakers
+Explore the Tracks
+Program Committee
+
+Experiences
+Speed Mentoring
+Resume Writing Workshop
+Allyship Workshop
+Ask the Expert Sessions
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

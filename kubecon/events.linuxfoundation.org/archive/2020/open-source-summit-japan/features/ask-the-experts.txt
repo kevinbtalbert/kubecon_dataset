@@ -1,0 +1,218 @@
+
+
+
+
+エキスパートに訊くAsk the Experts Sessions | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+登録Register
+参加Attend
+
+行動規範Code of Conduct
+
+
+スポンサーSponsor
+プログラムProgram
+
+スケジュールSchedule
+各トラックのご案内Explore the Tracks
+注目の講演者Featured Speakers
+
+
+併設プログラムFeatures &Add-Ons
+
+体験できることExperiences
+
+
+お問い合わせContact Us
+View All Events
+EventsAll Upcoming EventsPast Open Source Summit Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming Open Source Summit Japan. 
+
+
+
+
+
+
+ 
+
+
+						エキスパートに訊くAsk the Experts Sessions					
+
+
+
+
+
+12月2日(水)～12月4日(金) | 時間帯は異なります。スケジュールを表示登録料金：無料。登録も不要。
+Linuxカーネルのメンテナー、オープンソースのリーダー、プロジェクト マネージャーと直接チャットして、あらゆる疑問に答えてもらうチャンスです。技術的な質問はありますか？キャリアの軌跡を知りたいですか？または単純に、オープンソース プロジェクトにうまく参加するためのヒントが欲しいですか？「Ask the Experts（エキスパートに訊く）」セッションにはエキスパートが待機していますので、この場所で答えをもらいましょう。
+セッションはまもなくカンファレンス スケジュールに追加されます。現在のAsk the Expertsのラインナップは以下のとおりです。
+Dan Cauchy, Executive Director, Automotive Grade Linux, The Linux Foundation | Expert Topic: Automotive Grade LinuxJonathan Corbet, Co-founder and Executive Editor, Linux Weekly News | Expert Topic: All things KernelShane Coughlan, General Manager, OpenChain, The Linux Foundation | Expert Topic: Open Source License ComplianceAlice Ferrazzi, Gentoo Kernel Project Leader & Software Engineer, Cybertrust Japan | Expert Topic: GentooYasunori Goto, Senior Software Engineer, Fujitsu | Expert Topic: NVDIMMShuah Khan, Linux Kernel Fellow, The Linux Foundation | Expert Topic: Linux Kernel DependabilityWalt Miner, Community Manager, Automotive Grade Linux, The Linux Foundation | Expert Topic: Automotive Grade LinuxJan-Simon Moeller, Release Manager, Automotive Grade Linux, The Linux Foundation | Expert Topic: Automotive Grade LinuxHisao Munakata, Senior Director, Renesas Electronic Corporation | Expert Topic: Automotive Grade LinuxRyo Murakawa, Manager – Solution Engineering Division, SUSE Japan | Expert Topic: Kubernetes and embedded technologiesFrank Rowand, Senior Software Engineer, Sony | Expert Topic: Devicetree Code, Conference Presentation ProposalsKazuhito Yokoi, Software Engineer, Hitachi Ltd. | Expert Topic: Node-RED
+注：参加するには、OSSJ+ALS バーチャル イベントに登録する必要があります。
+
+Wednesday, December 2 – Friday, December 4 | Timing Varies; View the ScheduleRegistration Cost: Complimentary; No Sign-up Required
+This is your chance to chat directly with Linux kernel maintainers, open source leaders, and project managers to get all of your questions answered. Have a technical question? Curious on a career trajectory? Or simply want some tips on how to best participate in an open source project? This is the place to get this and more answered, as our experts sit down for our ‘Ask the Experts’ Sessions. 
+Sessions will be added to the conference schedule shortly as well as our current Ask the Experts lineup!
+Dan Cauchy, Executive Director, Automotive Grade Linux, The Linux Foundation | Expert Topic: Automotive Grade LinuxJonathan Corbet, Co-founder and Executive Editor, Linux Weekly News | Expert Topic: All things KernelShane Coughlan, General Manager, OpenChain, The Linux Foundation | Expert Topic: Open Source License ComplianceAlice Ferrazzi, Gentoo Kernel Project Leader & Software Engineer, Cybertrust Japan | Expert Topic: GentooYasunori Goto, Senior Software Engineer, Fujitsu | Expert Topic: NVDIMMShuah Khan, Linux Kernel Fellow, The Linux Foundation | Expert Topic: Linux Kernel DependabilityWalt Miner, Community Manager, Automotive Grade Linux, The Linux Foundation | Expert Topic: Automotive Grade LinuxJan-Simon Moeller, Release Manager, Automotive Grade Linux, The Linux Foundation | Expert Topic: Automotive Grade LinuxHisao Munakata, Senior Director, Renesas Electronic Corporation | Expert Topic: Automotive Grade LinuxRyo Murakawa, Manager – Solution Engineering Division, SUSE Japan | Expert Topic: Kubernetes and embedded technologiesFrank Rowand, Senior Software Engineer, Sony | Expert Topic: Devicetree Code, Conference Presentation ProposalsKazuhito Yokoi, Software Engineer, Hitachi Ltd. | Expert Topic: Node-RED
+Note: You must be registered for the OSS J + ALS Virtual Experience to participate.
+
+
+
+
+
+
+スポンサー Sponsors
+
+ダイアモンド Diamond
+プラチナ Platinum
+ゴールド GOLD
+シルバー Silver
+ブロンズ BRONZE 
+
+
+
+
+
+
+メーリングリストに参加して、イベントの最新情報やニュースをゲットしましょう。Join our mailing list to hear all the latest about events, news, and more!
+
+ 
+	入力された宛先に今後のイベント情報が配信されます。メーリングリストの登録はいつでも解除できます。詳細については、プライバシー ポリシーを参照してください。The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#ossummit
+
+
+
+
+登録 Register
+行動規範 Code of Conduct
+
+スポンサー Sponsor
+スケジュール Schedule
+各トラックのご案内 Explore the Tracks
+注目の講演者 Featured Speakers
+
+体験できること Experiences
+
+お問い合わせ Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

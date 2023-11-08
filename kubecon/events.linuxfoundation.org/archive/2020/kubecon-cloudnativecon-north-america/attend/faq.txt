@@ -1,0 +1,267 @@
+
+
+
+
+FAQ | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Experiences
+Instant Giveaways
+CNCF Slack Workspace Community Guidelines
+Diversity + Inclusion
+Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Interactive Sessions
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon North America. 
+
+
+
+
+
+
+ 
+
+
+						FAQ					
+
+
+
+
+Skip to page sectionGeneralRegistrationSpeakersSponsors
+
+General
+
+What is the format of KubeCon + CloudNativeCon North America 2020 – Virtual and when will it take place?
+KubeCon + CloudNativeCon North America 2020 is a virtual experience that will take place online November 17-20. This virtual event will deliver content over four days, including keynotes, conference sessions across multiple tracks, tutorials, and co-located events. The virtual event includes an interactive Sponsor Showcase, attendee collaboration and networking tools, and much more.
+What are the benefits of attending the virtual event?
+Experience KubeCon + CloudNativeCon from the comfort, safety, and convenience of your home via a computer, tablet, or phone – all you need is the internet and a web browser.
+Other benefits and features include:
+Informative and timely content across ~200 sessions with live speaker Q+AJoin the ‘hallway track’ and collaborate via topic-based networking lounges with group chat and 1:1 chat with other participantsVisit the virtual sponsor showcase to speak directly with the sponsors, view demos, download resources, and view job openingsGamify your event experience – earn points and win prizes by attending sessions, visiting sponsor booths, and answering trivia questionsDon’t worry about missing a session: the event platform will be accessible 24 hours a day to all registered attendeesAnd much more – all virtually, from anywhere
+What is the cost for the new virtual format and how do I register?
+There are two ticket options:
+Attendee (Full Access)Early-Bird, September 9-30: $50 USD Standard, October 1-31: $75 USDLate, November 1-20: $100 USDKeynote OnlyComplimentary 
+Register now!
+What is the time zone for the event?
+Live content will begin daily at 1:00 PM Eastern Standard Time (EST) with presentations over four consecutive days. The schedule will automatically be displayed in EST. To see the schedule in your preferred time zone (once the schedule is live), please select the time zone from the drop-down menu to the right, above “Filter by Date.”
+What are the system requirements needed to participate in the virtual event?
+We are using the Intrado virtual event platform for KubeCon + CloudNativeCon North America 2020 – Virtual, and this is a web-based, HTML5 platform. You do not need to download any application to participate, and browsers on almost all devices will work.  View system/browser requirements here. Attendee pre-event emails will include a quick System Check so you can test your access before the event starts. Live technical assistance will be available within the event platform during the event to help you troubleshoot any issues.
+Will the content be different in a virtual experience setting?
+Slightly. We are adjusting our typical in-person event schedule to better fit with an online event world. We’ll still be bringing you plenty of sessions and content just a tad scaled down so the days aren’t too long (hello screen fatigue!). While some of our onsite experiences aside from content can’t be replicated online, we’re working to put together alternate experiences that can, which will help provide attendees a fully immersive event experience. Stay tuned for more details!
+How will the virtual sessions work?
+Sessions will take place at scheduled times just as they would at a face-to-face event. Speakers will be available for live Q+A with conference sessions and tutorials. Attendees can build a personalized agenda of sessions they want to view and receive notifications before they start. And of course, all sessions will be recorded and available to attendees on-demand after the event.
+Will the event include closed captioning?
+Yes! Closed captioning will be available for each session when it “goes live.” Learn more.
+Will all sessions be recorded?
+Yes! Once the event ends, all attendees will be able to access the sessions and other content and resources from the event platform. Additionally, all recorded sessions will be uploaded to the  CNCF YouTube channel within eight weeks of the event so they are accessible to anyone, anywhere.
+When will the platform open?
+Registered attendees will gain access to the platform on Monday, November 16 at 10:00 AM EST.
+I attend KubeCon + CloudNativeCon North America mainly for networking. How is that possible in a virtual event?
+We know how invaluable face-to-face networking is at events. Attendees will be able to connect with speakers, sponsors, and experts through a Slack workspace with varied topic channels in both group and 1:1 chats with other event participants.
+How will the Code of Conduct be enforced in a virtual environment?
+All participants must abide by the CNCF Code of Conduct in a virtual environment just as they would at a physical one. We will be monitoring language and images throughout the platform to ensure there are no violations of the CoC, and quickly handle any that we might find. If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the conference staff immediately via the Slack help desk: 
+Vanessa Heric, Associate Director of CNCF Events (+1 949-415-4442; vheric@linuxfoundation.org)Colleen Mickey, Director of Events (+1 516-945-9285; cmickey@linuxfoundation.org)Angela Brown, General Manager of Events (+1 575-694-2263; angela@linuxfoundation.org)
+
+
+
+Registration
+
+Can I register now for the new virtual KubeCon + CloudNativeCon North America 2020?
+Yes! Register now!
+If I cannot attend the virtual event, can I substitute someone from my company to attend in my place?
+Yes, you can transfer your pass to another person at your company if you are unable to attend. If you need to modify, substitute, or cancel your registration, sign into your registration using your confirmation number. You can find your confirmation number in your confirmation email or by clicking on the Cvent login page requesting to have your confirmation number emailed to you.
+
+
+
+Speakers
+For all session or speaker-related questions, please contact speakers@cncf.io.
+
+
+
+Sponsors
+For all sponsor-related questions, please contact sponsorservices@cncf.io.
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+gold
+silver
+Start-up
+End User
+Diversity Supporters
+Media Partners 
+
+
+
+
+
+
+Join the CNCF mailing list to learn more about KubeCon + CloudNativeCon and other upcoming CNCF events!
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+#KubeCon + #CloudNativeCon
+
+
+
+
+Register
+Experiences
+Instant Giveaways
+CNCF Slack Workspace Community Guidelines
+Diversity + Inclusion
+Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+Interactive Sessions
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

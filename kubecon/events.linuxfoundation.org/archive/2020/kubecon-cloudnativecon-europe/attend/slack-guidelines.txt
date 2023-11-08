@@ -1,0 +1,272 @@
+
+
+
+
+CNCF Slack Workspace Community Guidelines | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Virtual Backgrounds
+Keep Cloud Native Well
+Experiences
+Where in the World is Phippy?
+Diversity Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon Europe. 
+
+
+
+
+
+
+ 
+
+
+						CNCF Slack Workspace Community Guidelines					
+
+
+
+
+Skip to page sectionGetting StartedWorkspace EtiquetteReporting IssuesFeedbackChannels
+
+Getting Started
+
+Who’s Here
+The Cloud Native Computing Foundation (CNCF) Slack workspace is open to all community members and KubeCon + CloudNativeCon Europe 2020 Virtual event registrants. This workspace should be considered an extension of the virtual (or live!) event and used as a networking and collaboration tool for the community and event participants. 
+Slack Guidelines
+Please read through these guidelines carefully and remember that our event Code of Conduct also applies to our Slack workspace.
+Update Your Profile
+We’d love it if you took the time to update your profile and add a picture!
+Share your pronouns with attendees! Add it at the end of your Full Name in your profile so other other attendees will be able to see it. Please be respectful of all attendees’ pronouns.
+Add your interests or keywords (like ‘Kubernetes’ or ‘Serverless’) in the “What I do” section of your profile in addition to your Title and Company/Organization – that way attendees can search for each other by these common interests. To foster more accountability for what people post, no anonymous display names are allowed.
+Update Your Preferences
+Click on Cloud Native Computing Foundation in the upper left hand corner to customize your Slack workspace. If you have any questions about how to change something feel free to drop us a message in the #1-kubecon-eventhelpdesk.
+Our Slack workspace includes animated emojis and gifs – we’ve done everything we can to keep these rated G. If you think these may be unpleasant for you, you can disable all animations in your Slack by clicking Cloud Native Computing Foundation in the upper left hand corner then Preferences → Messages & media.
+Workspace Channels
+Once you join the CNCF workspace you will be automatically added to the following channels:
+#1-kubecon-announcements – Event Staff will post pertinent information and announcements here throughout the event. Make sure to read any posts added here to catch up on the latest event information. #1-kubecon-eventhelpdesk – Event Staff will be monitoring this channel (and all others) from 12:00 – 19:25 CEST on event days to answer any questions you may have about the Slack workspace or the event in general. If we’re not in, we’ll answer any questions as soon as we get online. If you need to email us, feel free to email events@cncf.io! #4-kubecon-mixandmingle – Consider this the hallway track we’d have at a face-to-face event! Feel free to introduce yourself to the community, share what you’re working on, or what you’re excited about learning at KubeCon + CloudNativeCon. #1-kubecon-sponsors – See what our sponsors have planned for the event. Get the scoop on the latest technologies presented in the expo hall, meet and greets with maintainers and speakers, technical demos, and –  of course – plenty of giveaways, raffles, and swag!
+Join other channels – Click on “Channel browser” in the left-hand side bar and scroll through the list of other channels you’d like to join. We’ve tried to make these as organized as possible:
+Informational channels begin with #1Session track-based channels begin with #2Co-Located event channels begin with #3Networking/Hallway track-style channels begin with #4Channels just for funsies begin with #5Specific sponsor channels begin with #6 
+There are no stupid questions!This community and the entire workspace is a supportive space where you can ask other attendees questions you might think are silly or have obvious answers. The chances are, if you have the question, someone else does too!
+Want to add a new public channel?  Drop the topic of your proposed channel in #1-kubecon-eventhelpdesk and a 10-20 word explanation about why it should be added and one of our team members will follow up within one business day to review/approve/deny the request.
+Code of Conduct
+Please make sure to review and abide by the KubeCon + CloudNativeCon Code of Conduct while attending the virtual experience and using this workspace. If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the conference staff immediately, staff can be identified with “CNCF Events Team” in their Slack Name or found in the #1-kubecon-eventhelpdesk channel. You can also email us at events@cncf.io.
+
+
+
+
+
+Workspace Etiquette
+
+Introduce Yourself
+Everyone loves to meet new attendees! Drop a quick hello in #4-kubecon-mixandmingle and share something about yourself!
+Say hello to new members and welcome them into the community. #4-kubecon-newcomers is the perfect place for this!
+Be Respectful
+Be open and respectful to every attendee – sharing is caring and everyone should be here with the attitude to learn and collaborateHave a positive attitude — be friendly, helpful, and encouraging.Answer questions. Collaboration is at the heart of why we’ve brought this community together.Be appreciative to those that have answered your questions.No one is perfect, and even well-intentioned people make mistakes.  Be kind in your discussions with others and remember that everyone’s life experiences are different.
+Be Relevant
+Ask questions and contribute — be sure to ask folks for help or advice and provide feedback where you’re able to.
+Stay on topic – We have carved out different channels for specific topics. Please keep your posts relevant to the channel you are in to avoid any confusion. #4-kubecon-mixandmingle is a great place for water-cooler conversations or you can reach out to us in #1-kubecon-eventhelpdesk with a topic for a new public channel. Remember to include a 10-20 word explanation about why it should be added and one of our team members will follow up within one business day to review/approve/deny the request.
+Social Rules
+Use inclusive language. We strive to create a diverse and safe community in which everyone is comfortable participating. When posting in channels, avoid using words such as “guys” or “ladies and gentlemen” to address a channel. Possible alternatives: “all,” “everyone,” “K8s friends.”Don’t be a jerk – we’re all in this together.Use caution with jokes, everyone’s sense of humor is different and words can be misunderstood over text. If you don’t have anything nice to say, don’t say anything at all.Protecting IP and legally protected information is your responsibility and this is a public forum.  Don’t presume anything said here will remain private.You are part of this community. If you see someone behaving disrespectfully, we urge you to politely dissuade such behavior. If you do not feel comfortable addressing the behavior, reach out to a KubeCon Event Team member by DM’ing anyone with “CNCF Events Team” at the end of their name. You can also email us at events@cncf.io.Use appropriate language – if you wouldn’t say it to your grandparents, don’t say it here. Keep this workspace safe for everyone. Do not send direct messages (DMs) or tag other community members who have requested not to be contacted. If you DM someone, they are not obligated to respond. Concurrently, if you are tagged in a post or DM’d, you are not obligated to respond. If the issue persists, or if the message is inappropriate in nature, please refrain from engaging in the conversation and reach out to a KubeCon Event Team member by DM’ing anyone with “CNCF Events Team” at the end of their name. You can also email us at events@cncf.io.Refrain from repeatedly tagging people with a question; this is a public forum and posted questions should be for response from anyone in the channel.Try not to ask technical questions in a DM unless the other person has offered support and requested a side conversation to continue the discussion. Don’t abuse the ability to tag someone. Try to only tag someone when continuing a pre-existing conversation with them, particularly when responding to a question that they have asked. We have disabled the ability to tag an entire channel with @here or @channel. All posts reflect the views and opinions of its author and do not necessarily reflect the views of The Linux Foundation or its employees. As a participating attendee you are solely responsible for anything you post.
+Behaviors to Avoid
+Any forms of disrespect — We do not tolerate impolite or offensive behaviors, including the use of explicit or vulgar language, images, and/or messages (e.g. racist or sexist remarks).Spamming or trolling other members.Illegal activity such as posting links to pirated content, advice on how to jailbreak software, or illegal bypasses of software security protection.Do not post or link to any private information (your own or others) such as credit card numbers, passwords, product/API keys, or any sensitive personally identifiable information. Take particular care when posting screenshots of your desktop.Marketing (with exception of official event sponsors in designated channels) — Blatant advertising and spam marketing will not be tolerated. Posting affiliate links to third-party services such that clicking on the link or buying the services within would directly or indirectly financially benefit the poster is prohibited due to the potential conflict of interest. Do feel free to share products or services you find useful where it applies to the workspace, or links to your own websites.No direct pitches — Only our official event sponsors are permitted to pitch and only within designated sponsor channels. Consider sponsoring one of our conferences if this interests you!Don’t hate on tech you don’t like. There is a good chance there is someone in the space who either helped create or likes to use that tool. Treat people and ideas with respect.There are no stupid questions. If people ask questions that are simple to answer on Google, answer them nicely still.No links without context — A link in the chat without context or explanation may be deleted.
+
+
+
+
+
+Reporting Issues
+
+The CNCF Events Team seeks to resolve conflicts peacefully and in a manner that is positive for the community. We can’t foresee every situation and thus if, in our judgment, the best thing to do is to ask a disrespectful individual to leave, we will do so.
+If you experience disrespectful behavior toward yourself or anyone else and feel in any way unable or unwilling to respond or resolve it respectfully, please immediately bring it to the attention of a CNCF Event team member. 
+We reserve the right, always, to deactivate accounts at our discretion should anyone choose not to abide by the spirit of our community guidelines or Code of Conduct.
+The CNCF Events Team can be reached by DM’ing anyone with “-CNCF Events Team” at the end of their name, in #1-kubecon-eventhelpdesk, or by emailing us at events@cncf.io. You are also encouraged to contact Angela Brown, General Manager of Events, at angela@linuxfoundation.org. 
+
+
+
+
+
+Feedback
+
+We are also happy to receive your feedback and suggestions regarding our guidelines so we can build a strong community. Reach out to us in #1-kubecon-suggestionbox, or by emailing us at events@cncf.io.  
+
+
+
+
+
+Channels
+
+
+
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+GOLD
+SILVER
+START-UP
+END USER
+DIVERSITY SUPPORTERS
+MEDIA PARTNERS 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Virtual Backgrounds
+Keep Cloud Native Well
+Experiences
+Where in the World is Phippy?
+Diversity Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,313 @@
+
+
+
+
+Call For Proposals (CFP) | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Experiences
+Instant Giveaways
+CNCF Slack Workspace Community Guidelines
+Diversity + Inclusion
+Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Interactive Sessions
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon North America. 
+
+
+
+
+
+
+ 
+
+
+						Call For Proposals (CFP)					
+
+
+
+
+Skip to page sectionOverviewGeneral Info + Dates to RememberProgram Co-ChairsRequirements + ConsiderationsHow to Submit Your ProposalSample SubmissionCode of ConductCFP Questions?
+
+Overview
+
+The KubeCon + CloudNativeCon North America 2020 Call for Proposals (CFP) is now closed. 
+For any questions regarding the CFP process, please email cfp@cncf.io.
+
+
+
+
+General Info + Dates to Remember
+
+KubeCon + CloudNativeCon brings together adopters, developers, and practitioners to collaborate face-to-face. Engage with the leaders of Kubernetes, Prometheus, and other CNCF-hosted projects as we set the direction for the cloud native ecosystem.
+Dates to Remember
+CFP Opens: Wednesday, April 22, 2020CFP Closes: 11:59pm Pacific Daylight Time (PDT), Sunday, July 12, 2020CFP Notifications: Tuesday, September 29, 2020Schedule Announcement: Thursday, October 1, 2020Event Dates: Tuesday, November 17 – Friday, November 20
+Reminder: This is a community conference — so no product and/or vendor sales pitches.
+First Time Submitting? Don’t Feel Intimidated
+CNCF events are an excellent way to get to know the community and share your ideas and the work that you are doing. You do not need to be a chief architect or long-time industry pundit to submit a proposal, in fact, we strongly encourage first-time speakers to submit talks for all of our events.
+Our events are working conferences intended for professional networking and collaboration in the CNCF community and we work closely with our attendees, sponsors and speakers to help keep CNCF events professional, welcoming, and friendly. If you have any questions on how to submit a proposal or the event in general, please contact cfp@cncf.io.
+
+
+Program Co-Chairs
+
+
+Constance Caramanolis
+Constance is a principal software engineer at Splunk, formerly Omnition, contributing to OpenTelemetry. Previous to Omnition, she worked at Lyft as part of the data platform and server networking teams. While at Lyft, Constance built, deployed, and configured Envoy internally, and maintained the open source project.
+
+
+
+Stephen Augustus
+Stephen Augustus is an active leader in the upstream Kubernetes community. He currently serves as a Special Interest Group Chair (SIG Release, SIG PM), a Release Manager, and a subproject owner for Azure, a Program Committee member for KubeCon (Barcelona, Shanghai, San Diego), and Track Chair for KubeCon Amsterdam. He has served on the Kubernetes Release Team for multiple releases, built the Release Team for a few releases, and established the new Release Engineering subproject. When not focused on Kubernetes project governance, Stephen participates in Meet Our Contributors (a monthly series geared towards answering contributor questions), writes blog posts about new enhancements to the ecosystem, chats with media analysts about Kubernetes, and reviews new membership requests for Kubernetes GitHub organizations.
+Stephen leads the Cloud Native Tools & Advocacy team at VMware, driving meaningful interactions between internal teams and the Open Source community, advocating the use of Cloud Native solutions, and hacking on tools that make life easier for developers and operations folk alike.
+He has previously held SRE/Production Engineering/DevOps-ey roles, as well as customer-facing infrastructure delivery roles at Cloud Native leaders, including CoreOS and Red Hat.
+When he’s not behind a keyboard or in front of a customer, he’s captaining teams in multiple billiards sports leagues.
+
+
+
+
+
+
+
+Requirements + Considerations
+
+Requirements
+Any platforms or tools you are describing need to be open source.You are limited to be listed as a speaker on up to two proposals submitted to the CFP for consideration, regardless of the format. If we find that you are listed on more than two, we will contact you to remove any proposals over the limit.UPDATED: You may only speak on one panel and one non-panel accepted session chosen from the CFP at KubeCon + CloudNativeCon North America 2020. (Note: Maintainer Track sessions are separate from CFP policies.)We will not select a submission that has already been presented elsewhere or at a previous KubeCon + CloudNativeCon. If your submission is very similar to a previous talk, please include information on how this version will be different. Specifically, if you gave a talk at KubeCon + CloudNativeCon in Europe, China, or North America 2019, please do not submit the same talk to North America 2020. It will automatically not be accepted to maintain content diversity.
+Consider the Following as You Write Your Proposal
+What do you expect the audience to gain from your presentation?Why should YOU be the one to give this talk? You have a unique story. Tell it.Be prepared to explain how this fits into the CNCF and overall Open Source Ecosystem.
+We definitely do not expect every presentation to have code snippets and technical deep-dives but here are two things that you should avoid when preparing your proposal because they are almost always rejected due to the fact that they take away from the integrity of our events, and are rarely well-received by conference attendees:
+Sales or marketing pitchesUnlicensed or potentially closed-source technologies
+There are plenty of ways to give a presentation about projects and technologies without focusing on company-specific efforts. Remember the things to consider that we mentioned above when writing your proposal and think of ways to make it interesting for attendees while still letting you share your experiences, educate the community about an issue, or generate interest in a project.
+
+
+
+How to Submit Your Proposal
+
+We have done our best to make the submission process as simple as possible. Here is what you will need to prepare:
+1. Choose a submission format (NEW formats!):
+Solo Presentation: 35-minute presentation, limited to 1 speakerDual Presentation: 35-minute presentation, limited to 2 speakersAMA (Ask Me Anything): 35-minute, interview-like session, that takes place between an individual and the attendees or and individual and an interviewer asking questions, max of 2 participants (which includes the interviewer)Panel: 35 minutes of discussion amongst 3 to 5 speakersTutorial: 90-minute, in-depth, hands-on presentation with 1–4 speakers
+Note: All submissions with 3–5 speakers are required to have at least one speaker that does not identify as a man and the speakers must not all be from the same company.
+2. Choose which CNCF hosted software your presentation will be focused on (Choose all that apply):
+containerd (Graduated)CoreDNS (Graduated)Envoy (Graduated)Fluentd (Graduated)Helm (Graduated)Jaeger (Graduated)Kubernetes (Graduated)Prometheus (Graduated)TUF (Graduated)Vitess (Graduated)Argo (Incubating)CloudEvents (Incubating)CNI (Incubating)CRI-O (Incubating)Dragonfly (Incubating)etcd (Incubating)Falco (Incubating)gRPC (Incubating)Harbor (Incubating)Linkerd (Incubating)NATS (Incubating)Notary (Incubating)Open Policy Agent (Incubating)OpenTracing (Incubating)Rook (Incubating)TiKV (Incubating)Brigade (Sandbox)Buildpacks (Sandbox)ChubaoFS (Sandbox)Cortex (Sandbox)Flux (Sandbox)In-toto (Sandbox)KEDA (Sandbox)KubeEdge (Sandbox)KubeVirt (Sandbox)Longhorn (Sandbox)Network Service Mesh (Sandbox)OpenEBS (Sandbox)OpenMetrics (Sandbox)OpenTelementry (Sandbox)Service Mesh Interface (Sandbox)SPIFFE (Sandbox)SPIRE (Sandbox)Strimzi (Sandbox)Telepresence (Sandbox)Thanos (Sandbox)Virtual Kubelet (Sandbox)Volcano (Sandbox)
+3. Choose a topic to narrow down the focus (NEW topics!):
+101 (dedicated sessions for attendees who are new to the conference overall and/or beginners to the conference content, i.e. Kubernetes 101)Application & Development (includes Helm, Brigade, Telepresence, & Buildpacks)CI/CD (including Harbor, Dragonfly, & Flux)CommunityCustomizing & Extending Kubernetes (including KubeVirt & Volcano)Machine Learning & DataNetworking (includes CoreDNS, CNI, gRPC, NATS, KubeEdge, Network Service Mesh, & Strimzi)Observability (includes Fluentd, Prometheus, Jaeger, OpenTracing, OpenMetrics, Cortex, OpenTelemetry, & Thanos)Operations (including Argo)PerformanceRuntimes (includes containerd & CRI-O)Security, Identity & Policy (includes Notary, OPA, TUF, SPIFFE/SPIRE, and in-toto)Serverless (includes CloudEvents, Virtual Kubelet, & KEDA)Service Mesh (includes Envoy, Linkerd and Service Mesh Interface)Storage (includes Rook, Vitess, OpenEBS, Longhorn, & ChubaoFS)
+Note: If your presentation is a case study, please choose which topic it best associates with from the list above and then choose “yes” for the question that asks if your presentation is a case study within the form. Final tracks for the conference will be based on accepted submissions.
+4. Provide a detailed and focused description with a max of 900 characters. This is what will be used on the online schedule if your talk is accepted.
+5. Provide more in-depth information in the “Benefits to the Ecosystem” section. This is your opportunity to elaborate on your content and share any more details with the committee with a max of 1,500 characters.
+6. Provide a biography for all speakers, including previous speaking experience.
+7. Provide resources to enhance your proposal. These can be videos of you or your speakers presenting elsewhere, links to personal websites (including LinkedIn), links to your open source projects, or published books.
+8. If you choose to submit a tutorial please explicitly mention what the audience will learn from or walk away with after attending your session. Additionally, please indicate what prerequisites (if any) are needed for the attendee to know prior to attending, and if any materials should be brought with them or downloaded ahead of time (i.e. must install software) prior to attending.
+
+
+
+Sample Submission 
+
+Your session description will be the cornerstone of your proposal.
+This is your chance to *sell* your talk to the program committee, so do your best to highlight the problem/contribution/work that you are addressing in your presentation. The technical details are still important, but the relevance of what you are presenting will help the program committee during the selection process.
+This is the description that will be posted on the website schedule, so please ensure that it is in complete sentences (and not just bullet points), free of typos and that it is written in the third person (use your name instead of “I”).
+Example:
+OCI, CRI, ??: Making Sense of the Container Runtime Landscape in Kubernetes – You’ve probably heard about the OCI—a standardization effort to share a common definition for container runtime, image, and image distribution. Add to that the CRI (container runtime interface) in Kubernetes—designed to abstract the container runtime from the kubelet—and you may start to wonder what all these standards and interfaces mean for you in a Kubernetes world.
+As of this year, a long list of runtimes, including CNCF projects containerd and cri-o, all implement the CRI. But did you know there are quite a few others? The unique number of CRI combinations is growing, all of which use the common OCI definitions for runtime and image interoperability.
+But how would you decide which container runtime is right for you? Clearly each one has tradeoffs. This talk will help describe the current landscape and give you details on the why and how of each CRI implementation available today.
+Benefits to the Ecosystem
+This is your chance to elaborate. Tell us how the content of your presentation will help better the ecosystem or anything you wish to share with the co-chairs and program committee. We realize that this can be a difficult question to answer, but as with the description, the relevance of your presentation is just as important as the content. Max of 1,500 characters.
+Example:
+It is a repeating comment across the CNCF ecosystem that the number of choices for container runtime is confusing, especially for those who are newer to our ecosystem. Even for those who many have heard the names–Docker, containerd, cri-o–even they are curious as to the reasons why there are many varied runtimes available to implement the CRI interface for Kubernetes, and what is the history that brought us to this point.
+This talk helps bring clarity to the container runtime landscape, and especially shows the interesting work being done in additional isolation technologies like gVisor, AWS Firecracker, and Kata containers and why that may be of value to consider for certain security or workload constraints.
+In the end, especially as we have two major runtimes as CNCF projects, this talk hopefully brings a level of insight to practitioners, developers, and operators as to why clusters may choose various runtimes and how new features in Kubernetes like RuntimeClass are making it easier to support mixed clusters that can support the needs of workloads with different isolation features or requirements.
+Scoring Guidelines
+To help you further understand what is considered while the program committee and co-chairs are reviewing your proposal, please review the Scoring Guidelines and Best Practices page.
+
+
+
+
+Code of Conduct
+
+The Linux Foundation and its project communities are dedicated to providing a harassment-free experience for participants at all of our events. We encourage all submitters to review our complete Code of Conduct.
+
+
+
+CFP Questions?
+
+If you have any questions regarding the CFP process, please contact Nanci Lancaster: cfp@cncf.io
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+gold
+silver
+Start-up
+End User
+Diversity Supporters
+Media Partners 
+
+
+
+
+
+
+Join the CNCF mailing list to learn more about KubeCon + CloudNativeCon and other upcoming CNCF events!
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+#KubeCon + #CloudNativeCon
+
+
+
+
+Register
+Experiences
+Instant Giveaways
+CNCF Slack Workspace Community Guidelines
+Diversity + Inclusion
+Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+Interactive Sessions
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

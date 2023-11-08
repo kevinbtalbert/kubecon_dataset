@@ -1,0 +1,204 @@
+
+
+
+
+Early Bird Selected Talks | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Diversity & Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Awards
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast CI/CD Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  CI/CD Events. 
+
+
+
+
+
+
+ 
+
+
+						Early Bird Selected Talks					
+
+
+
+
+
+
+
+CI/CD as a Service: Moving Towards Scalable Continuous Delivery  Samed Guner & Abhinav Srivastava, SAPAt SAP Artificial Intelligence we build and run a large number of microservices from different teams across different time zones, different technologies and different hyperscalers.  Given this diversity in people, time and technologies everyone starts to build their own CI/CD, infrastructure management, testing strategies and many more. This leads to repetitive work, unfilled security/product standards, high lead time, firefighting and a sleepless operations team. So what is the answer to all of these problems?  As the central AI DevOps team we want to share our journey and experience in building a centrally governed CI/CD, one-click onboarding, infrastructure management, test strategy and delivery process. In particular how to use Jenkins pipelines at scale to support over 200 developers and how to streamline deployments using Spinnaker and ArgoCD while managing the infrastructure.Supercharge Cloud Migration with Progressive Delivery Rosemary Wang, Hashicorp.You’re ready to send some canary traffic to a newly refactored application in a new cloud provider while the former application resides in your current datacenter or cloud. However, you encounter a problem: you haven’t aggregated application metrics from both environments, and you’ll have to manually review a dashboard to determine whether or not to increase the percentage of canary traffic. Is there an automated way to do this? In this talk, Rosemary combines canary analysis with the powers of service mesh observability and traffic management to supercharge migrations in multiple environments with progressive delivery. She’ll demonstrate that setting up tools such as HashiCorp Consul, Prometheus, and Spinnaker can help scale the migration and support of refactored applications across multiple clouds or platforms while reducing their production risk.Evolution of CICD in CapitalOne Gokul Prabagaren & Rajesh Srinivasan, CapitalOneCapital One is the first U.S. bank to exit on-prem legacy data centers and go all in on the cloud. We came very far in our journey of being a 100% Cloud operated company. From the initial days of having separate teams to support and deploy the development team’s code changes to production, now we are deploying the majority of our production changes as CICD enabled push button changes. This talk focuses on our CICD journey from our humble beginnings to where we are today. It focuses on various phases of CICD development and adoption within our organization. From the initial days of custom scripting to matured inner-sourced framework for CICD, we have gone through various issues, challenges and learned a lot of lessons over the course of our journey. We felt it worth sharing with a broader audience in this forum.The 5-Step Checklist for your Migration to Tekton Priti Desai, IBM & Jerop Kipruto, GoogleWhat do you use to build, test, and deploy your cloud native applications? Is your choice of CI/CD solution powerful yet flexible for all of your use cases? Have you heard about Tekton? Tekton is an Open Source CI/CD pipelines execution engine. Tekton Pipelines can define Steps, Tasks (collection of steps), Custom Tasks (advanced Run objects), and Pipelines (collection of Tasks and Custom Tasks). Pipelines also support resources to connect multiple Tasks through input/output models or workspaces to share a file system across many different Tasks. Tekton is implemented based on four core design principles: Reusability Simplicity Flexibility Conformance Tekton is highly optimized for building and deploying cloud native applications compared to other CI/CD tools. In this session, we will demonstrate migrating common CI/CD pipelines to Tekton by building a checklist for the migration.How Netflix Autoscales CI  Rahul Somasunderam, NetflixNetflix’s CI currently builds about 35k unique build configurations and about 500k builds/wk. We use Spinnaker for CD and most of our infrastructure runs on AWS. In this talk, we will discuss how autoscaling is being used to improve efficiency and developer experience.Spinnaker at Airbnb  Jens Vanderhaeghe & Manish Maheshwari, AirbnbIt’s been almost two years since Airbnb started investing in Spinnaker. In the past year, we’ve hit some significant milestones in our quest to bring Continuous Delivery to all of Airbnb engineering. In this talk by Jens Vanderhaeghe (Software Engineer) and Manish Maheshwari (Product Manager), you will learn how we’ve made Spinnaker generally available and how we’ve convinced hundreds of teams to adopt Spinnaker for their deployment process. We’ll cover some of the challenges we’ve faced fitting Spinnaker to Airbnb’s specific use cases and how we leverage Spinnaker to reduce Airbnb site downtime and improve deployment velocity.
+Accelerate your Culture of Innovation with Everyday Inclusion  Shaaron Alverez, DisneyBased on 10 years of research on cognitive diversity and innovation, we know that safer and more inclusive DevOps teams perform and innovate better. Companies that have more diverse management drive 19% higher revenue due to greater innovation. Racially diverse teams outperform non-diverse ones by 35%. And 67% of job seekers look for evidence of inclusion and equality programs when considering a new company. Yet, leaders still struggle to create an inclusive environment for their teams. In this presentation, Shaaron will share effective and actionable practices to help DevOps teams and managers embody inclusion through everyday interaction and collaboration.
+
+
+
+
+
+
+
+
+Sponsors
+
+Diamond
+Platinum
+Gold
+Silver
+Start-Up
+Diversity & Inclusion 
+Community Awards
+Community 
+Media 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+ 
+#cdCon
+
+
+
+
+Diversity & Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Awards
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+

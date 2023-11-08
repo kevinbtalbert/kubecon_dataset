@@ -1,0 +1,230 @@
+
+
+
+
+FAQ | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Diversity & Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Awards
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast CI/CD Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  CI/CD Events. 
+
+
+
+
+
+
+ 
+
+
+						FAQ					
+
+
+
+
+Skip to page sectionWhat is cdCon?Who should attend cdCon?Is cdCon 2021 virtual?What if I miss a session or can't attend a session?Training Discount
+
+What is cdCon?
+cdCon is the annual event by the Continuous Delivery Foundation that brings together technology teams, enterprise leadership and open source communities to drive the future of software delivery. cdCon is a chance for our global community to come together to meet peers, share best practices and ideas, learn from each other and hear about the latest trends in software delivery.
+
+
+
+Who should attend cdCon?
+This year’s sessions are designed for 3 different types of audiences:
+Technology Teams: geared towards application developers, infra folks, DevOps engineers, security professionals, testers and any other practitioners involved with delivering software. Enterprise Leadership: for senior leaders and decision-makers from organizations interested in measuring DevOps, scaling, transformation, security, FinOps, and developer productivity. Open Source Communities: tailored for open source core contributors and maintainers running and growing CDF projects and special interest groups, as well as folks looking to get involved with open source for the first time. This includes Jenkins, Spinnaker, Tekton, Jenkins X and other CDF communities. 
+You can pick a channel to focus on or mix-and-match to tailor content relevant to your goals and interests. 
+
+
+
+Is cdCon 2021 virtual?
+Yes! Following on from our successful virtual experience in 2020, cdCon will be a virtual event based on the Hopin platform. Our community is global and built on remote collaboration and a virtual event enables us to bring together as much of our community as possible.  
+
+
+
+What if I miss a session or can’t attend a session?
+Every session will be recorded and made available for on-demand viewing soon after cdCon ends. Subscribe to our CDF Youtube channel to be notified when sessions are posted. See last year’s talks here: cdCon 2020.   
+
+
+Training Discount
+We are pleased to extend a one-time offer of 50% off one (1) of the following:
+DevOps and SRE Fundamentals: Implementing Continuous Delivery (LFS261)DevOps for Network Engineers (LFS266)CI/CD with Jenkins X (LFS268)Containers Fundamentals (LFS253)Jenkins Essentials (LFS267)Managing Kubernetes Applications with Helm (LFS244)
+
+To Claim Your Coupon Code:
+Login to MyProfile using your LFID and click My RewardsOn the My Coupons subpage, you can view a list of coupons/discounts/promotions associated with your accountClick on the View Coupon Code to claim coupon codeOnce you finish generating the coupon, go to the Training and Certification catalog, select the product you are interested in purchasing, choose to enroll, and add the coupon code at checkout.The coupon offer expires on Wednesday, June 30, 23:59 Pacific.
+ 
+
+
+ 
+
+
+
+
+Sponsors
+
+Diamond
+Platinum
+Gold
+Silver
+Start-Up
+Diversity & Inclusion 
+Community Awards
+Community 
+Media 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+ 
+#cdCon
+
+
+
+
+Diversity & Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Awards
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

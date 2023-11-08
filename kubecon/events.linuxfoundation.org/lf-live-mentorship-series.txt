@@ -1,0 +1,142 @@
+
+
+
+
+LF Live: Mentorship Series | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				LF Live: Mentorship Series			
+
+
+
+
+
+
+
+The Linux Foundation is pleased to offer a virtual mentoring series, entitled LF Live: Mentorship Series. Open Source Maintainers and community leaders will host virtual mentorship sessions designed to provide expert knowledge and valuable interactive discussion across a range of topics related to the Linux Kernel and other OS projects, primarily around development. 
+These Mentorship Webinars are free for anyone to attend, and are being offered to support the development of skills and further empowerment of the community. 
+Confirmed mentorship sessions are listed below. To be alerted when registration is live for each session, please subscribe at the bottom of this page. New sessions and mentors will continue to be added. 
+
+
+
+PAST MENTORSHIP SESSIONS
+
+November 2Run Fast! Catch Performance Regressions in eBPF with RustMentor: Everett Pompeii, Founder + Maintainer, BencherView Recording >>View Slides >>October 31Video Codecs and the Virtual Stateless Decoder Driver (visl)Mentor: Daniel Almeida, Consultant Software Engineer, CollaboraView Recording >>View Slides >>October 3Demystifying the Linux Kernel Security ProcessMentor: Greg Kroah-Hartman, Kernel Maintainer & Fellow, The Linux FoundationView Recording >>View Slides >>September 12Linux Kernel Debugging Tricks of the TradeMentor: Joel Fernandes, Staff Software Engineer, GoogleView Recording >>View Slides >>August 2Kernel Tracing Using eBPFMentor: Vandana Salve, Independent Linux Kernel ConsultantView Recording >>View Slides >>July 26The Kernel Concurrency SanitizerMentor: Marco Elver, Senior Software Engineer, GoogleView Recording >>View Slides >>June 7Debugging Linux Memory Management SubsystemMentor: Khalid Aziz, Consulting Linux Kernel Engineer, OracleView Recording >>View Slides >>May 2Tools and Techniques to Debug an Embedded Linux SystemMentor: Sergio Prado, Consultant & Trainer, Embedded LabworksView Recording >>View Slides >>April 19Testing the Media Subsystem: Compliance Tests and Virtual DriversMentor: Hans Verkuil, Senior Software Engineer R&D, Cisco Systems NorwayView Recording >>View Slides >>March 15How to Report and Handle Linux Kernel RegressionsMentor: Thorsten Leemhuis, Linux Kernel Regression TrackerView Recording >>View Slides >>February 15A Whistlestop Tour of Embedded LinuxMentor: Mark Brown, Principal Software Engineer, ArmView Recording >>View Slides >>December 7Make Linux Developers Fix Your Kernel BugMentor: Thorsten Leemhuis, Linux Kernel Regression TrackerView Recording >>View Slides >>September 29Setting Up an Environment for Writing Linux Kernel Modules In RustMentor: Wedson Almeida Filho, Software EngineerView Recording >>View Slides >>August 9Trust and the Linux Kernel Development ModelMentor: Greg Kroah-Hartman, Kernel Maintainer & Fellow, The Linux FoundationView Recording >>View Slides >>July 13Writing Linux Kernel Modules In RustMentor: Wedson Almeida Filho, Software Engineer, GoogleView Recording >>View Slides >>June 7Software Engineering and Functional SafetyMentor: Peter Brink, Functional Safety Engineering Leader, kVA by ULView Recording >>View Slides >>May 19Stress-ng: How to Stress Test Your Computer (and Possibly Break It)Mentor: Colin Ian King, Principle Engineer, IntelView Recording >>View Slides >>April 20Rust for Linux: Code Documentation & TestsMentor: Miguel Ojeda, Rust for Linux MaintainerView Recording >>View Slides >>March 15Huge Page Concepts in LinuxMentor: Mike Kravetz, Software Engineer, OracleView Recording >>View Slides >>February 23Unraveling RCU-Usage Mysteries (Additional Use Cases)Mentor: Paul E McKenney, Software Engineer, MetaView Recording >>View Slides >>January 20An Upstream Friendly Source Control Model And ToolingMentor: Andrew Delgadillo, Software Developer & Dylan Hatch, Software Engineer, GoogleView Recording >>View Slides >>December 7Unraveling RCU-Usage Mysteries (Fundamentals)Mentor: Paul E McKenney, Software Engineer, FacebookView Recording >>November 11Rust for Linux: Writing Safe Abstractions & DriversMentor: Miguel Ojeda, Rust for Linux MaintainerView Recording >>View Slides >>October 6Memoptimizer Watches Your Memory Usage So You Don’t Have To!Mentor: Khalid Aziz, Senior Software Engineer, OracleView Recording >>View Slides >>September 15It’s Not Just About Embedded! The Yocto ProjectMentors: Josef Holzmayr, Software Developer Embedded Systems, R-S-I Elektrotechnik GmbH & Co. KG and Nicolas Dechesne, Yocto Project Community Manager, LinaroView Recoding >>View Slides >>July 20Developing Secure Open Source Software (OSS)Mentor: Dr. David A. Wheeler, Director of Open Source Supply Chain Security, The Linux FoundationView Recording >>View Slides >>July 13Extra Boot Configuration and Boot-time TracingMentor: Masami Hiramatsu, Tech Lead, LinaroView Recording >>View Slides >>June 9A Tour of cgroup2 Resource Control with resctl-demoMentor: Tejun Heo, Software Engineer, FacebookView Recording >>View Slides >>June 4Tracing with Ftrace: Critical Tooling for Linux DevelopmentMentor: Steven Rostedt, Open Source Engineer, VMwareView Recording >>View Slides >>May 6An Introduction to Linux Tracing and its ConceptsMentor: Elena Zannoni, Senior Director of Linux Engineering, OracleView Recording >>View Slides >>April 27Time for Disrupting the Status Quo: Diversity in Open Source SoftwareMentor: Vandana Singh, Associate Professor, iSchool at University of Tennessee – KnoxvilleView Recording >>View Slides >>April 14Kernel Validation With KselftestMentor: Shuah Khan, Kernel Maintainer & Fellow, The Linux FoundationView Recording >>View Slides >>March 31KUnit Testing StrategiesMentor: Brendan Higgins, Engineer, GoogleView Recording >>View Slides >>March 25Generating Software Bill of MaterialsMentor: Kate Stewart, VP, Dependable Embedded Systems, The Linux FoundationView Recording >>View Slides >>March 2Fuzzing Linux KernelMentor: Andrey Konovalov, Senior Software Engineer, GoogleView Recording >>View Slides >>February 25Dynamic Program Analysis for Fun and ProfitMentor: Dmitry Vyukov, Principal Software Engineer, GoogleView Recording >>View Slides >>February 17Which Hat Do I Wear Today? The Balancing Act of Working with Upstream and Product TeamsMentor: Shuah Khan, Kernel Maintainer & Fellow, The Linux FoundationView Recording >>View Slides >>February 11New Ideas for Smatch (Static Analysis)Mentor: Dan Carpenter, Software Developer, OracleView Recording >>View Slides >>February 2Coccinelle: Automating Large-scale Evolution and Bug Finding in C CodeMentor: Julia Lawall, Senior Research Scientist, InriaView Recording >>View Slides >>January 27Static Analysis & ToolsMentor: Jan-Simon Möller, Release Manager, Automotive Grade LinuxView Recording >>View Slides >>January 222nd Place is the First Winner: Maintainership and Growing Your Influence in the Linux Kernel CommunityMentor: Dan Williams, Principal Engineer, IntelView Recording >>View Slides >>January 13Open Source LicensingMentor: Steve Winslow, Director of Strategic Programs, The Linux FoundationView Recording >>View Slides >>December 8Best Practices to Getting Your Patches AcceptedMentor: Greg Kroah-Hartman, Fellow, The Linux FoundationView Recording >>View Slides >> December 2How Do I Get Started with an Open Source Project?Mentor: Clyde Seepersad, SVP and GM, Training and Certification, The Linux FoundationView Recording >>View Slides >>October 29Writing Change Logs That Make SenseMentor: Shuah Khan, Kernel Maintainer & Fellow, The Linux FoundationView Recording >>View Slides >>
+
+
+
+
+Join our LF Live: Mentorship Series mailing list and be alerted when new sessions are added!
+
+
+The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.
+
+
+
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+

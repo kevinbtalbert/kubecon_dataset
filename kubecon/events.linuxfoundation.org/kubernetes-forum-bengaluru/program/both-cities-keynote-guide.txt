@@ -1,0 +1,314 @@
+
+
+
+
+Kubernetes Forum Bengaluru + Delhi 2020 Keynote Speaker Guide | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Why Attend
+Venue + Travel
+Novel Coronavirus Update
+Visa Request
+Diversity + Inclusion
+Diversity Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Day 2 Co-Located Events
+Call For Proposals (CFP)
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  KubeCon + CloudNativeCon + other CNCF Events. 
+
+
+
+
+
+
+ 
+
+
+						Kubernetes Forum Bengaluru + Delhi 2020 Keynote Speaker Guide					
+
+
+
+
+Skip to page sectionOverviewDeadlinesRegistration + Visa Requests + Travel FundingVenue + Hotel DetailsSchedule InformationAV Details + RequirementsPowerPoint Template + Co-Chair Meeting + Keynote Walk-ThruPromote Your TalkInclusivity CourseCode of ConductSchedule = Speaker Point of Contact
+
+
+Overview
+
+Thank you for being an international keynote speaker at both Kubernetes Forum Bengaluru, taking place February 17, 2020 at Manpho Convention Center in Bengaluru, India, and Kubernetes Forum Delhi, taking place February 20, 2020 at India Expo Center & Mart in Delhi, India.
+This is your official event speaker guide. Please bookmark this page for easy reference and continue to check back as the event gets closer as we will be adding additional speaker information, such as on-site details, as they are available. If you have any questions, please email Nanci Lancaster.
+Please click through the menu on the left to access information.
+
+
+
+
+Deadlines
+
+Important Dates + Deadlines
+Speaker Registration Deadline: Friday, January 3Travel Fund Request Deadline: Friday, January 10AV Requests Due: Friday, January 17Meet with Chairperson Deadline: Friday, January 31Presentation Deadline: Monday, February 10Keynote Stage Walk-Thru: Varies; See Calendar Invite for Details
+
+
+
+
+Registration
+
+Please register as a speaker as soon as possible via the instructions below and let me know if you have any issues in completing your registration.
+Kubernetes Forum Bengaluru
+Go to the speaker-specific registration pageEnter voucher code: KBBSPK20Complete all necessary information, hitting ‘next’ to each pagePress submit to complete registrationYou will receive an email confirmation
+Kubernetes Forum Delhi
+Go to the speaker-specific registration pageEnter voucher code: KFDELSPK20Complete all necessary information, hitting ‘next’ to each pagePress submit to complete registrationYou will receive an email confirmation
+
+Visa Letter Requests
+If you require a visa letter, please register for the events, and then complete the visa letter request forms for each event: Bengaluru visa letter request form; Delhi visa letter request form.
+We also ask that you please note the following:
+Provision of a visa letter by Linux Foundation does not guarantee visa approval as final approval is made at the sole discretion of the government of the event’s host country.The Linux Foundation strongly recommends requesting a visa letter at your earliest possible convenience and to contact your local Embassy/Consulate with any visa questions you may have.Linux Foundation processes most visa letter requests in (3) business days.
+
+Speaker Travel Funding
+CNCF is able to provide travel funding on a case by case basis to speakers who are unable to pay for their own travel expenses and whose companies are not willing to provide assistance.  The deadline to fill out the request form was Friday, January 10. If you are in need of travel funding, please email Nanci Lancaster.
+Note: Talk acceptance does not guarantee travel funding.
+Travel Requirement
+As a reminder, you are scheduled to speak at both events in Bengaluru and Delhi. You will be required to arrive in Bengaluru by February 16 for your talk on February 17, and arrive in Delhi by February 19 for your talk on February 20. If you believe you will no longer be able to commit to this travel requirement, please email Nanci Lancaster at speakers@cncf.io immediately.
+
+
+
+Venue Location
+Kubernetes Forum Bengaluru will be held at Manpho Convention Center, Bengaluru, India.
+Manpho Convention Center#90/C, Service RoadVeeranna PalyaBengaluru, Karnataka-560045, India
+
+Kubernetes Forum Delhi will be held at the India Expo Center & Mart, Delhi, India.
+India Expo Centre & MartPlot No. 23 –25 & 27- 29Knowledge Park IIGautam Budh Nagar
+Greater NOIDA – 201306, India
+
+
+Hotel Accommodations
+We have a few recommended hotels and invite you to view this information on our Bengaluru Venue + Travel page and our Delhi Venue + Travel Page. Please note, we have not contracted rooms at these properties and cannot guarantee rates or availability. We encourage you to book early to secure a room.
+We look forward to welcoming you to Bengaluru and Delhi!
+
+
+
+Schedule
+The schedule will be announced on Friday, December 13, and will be posted on our website using Sched.com. You will receive an email directly from Sched.com asking you to create your account for both cities: The Kubernetes Forum Bengaluru schedule and the Kubernetes Forum Delhi schedule.  Please upload your photo and bio no later than Friday, January 3.
+Please note that keynote sessions are 10-minutes each and sponsored keynote sessions are 5-minutes each. Keynote sessions occur in the morning, 9:00AM-10:00AM, and in the evening, 5:00PM–5:45PM, on Monday, February 17 in Bengaluru and Thursday, February 20 in Delhi. If you have a conflict with the timing of your talk please contact Nanci Lancaster.
+
+
+
+AV Details + Requirements
+Any additional AV requests are due by Friday, January 17
+The keynote room will include:
+Screen(s)Projector(s)Handheld + Lavalier MicrophonesWireless Slide AdvancerPodium
+NOTE: You will email your presentation to Nanci Lancaster and we will upload to the projectors from backstage. If you require any additional AV, please email Nanci Lancaster with those needs by Friday, January 17. CNCF will make every effort to accommodate additional A/V needs; however, final approval for additional A/V requests will be made on a case-by-case basis
+
+
+
+
+Speaker PowerPoint Presentation Template
+We designed optional Kubernetes Forum Bengaluru and Kubernetes Forum Delhi PowerPoint Templates for our speakers. Use of these templates is not required but we do welcome you to use them for your convenience: Bengaluru Template, Delhi Template.
+Helpful Notes on Presentation Design
+Obsolete, low-res (i.e., pixelated), and malformatted logos are an epidemic among conference presentations. High-res logos of over 1000 cloud native projects, products, and companies are available in the cloud native landscape and the serverless and member landscapes. All logos are in the card mode and can be found with Cmd-F or Cntl-F from your browser. Note that all of these logos are stacked, not horizontal, and include the name. The logos are all the most current (or you can open a pull request if they’re not). Also note that the text below the logo shows the proper capitalization of projects like gRPC and containerd. In particular, Alibaba Cloud, Amazon Web Services, Google Cloud, and Microsoft Azure have all changed their logos in the last couple years; please use their current one.Please see the CNCF style guide which covers things like abbreviating Kubernetes as K8s not K8 or K8S.
+Final Presentation + Chairperson Meeting
+Meet with Chairperson by Friday, January 31
+Email final Bengaluru and Delhi presentations to Nanci by Monday, February 10
+We strictly enforce a no-pitch, non-advertorial policy for all of our presentations, especially on the keynote stage. Leading up to the event, Davanum “Dims” Srinivas, the chairperson for both Kubernetes Forum Bengaluru and Kubernetes Forum Delhi, will contact you to review your presentation and ensure the messaging resonates with our audience. The deadline to meet with Dims Srinivas is Friday, January 31, and you must have a draft of your presentation at the time of the meeting.Your final Bengaluru and Delhi presentation slides are due by Monday, February 10. You will email them directly to Nanci Lancaster in 16:9, PowerPoint format only.
+Keynote Walk-Thru
+Bengaluru: Sunday, February 16
+Delhi: Wednesday, February 19
+All international keynote presenters are required to attend a 10-minute walk-thru of the keynote stage on February 16 in Bengaluru and February 19 in Delhi.This walk-thru will allow you to become familiar with the stage, what to expect on show-day, go over any a/v needs you may have (example: playing a video) and to click through your slides. This is a great opportunity to see if any issues may arise and resolve them ahead of the event.Please keep February 16 and 19 available for these walk-thrus.
+You will be assigned walk-thru times closer to the event. If you foresee any issues with attending your walk-thrus, please let Nanci Lancaster know as soon as possible to reschedule.
+
+
+
+Promote Your Talk
+
+Once the schedule is announced on December 13, we appreciate you spreading the word about #K8sForum and your session – please find some sample tweets below to share on your social channels! Note: The short link to your session can be found on your session’s sched.com page, just below the title, to the left of the “Tweet” and “Share” buttons.
+I just found out that my talk about [TOPIC] was accepted for an international keynote at #K8sForum Bengaluru and Delhi in February! 🎉 Come see me on February 17 and 20! [SESSION LINK]Going to #K8sForum Bengaluru or Delhi in February? Come check out my keynote [SESSION NAME] on February 17th in Bengaluru and the 20th in Delhi. Hope to see you there! [SESSION LINK]My first talk on [TOPIC] was just accepted for a keynote at both #K8sForum Bengaluru and Delhi  – visit [SESSION LINK] to add my talk to your Bengaluru schedule and [SESSION LINK] to add my talk to your Delhi schedule⚡️!Can’t wait for #K8sForum Bengaluru and #K8sForum Delhi! 👍 I will be speaking on February 17 in Bengaluru and February 20 in Delhi – Come see my keynote [TITLE] – Hope to see you there! [LINK TO SESSION – BENGALURU] [LINK TO SESSION – DELHI]Thrilled to have my session [SESSION TITLE] accepted for a keynote for both #K8sForum Bengaluru and Delhi! Visit https://bit.ly/38gDF9I and https://bit.ly/2P5lITU to check out the full lineups!
+Many thanks, and we look forward to seeing all of you in Bengaluru and Delhi!
+
+
+Inclusive Speaker Orientation Online Course
+The Linux Foundation, in collaboration with the National Center for Women in Technology (NCWIT), has created an online course designed to teach the viewer about inclusion, diversity and unconscious bias. It is strongly encouraged by the Cloud Native Computing Foundation that all our speakers watch the course to learn tips/tools to use when speaking to encourage inclusivity in presentations and messaging.
+
+
+
+Code of Conduct
+Please read, and abide by our code of conduct for Bengaluru and Delhi. Our code of conduct is strictly enforced. We ask that speakers especially review this code of conduct and are careful to be inclusive in the words and images used during their presentation.
+
+
+
+Schedule + Speaker Point of Contact
+Nanci Lancaster is your main point of contact for any speaker or schedule related questions. Please contact her at speakers@cncf.io.
+
+
+
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+GOLD
+SILVER
+BRONZE 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Register
+Why Attend
+Venue + Travel
+Novel Coronavirus Update
+Visa Request
+Diversity + Inclusion
+Diversity Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+Day 2 Co-Located Events
+Call For Proposals (CFP)
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

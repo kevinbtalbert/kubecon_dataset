@@ -1,0 +1,260 @@
+
+
+
+
+行動規範Code of Conduct | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+登録Register
+参加Attend
+
+行動規範Code of Conduct
+
+
+スポンサーSponsor
+プログラムProgram
+
+スケジュールSchedule
+各トラックのご案内Explore the Tracks
+注目の講演者Featured Speakers
+
+
+併設プログラムFeatures &Add-Ons
+
+体験できることExperiences
+
+
+お問い合わせContact Us
+View All Events
+EventsAll Upcoming EventsPast Automotive Grade Linux Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming Automotive Linux Summit. 
+
+
+
+
+
+
+ 
+
+
+						行動規範Code of Conduct					
+
+
+
+
+
+Linux Foundationやその傘下のプロジェクトのコミュニティは、わたしたちのすべてのイベントにおいて、それが物理的開催かバーチャル開催かにかかわらず、参加者がハラスメント（人権侵害や差別）を受けることのないよう努力しています。The Linux Foundationのイベントはオープンソース コミュニティにおける専門家間の交流とコラボレーションをめざした作業会議です。そして、アイデアや感想のオープンな交換を奨励し、あらゆる人々や集団が持つ価値を認める環境を要求します。The Linux Foundationのイベント、関連活動、またはソーシャル イベントにおいて、メンバー、講演者、来場者、ボランティア、スポンサー、展示関係者、ブース スタッフなどすべての参加者は、いかなる形のハラスメントにも関わってはなりません。
+この行動規範はThe Linux Foundationによって随時改訂され、本条件に交渉の余地はありません。すべてのLinux Foundationイベントに登録または参加することは、本ポリシーと条件を遵守することに同意したものとみなされます。
+The Linux Foundation and its project communities are dedicated to providing a harassment-free experience for participants at all of our events, whether they are held in person or virtually. Linux Foundation events are working conferences intended for professional networking and collaboration within the open source community. They exist to encourage the open exchange of ideas and expression and require an environment that recognizes the inherent worth of every person and group. While at Linux Foundation events or related ancillary or social events, any participants, including members, speakers, attendees, volunteers, sponsors, exhibitors, booth staff and anyone else, should not engage in harassment in any form.
+This Code of Conduct may be revised at any time by The Linux Foundation and the terms are non-negotiable. Your registration for or attendance at any Linux Foundation event, whether it’s held in person or virtually, indicates your agreement to abide by this policy and its terms.
+
+
+求められる行動
+すべてのイベント参加者は、そのイベントが物理的開催かバーチャル開催かにかかわらず、プロフェッショナルの基準、The Linux Foundationの行動規範、さらには各自の所属組織が定める適切な勤務態度に関するポリシー、および適用可能な法律に従って行動することが求められます。
+Expected Behavior
+All event participants, whether they are attending an in-person event or a virtual event, are expected to behave in accordance with professional standards, with both this Code of Conduct as well as their respective employer’s policies governing appropriate workplace behavior and applicable laws.
+
+
+容認できない行為
+そのイベントが物理的開催かバーチャル開催かにかかわらず、性、性同一性、性表現、性的指向、障害、容姿、体格、人種、年齢、宗教などによるハラスメンはもとより、カンファレンスやプログラムが開催される国や地域の法に保護された地位や立場によるハラスメントなど、いかなる形のハラスメントも容認されません。また、虐待的、攻撃的、または屈辱的表現の使用、脅迫、ストーキング、嫌がらせの写真や記録、不適切な物理的接触、性的画像、および迷惑な性的誘惑、または性的行為の要求などもハラスメントとみなします。わたしたちは、わたしたちのイベントにおけるあらゆるハラスメントに対し、そのイベントが物理的開催かバーチャル開催かにかかわらず、迅速に対応します。ハラスメント行為の停止を求められた参加者は、その要求に速やかに従ってください。容認できない行為の目撃者や被害者は、すぐにカンファレンス主催者にお知らせください。
+展示者は、性的画像、アクティビティ、またはその他の素材をブースで使用するべきではありません。また、性的な服装/制服/衣装の使用、あるいは性的環境の作成を行ってはいけません。講演者はその講演において、性的な表現、画像、あるいは、上で定義されているハラスメントの要素となるあらゆる表現や画像を使用するべきではありません。
+Linux Foundationイベントに参加する（または参加予定の）方は、イベント開催中およびその前後を含めいかなるときも、そのイベントが物理的開催かバーチャル開催かにかかわらず、ハラスメントや虐待行為を禁じる本ポリシーに実質ともに従うものとします。これには、ソーシャル メディアの投稿、オンライン掲載物、テキスト メッセージ、およびその他すべての形式の電子的やりとりで行われる発言が含まれます。
+Unacceptable Behavior
+Harassment will not be tolerated in any form, whether in person or virtually, including, but not limited to, harassment based on gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or any other status protected by laws in which the conference or program is being held. Harassment includes the use of abusive, offensive or degrading language, intimidation, stalking, harassing photography or recording, inappropriate physical contact, sexual imagery and unwelcome sexual advances or requests for sexual favors. Any report of harassment at one of our events, whether in person or virtual, will be addressed immediately. Participants asked to stop any harassing behavior are expected to comply immediately. Anyone who witnesses or is subjected to unacceptable behavior should notify a conference organizer at once.
+Exhibitors should not use sexualized images, activities, or other material in their booths and must refrain from the use of sexualized clothing, uniforms, costumes, or otherwise creating a sexualized environment. Speakers should not use sexual language, images, or any language or images that would constitute harassment as defined above in their talks.
+Individuals who participate (or plan to participate) in Linux Foundation events, whether its an in-person event or a virtual event, should conduct themselves at all times in a manner that comports with both the letter and spirit of this policy prohibiting harassment and abusive behavior, whether before, during or after the event.  This includes statements made in social media postings, on-line publications, text messages, and all other forms of electronic communication.
+
+
+容認できない行為が招く結果
+カンファレンス主催者は、それが物理的開催かバーチャル開催かにかかわらず、参加者がハラスメント行為に関与している場合は、違反者への警告やカンファレンスからの追放など、状況に応じて適切と思われるあらゆる行動をとります。返金処理は行いません。The Linux Foundationは、今後行われるすべてのLinux Foundationイベント、トレーニング、およびその他の活動からハラスメント行為に関わる参加者を排斥する権利を有します。
+そのイベントが物理的開催かバーチャル開催かにかかわらず、Linux Foundationイベントの参加者（または参加を希望している人物）が、ソーシャル メディアへの投稿やその他のオンライン掲載物、あるいは電子的やりとりによるその他の形式により、Linux Foundationイベントの開催中やその前後に本ポリシーに違反する行為に関わった場合、The Linux Foundationは適切な是正措置をとることができます。この是正措置には、今後のLinux Foundationイベントへの一時的または永続的な参加禁止なども含まれます。
+Consequences of Unacceptable Behavior
+If a participant engages in harassing behavior, whether in person or virtually, the conference organizers may take any action they deem appropriate depending on the circumstances, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund. The Linux Foundation reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further Linux Foundation events, trainings or other activities.
+If a participant (or individual wishing to participate in a Linux Foundation event, in-person and/or virtual), through postings on social media or other online publications or another form of electronic communication, engages in conduct that violates this policy, whether before, during or after a Linux Foundation event, The Linux Foundation may take appropriate corrective action, which could include imposing a temporary or permanent ban on an individual’s participation in future Linux Foundation events.
+
+
+容認できない行為の目撃者や被害者が行うべきこと
+ハラスメントを受けている当事者やハラスメント行為の目撃者、または懸念事項をお持ちの方は、カンファレンス スタッフに速やかにお知らせください。カンファレンス スタッフは、会場では T シャツやバッジを身に着けています。イベントの受付カウンターにも常駐スタッフがいます。イベント担当ゼネラルマネージャー Angela Brown (angela@linuxfoundation.org) にもぜひご連絡ください。
+What To Do If You Witness or Are Subject To Unacceptable Behavior
+If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the conference staff immediately. You are also encouraged to contact Angela Brown, General Manager of Events, at angela@linuxfoundation.org. 
+
+
+事故対応
+スタッフは事故対応訓練を受けており、ハラスメントの報告を受けた場合は、迅速かつ徹底的に対応します。前述のように、カンファレンス主催者は、それが物理的開催かバーチャル開催かにかかわらず、参加者がハラスメント行為に関与している場合、違反者への警告やカンファレンスからの追放など、状況に応じて適切と思われるあらゆる行動をとります。返金処理は行いません。The Linux Foundationは、今後行われるすべてのLinux Foundationイベント、トレーニング、およびその他の活動からハラスメント行為に関わる参加者を排斥する権利を有します。
+カンファレンス スタッフは、被害者に対して以下のようなサポートを行います。
+
+護衛ホテル・会場の警備員や最寄りの警察署への報告イベント スタッフへの指示と被害者支援その他、ハラスメントを受けている当事者が安心してカンファレンスに参加できるための支援
+
+Incident Response
+Our staff has taken incident response training and responds to harassment reports quickly and thoroughly. As referenced above, if a participant engages in harassing behavior, whether in-person or virtually, the conference organizers may take any action they deem appropriate, ranging from issuance of a warning to the offending individual to expulsion from the conference with no refund, depending on the circumstances. The Linux Foundation reserves the right to exclude any participant found to be engaging in harassing behavior from participating in any further Linux Foundation events, trainings or other activities.
+Conference staff will also provide support to victims, including, but not limited to:
+
+Providing an EscortContacting Hotel/Venue Security or Local Law EnforcementBriefing Key Event Staff For Response/Victim AssistanceAnd otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference.
+
+
+
+イベント前の懸念事項
+物理的開催かバーチャル開催かにかかわらず、ご自分はイベントに参加する予定だが、参加する可能性のある特定の人物について懸念があるという場合は、 Angela Brown (angela@linuxfoundation.org) までご連絡ください。あなたの安心と安全を確保するためのあらゆる予防措置 (護衛をつける、特別担当スタッフを準備する、被害者と加害者が同じ講演やソーシャル イベントに参加しないように調整する、緊急連絡用の直通電話番号を用意するなど) を行います。
+Pre-Event Concerns
+If you are planning to attend an upcoming event, whether in-person or virtually and have concerns regarding another individual who may be present, please contact Angela Brown (angela@linuxfoundation.org). Precautions will be taken to ensure your comfort and safety, including, but not limited to providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events and providing onsite contact cell phone numbers for immediate contact.
+
+
+
+
+
+スポンサー Sponsors
+
+ダイアモンド DIAMOND
+プラチナ PLATINUM
+ゴールド GOLD
+シルバー Silver
+ブロンズ Bronze 
+
+
+
+
+
+
+メーリングリストに参加して、イベントの最新情報やニュースをゲットしましょう。Join our mailing list to hear all the latest about events, news, and more!
+
+ 
+	入力された宛先に今後のイベント情報が配信されます。メーリングリストの登録はいつでも解除できます。詳細については、プライバシー ポリシーを参照してください。The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#autolinux
+
+
+
+
+登録 Register
+行動規範 Code of Conduct
+
+スポンサー Sponsor
+スケジュール Schedule
+各トラックのご案内 Explore the Tracks
+注目の講演者 Featured Speakers
+
+体験できること Experiences
+
+お問い合わせ Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

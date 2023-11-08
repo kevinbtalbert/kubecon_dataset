@@ -1,0 +1,529 @@
+
+
+
+
+Co-Located Events | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Experiences
+Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Keynote Speakers
+Interactive Sessions
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF EventsCNCF Homepage 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon Europe. 
+
+
+
+
+
+
+ 
+
+
+						Co-Located Events					
+
+
+
+
+Skip to page sectionCo-Located Event HostsCo-Located Event AttendeesAWS Container Day x KubeCon hosted by AWSBuild with GKE + Anthos hosted by Google CloudCharting our Kubernetes and Cloud Native Journey: Past, Present and Future (Roundtable) hosted by DatadogCloud Native Data Mgt Day hosted by Kasten, HPE, MinIO, NetApp, Portworx, Scality, StorageOS, VMwareCloud Native Rust Day hosted by CNCFCloud Native Security Day Europe hosted by CNCFCloud Native Wasm Day hosted by CNCFCommit at KubeCon: DevOps hosted by GitlabCrossplane Community Day Europe hosted by CNCFData on Kubernetes Day hosted by CNCFFluentCon: Cloud Native Logging day with Fluent Bit and Fluentd hosted by CNCF GIFEE Day hosted by Equinix MetalGitOps Con hosted by Weaveworks + Red HatHack my Application With Snyk, Docker, & AWSKubernetes AI Day hosted by CNCF + LF AI Kubernetes: Beyond the Basics hosted by VMwareKubernetes on Edge Day hosted by CNCFMagma Day hosted by CNCF + LFNOpenShift Commons Gathering hosted by Red HatOperator Day hosted by CanonicalPromCon Online 2021 hosted by CNCFRunning a Cloud-Native Data Tier with K8ssandra hosted by DataStaxScaleX hosted by CiscoServiceMeshCon hosted by CNCF
+
+Thank you to all of our co-located event hosts and those that participated! If you were registered for Cloud Native Rust Day, MagmaDay, and PromCon Online, you should have received a private YouTube link for viewing. They will be available on CNCF’s YouTube channel beginning Friday, May 14.Cloud Native Security Day, Cloud Native Wasm Day, Crossplane Community Day, FluentCon, K8s AI Day, K8s on Edge Day, and ServiceMeshCon are available on-demand in the event platform (event registration required) and will be will be available on CNCF’s YouTube channel beginning Friday, May 14.All sponsor-hosted co-located events are available at sponsor discretion and on their own platforms. Please reach out to the event organizer for further details.
+
+Co-Located Event Hosts
+
+Sponsorship sales for co-located event packages alongside KubeCon + CloudNativeCon Europe 2021 – Virtual are now closed. Interested in co-located event packages for KubeCon + CloudNativeCon North America 2021? Please complete our interest form, and we’ll be in touch early summer 2021!
+
+
+
+Co-Located Event Attendees 
+
+Want to attend a co-located event? See the list of official co-located events affiliated with KubeCon + CloudNativeCon Europe 2021 below! These events are NOT included in the purchase of a KubeCon + CloudNativeCon ticket. Pre-registration is required for each co-located event and many have a separate fee associated. You may add your preferred event by selecting it during the registration process or by logging back into your registration profile at any time!
+
+
+AWS Container Day x KubeCon hosted by AWS
+Date: Tuesday, May 4Time: 10:00 – 18:00 (CEST)Location:  VirtualRegistration Fees: Complimentary
+Join us for Container Day x KubeCon, a fully live, virtual day of sessions all about Amazon EKS and Kubernetes at AWS, hosted by Brent Langston and Adam Keller of Containers from the Couch. At this Day Zero KubeCon event, the AWS Kubernetes team will be revealing new launches, demoing products and features, covering best practices, and answering your questions live on Twitch!For questions regarding this event, please reach out to awscontainerday@amazon.com.
+
+
+Build with GKE + Anthos hosted by Google Cloud
+Date: Monday, May 3Time: 15:00 – 17:00 (CEST)Location:  VirtualRegistration Fees: Complimentary
+Join us at Build with GKE + Anthos, hosted alongside KubeCon + CloudNativeCon Europe 2021, to learn what is new in the world of containers and Kubernetes here at Google Cloud! Our modern end-to-end platform is built on the cloud-native principles you are already familiar with and prioritizes speed, security, and flexibility, in ways that are highly differentiated from other clouds. 
+This event will help you kick start or accelerate your journey developing on GKE, covering everything from code, build, run, operate, manage, and secure. You’ll get access to technical demos going deep into our Kubernetes services, Developer tools, Operational suite and Security solutions. 
+For questions regarding this event, please reach out to meetusatkubecon@google.com.
+
+
+Charting our Kubernetes and Cloud Native Journey: Past, Present and Future (Roundtable) hosted by Datadog
+Date: Tuesday, May 4Time: 16:00 – 17:30 (CEST)Location:  VirtualRegistration Fees: Complimentary
+Engineers at Datadog use Kubernetes on a daily basis to deploy their workloads to production. Datadog’s Kubernetes infrastructure includes dozens of clusters, hundreds of nodes per cluster, hundreds of thousands of pods, and it runs on several clouds.
+Just as sailors once used the stars as a guide we too can use measurement of our successes and failures to chart a course. Understanding history will help us predict the speed and course of Kubernetes and beyond.
+This roundtable will bring together engineers who work on building our own production infrastructure and those who are responsible for building Datadog’s observability features for Kubernetes.
+They will discuss their takes on the cloud native ecosystem today, the Kubecon EU 2021 announcements, and sessions they are excited about and what they believe will be the key changes for Kubernetes in the next 12 months.For questions regarding this event, please reach out to katie@datadog.com.
+
+
+Cloud Native Data Mgt Day hosted by Kasten, HPE, MinIO, NetApp, Portworx, Scality, StorageOS, VMware
+Date: Tuesday, May 4Time: 12:00 – 17:00 (CEST)Location:  VirtualRegistration Fees: Complimentary
+Cloud Native Data Management Day is designed to bring together various stakeholders in the Kubernetes storage, application backup, and mobility community to discuss and share current opportunities and solutions in cloud native data management. This event shares customer journeys and highlights industry experts across storage, data services, and backup vendors. Please join us!
+For questions regarding this event, please reach out to info@cndmday.com.
+
+
+Cloud Native Rust Day hosted by CNCF
+Date: Monday, May 3Time: 10:30 – 18:00 (CEST)Location:  VirtualRegistration Fees: USD $20
+That’s a wrap on Cloud Native Rust Day at KubeCon + CloudNativeCon Europe 2021! Thank you to all the attendees, sponsors and speakers that joined us virtually this year. The event platform is now closed. Registered attendees will be sent a link to session recordings in the post-event email and may continue to visit sponsor booths and enjoy many of our experiences on the KubeCon + CloudNativeCon platform (MeetingPlay), including our Slack workspace which will remain open until May 14.  Additionally, all session recordings will be uploaded to the CNCF YouTube channel by May 14.
+Rust is a language empowering everyone to build secure, reliable, and efficient software. Rust is becoming more widely used in cloud native, powering everything from lightning-fast service meshes and powerful developer tools to internet-scale distributed databases.
+Come explore what makes Rust a fantastic choice for new cloud native development, and learn about how the community uses Rust today. 
+We invite attendees across experience levels and previous languages, and we will have an introductory workshop for those just starting out.
+Who Should Attend? Developers looking to effectively build & run cloud native Rust applications on Kubernetes. Engineers who want to develop safe, secure, and performant tools & frameworks to support cloud native infrastructure.
+We will be featuring a workshop on beginning Rust for cloud native development and a single track of talks.
+More details available here. 
+
+
+
+view schedule
+
+
+The Sched app allows you to build your schedule but is not a substitute for your event registration. You must be registered for KubeCon + CloudNativeCon Europe 2021 – Virtual and add this Co-Located event to your registration to participate in these sessions.
+
+
+For questions regarding this event, please reach out to events@cncf.io. 
+
+
+Cloud Native Security Day Europe hosted by CNCF
+Date: Tuesday, May 4Time: 10:00 – 18:00 (CEST)Location:  VirtualRegistration Fees: USD $20
+That’s a wrap on Cloud Native Security Day at KubeCon + CloudNativeCon Europe 2021! Thank you to all the attendees, sponsors and speakers that joined us virtually this year. The event platform will continue to be accessible through June 17. You can continue to view session recordings, visit sponsor booths and enjoy many of our experiences, including our Slack workspace which will remain open until May 14. 
+Cloud Native Security Day is designed to foster collaboration, discussion and knowledge sharing of discuss cloud native security projects and how to best use these to address security challenges and opportunities. The goal is not just to propose solutions that incrementally improve what has come before, but to give room to breakthrough technology and advances in modern security approaches. Topics of sessions and lightning talks presented by expert practitioners include architecture and policy, secure software development, supply chain security, identity and access, forensics, and more. In addition to engaging sessions, a hosted Capture The Flag (CTF) learning experience will run in parallel to the event for attendees to learn first hand practical attack and defense techniques.
+More details available here. 
+
+
+
+view schedule
+
+
+The Sched app allows you to build your schedule but is not a substitute for your event registration. You must be registered for KubeCon + CloudNativeCon Europe 2021 – Virtual and add this Co-Located event to your registration to participate in these sessions.
+
+
+For questions regarding this event, please reach out to events@cncf.io. 
+
+
+Cloud Native Wasm Day hosted by CNCF
+Date: Tuesday, May 4Time: 10:00 – 18:00 (CEST)Location:  VirtualRegistration Fees: USD $20
+That’s a wrap on Cloud Native Wasm Day at KubeCon + CloudNativeCon Europe 2021! Thank you to all the attendees, sponsors and speakers that joined us virtually this year. The event platform will continue to be accessible through June 17. You can continue to view session recordings, visit sponsor booths and enjoy many of our experiences, including our Slack workspace which will remain open until May 14.
+
+WebAssembly (Wasm) is a fast, efficient, and portable binary instruction format for programming languages, providing an embeddable and safe execution environment for platform extensions. Started in 2015, Wasm became a popular way to extend web applications and is gaining momentum for server side and cloud native applications as well.
+Join us for a day of discussion and to learn more about the intersection of cloud native and web assembly.
+More details available here. 
+
+
+
+view schedule
+
+
+The Sched app allows you to build your schedule but is not a substitute for your event registration. You must be registered for KubeCon + CloudNativeCon Europe 2021 – Virtual and add this Co-Located event to your registration to participate in these sessions.
+
+
+For questions regarding this event, please reach out to events@cncf.io. 
+
+
+Commit at KubeCon: DevOps hosted by Gitlab
+Date: Tuesday, May 4Time: 12:00 – 18:00 (CEST)Location:  VirtualRegistration Fees: Complimentary
+Bringing together the GitLab community, Commit shares stories from across the software development lifecycle to inspire and connect teams to innovate together. GitLab Commit at KubeCon: DevOps will showcase how software professionals iterate to spark transformation, innovation, and collaboration. During this half-day event, attendees will learn practical techniques and useful insights to implement at their organizations. As an open DevOps platform, GitLab supports teams to change how software is delivered. GitLab Commit at KubeCon: DevOps amplifies stories of transformation to empower DevOps teams to increase velocity, collaboration, and visibility. 
+Join us on May 4, 2021 to learn how to build better software faster with DevOps. Register now to save your spot!
+How to Register: Register here for Commit at KubeCon: DevOps!
+For questions regarding this event, please reach out to commit@gitlab.com.
+
+
+Crossplane Community Day Europe hosted by CNCF
+Date: Tuesday, May 4Time: 10:00-17:30 (CEST)Location:  VirtualRegistration Fees: USD $20
+That’s a wrap on Crossplane Community Day at KubeCon + CloudNativeCon Europe 2021! Thank you to all the attendees, sponsors and speakers that joined us virtually this year. The event platform will continue to be accessible through June 17. You can continue to view session recordings, visit sponsor booths and enjoy many of our experiences, including our Slack workspace which will remain open until May 14.
+
+Crossplane Community Day Europe(#Crossplaneday) is designed to foster collaboration, discussion and knowledge sharing of Crossplane, a CNCF project which extends the Kubernetes API to manage and compose infrastructure form multiple cloud vendors and infrastructure providers. Topics include getting started with and adopting Crossplane, scaling and managing Crossplane across clouds,securing applications with Crossplane, lessons learned from production deployments, technical sessions from Crossplane maintainers and thought leadership from both the Crossplane and Kubernetes communities. 
+We have a speaker lineup that features an array of backgrounds, experience levels and perspectives – to help everyone increase their understanding of open source Crossplane and unlock new levels of productivity and efficiency in their organizations.
+More details available here. 
+
+
+
+view schedule
+
+
+The Sched app allows you to build your schedule but is not a substitute for your event registration. You must be registered for KubeCon + CloudNativeCon Europe 2021 – Virtual and add this Co-Located event to your registration to participate in these sessions.
+
+
+For questions regarding this event, please reach out to events@cncf.io. 
+
+
+Data on Kubernetes Day hosted by CNCF
+Date: Monday, May 3Time: 10:00 – 17:00 (CEST)Location:  VirtualRegistration Fees: Complimentary
+ALREADY REGISTERED? JOIN NOW!
+The Data on Kubernetes Community is an open space in which users of Kubernetes for data share their experiences, compare approaches, and generally commiserate and collaborate.
+The Data on Kubernetes Community was started in the summer of 2020 and since then has:
+Hosted nearly 50 talksGrown to 500+ members on SlackBranched into Spanish/Portuguese talks and content in addition to English
+Schedule: Check it here!
+Please join us. By registering, you will be registered for the frequent meet-ups, for our newsletter (no marketing, just community content), and for the DOKC Slack.
+Highlights have included:
+The Hello World talk by Patrick McFadin of Datastax who spoke about the evolution of Kubernetes to operate Cassandra and vise-versa and the education of DBAs on their journey to becoming data SREsAn examination of Argo for Workflow in Data Pipelines by Stephen Bailey of ImmutaThe architecture of a distributed database by Jim Walker of CockroachDBHypsterStore-C: S3 object storage managed by Kubernetes with Gary Ogasawara CTO at Cloudian 
+Originally sponsored by MayaData, the originator of OpenEBS, and more recently joined by Datastax, famous for their support of Cassandra, the Data on Kubernetes community is a vendor-neutral environment focused on practitioners. The community is in the process of being absorbed by the CNCF itself for open governance and to assist in ongoing funding and collaboration. 
+Your ideas and your experience in using Kubernetes for Data are welcome and needed.
+How to Register: Pre-registration is required. To register for Data on Kubernetes Day, add it on during your KubeCon + CloudNativeCon registration.For questions regarding this event, please reach out to events@dok.community.
+
+
+FluentCon: Cloud Native Logging Day with Fluent Bit and Fluentd hosted by CNCF
+Date: Tuesday, May 4Time: 10:30 – 17:30 (CEST)Location:  VirtualRegistration Fees: USD $20
+That’s a wrap on FluetCon at KubeCon + CloudNativeCon Europe 2021! Thank you to all the attendees, sponsors and speakers that joined us virtually this year. The event platform will continue to be accessible through June 17. You can continue to view session recordings, visit sponsor booths and enjoy many of our experiences, including our Slack workspace which will remain open until May 14.
+
+Cloud Native Logging Day aims to bring developers and users from the Fluent community to discuss, exchange, and share experiences using Fluentd and Fluent Bit. Whether you are a pro operating at petabyte scale or looking to bring more visibility into your Cloud Native environment, we invite you to join the discussion.
+Learn from experts operating Fluentd and Fluent Bit to run their observability pipelines and avoid common pitfalls when implementing at scale. Understand how users in the financial, security, and enterprise software space can meet critical performance and privacy requirements with breakout sessions. Get connected and start discussions with other users who are leveraging the project, and help define the project’s evolution in the coming year.
+More details available here. 
+
+
+
+view schedule
+
+
+The Sched app allows you to build your schedule but is not a substitute for your event registration. You must be registered for KubeCon + CloudNativeCon Europe 2021 – Virtual and add this Co-Located event to your registration to participate in these sessions.
+
+
+For questions regarding this event, please reach out to events@cncf.io. 
+
+
+GIFEE Day hosted by Equinix Metal (REGISTRATION NOW CLOSED)
+Date: Tuesday, May 4Time: 15:00 – 20:30 (CEST)Location:  VirtualRegistration Fees: Complimentary
+In 2016, Alex Polvi at CoreOS coined the term “GIFEE” (Google’s Infrastructure for Everyone Else) to describe the benefits unlocked by containers at scale: agility, secure, efficiency, and reliability. Five years in, the cloud native vision has thrived beyond the wildest of imaginations.  
+So what’s next for GIFEE? In a word: hardware. While cloud native software and management practices have proliferated, “next level” innovation increasingly depends on having specialized hardware in the right place at the right time. At GIFEE Day, we’ll look at the future of cloud native from an infrastructure lens: from provisioning and securing to monitoring and optimizing.  
+GIFEE Day is complimentary to all KubeCon + CloudNativeCon Europe 2021 attendees. We’ll have 8 great livestream sessions from diverse community members hosted by Equinix Metal.
+View the GIFEE Day schedule on the event website!
+How to Register: Registration for GIFEE Day is now closed!
+For questions regarding this event, please reach out to tcrowe@equinix.com.
+
+
+GitOps Con hosted by Weaveworks + Red Hat
+Date: Monday, May 3Time: 14:00 – 20:00 (CEST)Location:  VirtualRegistration Fees: Complimentary
+GitOps Con Europe (#GitOpsCon) is designed to foster collaboration, discussion and knowledge sharing on GitOps. This event is aimed at audiences that are new to GitOps as well as those currently using GitOps within their organization. Get connected with others that are passionate about GitOps. Learn from practitioners about pitfalls to avoid, hurdles to jump, and how to adopt GitOps in your cloud native environment.
+The event is vendor-neutral and is being organized by the CNCF GitOps Working Group. Topics include getting started with GitOps, scaling and managing GitOps, lessons learned from production deployments, technical sessions, and thought leadership.
+View the event website for more information!
+For questions regarding this event, please reach out to sonja@weave.works.
+
+
+Hack my Application With Snyk, Docker, & AWS – SOLD OUT (WAITLIST AVAILABLE)
+Date: Tuesday, May 4Time: 16:00 – 19:00 (CEST)Location:  VirtualRegistration Fees: Complimentary
+Modern applications are built using modern DevOps processes, with frequent integration and deployments happening several times a day. To enable pace and scale, however, application security must start with developers, allowing security teams to move away from an audit-and-gate function and into an empowering and governing role within the organization.
+Join Snyk, Docker and AWS to get hands-on experience identifying threats, vulnerabilities, and misconfigurations that are common in cloud native applications today, and fixing those issues through clear actions and best practices for each attack scenario.
+In this workshop, you will:
+Learn how to find and fix container vulnerabilities using Docker as you build and test images locally.Manage vulnerabilities in container images in Docker Hub and running Amazon EKS workloads.Spot and correct Kubernetes configuration problems that could open your clusters up to additional attacks.
+Earn swag as you complete each module and advance to the next level.
+View the event website for more information!
+For questions regarding this event, please reach out to sarah.conway@snyk.io.
+
+
+Kubernetes AI Day hosted by CNCF + LF AI
+Date: Tuesday, May 4Time: 10:00 – 15:30 (CEST)Location:  VirtualRegistration Fees: USD $20
+That’s a wrap on Kubernetes AI Day at KubeCon + CloudNativeCon Europe 2021! Thank you to all the attendees, sponsors and speakers that joined us virtually this year. The event platform will continue to be accessible through June 17. You can continue to view session recordings, visit sponsor booths and enjoy many of our experiences, including our Slack workspace which will remain open until May 14.
+Kubernetes is becoming a common substrate for AI that allows for workloads to be run either in the cloud or in its own data center, and to easily scale. Join us for Kubernetes AI Day to delve deeper into deploying AI at scale using Kubernetes.
+More details available here. 
+
+
+
+view the schedule
+
+
+The Sched app allows you to build your schedule but is not a substitute for your event registration. You must be registered for KubeCon + CloudNativeCon Europe 2021 – Virtual and add this Co-Located event to your registration to participate in these sessions.
+
+
+For questions regarding this event, please reach out to events@cncf.io. 
+
+
+Kubernetes: Beyond the Basics hosted by VMware (REGISTRATION NOW CLOSED)
+Date: Tuesday, May 4Time: 9:00 – 17:00 (CEST)Location:  VirtualRegistration Fees: USD $20 donated to the CNCF Diversity Scholarship Fund
+You know how to build containers and know what a pod is. In this one-day workshop, you’ll learn more about and get hands-on experience with interacting with Kubernetes. In particular, we will look at:
+Kubernetes networkingOrganizing resources in clusters and namespacesStorage and stateful applicationsDynamic application configuration“One-off” and scheduled workloadsSecurity
+*Prerequisites:
+Laptop with the latest version of Chrome or FirefoxLinux concepts and command line proficiencyGeneral networking proficiencyBasic Familiarity with Docker container management and creationFamiliarity with Kubernetes concepts such as Pods, Services and DeploymentsKnowledge of kubectl and the ability to deploy simple applications and to examine application events and logs
+How to Register: Registration is now CLOSED for Kubernetes: Beyond the Basics!
+For questions regarding this event, please reach out to ldupuis@vmware.com.
+
+
+Kubernetes on Edge Day hosted by CNCF
+Date: Tuesday, May 4Time: 10:00 – 16:30 (CEST)Location:  VirtualRegistration Fees: USD $20
+That’s a wrap on Kubernetes on Edge Day at KubeCon + CloudNativeCon Europe 2021! Thank you to all the attendees, sponsors, and speakers that joined us virtually this year. The event platform will continue to be accessible through June 17. You can continue to view session recordings, visit sponsor booths and enjoy many of our experiences, including our Slack workspace which will remain open until May 14.
+Edge Computing will be 4x larger than cloud and will generate 75% of data worldwide by 2025. With hardware and software spread across hundreds or thousands of locations, the only feasible way to manage these distributed systems are the simple paradigms around observability, loosely coupled systems, declarative APIs, and robust automation, that have made cloud native technologies so successful in the cloud. Kubernetes is already becoming a key part of the edge ecosystem, driving integrations and operations.
+Join Kubernetes on Edge at KubeCon + CloudNativeCon to get in on the ground floor and shape the future intersection of cloud native and edge computing.
+More details available here. 
+
+
+
+view schedule
+
+
+The Sched app allows you to build your schedule but is not a substitute for your event registration. You must be registered for KubeCon + CloudNativeCon Europe 2021 – Virtual and add this Co-Located event to your registration to participate in these sessions.
+
+
+For questions regarding this event, please reach out to events@cncf.io. 
+
+
+Magma Day hosted by CNCF + LFN
+Date: Monday, May 3Time: 14:30-18:00 (CEST)Location:  VirtualRegistration Fees: USD $20
+That’s a wrap on Magma Day at KubeCon + CloudNativeCon Europe 2021! Thank you to all the attendees, sponsors, and speakers that joined us virtually this year. The event platform is now closed. Registered attendees will be sent a link to session recordings in the post-event email and may continue to visit sponsor booths and enjoy many of our experiences on the KubeCon + CloudNativeCon platform (MeetingPlay), including our Slack workspace which will remain open until May 14.  Additionally, all session recordings will be uploaded to the CNCF YouTube channel by May 14.
+Magma: The open source core for wireless networks.
+Magma Day is designed to bring CNCF/Kubernetes, LF Networking and LF Edge communities working across 4G, 5G, and global connectivity together. Magma Day will include a comprehensive review of Magma [use cases, roadmap, vision, architecture] and how to build end-to-end telecom solutions using Magma across open source projects. More details available here.
+
+
+
+view schedule
+
+
+The Sched app allows you to build your schedule but is not a substitute for your event registration. You must be registered for KubeCon + CloudNativeCon Europe 2021 – Virtual and add this Co-Located event to your registration to participate in these sessions.
+
+
+For questions regarding this event, please reach out to events@cncf.io.
+
+
+OpenShift Commons Gathering hosted by Red Hat
+Date: Tuesday, May 4Time: 12:00 – 17:00 (CEST)Location:  VirtualRegistration Fees: Complimentary
+The OpenShift Commons Gathering at KubeCon EU will focus on talks from end users with production deployments of OpenShift sharing their use cases and lessons learned. Topics covered during this Gathering include hybrid cloud infrastructure, cloud-native development, and future technologies.
+For questions regarding this event, please reach out to mbecker@redhat.com.
+
+
+Operator Day hosted by Canonical
+Date: Monday, May 3Time: 8:00 – 23:59 (CEST)Location:  VirtualRegistration Fees: Complimentary
+Operators simplify everyday application management on Kubernetes. Learn how to use them, how to create them in Python, and how to evolve from configuration management to application management. We’re working to create a community-driven collection of operators for everything that’s integrated and tested everywhere.
+The sessions will repeat in 3 time zone friendly blocks, for Asia, EMEA and Americas. Each block starts with a keynote introduction with Mark Shuttleworth, then leads attendees through a hands-on training. Along the way we’ll dive into K8s, operators, Kubeflow, K8s at the Edge, and a variety of other topics. The session wraps up with community discussion on model-driven operations and the role of devs, ops, and SREs in cloud applications of the future. You can join at any time, but we recommend you pick the most convenient slot and follow it from start to finish so that you make the most out of each session.
+Asia: 14:00-18:00 CST (07:00 – 11:00 CEST)EMEA: 13:00-17:00 BST (14:00 – 18:00 CEST) Americas: 11:00-15:00 PST (20:00 – 00:00 CEST)
+Special feature: 18:00-19:30 CEST ONLYMark Shuttleworth and Ken Sipe (distributed application engineer and internationally renowned software engineering speaker) co-host a community session on building a model driven operations manifesto
+Visit the event website for more information!
+For questions regarding this event, please reach out to anastasia.valti@canonical.com.
+
+
+PromCon Online 2021 hosted by CNCF 
+Date: Monday, May 3Time: 10:00 – 18:30 (CEST)Location:  VirtualRegistration Fees: USD $20
+PromCon Online 2021 is the sixth installment of the PromCon conference dedicated to the Prometheus monitoring system. It will take place online on Monday, May 3, 2021, as a co-located event of KubeCon + CloudNativeCon Europe 2021 – Virtual.
+PromCon aims to connect Prometheus users and developers from around the world in order to exchange knowledge, best practices, and experience gained around using Prometheus. We also want to collaborate to build a community and grow professional connections around systems and service monitoring.
+More details available here. 
+
+
+
+view schedule
+
+
+The Sched app allows you to build your schedule but is not a substitute for your event registration. You must be registered for KubeCon + CloudNativeCon Europe 2021 – Virtual and add this Co-Located event to your registration to participate in these sessions.
+
+
+For questions regarding this event, please reach out to events@cncf.io. 
+
+
+Running a Cloud-Native Data Tier with K8ssandra hosted by DataStax (REGISTRATION NOW CLOSED)
+Date: Tuesday, May 4Time: 16:00 – 19:00 (CEST)Location:  VirtualRegistration Fees: Complimentary
+Many teams building highly scalable, cloud-native applications, have struggled with finding a data solution that can keep pace with the needs of their application. Often this has meant a choice between using a managed database, or taking on the task of deploying and managing a distributed database on Kubernetes. Apache Cassandra™ is a powerful database used in many applications that require resilience and scalability, but has traditionally been challenging to deploy and manage effectively on Kubernetes. Now the Kubernetes and Cassandra communities have come together in a great collaboration called K8ssandra, a production-ready platform that makes it easy to run Cassandra™ on Kubernetes. 
+In this workshop, you will learn how to deploy and manage a data tier based on Apache Cassandra™ cluster in Kubernetes using K8ssandra. We’ll explore activities using hands-on exercises, that include:
+Creating a K8ssandra release using HelmUsing a benchmarking tool (NoSQLBench) to generate read/write load on the databaseMonitoring database performance through metrics and alertsBreaking nodes in the database cluster on purpose to observe how Cassandra self-healsScaling the database up and downDeploying applications on top of the database using CQL and REST APIsBacking up and restoring data
+Presented byAleks Volochnev, DataStaxJeff Carpenter, DataStax
+How to Register: Registration is now CLOSED for Running a Cloud-Native Data Tier with K8ssandra!For questions regarding this event, please reach out to  jessica.benton@datastax.com.
+
+
+ScaleX hosted by Cisco (REGISTRATION NOW CLOSED)
+Date: Tuesday, May 4Time: 10:00 – 17:00 (CEST)Location:  VirtualRegistration Fees: USD $20 donated to the CNCF Diversity Scholarship Fund
+Today, it’s all about apps and digital services – not just to keep the business running – but also to grow and compete even more aggressively. But modern cloud native development can be complicated with the lack of true pipeline integration across tools for application platforms, security, and networking for an app-first world.
+And this is exactly what inspired us to create ScaleX.
+Join us to hear a prestigious line-up of presenters who will be sharing their experiences and knowledge around building for scalability and reliability and what that means for the modern cloud native developer. This second edition of ScaleX, hosted by Cisco, will feature a full day of sessions, deep dives, panels, and use cases from people just like you…the people building, operating, and maintaining secure, reliable cloud native systems at scale.
+Visit the event website for more information!
+How to Register: Registration is now CLOSED for ScaleX!
+For questions regarding this event, please reach out to Gary Kevorkian.
+
+
+ServiceMeshCon Europe hosted by CNCF
+Date: Tuesday, May 4Time: 10:00 – 17:15 (CEST)Location:  VirtualRegistration Fees: USD $20
+That’s a wrap on ServiceMeshCon at KubeCon + CloudNativeCon Europe 2021! Thank you to all the attendees, sponsors and speakers that joined us virtually this year. The event platform will continue to be accessible through June 17. You can continue to view session recordings, visit sponsor booths and enjoy many of our experiences, including our Slack workspace which will remain open until May 14.
+
+ServiceMeshCon is a vendor-neutral conference on service mesh technologies. Topics include getting started with and adopting a mesh, lessons learned from production deployments, and technical sessions from service mesh maintainers.
+More details available here. 
+
+
+
+view schedule
+
+
+The Sched app allows you to build your schedule but is not a substitute for your event registration. You must be registered for KubeCon + CloudNativeCon Europe 2021 – Virtual and add this Co-Located event to your registration to participate in these sessions.
+
+
+For questions regarding this event, please reach out to events@cncf.io. 
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+GOLD
+SILVER
+START-UP
+END USER
+DIVERSITY EVENT + SCHOLARSHIP
+MEDIA PARTNERS 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+#KubeCon + #CloudNativeCon
+
+
+
+
+Experiences
+Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Keynote Speakers
+Interactive Sessions
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+

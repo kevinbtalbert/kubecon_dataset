@@ -1,0 +1,333 @@
+
+
+
+
+Co-Located Events | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Featured Speakers
+Explore the Tracks
+Program Committee
+
+
+Features &Add-Ons
+
+Experiences
+Speed Mentoring
+Resume Writing Workshop
+Allyship Workshop
+Ask the Expert Sessions
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Embedded & IoT Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming Embedded Linux Conference. 
+
+
+
+
+
+
+ 
+
+
+						Co-Located Events					
+
+
+
+
+Skip to page sectionCIP Mini SummitFinOps Mini-SummitLF AI Foundation Mini-SummitLF Edge Mini-SummitLinux Security Summit North AmericaODPi - Making Data BetterOpenChain Mini-SummitOpen Mainframe Project Mini-SummitSODA - One Data Framework, Infinite PossibilitiesYocto Project® Dev Day Virtual North AmericaZephyr Mini-Summit
+
+CIP (Civil Infrastructure Platform) Mini-Summit
+
+July 2, 2020 | 10:00 – 11:30 amRegistration Fees: Complimentary to all OSS+ELC NA Attendees
+The CIP Mini-Summit is a 90-minute, single-track event on the topic of industrial open source system which is based on Linux. The main goal of this event is to provide technical details and overview to develop industrial grade CIP open source base layer. Sub-groups of CIP will talk about current development activities as well as future plans. Attendees will get to know how their products can leverage CIP’s SLTS(Super Long Term Support) to develop Industrial grade products. 
+Topics to be covered:
+State of Civil Infrastructure PlatformCIP Kernel Team Activities towards Super Long Term SupportStatus update for testing within CIPCIP Security towards achieving industrial grade security
+How to Register: Pre-registration is required.  To register for the CIP Mini-Summit, add it on to your Open Source Summit + Embedded Linux Conference North America registration. 
+For questions regarding this event, please reach out to events@linuxfoundation.org.
+
+
+
+FinOps Mini-Summit
+
+July 2, 2020 | 3:30 – 5:00 pmRegistration Fees: Complimentary to all OSS+ELC NA Attendees
+The FinOps Mini-Summit is a 90-minute, single-track event on the topic of cloud financial management best practices. It will feature real-world stories, expertise, and inspiration for and by FinOps practitioners on cloud financial management best practices in engineering-focused companies.
+Topics to be covered:
+Why Cloud Financial Management has developedShifting responsibility for cloud spending to product teamsImplementing cost accountability and allocationStrategies for ensuring developers take action on cost actionsMetrics-driven cost optimization in cloud
+How to Register: Pre-registration is required.  To register for the FinOps Mini-Summit, add it on to your Open Source Summit + Embedded Linux Conference North America registration. 
+For questions regarding this event, please reach out to events@linuxfoundation.org.
+
+
+
+LF AI Foundation Mini-Summit
+
+July 2, 2020 | 10:00 – 11:30 amRegistration Fees: Complimentary to all OSS+ELC NA Attendees
+The LF AI Foundation’s mission is to build and support an open AI community, and drive open source innovation in the AI, ML, and DL domains by enabling collaboration and the creation of new opportunities for all the members of the community. We invite you to join us for our LF AI Foundation Mini Summit where we will cover the latest updates from the Foundation, Technical Advisory Council, Trusted AI Committee, technical projects, and more. We look forward to uncovering new collaboration opportunities among our growing community. Join us!
+How to Register: Pre-registration is required.  To register for the LF AI Foundation Mini-Summit, add it on to your Open Source Summit + Embedded Linux Conference North America registration. 
+For questions regarding this event, please reach out to events@linuxfoundation.org.
+
+
+
+LF Edge Mini-Summit
+
+July 2, 2020 | 12:00 – 1:30 pmRegistration Fees: Complimentary to all OSS+ELC NA Attendees
+LF Edge Summit is a 90 minute, single-track event on the topic of IoT and Edge Computing. The main goal of this LF Edge event is to provide an overview of the edge projects under the umbrella including Akraino Edge Stack, EdgeX Foundry, Project EVE and more. LF Edge leaders will share insight into what’s to come, and discuss Edge business models & use cases.
+There will also be an Edge Panel: Business model innovations brought by 5G and Edge computing 5G, Edge computing, cloud native, and AI will transform the telco and many vertical industries. These technologies will create many business models that we have not seen before. The current health crisis has created new thinking and how we leverage and apply these technologies to common good. In this panel, we will discuss these technologies, business models, use cases across many industries.
+How to Register: Pre-registration is required.  To register for the LF Edge Mini-Summit, add it on to your Open Source Summit + Embedded Linux Conference North America registration. 
+For questions regarding this event, please reach out to events@linuxfoundation.org.
+
+
+
+Linux Security Summit North America
+
+July 1-2, 2020 | 11:00 am – 3:00 pmRegistration Fees: Complimentary to all OSS+ELC NA Attendees
+The Linux Security Summit (LSS) is a technical forum for collaboration between Linux developers, researchers, and end-users. Its primary aim is to foster community efforts in analyzing and solving Linux security challenges.
+View the schedule here!
+How to Register: Pre-registration is required.  To register for Linux Security Summit North America, add it on to your Open Source Summit + Embedded Linux Conference North America registration. 
+For questions regarding this event, please reach out to events@linuxfoundation.org.
+
+
+
+ODPi – Making Data Better
+
+July 2, 2020 | 10:00 – 11:30 AMRegistration Fees: Complimentary to all OSS+ELC NA Attendees
+ODPi creates open source standards to help you use and understand data across all platforms. ODPi is a non-profit organization supported by The Linux Foundation and dozens of individuals and member organizations. Members are committed to simplifying and standardizing the data ecosystem so that data can be easily and securely shared across products, platforms, and systems. Learn more about the people and organizations involved in ODPi or to access publicly available resources.
+Join us to learn about the latest approaches from ODPi Projects including Egeria, BI & AI, and OpenDS4All. You will gain insight and roadmaps about several open source projects under the ODPi umbrella that can help you with your data strategies.
+How to Register: Pre-registration is required.  To register for ODPi – Making Data Better, add it on to your Open Source Summit + Embedded Linux Conference North America registration. 
+For questions regarding this event, please reach out to events@linuxfoundation.org.
+
+
+
+OpenChain Mini-Summit
+
+July 2, 2020 | 3:30 – 5:00 PMRegistration Fees: Complimentary to all OSS+ELC NA Attendees
+This meeting will provide an opportunity for the OpenChain Platinum Members and other community participants to discuss the industry standard for open source compliance.
+How to Register: Pre-registration is required.  To register for OpenChain Mini-Summit, add it on to your Open Source Summit + Embedded Linux Conference North America registration. 
+For questions regarding this event, please reach out to events@linuxfoundation.org.
+
+
+
+Open Mainframe Project Mini-Summit
+
+July 2, 2020 | 2:00 – 3:30 PMRegistration Fees: Complimentary to all OSS+ELC NA Attendees
+Open Mainframe Project strives to eliminate barriers to open source on the mainframe through demonstrating the value of the mainframe on technical and business levels. As such, with this current climate, we want to assure you that open source and diverse collaboration are ways that help us stay connected to each other. 
+Join this roundtable Open Mainframe Project session to learn the latest approaches to integrating the mainframe into modern devops tooling and practices to accelerate delivery and drive true cross-platform applications. Open Mainframe Project leaders from IBM, the Linux Foundation, SUSE, and Vicom Infinity will share insight and roadmaps about several open source projects under the OMP umbrella that can help with your devops needs.
+Agenda
+Intro – Why open source? – John Mertic, The Linux Foundation OMP Overview – Stacey Miller, SUSE New COBOL Training Course – Sudharsana Srinivasan, IBM Zowe – Sujay Solomon, Broadcom Zowe Use Case – Alex Kim, Vicom Infinity How to get involved and why – Yvette A LaMarr, IBM
+How to Register: Pre-registration is required.  To register for Open Mainframe Project Mini-Summit, add it on to your Open Source Summit + Embedded Linux Conference North America registration. 
+For questions regarding this event, please reach out to events@linuxfoundation.org.
+
+
+
+SODA – One Data Framework, Infinite Possibilities
+
+July 2, 2020 | 2:00 – 3:30 pmRegistration Fees: Complimentary to all OSS+ELC NA Attendees
+SODA Foundation is an open source project within the Linux Foundation that aims to foster an ecosystem of open source data management and storage software for data autonomy. The SODA data framework is part of this effort to enable data mobility, data protection, data security, data lifecycle, and more for cloud native, virtualization, and other environments. 
+This session will provide an introduction to the SODA Foundation, its mission, roadmap, projects, and activities. The audience will also get to hear from a SODA end-user perspective, and also learn how to join the community and contribute to the projects and ecosystem.
+How to Register: Pre-registration is required.  To register for SODA – One Data Framework, Infinite Possibilities, add it on to your Open Source Summit + Embedded Linux Conference North America registration. 
+For questions regarding this event, please reach out to events@linuxfoundation.org.
+
+
+
+Yocto Project® Dev Day Virtual North America
+
+July 2, 2020 | 9:00 am – 5:00 pm CSTRegistration Fees: $25 USD; separate registration required
+Yocto Project Developer Day Virtual is a one-day presentation and hands-on training event that puts you in direct contact with Yocto Project technical experts and developers. Its primary aim is to show developers how to create, customize, and optimize Linux distributions for embedded devices using the rich features, tools, and content of Yocto Project. Our knowledgeable and engaging instructors will help you better understand topics like build system workflow, working with containers, building applications, optimizing images, hardening your devices, and leveraging tools like devtool. You will also have a chance to network and put your new skills to work.
+
+REGISTER NOW
+
+
+For questions regarding this event, please reach out to events@linuxfoundation.org.
+
+
+
+Zephyr Mini-Summit
+
+July 2, 2020 | 2:00 – 3:30 pmRegistration Fees: Complimentary to all OSS+ELC NA Attendees
+The Zephyr Mini-Summit is designed to introduce you to the leading Open Source RTOS built with safety and security in mind.  Attendees will learn why Zephyr is gaining the attention of  developers, with its support for BLE, OpenThread, LTE-M/NB-IoT cellular communications, and more. 
+Attendees will learn:
+Zephyr overviewIntro to WestOverview of BluetoothSecurity IssuesSafety CertificationUse Case
+How to Register: Pre-registration is required.  To register for Zephyr Mini-Summit, add it on to your Open Source Summit + Embedded Linux Conference North America registration. 
+For questions regarding this event, please reach out to events@linuxfoundation.org.
+
+
+
+ 
+
+
+
+
+Sponsors
+
+Diamond
+Platinum
+Gold
+Silver
+Bronze
+Partner 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+Featured Speakers
+Explore the Tracks
+Program Committee
+
+Experiences
+Speed Mentoring
+Resume Writing Workshop
+Allyship Workshop
+Ask the Expert Sessions
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

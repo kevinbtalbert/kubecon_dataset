@@ -1,0 +1,297 @@
+
+
+
+
+Interactive Sessions | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Experiences
+Instant Giveaways
+CNCF Slack Workspace Community Guidelines
+Diversity + Inclusion
+Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Interactive Sessions
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon North America. 
+
+
+
+
+
+
+ 
+
+
+						Interactive Sessions					
+
+
+
+
+Skip to page sectionThe New Stack Analysts Virtual Pancake Breakfast + Podcast, sponsored by AccuricsAMA Happy Hours with Priyanka SharmaCNCF TechDocs Open HoursCloud Native Network Functions (CNF) Working Group Kick-offInclusive Language in Code Community MeetingCNCF End User Community Reception (and How To Juggle It All!)The New Stack Analysts Virtual Pancake Breakfast + Podcast, sponsored by Palo Alto NetworksBirds of a Feather: OKD Working Group Sponsored by Red Hat
+
+
+The New Stack Analysts Virtual Pancake Breakfast + PodcastSponsored by Accurics
+
+Tuesday, November 17  |  Time: 11:00 – 11:50 AM EST
+“Immutable Security is Hot” 
+Join us for a short stack with The New Stack. We’ll be serving hot cakes and our takes on immutable security — now that’s hot! We’ll cover the latest in securing those critical configurations. Flapjacks on fi-re! 
+How to Register: No need! This session is open to all in the community that are interested.
+
+
+
+AMA Happy Hours with Priyanka Sharma
+
+Tuesday, November 17 | 5:00 PM – 6:00 PM EST Wednesday, November 18 | 6:25 PM – 7:25 PM EST Thursday, November 19 | 6:20 PM – 7:20 PM EST
+Join CNCF General Manager Priyanka Sharma for some end-of-day socializing, recaps of the keynotes, and special guests! Come prepared with your audio and video on – we’re here to have fun and make connections!
+*This session will be streamed on CNCF’s Twitch channel – https://www.twitch.tv/cloudnativefdn 
+How to Register: No need! These sessions are open to all in the community that are interested, space permitting. Details on how to join the meetings will be coming soon.
+
+
+
+
+CNCF TechDocs Open Hours
+
+Wednesday, November 18  |  Time: 3:00 PM – 5:00 PM EST
+Need help with your project docs? CNCF tech writers can advise you with help for tooling questions, docs triage and workflow, how to attract docs contributors, and maybe review a PR or two. We also hold monthly office hours. For more information, visit our GitHub repository (you should still open project-specific docs issues in the relevant project repo).
+This event has passed.  Session recording will be uploaded to the CNCF YouTube channel in early December. 
+
+
+
+
+Cloud Native Network Functions (CNF) Working Group Kick-off
+
+Thursday, November 19 | Time: 11:00 AM – 12:00 PM EST
+Join us for the kick-off meeting of the Cloud Native Network Functions (CNF) Working Group. The goal for the group is to create a software conformance program, similar to the Kubernetes Conformance Program, that any telco application implementation can use to demonstrate that they are conformant and interoperable with cloud native principles. This will aid companies such as communications service providers and large scale enterprises, running internal telecommunications-like infrastructure, to better understand what cloud native means for telecommunications workloads and help build consensus around industry adoption of cloud native technologies.
+See https://github.com/cncf/cnf-conformance/pull/450 for background.
+*This session will be streamed on CNCF’s Twitch channel – https://www.twitch.tv/cloudnativefdn 
+How to Register:  No need! This session is open to all in the community that are interested, space permitting. 
+
+
+
+
+Inclusive Language in Code Community Meeting
+
+Thursday, November 19 | Time: 12:00 – 1:00 PM EST
+Join us for the inaugural kick-off meeting for the Inclusive Language Initiative, a cross-organizational effort to use more inclusive language in code and documentation, and standardize replacement language.
+*This session will be streamed on CNCF’s Twitch channel – https://www.twitch.tv/cloudnativefdn 
+How to Register:  No need! This session is open to all in the community that are interested, space permitting.
+
+
+
+
+CNCF End User Community Reception (and How To Juggle It All!)
+
+Friday, November 20 | Time: 10:45 AM – 1:00 PM EST
+The CNCF End User Community Reception (and How To Juggle It All!), hosted by Cheryl Hung and Katie Gamanji, will bring together cloud native users to share best practices and lessons learned. Our 2+ hours together will be an informal conversation where attendees can meet peers and learn how to navigate and contribute to the cloud native community. But chatting about juggling it all wouldn’t be complete without learning how to truly juggle! Bring three pairs of socks, a good attitude, and give yourself some space while we break up our discussions with Jeff Civillico and learn a new trick to impress our friends and colleagues. 
+In order to participate, your organization must be a member of the CNCF End User Community.
+How to Register: Contact chung@linuxfoundation.org with any questions.
+
+
+
+
+
+The New Stack Analysts Virtual Pancake Breakfast + PodcastSponsored by Palo Alto Networks
+
+Friday, November 20 | Time: 11:00 – 11:50 AM EST
+“When IAM Hurts?” 
+It’s identity madness out there and the only cure is a short stack with The New Stack. So join us for some pancakes and help solve the world’s identity and access management (IAM) problems. Configuration complexity can’t keep us down. Start the day right for a stackfest extraordinaire, sponsored by our good friends at Palo Alto Networks. IAM hungry, are you?
+How to Register: No need! This session is open to all in the community that are interested.
+
+
+
+
+Birds of a Feather: OKD Working Group 
+
+Friday, November 20  |  Time: 12:00 PM – 12:45 PM EST
+OKD is the Community Distribution of Kubernetes that powers Red Hat OpenShift. Built around a core of OCI container packaging and Kubernetes container cluster management and leverages Fedora CoreOS. The community is invited to join this birds-of-a-feather (BoF) session to discuss the latest release of OKD 4, its road map, and learn how to use the new CodeReady Container for OKD4 to get started locally. Members of the OKD4 Working Group and Fedora CoreOS community will be in attendance and able to answer questions on how to deploy and configure OKD4 on everything from BareMetal, Single Clusters to Amazon, Vsphere, Azure and more. Learn more at https://okd.io. 
+Co-Chairs: Diane Mueller, Director Community Development, OKD-Working Group Co-Chair Christian Glombek, Software Engineer, OKD-Working Group Co-Chair Charro Gruver, Senior Architect, OKD-Working Group Co-Chair 
+This event is limited to 50 participants and pre-registration is required (free of charge). Please fill out the RSVP form if you would like to participate in the OKD Working Group BoF. The deadline to RSVP is Thursday, November 19, 11:00 AM Eastern Standard Time (UTC-5). 
+Participants must have a valid KubeCon + CloudNativeCon North America 2020 registration to be eligible for participation in this BoF. 
+RSVP Now – Pre-registration closes November 19, 11:00 AM Eastern Standard Time (UTC-5).Sponsored by 
+
+
+
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+gold
+silver
+Start-up
+End User
+Diversity Supporters
+Media Partners 
+
+
+
+
+
+
+Join the CNCF mailing list to learn more about KubeCon + CloudNativeCon and other upcoming CNCF events!
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+#KubeCon + #CloudNativeCon
+
+
+
+
+Register
+Experiences
+Instant Giveaways
+CNCF Slack Workspace Community Guidelines
+Diversity + Inclusion
+Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+Interactive Sessions
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

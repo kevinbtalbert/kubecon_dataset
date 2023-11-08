@@ -1,0 +1,256 @@
+
+
+
+
+Program Committee Scoring Guidelines + Best Practices | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Why Attend
+Venue + Travel
+Novel Coronavirus Update
+Visa Request
+Diversity + Inclusion
+Diversity Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Day 2 Co-Located Events
+Call For Proposals (CFP)
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  KubeCon + CloudNativeCon + other CNCF Events. 
+
+
+
+
+
+
+ 
+
+
+						Program Committee Scoring Guidelines + Best Practices					
+
+
+
+
+Skip to page sectionOverviewGeneral Info + Dates to RememberScoring GuidelinesReview Process Best PracticesContact us
+
+
+Overview
+
+Thank you in advance for your efforts as a member of the Program Committee for Kubernetes Forum Bengaluru + Delhi, taking place February 17–21, in Bengaluru and Delhi, India.
+These are the official CFP Scoring Guidelines and Best Practices to use when reviewing your set of proposals. Please bookmark this page for easy reference. If you have any questions, please email Nanci Lancaster.
+
+
+
+Important Dates
+
+Program Committee Review Period: November 5–November 24, 2019Must have at least 50% of your assigned proposals reviewed: Tuesday, November 12Must have all proposals reviewed: Sunday, November 24, 2019, 11:59pm PDTChairperson Selection Period + Schedule Building: November 26–December 15, 2019Schedules Announced: Friday, December 20, 2019Event Dates: Bengaluru: February 17–18, 2020; Delhi: February 20–21, 2020
+
+
+
+
+Scoring Guidelines
+
+Grade the quality of each proposal on a 5 to 1 grading scale for content, originality, relevance, and speaker(s):
+5 (Excellent) 4 (Above Average)3 (Average)2 (Below Average)1 (Poor)
+Reminder: You are required to leave comments for each proposal you review, detailing the reasoning for your score.
+For each proposal, you will indicate whether or not you see it ultimately being part of the accepted program by stating “yes” or “no.”
+If you come across a proposal that does not seem to fit in the topic you are reviewing, you will indicate which topic you think the proposal fits best within an optional drop-down menu. Please still grade this proposal as you would any others within your review set.
+
+
+
+Review Process Best Practices
+
+Time Commitment: Please plan on committing 2-20 hours total to review all of the submissions in your track, depending on the amount you have been assigned. Aim to do 10-15 sessions at a time – then take a break / walk away. This helps prevent burnout and allows you to see more proposals with fresh eyes.
+
+Process Integrity: It is very important to protect the integrity of the review process, and to avoid undue bias, by keeping the submissions and your comments on them confidential. Please review and adhere to our Code of Conduct.
+
+Public & Author Interaction: To ensure an unbiased review process, program committee members should not discuss submissions with authors and/or the overall public (i.e., please no tweeting). Of course, please feel free to tweet about accepted sessions that you are excited to attend once the schedule has been published.
+
+Conflict of Interest: Reviewers are asked to wear their “Kubernetes Forum” hats rather than the company or other affiliation when scoring submissions so that you rate all submissions fairly. If a submission was written by a colleague you work closely with or someone that you are seen to be associated with or in competition with, please skip by marking as a conflict of interest.
+
+Review Metrics: As listed above, the ranking system is divided into 5 options: 5 (Excellent), 4 (Above Average), 3 (Average), 2 (Below Average), 1 (Poor). It is important that you highlight your level of confidence in your recommendation and the reasons why you gave the score you did. When reviewing proposals, keep in mind the following criteria:Relevance – Does the content provide takeaways that are new and exciting vs information that was “so last year?” Is the content relevant to the conference?Originality – Is this a presentation that is original and not one that a speaker repeats at every conference? Is the way the content is presented original?Soundness – Does the content make sense in delivery or is it all over the place? Does the speaker seem to lack focus?Quality of Presentation – Is the proposal engaging and well thought out? Does the background material suggest the speaker will deliver this presentation effectively?Importance – How important is the content for the Kubernetes Forum audience?Experience – Is this speaker a good person to deliver this presentation? Does their experience with the subject matter align with the proposed content?
+
+Speakers with multiple submissions: We will not accept more than one talk from the same speaker. If you are in the position of reviewing more than one strong proposal from the same speaker, you can help the program co-chairs by only giving one of them a response of “yes” when answering the question, “do you see this session being part of the accepted programming for this conference.” Please use your comments to indicate why you prefer one talk over another.
+
+Review Comments: Keep in mind that submitting authors may be a VP at a large company or a university student. Ensure your feedback is constructive, in particular for rejected proposals as we do receive requests for feedback and we may pass on some comments (though we would not associate them with you). Good examples of review elements include:Highlighting the positive aspects of a proposal.Providing constructive feedback, “It would have been helpful if…” and include facts when applicable.Avoid direct attacks “Their YouTube video gives me concerns about their speaking style” rather than “this person is a terrible speaker.”
+
+Breakout Sessions: A presentation is delivered by a topic expert with a fresh or unique point of view. Some things to keep in mind when reviewing presentation proposals:Is the submission well written?Is the topic relevant, original and are they considered to be subject matter experts?Are they talking about a specific product from their company? If so, is it engaging in a way that is not advertorial? Keep in mind that sessions that come across as a pitch or infomercial for their company are most often rated very poorly among the audience.Who is their target audience? Does the abstract and description match up with the expertise required?
+
+
+
+Contact Us
+
+If you require any assistance reviewing proposals or have questions about the review process or any of the best practices we have suggested, please contact Nanci Lancaster for assistance.
+
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+GOLD
+SILVER
+BRONZE 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Register
+Why Attend
+Venue + Travel
+Novel Coronavirus Update
+Visa Request
+Diversity + Inclusion
+Diversity Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+Day 2 Co-Located Events
+Call For Proposals (CFP)
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

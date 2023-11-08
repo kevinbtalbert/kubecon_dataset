@@ -1,0 +1,218 @@
+
+
+
+
+KVM Forum 2020 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsLinux Plumbers ConferencePast Linux Dev Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Linux Dev Events. 
+
+
+
+				KVM Forum			
+
+
+
+
+
+
+
+October 28 – 30, 2020Virtual Experience#kvmforum
+
+JOIN THE EVENT
+EXPLORE THE VIRTUAL SCHEDULE
+
+
+
+That’s a wrap on KVM Forum 2020 Virtual Experience! We welcomed over 775 attendees – thank you to all the attendees, sponsors and speakers that joined us virtually this year. 
+The event platform will continue to be accessible for 30 days where you can view session recordings and enjoy many of our experiences.  All session recordings will be uploaded to our YouTube channel shortly.
+Save the Date for KVM Forum 2021We hope you join us next year in Vancouver, BC August 2-4, 2021, for KVM Forum 2021!
+
+KVM Forum is an annual event that presents a rare opportunity for developers and users to meet, discuss the state of Linux virtualization technology, and plan for the challenges ahead. This highly technical conference unites the developers who drive KVM development and the users who depend on KVM as part of their offerings, or to power their data centers and clouds.
+Sessions include updates on the state of the KVM virtualization stack, planning for the future, and many opportunities for attendees to collaborate. Over the years since its inclusion in the mainline kernel, KVM has become a critical part of the FOSS cloud infrastructure. Come join us in continuing to improve the KVM ecosystem.
+
+
+EXPLORE THE VIRTUAL SCHEDULE
+
+
+VIEW THE FULL SCHEDULE
+
+Sessions will be hosted in Greenwich Mean Time (GMT).
+Wednesday, October 28Explore Wednesday >>12:00 – 23:00 GMTOSS – KVM Forum Joint TrackThursday, October 29Explore Thursday >>06:00 – 14:00 GMTBreakout Sessions + BoFs14:00 – 14:30 GMTKeynotes14:30 – 23:00 GMTBreakout Sessions + BoFsFriday, October 30Explore Friday >>06:00 – 17:00 GMTBreakout Sessions + BoFs
+
+
+
+
+
+
+
+
+
+Sponsors
+
+PLATINUM
+SILVER 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#kvmforum
+
+
+
+
+Register
+Code of Conduct
+
+Sponsor
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+

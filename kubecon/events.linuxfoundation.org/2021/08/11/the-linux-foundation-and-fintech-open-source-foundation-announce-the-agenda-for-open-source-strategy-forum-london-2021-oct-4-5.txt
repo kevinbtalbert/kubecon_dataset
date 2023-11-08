@@ -1,0 +1,204 @@
+
+
+
+
+The Linux Foundation and Fintech Open Source Foundation Announce the Agenda for Open Source Strategy Forum London 2021, Oct 4-5 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+August 11, 2021
+The Linux Foundation and Fintech Open Source Foundation Announce the Agenda for Open Source Strategy Forum London 2021, Oct 4-5		
+
+
+
+
+Experts from financial services, technology and open source will come together to deepen collaboration and drive innovation across the industry in order to deliver better code, faster.
+SAN FRANCISCO, August 11, 2021 —  The Linux Foundation, the nonprofit organization enabling mass innovation through open source, and co-host Fintech Open Source Foundation (FINOS), a nonprofit whose mission is to accelerate adoption of open source software, standards and best practices in financial services, today announced the conference agenda for Open Source Strategy Forum London 2021 (OSSF). The event takes place October 4-5 in London, England. The schedule can be viewed here.The event will gather experts from financial services, technology and open source who will come together for thought-provoking insights and conversations, providing unique opportunities to hear from and engage with those who are leveraging open source software to solve industry challenges. OSSF is the only conference dedicated to driving collaboration and innovation in financial services through open source.
+The event will feature 35+ sessions and endless opportunities to learn about the most cutting edge topics at the cross section of finance, open source and technology, revealing recent developments and the direction of open source in financial services.
+Conference Session Highlights:
+An Open-sourced Solution to Data Governance? How Legend May Be the Answer to Data Quality Concerns in the Financial Industry – Ffion Acland & Beeke-Marie Nelke, Goldman SachsNew Generation of Mainframers – John Mertic, The Linux Foundation; Jessielaine Punongbayan, Broadcom; and Alex Kim, Vicom InfinityOpen Banking, Open Source, and Open Standards – Kevin Morris, Large Credit Union CoalitionHow to Maximize Open Source Investment to Drive Business Innovation – Traci Robinson-Williams, GitLabIf It’s Such a Good Idea, Why Haven’t We Been Doing It? – Gil Yehuda, U.S. BankDevelop Automated Workflows in Seconds – Olivier Poupeney, Symphony Communication Services
+Registration is offered at the early price of 220 GBP through Aug 17. Members of The Linux Foundation receive a 20 percent discount – members can contact events@linuxfoundation.org to request a member discount code. Members of FINOS can attend at no cost – members can contact ossf@finos.org to request the FINOS Member registration code. 
+Health and SafetyIn-person attendees will be required to be fully vaccinated against the COVID-19 virus and wear a mask while onsite at the event. Additionally, all attendees will need to comply with all on-site health measures, in accordance with The Linux Foundation Code of Conduct. To learn more, visit the Health & Safety webpage and read our blog post.
+Diversity & Need-Based Scholarships and Travel FundingApplications for diversity and need-based scholarships are currently being accepted here. The Linux Foundation’s Travel Fund is also accepting applications, with the goal of enabling open source developers and community members to attend events that they would otherwise be unable to attend due to a lack of funding. We place an emphasis on funding applicants who are from historically underrepresented or untapped groups and/or those of lower socioeconomic status. To learn more and apply, click here.
+SponsorFor information on becoming an event sponsor, click here or email us for more information and to speak to our team. The Sponsorship deadline is September 9. PressMembers of the press who would like to request a press pass to attend should contact Kristin O’Connell.About the Linux FoundationFounded in 2000, the Linux Foundation is supported by more than 2,000 members and is the world’s leading home for collaboration on open source software, open standards, open data, and open hardware. Linux Foundation’s projects are critical to the world’s infrastructure including Linux, Kubernetes, Node.js, and more. The Linux Foundation’s methodology focuses on leveraging best practices and addressing the needs of contributors, users and solution providers to create sustainable models for open collaboration. For more information, please visit linuxfoundation.org.The Linux Foundation Events are where the world’s leading technologists meet, collaborate, learn and network in order to advance innovations that support the world’s largest shared technologies.Visit our website and follow us on Twitter, Linkedin, and Facebook for all the latest event updates and announcements.The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see its trademark usage page: www.linuxfoundation.org/trademark-usage. Linux is a registered trademark of Linus Torvalds. 
+###
+Media ContactKristin O’ConnellThe Linux Foundationkoconnell@linuxfoundation.org
+
+
+
+
+
+Post navigation
+Linux Foundation Monthly Events Snapshot – August 2021The Linux Foundation and the TODO Group  Announce the Schedule for OSPOCon Europe 2021, Oct 6
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

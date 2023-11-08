@@ -1,0 +1,229 @@
+
+
+
+
+The Linux Foundation Announces Schedule for WasmCon 2023 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+August 2, 2023
+The Linux Foundation Announces Schedule for WasmCon 2023		
+
+
+
+
+Inaugural event aims to unite developers, engineers, architects, and business leaders interested in the latest deployments and use cases for WebAssembly
+SAN FRANCISCO, August 2, 2023  — The Linux Foundation, the nonprofit organization enabling mass innovation through open source, today announced the schedule for WasmCon, a new event for developers, engineers, architects, and business leaders exploring the vast potential of WebAssembly (Wasm). WasmCon takes place September 6-7, 2023 at the Hyatt Regency in Bellevue, Washington. View the full schedule here.
+The inaugural WasmCon aims to provide a forum for attendees to learn from and network with industry experts about the latest tools, trends, and emerging technologies in the WebAssembly community. The event will feature keynotes, technical sessions, and hands-on workshops led by industry technologists who will cover a breadth of WebAssembly topics such as cloud, emerging technologies, tooling and ecosystems, real-world use cases, and security, among others. 
+WasmCon Schedule Highlights Include: 
+
+JavaScript Toolchain for WebAssembly Components – Guy Bedford, Principal Software Engineer, Web Assembly, Fastly
+Security and Correctness in Wasmtime – Nick Fitzgerald, TSC Chair, Bytecode Alliance
+Wasm, Kubernetes, Native, or What Else? An Enterprise Architecture Debrief – Sean Isom, Sr. Engineering Manager, Adobe
+From Wazero to Wazhero: An Introduction to Wazero for Gophers and Other Species – Edoardo Vacchi, WebAssembly Core Engineer, Tetrate.io
+WASM in ByteFaaS, Past, Present, and Future – Wilson Wang, Research Engineer, ByteDance
+
+WasmCon will also feature co-located events and workshops including Rust Global, an event hosted by The Rust Foundation to foster learning and discussion among global business leaders and Rust programming language advocates. Taking place on September 6, Rust Global is an opportunity for technology decision makers, business leaders, and Rust advocates to connect with, learn from, and inspire one another. View the full schedule here.
+Rust Global Schedule Highlights Include: 
+
+Building iOS, Android and Web Apps That Share a Single Rust Core – Stewart Harris, Founder and Chief Scientist, Red Badger
+A Web of Rust: the Future of the Internet Depends on Trust – Hannah Aubry, Sr. Community Manager, DevEx, Fastly
+Wasm and Rust in the World of LLM Applications – Michael Yuan, Founder, WasmEdge / Second State
+
+Registration Early Bird registration for WasmCon is offered for US$399 now through August 7, which represents a savings of US$200. Special registration rates of US$199 are also available for hobbyists, academics, and students. 
+To register for Rust Global, please register for WasmCon and add on Rust Global for US$15.Members of The Linux Foundation receive a 20 percent discount off registration and can contact events@linuxfoundation.org to request a member discount code. 
+Event SponsorsWasmCon 2023 is made possible thanks to event sponsors including: 
+
+Diamond: Cloud Native Computing Foundation, Cosmonic, Fermyon, and Midokura; 
+Platinum: Microsoft Azure; 
+Gold: F5; and 
+Partner: Bytecode Alliance.
+
+For information on becoming an event sponsor, click here or email sponsorships@linuxfoundation.org. 
+PressMembers of the press who would like to request a press pass to attend should contact Kristin O’Connell.
+Social Media Join the conversation on social media by using the hashtag #WasmCon. 
+ABOUT THE LINUX FOUNDATIONThe Linux Foundation is the world’s leading home for collaboration on open source software, hardware, standards, and data. Linux Foundation projects are critical to the world’s infrastructure including Linux, Kubernetes, Node.js, ONAP, PyTorch, RISC-V, SPDX, OpenChain, and more. The Linux Foundation focuses on leveraging best practices and addressing the needs of contributors, users, and solution providers to create sustainable models for open collaboration. For more information, please visit us at https://www.linuxfoundation.org/. The Linux Foundation Events are where the world’s leading technologists meet, collaborate, learn, and network in order to advance innovations that support the world’s largest shared technologies.
+Visit our website and follow us on Twitter, LinkedIn, and Facebook for all the latest event updates and announcements.
+The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see its trademark usage page: 
+www.linuxfoundation.org/trademark-usage. Linux is a registered trademark of Linus Torvalds.
+Media ContactKristin O’ConnellThe Linux Foundationkoconnell@linuxfoundation.org
+# # # 
+
+
+
+
+
+Post navigation
+The Linux Foundation Announces Schedule for Open Source Summit Europe 2023The Linux Foundation Announces Keynote Speakers for Open Source Summit Europe 2023
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

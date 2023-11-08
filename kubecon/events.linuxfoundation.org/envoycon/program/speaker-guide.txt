@@ -1,0 +1,308 @@
+
+
+
+
+Speaker Guide | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Attendee Guide
+Scholarships
+FAQ
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF EventsEnvoy Homepage 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  KubeCon + CloudNativeCon + other CNCF Events. 
+
+
+
+
+
+
+ 
+
+
+						Speaker Guide					
+
+
+
+
+Skip to page sectionWelcomeDeadlinesSchedule, Timing, and Speaker ProfilesPlatform + SpecsRecording Best Practices + Equipment Recommendations Uploading Your PresentationPresentation TemplateLive Q&ASpeaker + Platform TrainingTechnical Tips for Virtual PresentationsLighting, Webcam and Microphone Best PracticesAudience EngagementInclusivity CourseCode of ConductAdditional ResourcesContact Us
+
+Welcome
+
+We are excited to welcome you as a speaker for EnvoyCon 2020, happening virtually Thursday, October 15. Sessions will take place from 8:00 AM – 2:00 PM Pacific Daylight Time (PDT), UTC -7.
+This is your official event speaker guide. Please bookmark this page for easy reference and continue to check back as the event gets closer as we will be adding additional speaker details. If you have any questions, please email us.
+Please click through the tabs on this page to access information.
+
+
+
+Important Dates + Deadlines
+
+Speaker Registration Deadline: Wednesday, September 30. If you have not registered, please register and use code ENVOYSPK20Pre-Recording File Submission Due Date: Wednesday, October 7Slides Due: Wednesday, October 7Event Date: Thursday, October 15Event Time: 8:00 AM – 2:00 PM Pacific Daylight Time (PDT), UTC-7
+
+
+
+Schedule, Timing, and Speaker Profiles
+
+The schedule will be posted Monday, September 28 on our website via Sched.com.  If you would like to make updates to your speaker profile on Sched.com (biography, headshot, title), send updates directly to kkenlaw@linuxfoundation.org or log on to Sched.com to edit your profile.
+
+
+
+Platform + Specifications
+
+The event will be hosted on Hopin. Hopin will allow speakers to deliver content by pre-recorded talk and interact with attendees via video, audio, or text chat during live Q+A at the end of the session. The platform is web-based and HTML 5, and we recommend a minimum of 5mbps download and 2mbps upload. Ideally, we like to see 30mbps download and 10mbps upload or higher for the best quality. View system requirements + troubleshooting tips here. Live technical assistance will be available within the event platform during the event to help you troubleshoot any issues. While this won’t be able to replicate the value of a face-to-face event, we think it captures a lot of the opportunities and we look forward to having you join us as a speaker for this new experience.
+
+
+
+Recording Best Practices + Equipment Recommendations 
+
+All speakers should pre-record their talk and be available to answer facilitate live Q+A during/at the conclusion of pre-recorded content. Some suggested tools to use for recording are Quicktime, Google Hangouts, Zoom, a screen recorder, or something similar. The recording should show your slides/screen as well as you presenting using a picture in picture style format. Here is a PowerPoint template for your use (not mandatory). 
+Our A/V team has compiled a list of best practices and equipment recommendations to help presenters have the highest quality virtual presentation. We ask that you review this detailed document as soon as possible, as you may need to order items and have them delivered before your scheduled recording time.
+We can accept MP4 files, H.264 codec that are less than 4GB and in 16:9 format.  Please feel free to reach out with any questions.
+
+
+
+Uploading Your Presentation
+
+We have multiple options for uploading your pre-recorded presentation:
+Add your recording directly into the Google folder (please email kkenlaw@linuxfoundation.org to confirm receipt)Share your file with kkenlaw@linuxfoundation.orgOr let us know if you have an alternate method (DropBox, file sharing service, etc.)
+Videos must be received no later than Wednesday, October 7.
+
+
+
+Presentation Template
+
+An optional PowerPoint template is available for your use but is not required. Slides should be in PowerPoint, Google Slides, or Prezi format and must be submitted by Wednesday, October 7 at the latest.
+You can submit your presentation slides to the Google Folder (please email kkenlaw@linuxfoundation.org to confirm we received your file)Share your PowerPoint, Google Slides, or Prezi files with kkenlaw@linuxfoundation.org
+
+
+
+Live Q&A
+
+Live interaction is essential to the success of virtual events and we are requiring every presenter (except lightning talks) to be available during their session for live Q+A within the platform. This will provide added value to the audience and create more of an ‘event’ versus a ‘webinar’ experience. All speakers will be invited for a training session to get familiar with the platform ahead of the event.
+Breakout Sessions: You will have a total of 30-minutes to utilize between your presentation and Q+A. We recommend limiting your presentation to a 20 minute duration and leaving 5-10 minutes at the end to answer any questions from the audience via video, audio, or text chat.
+Lightning Talks: You will not be participating in Live Q+A.
+If you are concerned about your timezone and how that could impact the live Q+A portion of your session, please email us as soon as possible.
+
+
+
+Speaker + Platform Training
+
+We will follow up shortly with additional information on speaker/platform training.
+
+
+
+Technical Tips for Virtual Presentations
+
+Audio – as counterintuitive as it may sound, the single most important factor in a good video, is the audio quality. Eliminate ambient noise – close the doors and windows. You’d be surprised how much environmental noise gets picked up.Lighting – Do not put lights overhead and don’t put any lights or windows behind you as they will alter the light levels in your videos and create shadows.Background – don’t be afraid to show your natural environment – bookcases, plants, paintings – as long as they are not too distracting.Framing – place yourself slightly off-center to the left or right rather than directly in the middle of the frame.Camera Height – the lens should either be directly level or pointing ever so slightly downwards towards your face.Stand – we recommend you stand during your presentation to help project your voice and improve your posture. However, if you’re more comfortable sitting, then please do.Timer – Have a clock to keep track of the time you have remaining. 
+Source: https://www.greatspeech.co/video-presentations/
+
+
+
+Lighting, Webcam and Microphone Best Practices
+
+Best Practices for Lighting
+For best results, use natural light and supplement with additional light as needed.Keep natural light in front of you to avoid shadows. A bright window behind you can make you appear as a dark silhouette. Interior rooms with no natural light source may require additional targeted lighting, such as a ring light, to brighten the speaker’s face.
+Best Practices for Webcams
+To ensure the speaker is looking directly at the audience, place the webcam at eye level.Avoid distracting backgrounds by checking the surroundings behind you to make sure there are no distracting colors or movement.Presenters should use chairs that are adjustable for height but do not swivel. Swiveling on camera creates a poor attendee experience and can be distracting.
+Best Practices for Microphones
+Use external microphones whenever available, as microphones built into computers and cameras often have lower quality. An external microphone allows the speaker to place it in the optimal location for sound.Place the microphone close to the speaker’s mouth, but not in the camera view.Test audio levels in advance.Manage noise by turning off fans, phones, or speakers and keep ambient noise to a minimum. Do not touch the microphone while unmuted.
+Dress Code
+There is no dress code for presentations, and we encourage you to be comfortable. That said, you must be aware that the Code of Conduct applies to this space, both in terms of what you show on camera and what you say. We ask that you be tasteful and considerate in choosing your clothing and surroundings. Keep in mind that we are a global community. Please refrain from wearing shirts with global brand logos that are not your own. Solid colors (not white) also work best instead of prints. 
+
+
+
+Tips to Keep Your Virtual Audience Engaged
+
+Learn the Content: Familiarity with the content allows a speaker to focus on presenting, rather than trying to remember the points to make. To minimize worry about forgetting elements of the presentation, include notes in your presentation file and have a printout of your script or talking points.Practice Makes Perfect: Speakers should practice their content delivery in the environment in which they will deliver it, such as in front of a computer. Presenting alone to a computer can be awkward at first. To make speakers more comfortable, ask colleagues, roommates, or family to sit in front so they can present to familiar faces.Understand the Tools: Speakers should understand and utilize the content options available to them, to maximize the effectiveness of the presentation technology. It’s important to know the basic functions of the software, e.g. how to advance slides, manage Q&A or chats, before the presentation. Speak Up: Check audio levels before presenting, but also make sure to breathe at regular intervals to speak audibly and clearly. Maintaining a clear, even tone throughout the presentation will allow the audience to hear it without adjusting their volume settings.Look at Your Camera: If presenting via video, remember, the webcam is your link to your audience. Make eye contact with the camera so it appears to the audience that you are speaking directly to them.Don’t Fear Mistakes: Humans make mistakes, even during presentations. Realize that flubs happen and they won’t derail your presentation – unless you let them. Just keep going in your planned presentation and remember, the audience is forgiving.Be Prepared: During the presentation, have a glass of water nearby to sip as needed. Also, keep handy a printout of your slides or notes in case you need to refer to them.
+Source: https://www.inxpo.com/assets/pdfs/litepapers/How-To-Be-An-Engaging-Speaker.pdf
+
+
+
+Inclusive Speaker Orientation Online Course
+
+The Linux Foundation, in collaboration with the National Center for Women in Technology (NCWIT), has created an online course designed to teach the viewer about inclusion, diversity, and unconscious bias. We highly recommend all of our speakers watch the course to learn tips/tools to use when speaking to encourage inclusivity in presentations and messaging.
+
+
+
+Code of Conduct
+
+Please read and abide by our code of conduct, which can be found here. We ask that speakers especially review this code of conduct and are inclusive in the words and images used during their presentation.
+
+
+
+Additional Resources
+
+EnvoyCon 2020 Web Presenting Guide | Our A/V team’s web presenting + gear tipsBest Gear for Online Meetings | Webcams, lights, mics, tripods and more19 Video Presentation Tips to help you give a great presentation (even if you hate the way you look on camera)9 Tips for Giving Engaging Virtual Presentations | This article gives 9 tips and within each tip has folks from the tech world giving their advice in a fun/relatable way.PACE Acronym for Virtual PresentationsChecklist for Speakers | This article provides checklists applicable for speakers that are live streaming.
+
+
+
+Contact Us
+
+If you have any other platform, speaker, or schedule-related questions, please contact us!
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#envoycon2020
+
+
+
+
+Register
+Attendee Guide
+Scholarships
+FAQ
+Code of Conduct
+
+Sponsor
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

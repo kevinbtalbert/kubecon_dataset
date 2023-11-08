@@ -1,0 +1,375 @@
+
+
+
+
+Speaker Guide | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Virtual Backgrounds
+Keep Cloud Native Well
+Experiences
+Where in the World is Phippy?
+Diversity Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon Europe. 
+
+
+
+
+
+
+ 
+
+
+						Speaker Guide					
+
+
+
+
+Skip to page sectionOverviewDeadlinesRegistrationSchedule InformationVirtual Event PlatformSession LogisticsLive Presentations (Not Pre-Recorded)Session Track Slack ChannelsLive Q&APresenting Virtually Best PracticesPowerPoint Template + Presentation RequirementsAdditional Resources + FAQPromote Your TalkCode of ConductContact During Event
+
+Overview
+
+We are excited to welcome you as a speaker for KubeCon +CloudNativeCon Europe 2020, which will take place virtually, Monday, August 17–Thursday, August 20, with content starting each day at 13:00 Central European Summer Time (CEST). 
+This is your official event speaker guide. Please bookmark this page for easy reference. If you have any questions, please email Nanci Lancaster.
+Please click through the tabs on this page to access information.
+
+
+Important Dates + Deadlines
+Speaker Registration Deadline: Friday, July 3, 2020Last Day to Request Speaker or Title/Description Changes: Monday, July 6, 2020Pre-Record Presentation Deadline: Friday, July 31, 2020Within INXPO by Intrado platform: Friday, July 31, 2020Self-Recording Presentation Deadline: Friday, July 31, 2020You must email us your final recording no later than Friday, July 31, 2020Pre-Recording Slide Due Date (if within the platform): 48-hours before your recording appointmentPresentations must be in PowerPoint format onlyPresentation slides and any videos must be separated – DO NOT EMBED VIDEOS INTO PRESENTATIONLive Session Speaker Training: TBALive Session Slide Due Date (panels and tutorials ONLY):  No later than Tuesday, August 4, 2020Presentations must be in PowerPoint format onlyPresentation slides and any videos must be separated – DO NOT EMBED VIDEOS INTO PRESENTATIONEvent Dates: Monday, August 17–Thursday, August 20, 2020
+
+
+Registration
+The registration system has reopened. If you have not already registered, please do so now to confirm your participation as a speaker. Go to the speaker-specific registration page and follow the instructions. Please register no later than Friday, July 3.
+Our registration system is now integrated with the Linux Foundation Single sign-on (SSO) platform. After clicking “Register Now”, you will be prompted to log in with your existing SSO account or to create a new one. If you have forgotten the password for an existing account, reset it by clicking “Forgot Password.”
+You will also be able to use 3rd party authentication providers (Gmail, GitHub, LinkedIn, and Facebook) to automatically generate your SSO Account. If you experience issues, click the “Contact Us” link on the SSO page to connect with our support team.
+*If you are not registered by Friday, July 3, we may be forced to cancel your session as recordings will begin the following week.*
+Already Registered? 
+If so, your registration has automatically transferred to the virtual event, and you do not need to re-register.
+
+
+
+
+
+Schedule
+In order to accommodate all of our attendees and speakers that reside in countries around the world, while still being focused on our European participants, we decided on starting the event at 13:00 Central European Summer Time (CEST), with some additional updates:
+Each day will be less than seven hours in duration.Lightning Talks will be at the beginning of the day, starting at 13:00 CEST on Day Zero, August 17.All Tutorials and the 101 Track will be held on Day Zero, August 17.All Tutorials are now 80-minutes in duration.The Sponsor Booth Crawl will be at the end of the day on Day Zero, August 17.Keynotes will now take place in the middle of each day on August 18, 19, 20.Every session has been rescheduled based on the speakers’ responses to the previously sent out Survey Monkey form asking for location of residency and time zone preference.
+Please review the schedule and notify Nanci Lancaster immediately if you believe you will not be able to participate for Q&A at the time your session is scheduled for. To display the times in your own timezone please choose your timezone from the drop-down menu on the right side of the schedule, just above “Filter by Date.”
+
+
+
+Uploading a Bio/Photo
+The schedule has been posted on our website using sched.com. You will receive an email directly from sched.com asking you to create your account; please make sure to upload your bio and photo.
+
+Session Timing
+Lightning Talks are 5-minutes in duration (no Q&A).Sponsored keynote sessions are 5-minutes in duration (Q&A TBD).General keynote sessions are 15-minutes in duration (Q&A TBD)All breakouts and most maintainer track sessions are 35-minutes (inclusive of Live Q&A).Tutorials and a handful of maintainer track sessions are 80-minutes in duration (inclusive of Live Q&A).
+
+Speaker Cancellation and Session Update Policy
+If you need to cancel or update your session, please contact Nanci Lancaster and note the below policy. All requests must be made no later than Monday, July 6.
+If you or a co-speaker are no longer able to present, you may replace yourself or your co-speaker. Please send the replacement speaker’s name, company, job title, and email address to Nanci Lancaster. The replacement speaker will need to be approved before updates are made to the session. If you find that you are unable to present after July 6, the session will be canceled due to the deadlines in place for the virtual event platform.Unfortunately, due to the nature of the virtual event platform, we are unable to approve any speaker additions to sessions. Example: If you are a solo speaker on a talk and wish to add a second speaker, we will not be able to approve this addition.If you need to update your title and/or description, please send those updates directly to Nanci Lancaster.
+If you have any update requests to your session (speaker changes, description updates, etc.), those requests must be made no later than Monday, July 6.
+
+
+Platform Details
+The platform we’ve chosen to use is INXPO by Intrado, which allows speakers to deliver content via pre-recorded talks and join live for Q&A with attendees via text, audio, or video chat. The platform is an HTML5 web-based platform, and will be easy for everyone to access and use. All talks will be available on INXPO for viewing until KubeCon + CloudNativeCon North America 2020 (November 17, 2020), and we will also be moving them to YouTube so anyone, anywhere, can view them as well.
+The INXPO by Intrado platform is allowing us to create an immersive experience for attendees, with educational sessions that offer speaker and attendee Q&A and interaction, attendee collaboration & networking through topical chat rooms, and 1:1 and group chats, gamification to keep attendees engaged throughout the event, and a sponsor and tech showcase that offers 3D booths where attendees can view demos, download resources, check out job openings, and speak directly with booth reps.
+Important Note: If you are recording within the platform or presenting LIVE, unfortunately, the platform only supports PowerPoint files for presentation slides. We’ve created a *NEW* branded, optional, PowerPoint Presentation Template for you to use.
+We understand limiting to PowerPoint as a presentation format is not ideal and apologize for the inconvenience this may cause. If you have any issues with converting your presentation to PowerPoint, please let us know as we are happy to convert your file for you. We do request that if we are converting your slides, you limit it to basic fonts to make it easier for us. If you wish to convert your presentation on your own from PDF, we recommend following Adobe’s instructions on how to convert to PowerPoint. If you are using Google Slides, Keynote, or any other presentation software, we recommend using their built-in export-to-PowerPoint converter and reviewing for any custom text errors before sending your presentation to us. Note: If you are self-recording, this presentation slide format limitation of PowerPoint only does not apply to you.
+We know you have a lot of questions about the platform, and we have put together an FAQ page, which will be updated continuously as we work through all aspects of the virtual event. If you have a question that is not included, please contact us to let us know. 
+
+
+
+
+Session Logistics
+Having a good internet connection is critical for attendee engagement at the end of your presentation. Please make sure your internet is fast and not being used by anyone else in your household. If you are able to, please connect your computer directly to your router vs using wi-fi. 
+Watch this Speaker Training Video to get familiar with the platform.
+You will need to arrive to your session 30-minutes prior to the start time to ensure your audio, video, etc., are ready for live Q&A (or live presenting). Note: If you are on a session with more than two speakers, you will arrive 60-minutes prior to the start time.
+You will receive a calendar invite by Sunday, August 16, from jordan.huenink@intrado.com. Please make sure this email address is added to your contacts so the email makes it to your inbox.
+This calendar invite contains pertinent information you will need to participate live with attendees.
+
+
+Day of Session Instructions
+Test Your Computer for Platform Compatibility: Run a system check to ensure your computer is configured properly for the platform.Please also run a compatibility check, which tests your webcam and audio devices, along with WebRTC and WebSocket connectivity on your network for streaming media (which includes webcam/microphone, screen share,  media files, VCU, Encoder, etc.).If you encounter any issues, please refer to INXPO’s additional computer tips which provide additional information to help optimize your system set-up. 30-minutes prior to your session beginning (or 60-minutes if you have more than two speakers), please dial into the Conference Phone Bridge: (866) 563-0901If you are outside of the United States, please use the Global Dial-in Number link within your calendar invite to retrieve the phone number associated with your area.Input the code listed in the calendar invite to access your specific conference line.What is the phone bridge? The conference bridge is a communication link to you and the engineer, in case something goes wrong within the platform or your internet. If you are on your cell, you can communicate directly with your engineer. The phone bridge is not what will be used for your main audio to attendees, it is a “lifeline” to your A/V engineer. Next, click on your specific speaker backend access link located in your calendar invite.After you are all logged in via phone and the backend link, the engineer will talk to you through the phone until everything is set up correctly, after your internet, audio, and webcam have been tested. Live Speakers (Presenting Live): Once everything has been tested, the engineer will do a countdown shortly before the start time to count you in (5, 4, 3,…,…) and you will begin your presentation. You will go on mute on your phone and once your session begins, your audio will feed via your computer either through your microphone setup, to begin the presentation.Simulive Speakers (Pre-Recorded): You will go on mute on your phone and once the presentation recording has ended, your audio will feed via your computer through your microphone setup, to answer any questions.All speakers are required to participate in Live Q&A with attendees. You are encouraged to answer questions in the Q&A textbox while your presentation is playing. At the end of your presentation, you will be brought on video and audio to answer any remaining questions.If you wish to not be on video, that is fine, but please let the engineer know ahead of time what your preference is.Continuing on Slack: After the session has completely ended, please navigate to your track’s slack channel to continue answering any remaining questions and keep the conversations going for at least 15 more minutes.
+
+Session Monitors
+All sessions will have a monitor that is either a Linux Foundation staff member, a track chair, or a CNCF Ambassador. Their role is simply to relay back any technical issues to me, as well as monitor the Q&A chat box for Code of Conduct violations. They will not be introducing you to the attendees.
+
+
+
+
+Live Presentations
+
+Things to Consider
+Unless you are presenting a tutorial, your session is 35-minutes in duration, which includes any time you want to leave for Q&A at the end. Please plan accordingly.If you would like to show any videos during your presentation, the platform only accepts MP4 files, H.264 codec that are less than 4GB, with 2MB bitrate, and in 16:9 format. Do not EMBED any videos in your PowerPoint – this will not work in the platform. These must be sent as separate files.If you have any slides you wish to show, these must be in PowerPoint format only. The platform only accepts .ppt or .pptx files for presentations.Please keep in mind the platform has a lot of limitations, especially with fonts and animations. Please review the section in the FAQ titled “I am submitting a .PPT file, what animations and build are supported?” for a list of supported and NOT supported animations and fonts.The files you upload should be FINAL. No editing or re-uploading is allowed.Please follow our Code of Conduct for your slides and video.Feel free to use our optional, branded PowerPoint template.Review Presenting Virtually Best Practices document for helpful tips on presenting virtually.
+
+
+Steps to Upload your .pptx, .ppt, and/or .mp4 files:
+
+Name all of your files is in this format: DateOfPresentation_TitleOfPresentation_YourNameExample: Aug18_How_to_share_video_files_Nanci_Lancaster.mp4Example 2: Aug18_How_to_share_PowerPoint_files_Nanci_Lancaster.pptxUpload all files into your session-specific folder within the LIVE sessions folder.Make sure your file is viewable/editable by anyone as the Intrado needs to be able to access these files in order to upload into the platform.More information about presenting live can be found in the FAQ.
+
+
+
+
+
+Session Track Slack Channels
+Once you are on the cloud-native.slack.com workspace, please join your track’s slack channel:
+
+TrackChannelPrivateApplication + Development#2-kubecon-appdevNoCase Studies#2-kubecon-casestudiesNoCI/CD#2-kubecon-cicdNoCommunity#2-kubecon-communityNoCustomizing + Extending Kubernetes#2-kubecon-custom-extendK8sNoMachine Learning + Data#2-kubecon-machinelearningNoMaintainer Track Sessions#2-kubecon-maintainerNoNetworking#2-kubecon-networkingNoObservability#2-kubecon-observabilityNoOperations#2-kubecon-operationsNoPerformance#2-kubecon-performanceNoRuntimes#2-kubecon-runtimesNoSecurity + Identity + Policy#2-kubecon-sec-id-policyNoServerlessService Mesh#2-kubecon-serverless#2-kubecon-servicemeshNoNoStorage#2-kubecon-storageNo
+
+
+
+
+
+Live Q&A
+As with physical events, live interaction is essential to the success of virtual events and we are requiring every presenter to be available during their session for live Q&A within the platform (Lightning Talk speakers are excluded from in-platform Q&A; they will be participating on Slack). This will provide added value to the audience and create more of an ‘event’ versus a ‘webinar’ experience. Watch this Speaker Training Video to get familiar with the platform.
+Breakout and [most] Maintainer Track Sessions: You will have a total of 35-minutes to utilize between your presentation and Q&A. We recommend having your presentation be 25-minutes in duration and leave 5-10 minutes at the end to answer any questions from the audience via video, audio, or text chat. (Maintainer Track sessions that are double sessions: You will have a total of 80-minutes to utilize between your presentation and Q&A.)
+You are encouraged to answer questions in the Q&A textbox while your presentation is playing. At the end of your presentation, you will be brought on video and audio to answer any remaining questions.If you wish to not be on video, that is fine, but please let the engineer know ahead of time what your preference is.Continuing on Slack: After the session has completely ended, please navigate to your track’s slack channel to continue answering any remaining questions and keep the conversations going for at least 15 more minutes.
+If you are concerned about your timezone and how that could impact the live Q&A portion of your session, please email Nanci Lancaster as soon as possible.
+
+
+
+
+
+Presenting Virtually Best Practices
+We understand that presenting virtually is vastly different than presenting on stage in-person. Our great A/V team that is usually with us on-site has compiled a list of best practices and equipment recommendations to help presenters have the highest quality virtual presentation. We ask that you review the detailed document as soon as possible as you may need to order items and have them delivered before your scheduled recording time.
+
+Tips to Keep your Virtual Audience Engaged
+Learn the Content: Familiarity with the content allows a speaker to focus on presenting, rather than trying to remember the points to make. To minimize worry about forgetting elements of the presentation, include notes in your presentation file and have a printout of your script or talking points.Practice Makes Perfect: Speakers should practice their content delivery in the environment in which they will deliver it, such as in front of a computer. Presenting alone to a computer can be awkward at first. To make speakers more comfortable, ask colleagues, roommates, or family to sit in front so they can present to familiar faces.Understand the Tools: Speakers should understand and utilize the content options available to them, to maximize the effectiveness of the presentation technology. It’s important to know the basic functions of the software, e.g. how to advance slides, manage Q&A or chats, before the presentation. Speak Up: Check audio levels before presenting, but also make sure to breathe at regular intervals to speak audibly and clearly. Maintaining a clear, even tone throughout the presentation will allow the audience to hear it without adjusting their volume settings.Look at Your Camera: If presenting via video, remember, the webcam is your link to your audience. Make eye contact with the camera so it appears to the audience that you are speaking directly to them.Don’t Fear Mistakes: Humans make mistakes, even during presentations. Realize that flubs happen and they won’t derail your presentation – unless you let them. Just keep going in your planned presentation and remember, the audience is forgiving.Be Prepared: During the presentation, have a glass of water nearby to sip as needed. Also, keep handy a printout of your slides or notes in case you need to refer to them.
+From: https://www.inxpo.com/assets/pdfs/litepapers/How-To-Be-An-Engaging-Speaker.pdf
+
+Dress Code
+There is no dress code for presentations, and we encourage you to be comfortable. That said, you must be aware that the Code of Conduct applies to this space, both in terms of what you show on camera and what you say. We ask that you be tasteful and considerate in choosing your clothing and surroundings. Keep in mind that we are a global community. Please refrain from wearing shirts with global brand logos that are not your own. Solid colors (not white) also work best instead of prints.
+
+Technical Requirements + Tips
+Run a system check to ensure your computer is configured properly for the platform.Please also run a compatibility check, which tests your webcam and audio devices, along with WebRTC and WebSocket connectivity on your network for streaming media (which includes webcam/microphone, screen share,  media files, VCU, Encoder, etc.). If you encounter any issues, please refer to INXPO’s additional computer tips which provide additional information to help optimize your system set-up. Audio – as counterintuitive as it may sound, the single most important factor in a good video, is the audio quality. Eliminate ambient noise – close the doors and windows. You’d be surprised how much environmental noise gets picked up.Lighting – Do not put lights overhead and don’t put any lights or windows behind you as they will alter the light levels in your videos and create shadows.Background – don’t be afraid to show your natural environment – bookcases, plants, paintings – as long as they are not too distracting.Framing – place yourself slightly off-center to the left or right rather than directly in the middle of the frame.Camera Height – the lens should either be directly level or pointing ever so slightly downwards towards your face.Stand – we recommend you stand during your presentation to help project your voice and improve your posture. However, if you’re more comfortable sitting, then please do.Timer – Have a clock to keep track of the time you have remaining.
+
+
+
+
+
+
+Virtual Event Platform Presentation Format
+If you are recording within INXPO by Intrado, please note that the virtual event platform only allows for PowerPoint format for presentation slides. You will not be able to present using any other format.
+We understand limiting to PowerPoint as a presentation format is not ideal and apologize for the inconvenience this may cause. If you have any issues with converting your presentation to PowerPoint, please let us know as we are happy to convert your file for you. We do request that if we are converting your slides, you limit it to basic fonts to make it easier for us. 
+If you wish to convert your presentation on your own from PDF, we recommend following Adobe’s instructions on how to convert to PowerPoint. If you are using Google Slides, Keynote, or any other presentation software, we recommend using their built-in export-to-PowerPoint converter and reviewing for any custom text errors before sending your presentation to us.
+Note: If you choose to self-record (outside of the virtual event platform) the presentation format limitation of PowerPoint only does not apply to you.
+
+Speaker PowerPoint Presentation Template
+We designed an optional KubeCon + CloudNativeCon Europe Virtual PowerPoint template for our speakers. Use of this template is not required but we do welcome you to use it for your convenience. Note: PowerPoint Template Design has been UPDATED. If you have already created your presentation with the old template, please update to the new design.
+
+Presentation Requirements
+All speakers that are recording within the platform (not self-recording) are required to submit their final presentation slides, in PowerPoint format only, and any accompanying videos ahead of the event. If you are pre-recording with Intrado, we will need to receive your slides 48-hours prior to your recording appointment. Please upload your slides and any accompanying videos (do not embed the videos), to the appropriate Google folder. To access the folders, email Nanci Lancaster. 
+If you plan on doing your talk live (Tutorials and Panels Only), we will need to receive your slides and any accompanying videos by Tuesday, August 4. Send or share your materials to Nanci Lancaster by Tuesday, August 4.
+
+
+
+
+Additional Resources
+19 Video Presentation Tips to help you give a great presentation (even if you hate the way you look on camera)
+PACE Acronym for Virtual Presentations
+Checklist for Speakers – this article provides checklists applicable for speakers that are live streaming. 
+Virtual Event Platform FAQ
+We encourage you to read through the FAQ for the INXPO by Intrado Platform.
+
+
+Promote Your Talk
+We appreciate you spreading the word about #KubeCon #CloudNativeCon and your session – please find some sample tweets below to share on your social channels! Note: The short link to your session can be found on your session’s sched.com page, just below the title, to the left of the “Tweet” and “Share” buttons.
+Excited to speak at the first virtual #KubeCon + #CloudNativeCon Europe in August! 🎉 Come see me on [DATE]! [SESSION LINK]Attending #KubeCon + #CloudNativeCon Europe virtually in August? Come check out my session [SESSION NAME] on [DATE]. Hope to see you online! [SESSION LINK]Can’t wait for #KubeCon #CloudNativeCon! 👍 I will be speaking on [DATE] – Come see my session [TITLE] – Hope to see you online! [LINK TO SESSION]The re-worked #KubeCon + #CloudNativeCon Europe Virtual Schedule is out! Visit https://bit.ly/2GdccZK to check out the updates!
+
+
+
+
+
+Code of Conduct
+
+Please read, and abide by our code of conduct. Our code of conduct is strictly enforced. We ask that speakers especially review this code of conduct and are careful to be inclusive in the words and images used during their presentation.
+
+
+
+
+
+Contacting During Event
+
+Private Speaker Slack Channel
+KubeCon + CloudNativeCon is using Slack as the primary tool for communication among attendees, speakers, staff, and sponsors.All speakers will be invited to the private speaker Slack channel on the cloud-native.slack.com workspace. The channel name is: #1-kubecon-speakerhelpThis is where you will communicate any issues or questions you have with me or someone from our A/V team.Never used Slack before? Please refer to their helpful set of guides.
+Nanci Lancaster is your main point of contact for any speaker or schedule-related questions. Please contact her on slack within the speaker help channel #1-kubecon-speakerhelp .
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+GOLD
+SILVER
+START-UP
+END USER
+DIVERSITY SUPPORTERS
+MEDIA PARTNERS 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Virtual Backgrounds
+Keep Cloud Native Well
+Experiences
+Where in the World is Phippy?
+Diversity Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,246 @@
+
+
+
+
+Call For Proposals (CFP) | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+About
+Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  KubeCon + CloudNativeCon + other CNCF Events. 
+
+
+
+
+
+
+ 
+
+
+						Call For Proposals (CFP)					
+
+
+
+
+Skip to page sectionOverviewDates to RememberSuggested TopicsImportant NotesPreparing to SubmitCode of Conduct
+
+Overview
+
+Submit a proposal to speak at the first ever Production Identity Day: SPIFFE + SPIRE 2020!
+“Production identity” is a common set of identity and authentication challenges facing distributed systems.  Many spend significant time and effort in establishing trusted bi-directional communication between different parts of the system.  Often these are lacking in many respects: not rooted in sound identity “bedrock”, no ability to rotate credentials, no federation with other systems, and few policy opportunities (which are highly valued and critical for enterprises). 
+SPIFFE and SPIRE are CNCF incubating projects that aim to solve these challenges in a common way by defining and implementing a universal identity control plane that can be leveraged across many different types of systems — not just containerized or cloud native.
+We are excited to host the first Production Identity Day at KubeCon to share learnings around the latest developments in the space, exhibit demonstrations, and discuss real-world use cases with others who share an interest in identity, authentication, and zero-trust security.
+CFP CLOSED
+
+
+Question on submitting a proposal? Contact us at events@cncf.io
+
+
+
+Dates to Remember
+
+CFP Closes: Sunday, October 25 at 11:59 pm ETSpeaker Notifications: Wednesday, October 28Schedule Announcement: Friday, October 30Event Date: November 17, 2020
+
+
+
+
+Presentation Formats
+
+We are accepting talk proposals (20 minute talks + 10 minute lightning talks) with experience levels ranging from beginner to expert!
+Reminder: This is a community conference — proposals should emphasize real world usage and technology rather than blatant product pitches. Vendor product pitches will be rejected; instead, vendors should consider submitting deep tech talks!
+
+
+
+Important Notes
+
+All speakers are required to adhere to our Code of Conduct. We also highly recommend that speakers take our Inclusive Speaker Orientation Course.Complimentary Passes For Speakers – One complimentary pass for the event will be provided per submission. Avoid sales or marketing pitches and discussing unlicensed or potentially closed-source technologies when preparing your proposal; these talks are almost always rejected due to the fact that they take away from the integrity of our events, and are rarely well-received by conference attendees.
+
+
+
+Preparing to Submit
+
+Preparing to Submit Your Proposal
+While it is not our intention to provide you with strict instructions on how to prepare your proposal, we hope you will take a moment to review the following guidelines that we have put together to help you prepare the best submission possible. To get started, here are three things that you should consider before submitting your proposal:
+What are you hoping to get from your presentation?What do you expect the audience to gain from your presentation?How will your presentation help better the ecosystem?
+There are plenty of ways to give a presentation about projects and technologies without focusing on company-specific efforts. Remember the things to consider that we mentioned above when writing your proposal and think of ways to make it interesting for attendees while still letting you share your experiences, educate the community about an issue, or generate interest in a project.
+First Time Submitting? Don’t Feel Intimidated
+Linux Foundation events are an excellent way to get to know the community and share your ideas and the work that you are doing and we strongly encourage first-time speakers to submit talks for our events. In the instance that you aren’t sure about your abstract, reach out to us and we will be more than happy to work with you on your proposal.
+How To Give a Great Tech Talk
+In the instance that your talk is accepted, we want to make sure that you give the best presentation possible. To do this, we enlisted the help of seasoned conference speaker Josh Berkus who has prepared an in-depth tutorial on “How to Give a Great Tech Talk”.
+Part 1: http://www.youtube.com/watch?v=iE9y3gyF8Kw
+Part 2: http://www.youtube.com/watch?v=gcOP4WQfJl4
+
+
+
+Code of Conduct
+
+The Linux Foundation is dedicated to providing a harassment-free experience for participants at all of our events. We encourage all submitters to review our complete Code of Conduct.
+
+
+ 
+
+
+
+
+Sponsors
+
+SUPPORTING
+HOSTED BY 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#SPIFFE + #ProdIdentity
+
+
+
+
+Register
+About
+Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

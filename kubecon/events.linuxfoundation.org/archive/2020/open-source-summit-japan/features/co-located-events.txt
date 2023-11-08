@@ -1,0 +1,229 @@
+
+
+
+
+併催イベントCo-Located Events | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+登録Register
+参加Attend
+
+行動規範Code of Conduct
+
+
+スポンサーSponsor
+プログラムProgram
+
+スケジュールSchedule
+各トラックのご案内Explore the Tracks
+注目の講演者Featured Speakers
+
+
+併設プログラムFeatures &Add-Ons
+
+体験できることExperiences
+
+
+お問い合わせContact Us
+View All Events
+EventsAll Upcoming EventsPast Open Source Summit Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming Open Source Summit Japan. 
+
+
+
+
+
+
+ 
+
+
+						併催イベントCo-Located Events					
+
+
+
+
+Skip to page sectionLF Energy Mini Summit (和訳)LF Energy Mini Summit
+
+
+LF Energy Mini Summit
+
+12月3日 | 10:45am-12:45pm (日本時間)登録費用：無料
+LF Energyは利害関係者を結集し、弾力性・安全性・柔軟性を兼ね備えたオープンソース ソフトウェアを使用して、エネルギーの脱炭素化に関連する、複雑で相互に結びついた問題を解決します。地球の炭素排出量の約75％は、エネルギー、建物、および輸送の電化によって軽減できます。LF Energyは、グローバルな脱炭素化の取り組みにオープンソース戦略を採用することで、柔軟性、機敏性、セキュリティ、および相互運用性を最大化します。LF Energyコミュニティは、他の業界を変革したソフトウェア投資と、共有投資を生み出すオープンソース手法の両方を活用することにより、技術並みの速度のイノベーションを目指します。
+集中型化石燃料発電から再生可能な分散型エネルギー資源への移行は、140年以上にわたる電力システムの最も重要な課題です。コンテナ、サービスメッシュ、マイクロサービス、不変またはソフトウェア定義のインフラストラクチャ、および相互接続を提供する宣言型APIは、分散コンピューティングが分散エネルギー変換のアクセラレーターになるデジタル アプローチの典例です。これらの最新のソフトウェア技術は、弾力性があり、管理しやすく、観察可能な疎結合システムを可能にします。このソフトウェアを堅牢な自動化と組み合わせることで、ネットワーク オペレーターやエンジニアは、影響の大きい変更を最小限の労力で頻繁に行うことができます。オープンソースはこのソフトウェア パラダイムの中心であり、他のほぼすべての業界でも同様です。
+Open Source Summit Japanで初めてミニサミットを開催できることを嬉しく思います。このミニサミットでは、参加者はLF Energyのさまざまなプロジェクトに参加します。このLF Energyをさらに深く知り、地球と世界経済の変革に向けて最初の一歩を踏み出した企業の例をご覧ください。
+登録方法：事前登録が必要です。 OSS+ALS Japanの登録画面でLF Energy Mini Summitを追加してください。
+ご質問がある場合は、events@linuxfoundation.orgまでお問い合わせください。
+
+
+LF Energy Mini Summit
+
+December 3 | 10:45am-12:45pm JSTRegistration Cost: Complimentary
+LF Energy brings together stakeholders to solve the complex, interconnected problems associated with the decarbonization of energy by using resilient, secure and flexible open source software. Approximately, 75% of our planetary carbon emissions can be mitigated through the electrification of energy, buildings, and transportation. By adopting an open source strategy for global decarbonization efforts, LF Energy maximizes flexibility, agility, security, and interoperability. The LF Energy community seeks to innovate at the speed of technology by leveraging both the software investments that have transformed other industries, and the open source methods for creating shared investment. 
+The transition from centralized fossil-fuel generation to renewable and distributed energy resources is the most significant reimagining of power systems in over 140 years. Containers, service meshes, microservices, immutable or software defined infrastructure, and declarative APIs providing interconnection, exemplify the digital approach whereby distributed computing becomes the accelerator for distributed energy transformation. These modern software techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, this software will allow network operators and engineers to make high-impact changes frequently and with minimal toil. Open source is at the heart of this software paradigm, like it is in nearly every other industry.
+We are excited to host a mini-summit at Open Source Summit Japan for the first time.  Throughout this mini-summit event participants will engage with LF Energy’s diverse set of projects.  Be part of this LF Energy deep dive and see examples of companies who are taking the first steps towards transforming the planet and the world’s economy.
+How to Register: Pre-registration is required; Add LF Energy Mini Summit on to your existing OSS + ALS Japan registration.
+Please reach out to events@linuxfoundation.org with any questions.
+
+
+ 
+
+
+
+
+スポンサー Sponsors
+
+ダイアモンド Diamond
+プラチナ Platinum
+ゴールド GOLD
+シルバー Silver
+ブロンズ BRONZE 
+
+
+
+
+
+
+メーリングリストに参加して、イベントの最新情報やニュースをゲットしましょう。Join our mailing list to hear all the latest about events, news, and more!
+
+ 
+	入力された宛先に今後のイベント情報が配信されます。メーリングリストの登録はいつでも解除できます。詳細については、プライバシー ポリシーを参照してください。The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#ossummit
+
+
+
+
+登録 Register
+行動規範 Code of Conduct
+
+スポンサー Sponsor
+スケジュール Schedule
+各トラックのご案内 Explore the Tracks
+注目の講演者 Featured Speakers
+
+体験できること Experiences
+
+お問い合わせ Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

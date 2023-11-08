@@ -1,0 +1,199 @@
+
+
+
+
+The Linux Foundation Announces Keynote Speakers for Open Source Summit + Embedded Linux Conference 2021 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+July 16, 2021
+The Linux Foundation Announces Keynote Speakers for Open Source Summit + Embedded Linux Conference 2021		
+
+
+
+
+The Linux Foundation, the nonprofit organization enabling mass innovation through open source, announced the keynote speakers for Open Source Summit + Embedded Linux Conference 2021, taking place September 27-30 in Seattle, Washington. The events are being produced in a hybrid format, with both in-person and virtual participation available, and are co-located with OSPOCon and Linux Security Summit, among others.
+Open Source Summit (OSS) is the leading conference for developers, architects and other technologists – as well as open source community and industry leaders – to collaborate, share information, learn about the latest technologies and gain a competitive advantage by using innovative open solutions. Embedded Linux Conference (ELC) is the leading, vendor-neutral technical conference for companies and developers using Linux in embedded and industrial IoT products. Over 4,000 are expected to participate in the event. 
+Keynote speakers include:
+Anima Anandkumar, Bren Professor of Computing and Mathematical Sciences, The California Institute of Technology (Caltech) & Director, Machine Learning Research, NVIDIA, sharing on machine learning.Tim Canham, Software and Operations Lead for the Mars Helicopter, NASA’s Jet Propulsion Laboratory, discussing the use of Linux in the Mars Ingenuity mission.Hilary Carter, Vice President of Research, and Jim Zemlin, Executive Director, The Linux Foundation, sharing insights on new initiatives at The Linux Foundation for the open source community.Chris DiBona, Director of Open Source & Making and Science, GoogleHeather E. McGowan, Future of Work Strategist, speaking on the future of work and the human capital era.Todd Moore, Vice President – Open Technology and Developer Advocacy & Chief Technology Officer, DEG, IBMRoyal O’Brien, Game Tech Chief Evangelist, Amazon, speaking on the new Open 3D Engine Foundation.Sanath Kumar Ramesh, Founder & Chief Executive Officer, OpenTreatments Foundation, sharing on OpenTreatment’s life-alteringinitiative.
+Brent Schroeder, Head of Office of CTO, Americas Chief Technology Officer, SUSEWindow Snyder, Founder and Chief Executive Officer, Thistle Technologies, discussing IoT security.Kate Stewart, Vice President of Dependable Embedded Systems and Dr. David A. Wheeler, Director of Open Source Supply Chain Security, The Linux Foundation, speaking on supply chain security.Linus Torvalds, Creator of Linux & Git, in conversation with Dirk Hohndel, Vice President & Chief Open Source Officer, VMware, discussing 30 years of Linux.Chris Wright, Senior Vice President and Chief Technology Officer, Red Hat
+The full schedule of sessions will be announced on July 22, with additional keynotes also being announced in the coming weeks. Click here to read the full press release.
+
+
+
+
+
+Post navigation
+Linux Foundation Monthly Events Snapshot – July 2021The Linux Foundation Announces Conference Schedule for Open Source Summit + Embedded Linux Conference 2021
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

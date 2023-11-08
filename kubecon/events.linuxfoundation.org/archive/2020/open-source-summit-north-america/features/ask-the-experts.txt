@@ -1,0 +1,221 @@
+
+
+
+
+Ask the Expert Sessions | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Explore the Tracks
+Featured Speakers
+Program Committee
+
+
+Features &Add-Ons
+
+Experiences
+Speed Mentoring
+Resume Writing Workshop
+Allyship Workshop
+Ask the Expert Sessions
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Open Source Summit Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming Open Source Summit North America. 
+
+
+
+
+
+
+ 
+
+
+						Ask the Expert Sessions					
+
+
+
+
+
+Monday, June 29 – Thursday, July 2 | Timing Varies; View the Schedule!Registration Cost: Complimentary; No Sign-up Required
+This is your chance to chat directly with Linux kernel maintainers, open source leaders, and project managers to get all of your questions answered. Have a technical question? Curious on a career trajectory? Or simply want some tips on how to best participate in an open source project? This is the place to get this and more answered, as our experts sit down for our ‘Ask the Expert’ Sessions. 
+Sessions will be added to the conference schedule shortly and will take place throughout the event. Our current Ask the Expert lineup includes:
+Darren Hart, Linux Kernel Maintainer for x86 platform drivers and Sr Director / Open Source Technology Center at VMware – Git 101 Best PracticesShuli Goodman – Executive Director of LF Energy – LF Energy Jeffrey Osier-Mixon – Yocto Project Advisory Board Chair and Open Source Program Manager, The Linux Foundation – LF/LF EnergySteve Rostedt, Linux Kernel Maintainer and Open Source Developer at VMware – Linux KernelSarah Novotny, Pioneering leader in Node and Kubernetes communities, Industry-recognized authority on open source culture and open source leader in the Microsoft Azure Office of the CTO Microsoft Open Source Culture – Kubernetes, Node.js and Open Source LeadershipNithya Ruff, Executive Director of the Open Source Program Office at Comcast – Open Source Program Offices & the TODO Group, Yocto Project, OpenChain, Open Source LeadershipErica Brescia, COO at GitHub – Open Source Entrepreneurship, Open Source LeadershipDirk Hohndel, VP, Chief Open Source Officer at VMware and Subsurface Divelog Maintainer – The intersection of business and open source software, subsurface divelog project, Linux kernel developmentClyde Seepersad, SVP & GM of Training & Certification at The Linux Foundation – Open Source Training, Certification and Skills DevelopmentGreg Kroah-Hartman, Linux Kernel Developer, and Linux Fellow at The Linux Foundation – Linux KernelCalista Redmond, CEO of RISC-V International – RISC-V at the heart of Open hardware, Understanding the challenges, opportunities, and options for open collaboration from Open Source to Open Standards in microprocessors with focus on RISC-V. Kathy Giori, EdTech Entrepreneur and Strategic Industry Advisor – PlatformIO.org3, the Swiss Army Knife Tool of Embedded Microcontroller ProgrammingShuah Khan, Kernel Developer, and Linux Fellow at The Linux Foundation – Linux Kernel Dependability (improving quality and dependability during design, and verification using static analysis tools, regression and fuzz testing.)Michael Meskes, President & CE at Credativ – Running Open Source Databases in Open Source Environments
+Note: You must be registered for OSS+ELC North America Virtual Experience to participate.
+
+
+
+
+
+
+
+Sponsors
+
+Diamond
+Platinum
+Gold
+Silver
+Bronze
+Partner 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+Code of Conduct
+
+Sponsor
+Schedule
+Explore the Tracks
+Featured Speakers
+Program Committee
+
+Experiences
+Speed Mentoring
+Resume Writing Workshop
+Allyship Workshop
+Ask the Expert Sessions
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

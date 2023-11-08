@@ -1,0 +1,202 @@
+
+
+
+
+About | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  KubeCon + CloudNativeCon + other CNCF Events. 
+
+
+
+
+
+
+ 
+
+
+						About					
+
+
+
+
+
+WebAssembly (Wasm) is a fast, efficient, and portable binary instruction format for programming languages, providing an embeddable and safe execution environment for platform extensions. Started in 2015, Wasm became a popular way to extend web applications and is gaining momentum for server side and cloud native applications as well. 
+A New Model for Extending the Application Network
+The application of Wasm has already started expanding in cloud-native infrastructure to Kubernetes, Envoy Proxy, and Envoy based solutions like Istio and Gloo. In particular, the Envoy project has been working to integrate and stabilize the use of Wasm as the model going forward for extensibility.  Envoy is popular for its cloud-native architecture, performance, and that it can be extended in many ways through the use of filters, tracers, monitors, and more. Specifically, the filters are what’s used to modify the behavior of the proxy to manipulate the traffic that flows through it. The proxy ships with some filters out-of-the-box and with the open nature of Envoy, any end user can write and add their own filter to extend Envoy.
+However there are challenges related to writing your own custom filters for Envoy including having enough expertise in C++ (Envoy language) to the effort needed to integrate and compile the customization to Envoy, and maintaining a separate build of Envoy over time. The addition of WebAssembly into the Envoy community and ecosystem dramatically improves, streamlines, and expands the ability to extend Envoy and Envoy based solutions like gateways and service meshes. Wasm provides the ability to dynamically update running Envoy processes without having restarts, isolation from failures and security issues, removes the overhead of compiling and maintaining a build of the Envoy code base, and comes with an active and growing developer community.
+Who should attend?
+All developers interested in the intersection of cloud native and WebAssembly.
+Location
+This is a co-located event with KubeCon + CloudNativeCon Europe 2021 that will be held virtually. 
+
+
+
+
+
+
+Sponsors
+
+DIAMOND
+GOLD
+BoF 
+COMMUNITY
+HOSTED BY 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+#CloudNativeWasm
+
+
+
+
+Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

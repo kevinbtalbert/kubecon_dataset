@@ -1,0 +1,266 @@
+
+
+
+
+Slack Guidelines | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Explore the Tracks
+Featured Speakers
+
+
+Features &Add-Ons
+
+Experiences
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Financial Services Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Financial Services Events. 
+
+
+
+
+
+
+
+
+
+						Slack Guidelines					
+
+
+
+
+Skip to page sectionGetting StartedWorkspace EtiquetteReporting IssuesFeedback
+
+Getting Started
+
+Who’s Here
+The Open Source Strategy Forum Slack Workspace is open to all current OSSF event registrants. This workspace should be considered an extension of the virtual (or live!) event and used as a networking & collaboration tool for event participants. 
+Slack Guidelines
+Please read through these guidelines carefully, and remember that our event Code of Conduct also applies to our Slack workspace.
+Update Your Profile
+We’d love it if you took the time to update your profile and add a picture!
+Share your pronouns with attendees! Add it at the end of your Full Name in your profile so other other attendees will be able to see it. Please be respectful of all attendees’ pronouns.
+Add your interests or keywords (like ‘Compliance’ or ‘Open Projects’) in the “What I do” section of your profile in addition to your Title and Company/Organization – that way attendees can search for each other by these common interests. To foster more accountability for what people post, no anonymous display names are allowed.
+Update Your Preferences
+Click on OSSF in the upper left-hand corner to customize your slack workspace. If you have any questions about how to change something feel free to drop us a message in the #1-helpdesk channel.
+Our Slack includes animated emoji and gifs – we’ve done everything we can to keep these rated G. If you think these may be unpleasant for you, you can disable all animations in your Slack client under Preferences → Messages & Media.
+Workspace Channels
+After you join the OSS+ELC Slack you will be automatically added to the following channels:
+#1-ossf-general-info – OSSF Event Staff will post pertinent information and announcements here throughout the event.  Make sure to read any posts added here to catch up on the latest event information. #1-ossf-helpdesk – OSSF Event Staff will be monitoring this channel (and all others) from 8 AM-6 PM ET during the event to answer any questions you may have about the Slack workspace or the event in general.  If we’re not in, we’ll answer any questions as soon as we get online.  If you need to email us, feel free to email events@linuxfoundation.org#1-ossf-random – Consider this the hallway track we’d have at a face to face event! Feel free to introduce yourself to the community, share what you’re working on, or what you’re excited about learning at OSSF. 
+Join other channels – Click on CHANNELS in the left-hand sidebar and scroll through the list of other channels you’d like to join. We’ve tried to make these as organized as possible – anything related to a specific conference track starts with #2-track; anything related to general networking starts with a #3-networking. Need a break? Our #4-fun channels are designed for just that! Check out our sponsors’ channels, these start with #5.
+Want to add a new public channel?  Drop the topic of your proposed channel in #1-helpdesk and a 10-20 word explanation about why it should be added and one of our team members will follow up within 1 business day to review/approve/deny the request. 
+Code of Conduct
+Please make sure to review and abide by the OSSF Code of Conduct while attending the virtual experience and using this workspace. If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the conference staff immediately, staff can be identified with -LF Events Team in their Slack Name or found in the #1-helpdesk channel. 
+The full Code of Conduct can be reviewed here.
+
+
+
+
+
+Workspace Etiquette
+
+Introduce Yourself
+Everyone loves to meet new attendees! Drop a quick hello in #1-random and share something about yourself!
+Say hello to new members and welcome them into the community.
+Be Respectful
+Be open and respectful to every attendee – sharing is caring and everyone should be here with the attitude to learn and share.Have a positive attitude — be friendly, helpful, and encouraging.Answer questions. Collaboration is at the heart of why we’ve brought this community together.Be thankful to those that have answered your questionsNo one is perfect, and even well-intentioned people make mistakes.  Be kind in your discussions with others and remember that everyone’s life experiences are different.
+Be Relevant
+Ask questions and contribute — be sure to ask folks for help or advice and provide feedback where you’re able to.
+Stay on topic – We have carved out different channels for specific topics.  Please keep your posts relevant to the channel you are in to avoid any confusion. #1-random is a great place for water-cooler conversations or reach out to us in #1-helpdesk with a topic for a new public channel and a 10-20 word explanation about why it should be added and one of our team members will follow up within 1 business day to review/approve/deny the request.
+Social Rules
+Use inclusive language. We strive to create a diverse and safe community in which everyone is comfortable participating.  When posting in channels, avoid using words such as “guys” or “ladies & gentlemen” to address a channel. Possible alternatives: “folks”, “everyone”, “OSSFers”.Don’t be a jerk – we’re all in this together.Use caution with jokes, everyone’s sense of humor is different and words can be misunderstood over text. If you don’t have anything nice to say, don’t say anything at all.Protecting IP and legally protected information is your responsibility, this is a public forum.  Don’t presume anything said here will remain private.You are part of this community. If you see someone behaving disrespectfully we urge you to politely dissuade such behavior.  If you do not feel comfortable addressing the behavior, please reach out to OSSF Event Management by DM’ing anyone with -LF Events Team at the end of their name. Please use Appropriate Language – if you wouldn’t say it to your grandparents, don’t say it here. Keep this workspace feeling safe for everyone.  Refrain from sending direct messages or tagging other community members who have requested not to be contacted. If you direct-message someone they are not obligated to respond. Do not continue to message them if they do not respond. Concurrently, if you are tagged in a post or direct messaged, you are not obligated to respond. If the issue persists, or if the message is inappropriate in nature, please refrain from engaging in the conversation and reach out to OSSF Event Management by DM’ing anyone with -LF Events Team at the end of their name. Refrain from repeatedly tagging anyone on a new question; questions you post should be for the channel as a whole for anyone there to respond, these are public forums. Refrain from asking technical questions in a direct message unless the other person has offered support and requested a direct message conversation to continue a discussion. Don’t abuse the ability to tag someone. Try to only tag someone when continuing a pre-existing conversation with them, and particularly when responding to a question that they have asked. Please note that this rule includes “OSSF Experts” as well. Our “OSSF Experts” will be holding scheduled Ask the Experts where they will be available to answer your questions.  Outside of these scheduled times, they are not expected to provide any technical support. When on Slack, please treat the “OSSF Experts” as you would any other community member.All posts reflect the views and opinions of its author and do not necessarily reflect the views of The Linux Foundation or its employees.  As a participating attendee, you are solely responsible for anything you post.
+Behaviors to Avoid
+Any forms of disrespect — We do not tolerate impolite or offensive behaviors, including the use of explicit/vulgar language, images and/or messages e.g. racist remarks.Spamming or trolling other members.Illegal activity – ie. posting links to pirated content, advice on how to jailbreak software, or illegal bypasses of software security protection.Please do not post or link to any private information (your own or others) such as credit card numbers, passwords, product/API keys or any sensitive personally identifiable information. Take particular care when posting screenshots of your desktop.Marketing (with the exception of official event sponsors in the sponsor channel) – blatant advertising and spam marketing will not be tolerated. Posting affiliate links to third-party services such that clicking on the link or buying the services within would directly or indirectly financially benefit the poster is prohibited, due to the potential conflict of interest. Do feel free to share products or services you find useful where it applies to the workspace or links to your own websites!No Direct Pitches – Only our official event sponsors are permitted to pitch only in the Event Sponsor Channel. Consider sponsoring one of our conferences!Don’t hate on tech you don’t like.  There is a good chance there is someone in the room who either helped create or likes to use that tool. Remember, don’t be a jerk.There are no stupid questions. If people ask questions that are simple to answer on Google, answer them nicely still.No links without context – If you put a link in the chat without context or explanation, it may be deleted.
+
+
+
+
+
+Reporting Issues
+
+The LF Events team seeks to resolve conflicts peacefully and in a manner that is positive for the community. We can’t foresee every situation, and thus if in our judgment the best thing to do is to ask a disrespectful individual to leave, we will do so.
+If you experience disrespectful behavior toward yourself or anyone else and feel in any way unable or unwilling to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of an LF Event team member. We want to hear from you about anything that you feel is disrespectful, threatening, or just something that could make someone feel distressed in any way.
+We reserve the right, always, to deactivate accounts at our discretion should anyone choose not to abide by the spirit of our community guidelines or code of conduct.
+The OSSF Events team can be reached by DM’ing anyone with -LF Events Team at the end of their name, in #1-helpdesk, or by emailing us at events@linuxfoundation.org.  You are also encouraged to contact Angela Brown, SVP & General Manager of Events, at angela@linuxfoundation.org.
+
+
+
+
+
+Feedback
+
+We will also be happy to receive your feedback and suggestions for the guidelines so that we build a strong community. Reach out to us in #1-helpdesk, or email us at events@linuxfoundation.org.
+
+
+
+ 
+
+
+
+
+Sponsors
+
+LEADER
+Contributor
+Community 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#OSfinserv
+
+
+
+
+Code of Conduct
+
+Sponsor
+Schedule
+Explore the Tracks
+Featured Speakers
+
+Experiences
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

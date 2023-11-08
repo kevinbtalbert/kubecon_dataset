@@ -1,0 +1,238 @@
+
+
+
+
+The Linux Foundation Launches New Event: AI.dev: Open Source GenAI & ML Summit | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+October 3, 2023
+The Linux Foundation Launches New Event: AI.dev: Open Source GenAI & ML Summit		
+
+
+
+
+Happening December 12 – 13 in San Jose, CA, and co-locating with Cassandra Summit, AI.dev is where developers will converge to shape the future of open source AI innovation
+SAN FRANCISCO, October 3, 2023 —  The Linux Foundation, the nonprofit organization enabling mass innovation through open source, and LF AI + Data Foundation, the organization building an ecosystem to sustain open source innovation in artificial intelligence (AI) and data open source projects, today announced the launch of a new event, AI.dev: Open Source GenAI & ML Summit, aimed to bring together the brightest developers from around the world to shape the trajectory of open source AI. Co-located with the Cassandra Summit, which also just announced a new track to explore distributed AI with Cassandra, developers will gather on December 12 – 13, 2023, at the San Jose McEnery Convention Center in San Jose, California. 
+AI.dev is a nexus for developers interested in delving into the intricate realm of open source generative AI and machine learning. At the heart of this event is the belief that open source is the engine of innovation in AI and also a necessary tool for creating security and balance around AI. Attendees will have the opportunity to join hands-on sessions, engage in robust technical conversations, and harness the collective expertise to push the boundaries of AI with open source. The event will offer early access to the latest open source AI tools, frameworks, best practices, and content for technologists at all levels. 
+“We are just now starting to see the true power of artificial intelligence and machine learning at a broad scale,” said Ibrahim Haddad, Executive Director of LF AI & Data at The Linux Foundation. “In order to advance this technology in a sustainable way, open source collaboration is imperative. We are thrilled to announce AI.dev, which we plan to expand to Europe and Asia in 2024, to ensure a vendor-neutral home for the important knowledge-sharing and collaboration that needs to happen around these technologies.”
+AI.dev will offer developers, engineers, researchers, scientists, open source contributors, and business leaders the opportunity to be an integral part of the conversations shaping the future of AI, to network with experts, and to learn from trailblazers in the field.
+Submit to Speak at AI.devProposals to speak at AI.dev are being accepted now through October 23 at 9:00 AM PDT. 
+Suggested topics include:
+
+Foundations, Frameworks and Tools for Machine Learning
+MLOps, GenOps and DataOps
+Generative AI and Creative Computing
+Autonomous AI and Reinforcement Learning
+Natural Language Processing and Computer Vision
+Edge and Distributed AI
+Data Engineering and Management
+Community and Ecosystem Building
+Responsible AI: Ethics, Security, and Governance in AI
+
+Learn more and submit to speak here.
+New AI Track at Cassandra Summit The Linux Foundation is also announcing a new AI track at Cassandra Summit, with speaking submissions currently being accepted now through October 23 at 9:00 AM PDT.
+Suggested topics include:
+
+Distributed AI with Cassandra
+Case Studies: AI-Powered Applications Using Apache Cassandra 
+
+Learn more and submit to speak here.
+RegistrationRegistration includes access to BOTH AI.dev and Cassandra Summit. 
+Early Bird in-person registration is offered for US$499 now through November 21, which represents a savings of US$300. Special registration rates of US$199 are also available for hobbyists, academics, and students.  
+Diversity & Need-Based Registration Scholarships and Linux Foundation Travel FundThe Linux Foundation’s Registration Scholarship Program offers diversity and need-based registration scholarships for those who may otherwise be unable to attend a Linux Foundation event. A travel funding assistance program is also available to help make events accessible to all. 
+The deadline to submit for a scholarship is November 6 at 11:59 PM PDT and October 23 at 11:59 PM PDT to submit for the travel funding assistance program. Please find more information here.
+Remote ParticipationAll AI.dev keynote and breakout sessions will be live streamed directly to the Linux Foundation YouTube channel real time during the event. Viewing details will be available on the AI.dev website closer to the event. Learn more.
+Event SponsorsDiamond: Datastax;
+Gold: AWS; AxonOps;
+Silver: DatAvail; and DBeaver.
+For information on becoming an event sponsor, click here or email.
+PressMembers of the press who would like to request a press pass to attend should contact Kristin O’Connell.
+Social Media Join the conversation on social media by following #AIdotDev and #CassandraSummit.
+ABOUT THE LINUX FOUNDATIONThe Linux Foundation is the world’s leading home for collaboration on open source software, hardware, standards, and data. Linux Foundation projects are critical to the world’s infrastructure including Linux, Kubernetes, Node.js, ONAP, PyTorch, RISC-V, SPDX, OpenChain, and more. The Linux Foundation focuses on leveraging best practices and addressing the needs of contributors, users, and solution providers to create sustainable models for open collaboration. For more information, please visit us at https://www.linuxfoundation.org/. The Linux Foundation Events are where the world’s leading technologists meet, collaborate, learn and network in order to advance innovations that support the world’s largest shared technologies.
+Visit our website and follow us on Twitter, LinkedIn, and Facebook for all the latest event updates and announcements.
+The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see its trademark usage page: 
+www.linuxfoundation.org/trademark-usage. Linux is a registered trademark of Linus Torvalds.
+Media ContactKristin O’ConnellThe Linux Foundationkoconnell@linuxfoundation.org
+# # #
+
+
+
+
+
+Post navigation
+The Linux Foundation Announces Schedule for Annual Member Summit
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

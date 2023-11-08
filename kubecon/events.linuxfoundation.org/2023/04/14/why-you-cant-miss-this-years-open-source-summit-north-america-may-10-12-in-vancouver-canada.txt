@@ -1,0 +1,254 @@
+
+
+
+
+Why You Can’t Miss This Year’s Open Source Summit North America, May 10-12 in Vancouver, Canada | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+April 14, 2023
+Why You Can’t Miss This Year’s Open Source Summit North America, May 10-12 in Vancouver, Canada		
+
+
+
+
+The eagerly anticipated Open Source Summit North America 2023 is fast approaching – we’re going LIVE in Vancouver, Canada in just 4 weeks! While the main event takes place May 10-12, attendees have the added benefit of access to over a dozen co-located events taking place May 8-9, providing an entire week of interactive sessions to network, share knowledge, engage in collaborative discussions – and, of course, celebrate their love of open source!
+The Linux Foundation’s Open Source Summit was first introduced nearly 15 years ago (where were YOU in 2009 – were you there?). The event has grown in size and evolved in scope and format, but the mission remains the same: to provide a forum for open discussion and collaboration by gathering developers, technologists and community contributors across the open source ecosystem – all under one roof at the same time. It is THE event to attend if you’re looking to share information and learn and drive the advancement of open source innovation.
+Open Source Summit North America 2023 is composed of 15 micro conferences — LinuxCon, OSPOCon, SupplyChainSecurityCon, CloudOpen, SustainabilityCon, and Open AI + Data Forum, to name a few. This means there is no shortage of content (you know we LOVE a jam-packed schedule…). Co-located events like cdCon + GitOpsCon, Spinnaker Summit, PyTorch Foundation Mini Summit, Linux Security Summit, and others, further add to the diversity and breadth of content the event brings to its attendees.
+KNOWLEDGE & INSIGHTS
+With an impressive line-up of over 300 sessions for attendees to look forward to, Open Source Summit North America covers the most essential technologies, topics, and issues in the open source community. We announced the full list of keynote speakers a few weeks ago, featuring visionaries and tech leaders from companies like EleutherAI, Discover Financial Services, Google, Province of British Columbia, NASA Jet Propulsion Laboratory and more, providing attendees a glimpse into the wealth of knowledge and insights they can expect to gain from the event.
+Keynote Speakers Include:
+
+Stella Biderman, Lead Scientist at Booz Allen Hamilton and the Executive Director of EleutherAI
+Dagney Braun, Principal Product Manager, Amazon
+Eric Brewer, Vice President of Infrastructure & Google Fellow, Google
+Hilary Carter, Senior Vice President of Research & Communications, The Linux Foundation
+Dr. Angel Diaz, Vice President, Technology Capabilities & Innovation, Discover Financial Services
+Cory Doctorow, Science Fiction Author, Activist and Journalist
+Phil Estes, Principal Engineer, Amazon Web Services (AWS)
+John Jordan, Executive Director, BC Digital Trust Service, Province of British Columbia
+Mallory Knodel, Chief Technology Officer, Center for Democracy and Technology
+Larry Kunz, Information Architect, Extreme Networks
+Tracy Ragan, Chief Executive Officer & Co-founder, DeployHub and OpenSSF Board Member
+Calista Redmond, Chief Executive Officer, RISC-V International
+Rishi Verma, Architect, NASA Jet Propulsion Laboratory
+Jim Zemlin, Executive Director, The Linux Foundation
+
+WE HOPE YOU CAN JOIN US
+Registration (in-person) is US$999 through April 23, which represents a savings of US$250. We offer reduced registration rates for small businesses, hobbyists, and students, and a ‘hall pass’ option is available as well. You can find more information and register here. 
+And for those of you who are members of The Linux Foundation, you can receive a 20 percent discount off registration! Just contact events@linuxfoundation.org to request a member discount code. 
+LET’S HAVE SOME FUN 
+All work, no play? NO way! We want to make sure your time at the Open Source Summit North America provides a balance of mind + body wellness. From fitness activities and travel adventures, to cuddling up with a furry friend, we want your experience with us to be both fun and educational.
+
+Morning Yoga and Meditation: Kick off day 1 with a calm, focused and energized mind! 
+First-Time Attendee Breakfast: Is this your first time attending a Linux Foundation event? Excellent news! Meet some fellow first-timers while fueling up on day 1. 
+5K Fun “Run”: Before you tell us you’re not a runner… we’re offering three pace groups (walking, jogging and running) so everyone is able to join us! 
+Downtown Vancouver Bus Tour: How many business trips have you gone on and returned home only to have seen the inside of a conference or your hotel room? When you attend the Open Source Summit you get to explore Vancouver, Canada, too! 
+Puppy Pawlooza: Back by popular demand, (and no surprise there), Puppy Pawlooza brings certified therapy dogs onsite to provide a relaxing reprieve from event excitement. 
+
+Participation at these onsite activities are first come first serve. Participants must be registered for Open Source Summit North America 2023, and be wearing their event badge.
+COME AS YOU ARE + BRING YOUR KIDDOS, TOO! 
+At the Linux Foundation, we are dedicated to organizing events that foster a welcoming and inclusive environment. Our goal is to remove as many obstacles as possible that might impact someone’s ability to join us at an event and enjoy themselves. Here are some of the ways we aim to achieve that:
+
+Nursing Room: A private nursing room will be located onsite and will be open every day of the conference, to aid in the comfort and accessibility of our nursing attendees. 
+Kid’s Day: Beginners (ages 9-18) with a creative imagination are invited to join us and pitch an idea for an app/game. Our staff and industry mentors will guide them to create their own coded project. No prior CS experience is needed, but space is limited so please sign up soon!
+Creating Respectful and Safe Spaces: Open Source Summit brings together thousands of community members – and we understand that to some, that can feel overwhelming. To support attendees who would like a place to recharge and who want to set boundaries, we offer a Zen Zone, Interaction Stickers and Pronoun Stickers. Check out The Linux Foundation’s onsite D&I resources for more information.
+
+ENCOURAGING UNITY AND LIFELONG CONNECTIONS 
+The open source community thrives on collaboration and mutual support. Open Source Summit North America is proud to provide environments where meaningful connections are made – which therefore nurture an even stronger community. Join us at the following:
+
+Women and Non-Binary Lunch: We’d like to invite all attendees that identify as women or non-binary to join each other for a networking lunch at the event.
+Speed Networking: Whether you’re new or experienced in open source, register for our Speed Networking and Mentoring event to meet experienced mentors in Linux, cloud native, container and networking technologies. Sign up to participate as either a mentor or a mentee!
+Diversity Lunch: Join other event participants from marginalized communities and their allies at the Better Together Diversity Luncheon. Build connections that carry through the event and beyond!
+
+DON’T FORGET THE EVENING EVENTS! 
+Once the sessions and tracks have ended for the day, it’s time to join your fellow attendees for some socializing, with plenty of delicious food and fun entertainment. Join us at the Onsite Attendee Reception & Sponsor Showcase to check out the latest and greatest sponsor products and technologies, and at the All Attendee Reception at the Vancouver Aquarium! A personal favorite of your LF Events staff, and a must see attraction in Vancouver, get ready for a night of sea lion shows and plenty of opportunities to observe and enjoy all the exhibits.
+IT TAKES AN (OPEN SOURCE) VILLAGEOpen Source Summit North America would not be possible without support from sponsors within the open source community. We have tremendous gratitude for our 2023 Open Source Summit North America Sponsors including:  
+
+Diamond Sponsors: Amazon Web Services, Discover, and Google;
+Platinum Sponsors: OpenSearch and Red Hat; and
+Gold Sponsors: Cloud Native Computing Foundation, Delta Lake, GitLab, Intel, Meta, and SUSE. 
+
+Open Source Summit North America’s Program Committee is also a vital part of ensuring the event programming is balanced, comprehensive and meets the needs of our attendees. Compiling an agenda of this size, filled with incredible content and led by industry innovators and experts, is no small feat. This year’s Open Source Summit North America Call For Proposals garnered more than 1000 submissions! Tremendous thanks to each and every one of you! 
+SEE YOU THEREOpen Source Summit North America is just 4 weeks away – and we just can’t wait! Register today to join the entire open source community May 10-12 in Vancouver, Canada.
+Follow and join the conversation on social media with #OSSummit 
+# # # 
+
+
+
+
+
+Post navigation
+The Linux Foundation Announces Schedule for Embedded Open Source Summit33% of Open Source Summit North America speakers identify as female or non-binary!
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

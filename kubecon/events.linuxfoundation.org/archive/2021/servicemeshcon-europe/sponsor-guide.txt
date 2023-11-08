@@ -1,0 +1,263 @@
+
+
+
+
+Sponsor Guide | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Program Committee
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  KubeCon + CloudNativeCon + other CNCF Events. 
+
+
+
+
+
+
+ 
+
+
+						Sponsor Guide					
+
+
+
+
+
+
+General Information
+Thank you for your support of ServiceMeshCon EU 2021, taking place virtually on May 4th.
+Please click through the tabs on this page to access information on exhibiting at the conference.
+Registration
+All sponsors should register here using the sponsor code that was emailed to you. *Please note: You must pay the registration fee for Kubecon + Cloud Native Con. This discount code only waives the ServiceMeshCon registration fee.
+
+
+
+Virtual Platform
+The virtual event platform for ServiceMeshCon Europe 2021 will be MeetingPlay.
+
+
+
+Due Dates
+March 23rd: Logo in .svg format due. March 24th: Speaker information due. (Diamond only) April 7th: Diamond keynote pre-recording and slide due.April 8th: Post-event email message due. (Diamond and Platinum only) April 16th: Pre-conference email content due. (Diamond only) April 16th: Pop-up message content due. (Diamond and Platinum only)April 22nd: Message to be posted in event networking channel due (50 words)April 23rd: Register attendees by this date.
+
+
+
+Deliverables
+Message in Event Networking Channel:Diamond, Platinum, and Gold members have the opportunity to reach out to attendees with a customized 50-word message in the event networking channel. Messages may include a call to action, e.g. directing attendees to a conference session or link to an external website. 
+Pre Conference Email Blast:Diamond sponsors have the opportunity to send (1) pre-conference email to attendees who opted in to receive sponsored content. Dates are reserved on a first come first serve basis. Send your content and your preferred send out date to Christie Davis by Friday, April 16. CNCF will send emails on a conference branded email template on behalf of the sponsor. Attendee contact details will not be shared.Pre-conference emails will be sent out: Monday, April 26 – Friday, April 30.
+Message In Post Conference Email:Diamond and Platinum sponsors may include a personalized message in the post-conference email that will be sent to all opt-in attendees. Gold sponsors will have their company name and website link included in the post-conference email.Diamond: up to 150 wordsPlatinum: up to 100 words
+Speaking Opportunity:Diamond sponsors receive a 10-minute speaking opportunity. Please see the speaking opportunity tab for more information.
+Social Media Mentions From Project Handle:CNCF will create and post the content for social media mentions.Diamond: 1 mentionPlatinum: 1 group mentionGold: 1 group mention
+Mobile Schedule Branding:Diamond, Platinum, and Gold sponsors will have their company logo and link displayed on the mobile schedule on Sched.com.
+Recognition On Event Website and Event Signage:Diamond, Platinum, and Gold sponsors will have their logo displayed on the event website and on virtual event signage.
+Recognition in Pre-Event Attendee EmailDiamond, Platinum, and Gold sponsors will be recognized in the pre-event attendee email.
+Diamond: Logo + LinkPlatinum: Logo + LinkGold: Company Name + Link
+Pop-Up Message on Virtual PlatformDiamond and Platinum sponsors may submit content for (1) pop-up message and a URL for the call-to-action button. Messages will appear on the screens of attendees who are logged into the virtual event platform and have opted to receive pop-up notifications.
+Submission guidelines:
+Pop-up messages should be short and concise. Maximum length of each message: 200 characters.A call-to-action button with a custom label can be added to each pop-up message. Call-to-actions may direct attendees to your booth, highlight a conference session or demo, promote a downloadable resource on the virtual swag page, or link to an external website. Example: “Click here to visit our booth”. Recommended length of each label: No more than 40 characters.If your call-to-action is directing to an external webpage, provide the URL of the page you would like to link to. 
+In Platform Logo Linking to Main BoothDiamond, Platinum, and Gold sponsors will have a logo in the co-lo section of the platform that links to their main booth (the booth associated with their level sponsorship of KubeCon + CloudNativeCon).
+Conference Attendee Passes: Sponsors receive a number of full-access passes to ServiceMeshCon based on sponsorship level. Please note: Registration and payment for KubeCon + CloudNativeCon is required to attend all co-located events.Diamond: 20 passesPlatinum: 15 passesGold: 10 passesPlease email Christie Davis if you need your sponsor code for the complimentary passes re-sent to you.
+
+
+
+Speaking Opportunity
+Diamond sponsors receive a 10-minute speaking opportunity during Cloud Native Security Day.
+Please provide the required details below no later than Wednesday, March 24th, so it can be added to the schedule. Once the details are received, the program committee will review the content prior to it being posted. As a reminder, we encourage you to use this time to benefit the community.
+Track Session TitleTrack Session Abstract (to be included on schedule)Speaker NameSpeaker TitleSpeaker BioSpeaker Email
+Please send to Christie Davis.
+Session content must meet CFP requirements and is subject to approval by CNCF and/or the event Program Committee. Sales and marketing pitches are prohibited.The Linux Foundation is committed to a diverse and inclusive community. To this end, all talks/sessions with more than one speaker are required to include at least one woman or gender non-confirming participant. All-male panels will not be accepted.The Linux Foundation is dedicated to providing a harassment-free experience for participants at all of our events. We encourage all submitters to review our complete Code of Conduct.
+Speaker pre-recording and slide is due by April 7.
+PRE-RECORDING DETAILSAll speakers are required to pre-record their presentation. In order to mitigate technical risks, we are not allowing speakers to present their talk live. We ask that you please self-record and upload an MP4 file. 
+SELF-RECORDING YOUR PRESENTATION
+All speakers are required to pre-record their presentation on their own. In order to mitigate technical risks, we are not allowing speakers to present their talk live. Requirements are as follows: 
+Video Codec: h.264 (MUST)Video File Format: MP4 (MUST)Resolution: 1920×1080 (MAXIMUM)What Frame Rate:  29.97 (MAXIMUM)What Bitrate settings: 3mbps to 4mbps (NO LARGER THAN) What audio codec: AAC @ 256k (NO HIGHER THAN) Size Limit for final output? 1.5GB per 60 minutes (MAXIMUM)Files must be no larger than 1.5GB per one hour of video.  If we receive larger files, we will compress them to the size specs we require.
+Note: Your final MP4 file is due Wednesday, April 7 by 11:59 PM PDT.
+You must upload the recording by Wednesday, April 7. This is a hard deadline. If you cannot meet this deadline we may have to cancel your session.
+Please upload your MP4 file into the Google Folder shared in your acceptance email and make sure your file is named in this format: 
+SessionTitle_YourName_Dateofsession_version#
+Example: HowToShareVideoFiles_JohnSmith_4May_v1.mp4
+Email your event lead as soon as you have uploaded your video file to confirm receipt.
+Note: For self-recording, the software you choose and the way you present is entirely up to you. If you want to show your face or not; if you want to use PowerPoint, Keynote, or Google slides, or no slides – it’s totally up to you. Please make sure the resolution of your file is at least 720p but 1080p is preferred. Note that if you are doing a demo, the higher the resolution, the better for attendees. Recommended Recording Software Options: Zoom (highly recommended), OBS: Open Broadcaster Software, Vimeo, Bandicam, Twitch, Screencast-O-Matic
+Helpful Zoom Documents and How-to’s:
+Enabling HD Video (This is disabled by default, so you will need to enable it before recording)Recording Side-by-Side for sessions with more than one speakerHow to Record in Zoom Instructional Video – Created by our A/V vendor, Matt O’Donnell, guiding you through recording your presentation for either single or multiple speaker sessions, as well as providing tips on lighting, cameras, and audio.
+*NOTE: Please refer to the Co-Located Event Speaker Guide for additional information and helpful tips.
+
+
+Logo
+If you have not done so already, please send your logo to Christie Davis. 
+Your logo will appear in the following places based on your sponsorship level:
+Diamond:Event SchedulePre-Event Attendee EmailEvent WebsiteVirtual Platform Signage
+Platinum:Event SchedulePre-Event Attendee EmailEvent WebsiteVirtual Platform Signage
+Gold:Event SchedulePre-Event Attendee Email – Company Name + Link IncludedEvent WebsiteVirtual Platform Signage
+
+
+
+
+
+
+
+Sponsors
+
+DIAMOND
+HOSTED BY 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+#servicemeshcon
+
+
+
+
+Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Program Committee
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

@@ -1,0 +1,1146 @@
+
+
+
+
+Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+ 
+
+Building and sustaining open source communities
+Over 90,000 open source technologists and leaders from around the globe gather at Linux Foundation events annually to share ideas, learn and collaborate.
+
+
+
+
+
+ Filter events by name or topic  
+Filter by Event Category 
+All Categories
+AI Events  (1)
+Automotive Grade Linux Events  (1)
+Data & Storage Events  (1)
+Embedded & IoT Events  (1)
+Emerging Technology Events  (1)
+Hyperledger Events  (1)
+KubeCon + CloudNativeCon + other CNCF Events  (21)
+Leadership & Community Events  (1)
+Linux Dev Events  (2)
+Networking & Edge Events  (4)
+Open Source Summit Events  (3)
+OpenSSF Events  (1)
+R/Medicine Events  (1)
+RISC-V Events  (1)
+
+  
+Filter by Country 
+All Countries
+Asia Pacific  (7)
+   India  (2)
+   Japan  (4)
+   Singapore  (1)
+Europe  (19)
+   Austria  (2)
+   France  (16)
+   Hungary  (1)
+North America  (14)
+   United States  (14)
+
+ Reset
+
+
+
+KubeCon + CloudNativeCon North America
+
+
+
+
+
+					Nov 6–9, 2023				
+
+
+
+Chicago, United States and 					
+
+
+Virtual					
+
+
+
+CNCF’s flagship conference gathers adopters & technologists from leading OS and cloud native communities (Kubernetes, Prometheus, Envoy, CoreDNS and more) for education and advancement of cloud native computing. 
+
+RegisterSponsorSchedule 
+
+
+
+
+RISC-V Summit
+
+
+
+
+
+					Nov 7–8, 2023				
+
+
+
+Santa Clara, United States					
+
+
+
+The premier event for RISC-V, the open-standard instruction set architecture (ISA) enabling new applications and research defining the future of open computing. 
+
+RegisterSponsorSchedule 
+
+
+
+
+CHIPS Technology Update
+
+
+
+
+
+					Nov 9, 2023				
+
+
+
+Sunnyvale, United States and 					
+
+
+Virtual					
+
+
+
+Technology update featuring informative, technical talks on open source hard collaborative development. 
+
+RegisterSchedule 
+
+
+
+
+LFN Developer & Testing Forum
+
+
+
+
+
+					Nov 13–16, 2023				
+
+
+
+Budapest, Hungary					
+
+
+
+Join the LF Networking ecosystem developers to test, build, and create the future of networking. 
+
+RegisterSpeak 
+
+
+
+
+Linux Plumbers Conference
+
+
+
+
+
+					Nov 13–15, 2023				
+
+
+
+Richmond, United States and 					
+
+
+Virtual					
+
+
+
+LPC brings together the top developers working on the “plumbing” of Linux — kernel subsystems, core libraries, windowing systems, etc. — and gives them three days to work together on core design problems. The conference is divided into several working sessions focusing on different “plumbing” topics, as well as a general paper track. 
+
+Sponsor 
+
+
+
+
+Linux Kernel Maintainer Summit
+
+
+
+
+
+					Nov 16, 2023				
+
+
+
+Richmond, United States					
+
+
+
+An annual, by-invitation gathering of the world’s leading core kernel developers to discuss the state of the existing kernel and plan the next development cycle. 
+
+Sponsor 
+
+
+
+
+Yocto Project Summit
+
+
+
+
+
+					Nov 28–30, 2023				
+
+
+
+Virtual					
+
+
+
+The Yocto Project Virtual Summit is a virtual technical conference for engineers, open source technologists, students and academia in the OSS space. 
+
+Register 
+
+
+
+
+ONE Summit Regional Days – Bangalore
+
+
+
+
+
+					Nov 30, 2023				
+
+
+
+Bangalore, India					
+
+
+
+Join the LFN community for this one-day event featuring a packed agenda with engaging sessions discussing the latest trends and strategies across the open network stack. 
+
+Register 
+
+
+
+
+Hyperledger Member Summit Tokyo
+
+
+
+
+
+					Dec 4, 2023				
+
+
+
+Tokyo, Japan					
+
+
+
+Hyperledger’s annual flagship event, bringing together representatives from our member companies to connect, address common challenges, share lessons learned, and collectively envision how to make Hyperledger the place for DLT technologies to grow and thrive. 
+
+RegisterSchedule 
+
+
+
+
+OpenSSF Day Japan
+
+
+
+
+
+					Dec 4, 2023				
+
+
+
+Tokyo, Japan					
+
+
+
+OpenSSF Day brings together the open source community to discuss the challenges, big-picture solutions, ongoing work, and successes in securing the open source software (OSS) supply chain. 
+
+RegisterSchedule 
+
+
+
+
+GitOpsCon Europe
+
+
+
+
+
+					Dec 5–6, 2023				
+
+
+
+Virtual					
+
+
+
+A VIRTUAL event designed to foster collaboration, discussion and knowledge sharing on GitOps. 
+
+RegisterSponsorSchedule 
+
+
+
+
+Open Source Summit Japan
+
+
+
+
+
+					Dec 5–6, 2023				
+
+
+
+Tokyo, Japan					
+
+
+
+The premier vendor-neutral open source conference in Japan for developers and technologists to collaborate, share information and learn about the latest technologies and innovations across open source.
+Microconferences Included:
+
+Automotive Linux Summit
+CloudOpen
+ContainerCon
+Critical Software Summit
+Embedded IoT Summit
+Emerging OS Forum
+LinuxCon
+Open Source Leadership Summit
+Operations Management Summit
+OSPOCon
+SupplyChainSecurityCon
+ 
+
+RegisterSponsorSchedule 
+
+
+
+
+PrestoCon
+
+
+
+
+
+					Dec 5–6, 2023				
+
+
+
+Mountain View, United States					
+
+
+
+At PrestoCon, users and developers collaborate to advance the use of Presto as a high-quality, performant, and dependable software used to power the analytics platforms. 
+
+RegisterSponsorSchedule 
+
+
+
+
+Open Compliance Summit
+
+
+
+
+
+					Dec 7–8, 2023				
+
+
+
+Tokyo, Japan					
+
+
+
+An exclusive, annual event for Linux Foundation members and select invitees that provides an excellent opportunity for organizations to share knowledge around open source compliance. 
+
+RegisterSponsorSchedule 
+
+
+
+
+KubeDay India
+
+
+
+
+
+					Dec 8, 2023				
+
+
+
+Bengaluru, India					
+
+
+
+KubeDay events connect international and local experts in global cities with adopters, developers, and practitioners to promote face-to-face collaboration and deliver rich educational experiences. 
+
+RegisterSchedule 
+
+
+
+
+AI.dev: Open Source GenAI & ML Summit North America
+
+
+
+
+
+					Dec 12–13, 2023				
+
+
+
+San Jose, United States					
+
+
+
+AI.dev is the premier event for developers in open source GenAI & ML. Attend to dive deep into AI innovations, collaborations & best practices. 
+
+RegisterSponsor 
+
+
+
+
+Cassandra Summit
+
+
+
+
+
+					Dec 12–13, 2023				
+
+
+
+San Jose, United States					
+
+
+
+Cassandra Summit is the world’s largest gathering of Apache Cassandra community members including architects, developers, users, and industry thought leaders. 
+
+RegisterSponsorSchedule 
+
+
+
+
+KubeDay Singapore
+
+
+
+
+
+					Dec 12, 2023				
+
+
+
+Singapore, Singapore					
+
+
+
+KubeDay events connect international and local experts in global cities with adopters, developers, and practitioners to promote face-to-face collaboration and deliver rich educational experiences. 
+
+RegisterSchedule 
+
+
+
+
+Automotive Grade Linux at CES
+
+
+
+
+
+					Jan 9–12, 2024				
+
+
+
+Las Vegas, United States					
+
+
+
+Automotive Grade Linux (AGL) is a collaborative open source project that is accelerating development of a fully open software platform for automotive applications. 
+
+Sponsor 
+
+
+
+
+AppDeveloperCon Europe
+
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+AppDeveloperCon is designed for developers at all levels who are involved in the architecture, design, and development (using any programming language) of cloud-native applications. 
+
+RegisterSpeakSponsor 
+
+
+
+
+ArgoCon Europe
+
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+ArgoCon is designed to foster collaboration, discussion, and knowledge sharing on the Argo Project, which consists of four projects: Argo CD, Argo Workflows, Argo Rollouts and Argo Events. 
+
+RegisterSpeakSponsor 
+
+
+
+
+BackstageCon Europe
+
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+BackstageCon is a one-day conference focused on all things Backstage: an open platform for building developer portals. 
+
+RegisterSpeakSponsor 
+
+
+
+
+Cilium + eBPF Day Europe
+
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+At Cilium + eBPF Day you’ll hear from end users sharing how Cilium and other eBPF projects unlocked levels of scalability, performance, and security that weren't possible before and from contributors who will teach you about how cloud native projects are leveraging eBPF to gain these benefits. 
+
+RegisterSpeakSponsor 
+
+
+
+
+Cloud Native AI Day Europe
+
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+Join us for an event dedicated to advancing batch workloads for High-Performance Computing (HPC) and seamlessly integrating AI/ML into Kubernetes. 
+
+RegisterSpeakSponsor 
+
+
+
+
+Cloud Native Wasm Day Europe
+
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+Cloud Native WebAssembly Day highlights the growing importance and ubiquity of WebAssembly throughout the cloud-native ecosystem. 
+
+RegisterSpeakSponsor 
+
+
+
+
+Data on Kubernetes Day Europe
+
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+DoK Day is where the industry convenes to share best practices and use cases, forge critical relationships, and learn about advancements in using Kubernetes for data. 
+
+RegisterSpeakSponsor 
+
+
+
+
+Istio Day Europe
+
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+Istio Day community event for the industry’s most popular service mesh, where you will find lessons learned from running Istio in production, hands-on experiences, and featuring maintainers from across the Istio ecosystem. 
+
+RegisterSpeakSponsor 
+
+
+
+
+KubeCon + CloudNativeCon Europe
+
+
+
+
+
+					Mar 19–22, 2024				
+
+
+
+Paris, France					
+
+
+
+The Cloud Native Computing Foundation’s flagship conference gathers adopters and technologists from leading open source and cloud native communities. 
+
+RegisterSpeakSponsor 
+
+
+
+
+Kubeflow Summit Europe
+
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+Join us for the Kubeflow Summit 2024, an exciting event dedicated to all things Kubeflow! 
+
+RegisterSpeakSponsor 
+
+
+
+
+Kubernetes on Edge Day Europe
+
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+Kubernetes on Edge Day invites developers and adopters from across the entire cloud native ecosystem to come together and share their insights and experiences in constructing, enhancing, and improving their edge infrastructure. 
+
+RegisterSpeakSponsor 
+
+
+
+
+Multi-TenancyCon Europe
+
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+Multi-TenancyCon is a vendor-neutral conference designed to foster collaboration, discussion, and knowledge sharing on Multi Tenancy framework and technologies, and challenges for implementing and adopting in a production set-up. 
+
+RegisterSpeakSponsor 
+
+
+
+
+Observability Day Europe
+
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+Observability Day fosters collaboration, discussion, and knowledge sharing of cloud-native observability projects (including but not necessarily limited to Prometheus, Fluentd, Fluent Bit, OpenTelemetry, and OpenMetrics). 
+
+RegisterSpeakSponsor 
+
+
+
+
+OpenTofu Day Europe
+
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+We will bring practitioners, experts, and enthusiasts to in-person sessions on the essential topics of IaC, the plans for the OpenTofu releases, novel ideas, and projects built on top of OpenTofu. 
+
+RegisterSpeakSponsor 
+
+
+
+
+Platform Engineering Day Europe
+
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+Platform Engineering Day brings together Platform Engineers, Product Managers, Solutions Architects to share lessons learned in building and managing internal platforms, measuring platform maturity and improving golden paths and developer experience. 
+
+RegisterSpeakSponsor 
+
+
+
+
+ThanosCon Europe
+
+
+
+
+
+					Mar 19, 2024				
+
+
+
+Paris, France					
+
+
+
+Join us in the first ever conference fully focused on the CNCF Incubated Thanos project! 
+
+RegisterSpeakSponsor 
+
+
+
+
+Embedded Open Source Summit
+
+
+
+
+
+					Apr 16–18, 2024				
+
+
+
+Seattle, United States					
+
+
+
+Embedded Open Source Summit (EOSS) is an umbrella event for open source embedded projects and developer communities to come together under one roof for important collaboration, discussions and education. 
+
+Sponsor 
+
+
+
+
+Open Source Summit North America
+
+
+
+
+
+					Apr 16–18, 2024				
+
+
+
+Seattle, United States					
+
+
+
+The premier conference for open source developers, technologists and community leaders to collaborate, share information and learn, furthering open source innovation and ensuring a sustainable open source ecosystem. 
+
+Sponsor 
+
+
+
+
+ONE Summit
+
+
+
+
+
+					Apr 29–May 1, 2024				
+
+
+
+San Jose, United States					
+
+
+
+The ONE event for End to End Connectivity Solutions powered by Open Source; enabling  the collaborative development necessary to shape the future of networking and edge computing. 
+
+RegisterSpeakSponsor 
+
+
+
+
+LFN Developer & Testing Forum
+
+
+
+
+
+					May 2–3, 2024				
+
+
+
+San Jose, United States					
+
+
+
+Join the LF Networking ecosystem developers to test, build, and create the future of networking. 
+
+RegisterSponsor 
+
+
+
+
+useR!
+
+
+
+
+
+					Jul 8–11, 2024				
+
+
+
+Salzburg, Austria and 					
+
+
+Virtual					
+
+
+
+The annual conference by the R community and volunteers, supported by the R Foundation. useR! showcases applications and developments of R software. 
+
+Sponsor 
+
+
+
+
+Open Source Summit Europe
+
+
+
+
+
+					Sep 16–18, 2024				
+
+
+
+Vienna, Austria					
+
+
+
+The premier vendor-neutral conference in Europe for open source developers and technologists to collaborate, share information and learn about the latest technologies and innovations across open source. 
+
+Sponsor 
+
+
+
+
+KubeCon + CloudNativeCon North America 2024
+
+
+
+
+
+					Nov 12–15, 2024				
+
+
+
+Salt Lake City, United States					
+
+
+
+The Cloud Native Computing Foundation’s flagship conference gathers adopters and technologists from leading open source and cloud native communities in Salt Lake City, Utah from November 12-15, 2024. Join our CNCF Graduated and Incubating Projects as the community gathers for four days to further the education and advancement of cloud native computing. 
+
+Sponsor 
+
+ 
+
+Search Our Events Calendar(all upcoming & past events) 
+
+
+Latest News
+The Linux Foundation Launches New Event: AI.dev: Open Source GenAI & ML SummitOctober 3, 2023The Linux Foundation Announces Schedule for Annual Member SummitSeptember 14, 2023Why You Can’t Miss This Year’s Open Source Summit EuropeSeptember 7, 2023The Linux Foundation Announces Keynote Speakers for WasmCon 2023August 16, 2023The Linux Foundation Announces Keynote Speakers for Open Source Summit Europe 2023August 10, 2023More News…
+Community Events
+LF Live Webinar: AI Hallucinations and Manipulation: How to Use AI Coding Tools Securely 
+Nov 8, 2023 | VirtualKCD Denmark 
+Nov 14, 2023 | Brabrand, Denmark12. CNCF Meetup Graz: November, 16th 2023 
+Nov 16, 2023 | Graz, Steiermark, AustriaKCD Utrecht 2023 
+Dec 1, 2023 | Utrecht, NetherlandsKCD Spain 2023 
+Dec 12, 2023 | VirtualKCD Oslo 2024 
+Jan 24–25, 2024 | Oslo, NorwayKCD Kerala 2024 
+Feb 3, 2024 | Kochi, IndiaKCD COSTA RICA 2024 
+Mar 1–2, 2024 | Heredia, Costa RicaKCD Los Angeles 2024 
+Mar 14–15, 2024 | Pasadena, United States2nd International Summit on Graphene & 2D Materials 
+Apr 22–24, 2024More Community Events…
+
+
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,259 @@
+
+
+
+
+FAQ | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+FAQ
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsLinux Plumbers ConferencePast Linux Dev Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Linux Dev Events. 
+
+
+
+
+
+
+ 
+
+
+						FAQ					
+
+
+
+
+Skip to page sectionWhat's ChangedGeneralRegistration + TravelSpeakers
+
+What’s Changed
+
+What is the format of Linux Security Summit North America 2020 and when will it take place?
+LSS NA 2020 is becoming a virtual event this year in light of the COVID-19 situation, and will take place online this July 1-2, 2020. As our physical event shifts to a virtual one, LSS will now be part of the overall  Open Source Summit + Embedded Linux Conference North America virtual experience. With this change, please know that we are taking thoughtful actions to create an immersive digital experience that provides you with interactive content and collaboration experiences.
+What are the benefits of attending the virtual LSS NA 2020?
+Receive the same benefits you would have had at the face-to-face event, but access these from the comfort, safety, and convenience of your home via computer, tablet or phone – all you need is the internet and a web browser. 
+Other benefits and features include:
+Attend informative educational sessions participate in a live speaker Q&AJoin the ‘hallway track’ and collaborate in the Linux Security networking lounge in a group chat, plus connect with attendees in a 1:1 chatBenefit from on-demand content available post-event for a year
+What is the cost for the new virtual format of LSS NA 2020 and how do I register?
+Registration is US$50 and attendees will register for OSS+ELC NA 2020 in order to access all LSS content. 
+Why was the physical LSS NA 2020 in Austin, Texas, canceled?
+Like many others, we have been closely monitoring the COVID-19 situation and taking guidance from the CDC, WHO, and other health authorities and government agencies. We have decided to transition to a virtual experience, rather than a physical event in Austin because the health and safety of our attendees is our top priority, and we didn’t feel it was safe to gather attendees from across the globe at an in-person event just yet.
+What is the plan for LSS NA in 2021?
+We look forward to seeing everyone in-person next year for Linux Security Summit North America 2021! We will announce the date and location of the event as soon as possible.
+
+
+
+
+
+General
+Questions? Please email the Linux Foundation events team at events@linuxfoundation.org.
+
+What are the system requirements needed to participate in the virtual event?
+We are using the InXpo virtual event platform for LSS NA 2020, and this is a web-based, HTML5 platform. You will not need to download any application to participate, and browsers on almost all devices will work. View system/browser requirements here. Attendee pre-event emails will include a quick System Check as well so you can ensure you’ll have no problems accessing. Live technical assistance will be available within the event platform during the event to help you troubleshoot any issues.
+Will the content be different in a virtual experience setting?
+Session length, and the number of sessions may vary. We are working with the LSS program committee to create the event schedule which will be announced shortly.
+How will the virtual sessions work?
+Sessions will take place at scheduled times just as they would at a face-to-face event. Speakers will be available for a live Q&A with attendees. And of course, all sessions will be recorded and available to attendees on-demand after the event.
+Will all sessions be recorded?
+Yes! Once the event ends, all attendees will be able to access the sessions and other content and resources from the event platform for one year. Additionally, all recorded sessions will be transferred to The Linux Foundation YouTube channel within 8 weeks of the event so they are freely accessible to anyone, anywhere.
+I attend LSS NA mainly for networking. How is that possible in a virtual event?
+We know how invaluable face-to-face networking is at events and we purposefully chose a virtual event platform that we felt most closely replicated the real world capabilities for attendee networking at an event. Attendees will be able to connect through networking lounges, join group “hallway track” discussions with other attendees in group chats, and engage in 1:1 chats with other event attendees.
+What timezone will LSS NA 2020 be live in?
+All sessions will be in Central Daylight Time (CDT UTC−05:00).
+How will the Event Code of Conduct be enforced in a virtual environment?
+All participants must abide by the Linux Foundation Code of Conduct in virtual events just as they would at physical ones. We will be monitoring language and images throughout the platform to ensure there are no violations of the CoC, and quickly handle any that we might find. If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the conference staff immediately through the Information desk in the event platform, or email the Event Manager, Stephanie Markowski, at smarkowski@linuxfoundation.org or Angela Brown, SVP & General Manager of Events, at angela@linuxfoundation.org. 
+
+
+
+
+
+Registration + Travel
+Questions? Please email the Linux Foundation events team at events@linuxfoundation.org.
+
+Can I register now for the new virtual LSS NA?
+Yes! To participate in LSS NA, you will need to register for Open Source Summit + Embedded Linux Conference. LSS NA is a complimentary add-on. Register now!
+I’m already registered for LSS NA 2020 at the ‘in-person’ registration fee. Will I get refunded for the cost difference?
+As a current registered attendee, if you want to participate in the Virtual Experience, you will now need to register for Open Source Summit + Embedded Linux Conference North America separately. Your current LSS registration will automatically be canceled on Monday, April 27, 2020, and your registration fee will be fully refunded to you. Please expect up to 2 weeks for the refund to process. The OSS + ELC North America virtual experience registration fee is $50 and registration is open.
+Will I be reimbursed for my accommodation costs?
+All room reservations within the official LSS NA room block at the JW Austin have been automatically canceled. If you booked your hotel room outside the official block or at another hotel, please cancel your reservation directly with the hotel and follow the hotel’s policy for the cancellation fee. If you have booked travel, please reach out directly to your airline or transportation provider. Many airlines have been updating their cancellation policies in light of COVID-19.
+
+
+
+
+
+Speakers
+For all session or speaker-related questions, please contact cfp@linuxfoundation.org.
+
+I am scheduled to speak at LSS NA 2020 in Austin, what do I do now?
+All accepted speakers will continue to speak at the virtual LSS NA 2020, and will have the option to present live or to pre-record their session. Speakers will receive an email from our Content Team shortly with instructions and next steps.
+My presentation for this year’s event was accepted, but I have not registered yet. How do I register now?
+If you have not yet registered, we will provide you with an access code to register with once the system changes required for the virtual event have been implemented. This will be sent to you by our Content Team on May 5, 2020.
+I am not a presenter for LSS NA 2020. Can I enter a session to be part of the virtual event?
+Unfortunately no. The CFP for this year’s event had already closed, submissions had been reviewed and the schedule has been announced. If you have a session you would like to submit for a future Linux Foundation event including Linux Security Summit Europe 2020, visit our Event Calendar to see all open event CFPs.
+
+
+ 
+
+
+
+
+Sponsors
+
+General
+Supporter 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+Register
+FAQ
+Code of Conduct
+
+Sponsor
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

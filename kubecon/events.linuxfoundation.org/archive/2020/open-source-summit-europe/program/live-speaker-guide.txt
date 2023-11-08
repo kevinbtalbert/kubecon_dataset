@@ -1,0 +1,330 @@
+
+
+
+
+Live Speaker Guide | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Explore the Tracks
+Featured Speakers
+Program Committee
+
+
+Features &Add-Ons
+
+Experiences
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Open Source Summit Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming Open Source Summit Europe. 
+
+
+
+
+
+
+
+
+
+						Live Speaker Guide					
+
+
+
+
+Skip to page sectionWelcomeDeadlinesRegistrationSchedule InformationPlatform u0026 SpecsTechnical RequirementsPresentationLive Q&ATechnical Tips for Virtual PresentationsLighting, Webcam and Microphone Best PracticesAudience EngagementAdditional ResourcesPromote Your TalkInclusivity CourseCode of ConductContact Us
+
+Welcome & “Day-of” Details 
+
+We look forward to having you speak at Open Source Summit + Embedded Linux Conference Europe, KVM Forum and Linux Security Summit, which will all take place virtually during the week of October 26, on Greenwich Mean Time.
+You should have received an email invite from Accelevents, which has a link to your talk. Please click on the link to the invite, and enter your session at least 10 minutes early (30 minutes early if you are part of a mini-summit) to get situated. When your session is scheduled to begin, you will need to hit “Start Broadcast”, and attendees will see you and begin to enter questions into the Q+A box. At the time your session concludes, please hit “Stop Broadcast”, which will end your session. To see how everything works before your sessions, we suggest watching the Live Demo Video, which will familiarize you with the process. 
+Also, be sure to share your slides! You can either add them to this folder and we will upload them, or, add them directly to Sched, and here’s how:    
+Log into your OSS+ELC EU 2020 speaker profile through Sched.com.Go to osseu2020.sched.com. Click on “You’re speaking at this event! Manage & promote your session” at the top of the schedule.Click “Add Presentation”.Click the “Select a File” box and add the pdf document (note: there is a 50MB size limit). Click “Upload” and your slides will automatically be saved.
+If you have any questions, please reach out to cfp@linuxfoundation.org.
+Please click through the tabs on this page to access information.
+
+
+
+Important Dates + Deadlines
+
+Speaker Registration Deadline: All speakers should already be registered. If you are not registered yet and you need this information or need us to resend your confirmation, please email cfp@linuxfoundation.org.Pre-Recording Appointments: Available from Thursday, October 1 – Friday, October 16. You can book your appointment here  and all times are in central daylight time pacific daylight time (PDT) and are available 7 days a week. Appointments are first-come, first-served. Presentation Details: You may utilize Google Slides, PDF, Powerpoint and OpenOffice – whichever you prefer. Slides should be in 16:9 format and you may embed videos in your presentation.Self-Recorded Video Due Date:  This must be received by 11:59pm pacific daylight time (PDT) on Friday, October 16th. AccelEvents accepts MP4 or MOV (under 5gb), dimensions: 1280 x 720 (720p), 1920 x 1080 (1080p).Open Source Summit + Embedded Linux Conference Event Date: Monday, October 26 – Thursday, October 29KVM Forum Event Date: Wednesday, October 28 – Friday, October 30Linux Security Summit Events Date: Thursday, October 29 – Friday, October 30  
+NOTE: You must either pre-record with our production team or submit a self-recording by end of day Friday, October 16. If you have any questions about this, please reach out to cfp@linuxfoundation.org. 
+
+
+
+Registration
+
+All speakers should already be registered. If you are not registered yet and you need this information, or need us to resend your confirmation, please email cfp@linuxfoundation.org.
+
+
+
+Schedule + Uploading a Bio/Photo
+
+The schedule has been posted on our website using sched.com. You should have received an email directly from sched.com asking you to create your account; please make sure to upload your bio and photo.
+If you would like to make updates to your speaker profile on Sched.com (biography, headshot, titles), send updates directly to cfp@linuxfoundation.org, so they can be integrated with the virtual platform. 
+For OSS & ELC, all technical & Community Leadership track sessions are fifty (50) minutes (inclusive of Q&A); Diversity Empowerment Summit, Open Source Program Office & some Wildcard & Project Update talks are 25 minutes (inclusive of Q&A); lightning talks are ten (10) minutes, and workshops + tutorials are one hundred and twenty (120) minutes long. For KVM, sessions are mostly 30 minutes (inclusive of Q+A) and LSS sessions are between 30-45 minutes (inclusive of Q+A.) Please confirm your timing on the schedule.Please review the schedule and notify us immediately if you believe you will not be able to participate for Q&A at the time your session is scheduled for. 
+
+
+
+Platform & Specifications
+
+We are using a virtual event platform called AccelEvents that will allow speakers to deliver content via pre-recorded talks and join for Q&A text chat with attendees. The platform is web-based with HTML5 and will be easy for everyone to access and use. After the event, all talks will be available on YouTube so anyone, anywhere, can view them as well.
+The AccelEvents platform is allowing us to create an immersive experience for attendees with educational sessions that offer speaker and attendee Q&A and interaction, attendee collaboration & networking through a social activity stream, 1:1 and group chats over chat and video, gamification to keep attendees engaged throughout the event, and a sponsor and tech showcase that offers booths where attendees can view demos, download resources, check out job openings, and speak directly with booth reps.
+
+
+
+Technical Requirements
+
+Pre-Recording Appointments: Available from Thursday, October 1 – Friday, October 16. You can book your appointment here and all times are in central daylight time pacific daylight time (PDT) and are available 7 days a week. Appointments are first-come, first-served.Presentation Details: You may utilize Google Slides, PDF, Powerpoint and OpenOffice – whichever you prefer. Slides should be in 16:9 format and you may embed videos in your presentation.Self-Recorded Video Due Date:  This must be received by 11:59pm pacific daylight time (PDT) on Friday, October 16th. AccelEvents accepts MP4 or MOV (under 5gb), dimensions: 1280 x 720 (720p), 1920 x 1080 (1080p). Presenting Live: This must be approved by The Linux Foundation and is accepted on a limited basis. Please email cfp@linuxfoundation.org if you wish to discuss this option.
+Use the recommended browser (Chrome);Make sure that your browser is up to date.
+
+
+
+Presentation
+
+Please book a time to record your session with our production team, AV Strategies, by Monday, October 5th. Please note the following:
+Time slots are available on a first-come, first-serve basis, and all time slots are shown in Pacific Daylight Time (PDT).You may utilize Google Slides, PDF, Powerpoint and OpenOffice – whichever you prefer. Slides should be in 16:9 format and you may embed videos in your presentation.Please review this guide for presentation best practices and tips.You may use the branded slide template for your presentation, but it is not required.OSS – PowerPoint Template or Open Office TemplateELC – PowerPoint Template or Open Office TemplateKVM – PowerPoint Template or Open Office TemplateLSS – PowerPoint Template or Open Office TemplateEnsure you have stable internet access.  Hardwired connection is preferable for your recording.  If a hardwired connection is not available, turn devices off that will affect your connectivity during your presentation, and make sure that anyone in the house is not on devices and/or consuming bandwidth.
+If you would like to record your session on your own, we can accept MP4 or MOV (under 5gb), dimensions: 1280 x 720 (720p), 1920 x 1080 (1080p)
+If you plan on sending us your own recording, please let us know by Monday, October 5, and you must have your recording into us by 11:59pm Pacific Daylight Time (PDT) on Friday, October 16.
+Please upload your file into the Google Folder and make sure your file is named in this format: DateOfPresentation_TitleOfPresentation_YourName.mp4
+Example: Oct 27_this is my title_Joe Smith and Sally Street.mp4
+IMPORTANT NOTE: Please make sure your presentation is viewable by anyone. The team will need to be able to see your presentation in order to download and then upload to the platform. 
+
+
+
+
+
+
+Technical Tips for Virtual Presentations
+
+Audio – as counterintuitive as it may sound, the single most important factor in a good video, is the audio quality. Eliminate ambient noise – close the doors and windows. You’d be surprised how much environmental noise gets picked up.Lighting – Do not put lights overhead and don’t put any lights or windows behind you as they will alter the light levels in your videos and create shadows.Background – don’t be afraid to show your natural environment – bookcases, plants, paintings – as long as they are not too distracting.Framing – place yourself slightly off-center to the left or right rather than directly in the middle of the frame.Camera Height – the lens should either be directly level or pointing ever so slightly downwards towards your face.Stand – we recommend you stand during your presentation to help project your voice and improve your posture. However, if you’re more comfortable sitting, then please do.Timer – Have a clock to keep track of the time you have remaining. 
+Source: https://www.greatspeech.co/video-presentations/
+
+
+
+Lighting, Webcam and Microphone Best Practices
+
+Best Practices for Lighting
+For best results, use natural light and supplement with additional light as needed.Keep natural light in front of you to avoid shadows. A bright window behind you can make you appear as a dark silhouette. Interior rooms with no natural light source may require additional targeted lighting, such as a ring light, to brighten the speaker’s face.
+Best Practices for Webcams
+To ensure the speaker is looking directly at the audience, place the webcam at eye level.Avoid distracting backgrounds by checking the surroundings behind you to make sure there are no distracting colors or movement.Presenters should use chairs that are adjustable for height but do not swivel. Swiveling on camera creates a poor attendee experience and can be distracting.
+Best Practices for Microphones
+Use external microphones whenever available, as microphones built into computers and cameras often have lower quality. An external microphone allows the speaker to place it in the optimal location for sound.Place the microphone close to the speaker’s mouth, but not in the camera view.Test audio levels in advance.Manage noise by turning off fans, phones, or speakers and keep ambient noise to a minimum. Do not touch the microphone while unmuted.
+Dress Code
+There is no dress code for presentations, and we encourage you to be comfortable. That said, you must be aware that the Code of Conduct applies to this space, both in terms of what you show on camera and what you say. We ask that you be tasteful and considerate in choosing your clothing and surroundings. Keep in mind that we are a global community. Please refrain from wearing shirts with global brand logos that are not your own. Solid colors (not white) also work best instead of prints. 
+
+
+
+Tips to Keep Your Virtual Audience Engaged
+
+Learn the Content: Familiarity with the content allows a speaker to focus on presenting, rather than trying to remember the points to make. To minimize worry about forgetting elements of the presentation, include notes in your presentation file and have a printout of your script or talking points.Practice Makes Perfect: Speakers should practice their content delivery in the environment in which they will deliver it, such as in front of a computer. Presenting alone to a computer can be awkward at first. To make speakers more comfortable, ask colleagues, roommates, or family to sit in front so they can present to familiar faces.Understand the Tools: Speakers should understand and utilize the content options available to them, to maximize the effectiveness of the presentation technology. It’s important to know the basic functions of the software, e.g. how to advance slides, manage Q&A or chats, before the presentation. Speak Up: Check audio levels before presenting, but also make sure to breathe at regular intervals to speak audibly and clearly. Maintaining a clear, even tone throughout the presentation will allow the audience to hear it without adjusting their volume settings.Look at Your Camera: If presenting via video, remember, the webcam is your link to your audience. Make eye contact with the camera so it appears to the audience that you are speaking directly to them.Don’t Fear Mistakes: Humans make mistakes, even during presentations. Realize that flubs happen and they won’t derail your presentation – unless you let them. Just keep going in your planned presentation and remember, the audience is forgiving.Be Prepared: During the presentation, have a glass of water nearby to sip as needed. Also, keep handy a printout of your slides or notes in case you need to refer to them.
+Source: https://www.inxpo.com/assets/pdfs/litepapers/How-To-Be-An-Engaging-Speaker.pdf
+
+
+
+Additional Resources
+
+Web Presenting: Gear Tips + Enhancing Your Remote Studio19 Video Presentation Tips to help you give a great presentation (even if you hate the way you look on camera)9 Tips for Giving Engaging Virtual Presentations | This article gives 9 tips and within each tip has folks from the tech world giving their advice in a fun/relatable way.PACE Acronym for Virtual PresentationsChecklist for Speakers | This article provides checklists applicable for speakers that are live streaming.
+
+
+
+
+Promote Your Talk
+
+We appreciate you spreading the word about #ossummit and your session – please find some sample tweets below to share on your social channels!
+Proud to be chosen as a speaker for #ossummit– visit “link to your session” to add my talk to your schedule!Thrilled to announce I’ll be presenting at #ossummit! Visit https://bit.ly/2RUAxJG to see the full schedule 👍Can’t wait to speak at #ossummit – visit https://bit.ly/2RUAxJG to check out the full lineup!
+
+
+
+Inclusive Speaker Orientation Online Course
+
+The Linux Foundation, in collaboration with the National Center for Women in Technology (NCWIT), has created an online course designed to teach the viewer about inclusion, diversity, and unconscious bias. We highly recommend all of our speakers watch the course to learn tips/tools to use when speaking to encourage inclusivity in presentations and messaging. 
+
+
+
+Code of Conduct
+
+Please read and abide by our code of conduct, which can be found here. We ask that speakers especially review this code of conduct and are inclusive in the words and images used during their presentation.
+
+
+
+Contact Us
+
+If you have a question that is not included here, please contact us to let us know. 
+If you have any other speaker or schedule-related questions, please let us know.  
+
+ 
+
+
+
+
+Sponsors
+
+Diamond
+PLATINUM
+GOLD
+SILVER
+BRONZE
+Partner 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#ossummit
+
+
+
+
+Register
+Code of Conduct
+
+Sponsor
+Schedule
+Explore the Tracks
+Featured Speakers
+Program Committee
+
+Experiences
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

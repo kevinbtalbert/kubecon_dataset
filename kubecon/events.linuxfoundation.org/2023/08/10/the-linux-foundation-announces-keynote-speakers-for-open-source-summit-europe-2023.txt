@@ -1,0 +1,236 @@
+
+
+
+
+The Linux Foundation Announces Keynote Speakers for Open Source Summit Europe 2023 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+August 10, 2023
+The Linux Foundation Announces Keynote Speakers for Open Source Summit Europe 2023		
+
+
+
+
+Global visionaries headline the premier open source event in Europe, covering the most pivotal topics and technologies at the core of open source.
+SAN FRANCISCO, August 10, 2023 — The Linux Foundation, the nonprofit organization enabling mass innovation through open source, today announced the keynote speakers for Open Source Summit Europe, taking place September 19-21 at the Euskalduna Conference Centre in Bilbao, Spain. The full event schedule is available here.
+Open Source Summit is a global conference that hosts a collection of microconferences, mini-summits, and co-located events for the open source community. Developers, technologists, and community leaders unite at Open Source Summit every year in North America, Europe, and Asia to collaborate, innovate, and help advance a sustainable open source ecosystem. 
+Open Source Summit Europe 2023 microconferences include CloudOpen, ContainerCon, Diversity Empowerment Summit, Emerging OS Forum, LinuxCon, Open AI + Data Forum, OpenJS World, Open Source Leadership Summit, Open Source On-Ramp, OSPOCon, SupplyChainSecurityCon, and SustainabilityCon. In addition, 10 mini-summits and co-located events will take place alongside Open Source Summit Europe, offering more opportunities for attendees to learn about PyTorch, Linux Security, OpenWallet, Open Metaverse, OpenSSF, Networking, OpenChain, SPDX, and so much more.
+Keynote speakers for Open Source Summit Europe 2023 include: 
+
+Gabriele Columbro, Executive Director, FINOS & General Manager, Linux Foundation Europe
+Jim Zemlin, Executive Director, The Linux Foundation
+Fiona Krakenbürger, Co-Founder, Sovereign Tech Fund
+Tara Tarakiyee, Technologist, Sovereign Tech Fund
+Cristina Bentué, Co-Founder and COO, IriusRisk
+Vivek Mahajan, Corporate Executive Officer, SEVP, CTO, CPO, Co-Head of System Platform, Fujitsu Ltd
+Dave Lago, Software Development Manager, Amazon Web Services
+Nithya Ruff, Director, OSPO, Amazon
+Fatima Sarah Khalid, Developer Evangelist, GitLab
+Ed Parsons, Geospatial Technologist, Google
+Jonathan Vila, Developer Advocate, Sonar
+Patrick von Platen, Diffusers Team Lead, Hugging Face Open Source
+Jonathan Katz, Principal Product Manager – Technical, Amazon Web Services
+
+Registration (in-person) is offered at the price of US$999 through September 4, a savings of US$250. Special registration rates are available for small businesses, hobbyists, students, ‘hall pass,’ and virtual-only options are available as well. Please review all registration types here.
+Members of The Linux Foundation receive a 20 percent discount off registration and can contact events@linuxfoundation.org to request a member discount code. 
+Event Sponsors
+Open Source Summit Europe 2023 is made possible thanks to our sponsors, including:
+
+Diamond Sponsors: Fujitsu, Google, and OpenEuler
+Platinum Sponsors: Amazon Web Services, Huawei, OpenSearch, and Sonar 
+Gold Sponsors: Cloud Native Computing Foundation, Delta Lake, GitLab, Intel, Red Hat, SUSE, and Synopsys
+
+For information on becoming an event sponsor, click here or email us.
+PressMembers of the press who would like to request a press pass to attend should contact Kristin O’Connell.
+Social Media 
+Join the conversation on social media by using the hashtag #OSSummit. 
+ABOUT THE LINUX FOUNDATION
+The Linux Foundation is the world’s leading home for collaboration on open source software, hardware, standards, and data. Linux Foundation projects are critical to the world’s infrastructure including Linux, Kubernetes, Node.js, ONAP, PyTorch, RISC-V, SPDX, OpenChain, and more. The Linux Foundation focuses on leveraging best practices and addressing the needs of contributors, users, and solution providers to create sustainable models for open collaboration. For more information, please visit us at https://www.linuxfoundation.org/. The Linux Foundation Events are where the world’s leading technologists meet, collaborate, learn and network in order to advance innovations that support the world’s largest shared technologies.
+Visit our website and follow us on Twitter, LinkedIn, and Facebook for all the latest event updates and announcements.
+The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see its trademark usage page: 
+www.linuxfoundation.org/trademark-usage. Linux is a registered trademark of Linus Torvalds.
+Media Contact
+Kristin O’ConnellThe Linux Foundationkoconnell@linuxfoundation.org
+# # # 
+
+
+
+
+
+Post navigation
+The Linux Foundation Announces Schedule for WasmCon 2023The Linux Foundation Announces Keynote Speakers for WasmCon 2023
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

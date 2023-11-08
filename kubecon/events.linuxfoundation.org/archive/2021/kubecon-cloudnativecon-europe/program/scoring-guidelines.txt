@@ -1,0 +1,262 @@
+
+
+
+
+CFP Scoring Guidelines | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Experiences
+Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Keynote Speakers
+Interactive Sessions
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF EventsCNCF Homepage 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon Europe. 
+
+
+
+
+
+
+ 
+
+
+						CFP Scoring Guidelines					
+
+
+
+
+Skip to page sectionOverviewGeneral Info + Dates to RememberRequirements + ConsiderationsReview Process Best PracticesBenefitsContact Us
+
+
+Overview
+
+Thank you in advance for your efforts as a member of the Program Committee for KubeCon + CloudNativeCon Europe, taking place virtually May 4–7, 2021.
+These are the official CFP Scoring Guidelines and Best Practices to use when reviewing your set of proposals. Please bookmark this page for easy reference. If you have any questions, please email Nanci Lancaster.
+
+
+
+Important Dates to Remember
+
+Program Committee Review Period: Monday, December 28, 2020–Tuesday, January 12, 2021, 11:59pm PST (2 weeksMust have at least 50% of your assigned proposals reviewed: Monday, January 4, 2021Must have 100% of your assigned proposals reviewed: 11:59pm PST, Tuesday, January 12, 2021Track Chair Selection Period: Monday, January 18–Thursday, January 28, 2021, 11:59pm PSTCo-Chair Selection Period + Schedule Building: Monday, February 1–Sunday, February 28, 2021, 11:59pm PSTSchedule Announced: Wednesday, March 3, 2021Event Dates: May 4–7, 2021
+
+
+
+Scoring Guidelines
+
+Grade the quality of each proposal on a 5 to 1 grading scale for content, originality, relevance, and speaker(s):
+5 (Excellent) 4 (Above Average)3 (Average)2 (Below Average)1 (Poor)
+Reminder: You are required to leave comments for each proposal you review, detailing the reasoning for your score. If we find that your comments are not constructive, i.e. simply putting “LGTM,” you may not be asked to return as a program committee member in the future.
+For each proposal, you will indicate whether or not you see it ultimately being part of the accepted program by stating “yes” or “no.”
+If you come across a proposal that does not seem to fit in the topic you are reviewing, you will indicate which topic you think the proposal fits best within an optional drop-down menu. Please still grade this proposal as you would any others within your review set.
+
+
+
+Review Process Best Practices
+
+Time Commitment: Please plan on committing 2-40 hours total to review all of the submissions in your track, depending on the amount you have been assigned. Aim to do 10-15 sessions at a time – then take a break / walk away. This helps prevent burnout and allows you to see more proposals with fresh eyes.Process Integrity: It is very important to protect the integrity of the review process, and to avoid undue bias, by keeping the submissions and your comments on them confidential. Please review and adhere to our Code of Conduct.Public & Author Interaction: To ensure an unbiased review process, program committee members should not discuss submissions with authors and/or the overall public (i.e., please no tweeting). Of course, please feel free to tweet about accepted sessions that you are excited to attend once the schedule has been published.Conflict of Interest: Reviewers are asked to wear their “KubeCon + CloudNativeCon” hats rather than the company or other affiliation when scoring submissions so that you rate all submissions fairly. If a submission was written by a colleague you work closely with or someone that you are seen to be associated with or in competition with, please skip by marking as a conflict of interest.Review Metrics: As listed above, the ranking system is divided into 5 options: 5 (Excellent), 4 (Above Average), 3 (Average), 2 (Below Average), 1 (Poor). It is important that you highlight your level of confidence in your recommendation and the reasons why you gave the score you did. When reviewing proposals, keep in mind the following criteria:Relevance – Does the content provide takeaways that are new and exciting vs information that was “so last year?” Is the content relevant to the conference?Originality – Is this a presentation that is original and not one that a speaker repeats at every conference? Is the way the content is presented original?Soundness – Does the content make sense in delivery or is it all over the place? Does the speaker seem to lack focus?Quality of Presentation – Is the proposal engaging and well thought out? Does the background material suggest the speaker will deliver this presentation effectively?Importance – How important is the content for the KubeCon + CloudNativeCon audience?Experience – Is this speaker a good person to deliver this presentation? Does their experience with the subject matter align with the proposed content?30% Rule: You’ll be asked for each proposal, “Overall, do you want to see this session at this conference?” Only about 30% of your proposals should get a “yes” vote.Keynote Selections: To assist the track and co-chairs with keynote selection, you will answer the question for each proposal, “Would you recommend this talk for the keynote stage?” These should be talks that are the best of the best and would be incredibly exciting and engaging for the entire KubeCon + CloudNativeCon audience.Topic Re-Routing: If you believe a talk would be better suited in a different topic, please use the last question to indicate which topic. This proposal will be filtered into its suggested topic when given to the track chairs for review. Please still review and score the proposal in accordance with the content, speaker, relevance, and originality pieces, and indicate in the comments section why you feel this presentation should be in a different topic.Experience Level: Use your expert knowledge to assess the experience level for the audience to understand the presentation. If you feel the presentation is not the experience level the speaker indicated, please use this section in the form to indicate which experience would be a better fit.Speakers with multiple submissions: We will not accept more than one talk from the same speaker. If you are in the position of reviewing more than one strong proposal from the same speaker, you can help the program co-chairs by only giving one of them a response of “yes” when answering the question, “do you see this session being part of the accepted programming for this conference.” Please use your comments to indicate why you prefer one talk over another.Review Comments: Keep in mind that submitting authors may be a VP at a large company or a university student. Ensure your feedback is constructive, in particular for rejected proposals as we do receive requests for feedback and we may pass on some comments (though we would not associate them with you). Good examples of review elements include:Highlighting the positive aspects of a proposal.Providing constructive feedback, “It would have been helpful if…” and include facts when applicable.Avoid direct attacks “Their YouTube video gives me concerns about their speaking style” rather than “this person is a terrible speaker.”Please do not simply input “Scoring was tough, I had to cut this” or “LGTM.” Please put thoughtful, insightful comments for the track chairs and co-chairs to use when making final selections. If we find that your comments are not constructive you may not be asked to return as a program committee member in the future.Panel Discussions: The ideal panel is comprised of diverse thought leaders who talk 80% of the time with 20% audience interaction. Some things to keep in mind when reviewing a panel submission: Is the panel diverse, is there a mix of gender on the panel? Note for all KubeCon + CloudNativeCon Events: All panels are required to have at least one speaker that does not identify as a man.Is the submission cohesive and does it provide a clear view of how the panel would progress for 35 minutes? Could they cover everything within the proposal in the given 35 minutes?Have they included any sample questions?Does the panel include panelists from different organizations, including the moderator?Research the panelists and moderator, if needed. Is their experience relevant to the topic?Will the panelists provide diverse perspectives or will they repeat the same thing four times?Are there any high-profile panelists?In the instance that 1-2 of the panelists are unable to attend how would it impact the panel?Breakout Sessions: A presentation is delivered by a topic expert with a fresh or unique point of view. Some things to keep in mind when reviewing presentation proposals: Is the submission well written?Is the topic relevant, original and are they considered to be subject matter experts?Are they talking about a specific product from their company? If so, is it engaging in a way that is not advertorial? Keep in mind that sessions that come across as a pitch or infomercial for their company are most often rated very poorly among the audience.Who is their target audience? Does the abstract and description match up with the expertise required?
+
+Single-Blind vs Double-Blind Reviews
+
+In a double blind peer review, the identities of both the authors and reviewers are kept hidden. For KubeCon + CloudNativeCon, we conduct single-blind reviews in which only the reviewers’ identities are kept hidden from speakers of proposals. The reason we do not hide the information of the speakers from the program committee is because we strive to have diverse perspectives from all avenues: experience, individuals, genders, and companies. This is difficult to achieve with nearly 2,000 proposals if all the information regarding the speakers is hidden. In order to ensure the program committee doesn’t end up “yessing” all talks from the same company, or, marking someone down simply because they have typos in their description vs their experience in the subject, it is important for the program committee to know more information about the speakers within each talk. 
+Examples: If the panel they are reviewing’s panelists are all men, or, all the panelists are from the same company, that should be marked down because this lacks a diverse perspective. If they realize they’ve “yes’d” 50 talks from the same company, they have an opportunity to go back and review those talks under a tighter microscope to help with company diversity.
+The final talk selection will be made by the conference co-chairs, Stephen Augustus and Constance Caramanolis, taking into account the recommendations from all track chairs and the need to balance diversity and that each speaker will give at most one non-panel talk and participate on one panel.
+
+
+
+Program Committee Benefits
+Each member may choose between two different tiers to determine the number of proposals they are assigned and benefits received:
+TierRequirementBenefit ReceivedTier 1Review 50-100 Proposals50% off RegistrationTier 2Review 101–200+ Proposals100% off Registration, $200 Amazon gift card
+Track Chairs are chosen from the program committee, and are granted 100% off the cost of registration and a $400 Amazon Gift Card. The Track Chairs’ main responsibility is to review the results of the program committee scores to form a list on which top 30% of proposals to accept with consideration to speaker, company, and gender diversity as well as experience level balance within their track. These short lists created by the track chairs are then sent to the co-chairs to make the final selections.
+
+
+
+
+
+Contact Us
+
+If you require any assistance reviewing proposals or have questions about the review process or any of the best practices we have suggested, please contact Nanci Lancaster for assistance.
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+GOLD
+SILVER
+START-UP
+END USER
+DIVERSITY EVENT + SCHOLARSHIP
+MEDIA PARTNERS 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+#KubeCon + #CloudNativeCon
+
+
+
+
+Experiences
+Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Keynote Speakers
+Interactive Sessions
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+

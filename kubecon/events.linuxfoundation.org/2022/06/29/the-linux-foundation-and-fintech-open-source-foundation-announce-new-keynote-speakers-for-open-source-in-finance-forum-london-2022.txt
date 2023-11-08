@@ -1,0 +1,206 @@
+
+
+
+
+The Linux Foundation and Fintech Open Source Foundation Announce New Keynote Speakers for Open Source in Finance Forum London 2022 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+June 29, 2022
+The Linux Foundation and Fintech Open Source Foundation Announce New Keynote Speakers for Open Source in Finance Forum London 2022		
+
+
+
+
+Industry leaders and experts across financial services, technology and open source will come together for thought-provoking insights and conversations about how to best leverage open source software to solve industry challenges.
+SAN FRANCISCO, June 29, 2022 —  The Linux Foundation, the nonprofit organization enabling mass innovation through open source, and co-host the Fintech Open Source Foundation (FINOS), a nonprofit whose mission is to accelerate adoption of open source software, standards and best practices in financial services, today announced new keynote speakers for Open Source in Finance Forum London 2022 (OSFF). The event takes place July 13 in London, UK. The full schedule can be viewed here.
+OSFF promotes deeper collaboration across finance, open source and technology and drives innovation across the industry in order to deliver better code, faster. The event features an agenda covering recent developments and the direction of open source in financial services across a wide range of topics and domains, and this year will be held as part of Fintech Week London, a partnership emphasizing the importance of open source software and open collaboration in the financial services industry. 
+New keynote speakers include:
+Jennifer Lassiter, Executive Director, The Digital Dollar ProjectDeclan O’Gorman, Head of Enterprise Engineering, NatWestFrancesca Hopwood Road, Centre Head, Bank for International Settlements – BISKeesa C. Schreane, Author of Gambling on Green: Uncovering the Balance Among Revenues, Reputations, and ESG (Environmental, Social, and Governance)Anna Wallace, SPO Consumer Protection and RegTech, Bill & Melinda Gates Foundation
+Previously announced keynote speakers include Kim Prado, CIO, US Capital Markets, I&CB and Office of the COO at BMO Capital Markets, Gabriele Columbro, Executive Director at FINOS, Hilary Carter, VP of Research at The Linux Foundation, and Jim Zemlin, Executive Director at The Linux Foundation. 
+Session highlights include:
+An Open Source Approach to Regulatory Reporting – Mosè Tronci & Georgina Bulkeley, GoogleOSPOs in Finance: Ways to Overcome Industry Barriers to Accelerate OS Adoption – Ana Jiménez Santamaría, TODO GroupProactive and Polymorphic Adaptation of Multi-cloud Deployments – Alicja Reniewicz, 7bulls.com & Pawel Skrzypek, Omphalos FundAn Open Source Architecture for Modernizing Market Risk Management – Aric Rosenbaum & Marius Bogoevici, Red HatConsuming Legend Data Models & Services Using BI, Python/ML & Other Tools – Andrew Ormerod & John Pentelow, Goldman SachsTimebase CE, with Connectivity to Crypto Exchanges – Matthew Gorelik, EPAM Systems
+Registration is offered at the standard rate of 199 GBP through June 30. Prices rise July 1. Members of The Linux Foundation receive a 20 percent discount – members can contact events@linuxfoundation.org to request a member discount code. Members of FINOS can attend at no cost – members can contact osff@finos.org to request the FINOS Member registration code. 
+Health and SafetyAttendees must show a negative COVID-19 test or be fully vaccinated to attend. They will need to comply with all on-site health measures, in accordance with The Linux Foundation Code of Conduct. To learn more, visit the Health & Safety webpage.
+SponsorFor information on becoming an event sponsor, click here or email us for more information and to speak to our team. PressMembers of the press who would like to request a press pass to attend should contact Kristin O’Connell.
+About FINOSFINOS (The Fintech Open Source Foundation) is a nonprofit whose mission is to foster adoption of open source, open standards and collaborative software development practices in financial services. It is the center for open source developers and the financial services industry to build new technology projects that have a lasting impact on business operations. As a regulatory compliant platform, the foundation enables developers from these competing organizations to collaborate on projects with a strong propensity for mutualization. It has enabled codebase contributions from both the buy- and sell-side firms and counts over 40 major financial institutions, fintechs and technology consultancies as part of its membership. FINOS is also part of the Linux Foundation, the largest shared technology organization in the world.About the Linux FoundationFounded in 2000, the Linux Foundation is supported by more than 2,000 members and is the world’s leading home for collaboration on open source software, open standards, open data, and open hardware. The Linux Foundation’s projects are critical to the world’s infrastructure including Linux, Kubernetes, Node.js, and more. The Linux Foundation’s methodology focuses on leveraging best practices and addressing the needs of contributors, users and solution providers to create sustainable models for open collaboration. For more information, please visit linuxfoundation.org.The Linux Foundation Events are where the world’s leading technologists meet, collaborate, learn and network in order to advance innovations that support the world’s largest shared technologies.Visit our website and follow us on Twitter, Linkedin, and Facebook for all the latest event updates and announcements.The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see its trademark usage page: www.linuxfoundation.org/trademark-usage. Linux is a registered trademark of Linus Torvalds. 
+###Media ContactKristin O’ConnellThe Linux Foundationkoconnell@linuxfoundation.org
+
+
+
+
+
+Post navigation
+The Linux Foundation and Fintech Open Source Foundation Announce the Schedule for Open Source in Finance Forum London 2022, July 13The Linux Foundation Announces Conference Schedule for Open Source Summit Latin America 2022
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

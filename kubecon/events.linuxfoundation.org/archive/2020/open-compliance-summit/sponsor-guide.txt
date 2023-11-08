@@ -1,0 +1,304 @@
+
+
+
+
+Sponsor Guide | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend参加
+
+Code of Conduct行動規範
+
+
+Sponsorスポンサーになる
+Programプログラム
+
+Scheduleスケジュール
+
+
+Contact Usお問い合わせ
+View All Events
+EventsAll Upcoming EventsPast Leadership & Community Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming Open Compliance Summit. 
+
+
+
+
+
+
+ 
+
+
+						Sponsor Guide					
+
+
+
+
+Skip to page sectionGeneral InformationConference ScheduleSponsor RegistrationMarketing / PR Deliverables & InformationVirtual BoothBooth HoursConnecting with AttendeesBooth Lead Report InformationCode of ConductCode of ConductNeed assistance? Contact us!
+
+General Information
+
+Welcome to the Open Compliance Summit Virtual 2020 Sponsor Resource Center! This is your one-stop resource for all your sponsorship deliverables and exhibit-related needs. 
+Open Compliance Summit is a virtual event and will be hosted on the online platform, Hopin.
+The virtual event date is Tuesday, December 1, 2020.
+The event platform will be accessible 24 hours a day to all registered attendees.  Live content will begin daily at 9:00 PT (UTC -8:00) with presentations over the two consecutive days.
+
+
+
+Conference Agenda – Keynotes & Sessions
+
+For the most current schedule visit the Open Compliance Summit Schedule webpage.
+Visit the Open Compliance Summit website for more information on the session schedule, co-located events, add-on features, and onsite experiences. 
+If your sponsorship includes a speaking opportunity, please contact the OCS content manager, Jillian Hall.
+
+
+
+Sponsor Registration
+
+Sponsor Registration Access CodeEach sponsor receives a Sponsor Access Code good for a number of complimentary conference registrations. The access codes may be used for booth staff, other employees or customers. To register, please go to Open Compliance Summit Sponsor Registration and enter your access code as shown below. You must use the link above to secure your complimentary registrations. 
+Our registration system is now integrated with the Linux Foundation Single sign-on (SSO) platform. After clicking “Register Now”, you will be prompted to log in with your existing SSO account or to create a new one. If you have forgotten the password for an existing account, reset it by clicking “Forgot Password.”
+Please note: Speakers will receive a Speaker Access Code and do not need to be registered with the code above. Please contact our Content ManagerJillian Hall if you need the speaker code re-sent.
+Important Notes For Booth Staff Registration
+All booth staff must be registered for the conference.Do not abandon a registration once you have entered the sponsor access code. The access code will expire if the registration is not completed.It is currently not possible to add multiple people to the same registration. Each person has to be registered individually.  If you are registering multiple people, please complete a separate registration for each person.
+
+
+
+Marketing / PR Deliverables & Information
+
+Please note: It is possible to link directly to a virtual exhibit booth or conference session within the event platform from an external source such as a website or email. We will be able to provide you the links to your booth and session the day prior to the event starting on November 30.
+The official conference hashtag is #opencompliance.
+Social Media Promotion of SponsorshipGold and Silver Sponsors will be recognized from the Linux Foundation channels and the Linux Foundation Events channels via Twitter, Facebook, and LinkedIn. Please provide your Twitter handle via the OCS sponsor submission form by Friday, November 20.
+Custom content must be submitted to lfcoresponsorship@linuxfoundation.org by Wednesday, November 25 and it must be approved by the Linux Foundation. 
+Social Media RetweetsGold and Silver sponsors will have the opportunity for the Linux Foundation Twitter account to re-tweet 1 post of the sponsors choosing. Timing will be determined by the Linux Foundation and content must be approved by the Linux Foundation.  
+Recognition During Opening RemarksAll sponsors will be specifically called out to attendees and attendees will be asked to visit their booth during the Keynote. No action is required.
+
+
+
+Virtual Booth
+
+A virtual booth is included in each sponsorship package. The virtual booth is your place to interact with conference attendees and to showcase your products, services and activities. 
+Booth FeaturesCheck out the Hopin Sponsor Booth Layout here.
+The booth includes a main video screen, located on the left side of the page. This is the main feature of your booth and we recommend you take full advantage. Sponsors can switch between live video interaction and pre-recorded content.
+On the right side are three tabs, Sponsor Showcase tab which will be where your sponsor booth text will show, under the Chat tab you will find both the booth chat and event chat. 
+Information on the live booth chat can be found under the connecting with attendees section on this page. 
+You are able to link directly to your booth. Your live booth link will be emailed to you on November 30, the day prior to the event. Make sure to use this in your marketing! Folks will need to be registered for the event to see your booth.
+Booth Content RequirementsContent for your virtual booth will need to be submitted via the OCS Sponsor Submission Form no later than Friday, November 20. If you have any questions, please email lfcoresponsorship@linuxfoundation.org. 
+Refer to the Hopin Sponsor Booth Layout document to view where each of these elements will be in the virtual booth.
+Company Headline: This is the short description text underneath the vendor name. We recommend keeping this to around 100 characters. While there is no limit, less is more here. Company Description: Use this section to provide an overview of your company, technology, or anything important your booth visitors should know about you. The recommended length is 1-2 short paragraphs. Please note that only the first 100 characters or so will show before the attendee will need to expand the content to read further.Booth Video/Live Stream Provider: Here is where you choose the main feature of your booth, and the content is seen in the booth video/live stream window. Here are the functions that are available:Pre-recorded video to be shown anytime a visitor enters your booth:Supported platforms: YouTube, Vimeo, WistiaLive-stream: You may share a live-streaming video here from a streaming servicePlease provide RTMP and Stream Key detailsLive session staffed by your team: This will function just like a session might, except it’s hosted in your booth. This will allow your booth staff to interact with attendees on live camera within the booth. This also allows up to 500 attendees to watch. 
+Please note: You are able to switch between these functions throughout the event. However, you are not able to make this switch on your own and any switch will need to be scheduled. Send an email to Jennifer Tucker to schedule any live segments you wish to host in your booth.
+Button Action: This is a button in your booth that can be customized in one of two ways:Register Interest: Sends an email to the email provided in the following task.Link to a Website: Use this link to send users to a specific website, PDF, or signup form. Please note that this is the only website link that any of the buttons on this page will link to.Button Text: If you’re linking to a website from the CTA, it’s a good idea to customize the button text. For example, for a PDF link you could change the button text to “Download PDF” or for an ecommerce CTA it could be “Shop Now.” Special Offer: Use this field to provide a special offer for booth visitors. It could be a discount, special access, demo site, general website, coupon code, etc. It’s optional text, so don’t feel obligated to include an offer. Please note, you are not able to link to an offer unless it is the same as the CTA link.
+If you have any questions or need additional information, please email lfcoresponsorship@linuxfoundation.org. 
+Virtual Booth Sneak PeekOn Wednesday, November 25 you will receive screenshots of your booth for a sneak peek. This will give you an opportunity to check out how your booth looks and request any final edits. Booth functionality will not be available for the preview. However, it will be thoroughly tested before the event is launched. 
+All edits are due by Friday, November 27 at 3:00 PM PST.
+You will have access to the event platform opens starting on Tuesday, December 1, exact time TBD. Once the time is confirmed, this will be updated.
+
+
+
+Booth Hours
+
+The virtual event platform including the virtual booths will open to attendees starting Tuesday, December 1 at 6:00 AM JST. During the event days, the platform and booths remain accessible 24 hours a day with access ending on December 8 at 5:00 PM JST. 
+However, it is not required nor expected that sponsors staff their booth continuously. We anticipate the following peak hours during which we recommend having staff available for a live chat in your booth.
+Important Notes: The conference schedule is automatically displayed in Japan Standard Time, +9 UTC.  To see the schedule in your preferred time zone, please select from the drop-down menu on the right, above “Filter by Date.”
+Recommend booth hours and break times are subject to change and are based on the final conference schedule.  
+Tuesday, December 1:Recommended booth staff hours: 8:30 AM – 3:00 PMSession break time: 12:45 – 13:45 JST
+
+
+
+Connecting with Attendees
+
+Event ChatThe event chat channels will be monitored and participants are required to abide by the Code of Conduct, please take a moment to familiarize yourself with it before you participate.
+The number of posts per sponsor will be limited based on the sponsorship level:
+Diamond 3 per day during the event.Platinum 3 per day during the event.Gold 2 per day during the event.Silver 2 per day during the event.Bronze 1 per day during the event.
+Live Video Booth ChatBooth staff is able to switch between a video/slideshow presentation and a live video feed. This is a great opportunity to connect with folks and share a demo or an ask the expert session right in your booth.
+Check out the Hopin Sponsor Guide for details on how to use this feature.
+
+
+
+Booth Lead Report Information
+
+Attendees who enter a virtual booth will be captured as leads and their information will be provided to the virtual booth sponsor. 
+A lead report will be sent to the main sponsor contact in the days after the event.
+The following attendee information will be included in the leads report: 
+First nameLast nameCompany nameEmail addressJob title
+For privacy reasons, phone numbers will NOT be included in the leads reports. 
+GDPR & Data Protection InformationAll Linux Foundation events are fully GDPR compliant. By registering for this event, each attendee agrees to the following privacy policy: 
+In order to facilitate networking and business relationships at the event, you may choose to visit a third party’s virtual booth. You are never required to visit these third party booths. When visiting a booth (clicking on a third party’s logo on a booth icon in the exhibit hall, and any actions within the booth thereafter including viewing resources) the third party will receive some of your registration data. This data includes your First Name, Last Name, Title, Company, Address, Email, Standard Demographics Questions (I.e. Company Size, Job Function, Industry), and details about the resources you interacted within their booth. If you choose to interact with a virtual booth, you are explicitly consenting to receipt and use of such data by the third-party recipients, which will be subject to their own privacy policies.
+
+
+
+Virtual Swag Bag
+
+All sponsors have the opportunity to provide (1) promotional item for the virtual swag page that will be hosted on our event site. Attendees can download the available swag or be directed to an external page of your choosing, up to you. This is your chance to get creative! Provide digital assets such as downloadable stickers, virtual backgrounds, or e-books or give out special promotions such as free trials, discounts, and coupon codes.
+Submission Guidelines:
+Be creative and share giveaways that attendees are actually interested in. Monetary incentives are not required.Provide a brief description/blurb that will be attendee facing. Note, this needs to be 500 characters or less.Virtual swag may be submitted either as a PDF file or a URL to an external website. No other file types will be accepted.Only (1) file or URL is permitted per sponsor. If you would like to offer multiple giveaways, you may group items together in (1) PDF,  (1) external webpage or direct attendees to your booth with your direct booth link URL. 
+To see what the Virtual Swag Bag will look similar to, please click here. Note, this is for a different event, but this will help you understand how this page will look for attendees. 
+If you choose to submit a PDF:PDF file size must be under 20 MB.PDF file name must be labeled as follows: YourCompanyName_TitleofGiveawayPDFs must be submitted later than Friday, November 27.
+If you choose to submit a URL:URL must be submitted via email at lfcoresponsorship@linuxfoundation.org no later than Friday, November 27.Include a title for your swag/giveaway item (visible to attendees).In addition to submitting your promotional item(s) for the virtual swag page, you are welcome to make them available at your booth, too.
+
+
+Code of Conduct
+
+The Linux Foundation is dedicated to providing a harassment-free experience for participants at all of our events.  All participants are expected to behave in accordance with the Code of Conduct.
+
+
+
+Need assistance? Contact us!
+
+If you have any questions, please contact Jennifer Tucker and Courtenay Pope at lfcoresponsorship@linuxfoundation.org.
+
+
+ 
+
+
+
+
+スポンサー Sponsors
+
+ゴールド GOLD
+シルバー Silver
+ブロンズ Bronze 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#opencompliance
+
+
+
+
+Code of Conduct 行動規範
+
+Sponsor スポンサーになる
+Schedule スケジュール
+
+Contact Us お問い合わせ
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

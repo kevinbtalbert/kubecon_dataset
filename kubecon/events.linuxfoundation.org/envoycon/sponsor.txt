@@ -1,0 +1,208 @@
+
+
+
+
+Sponsor | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Attendee Guide
+Scholarships
+FAQ
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF EventsEnvoy Homepage 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  KubeCon + CloudNativeCon + other CNCF Events. 
+
+
+
+
+
+
+ 
+
+
+						Sponsor					
+
+
+
+
+
+Sponsorship opportunities for EnvoyCon 2020 have closed. We hope you will consider sponsoring EnvoyCon 2021!
+SPONSORSHIPS CLOSED
+
+
+Interested in Sponsorship? Email sponsor@cncf.io for more information!Existing Sponsor? Email questions to sponsorservices@cncf.io.
+
+Why Sponsor
+As on the ground microservice practitioners quickly realize, the majority of operational problems that arise when moving to a distributed architecture are ultimately grounded in two areas: networking and observability. It is simply an orders of magnitude larger problem to network and debug a set of intertwined distributed services versus a single monolithic application. 
+Originally built at Lyft and now a CNCF incubating project, Envoy is a high performance C++ distributed proxy designed for single services and applications, as well as a communication bus and “universal data plane” designed for large microservice “service mesh” architectures. Envoy runs alongside every application and abstracts the network by providing common features in a platform-agnostic manner. When all service traffic in an infrastructure flows via an Envoy data plane, it becomes easy to monitor problem areas via consistent observability, tune overall performance, and add substrate features in a single place. 
+To give you an idea of the overall buzz in the Envoy proxy we counted: 
+5000+ total GitHub stars across our repositories200+ contributors 2500+ pull requests (25+ open) 1000+ issues (250+ open) 
+There are several internet scale companies like Airbnb, Apple, Google, Microsoft, Netflix, Pinterest and Tecent using Envoy, as well as some of the tech world’s most influential movers and shakers: https://www.envoyproxy.io/community. 
+You can find a small selection of companies using Envoy on https://www.envoyproxy.io/.
+
+
+
+
+
+
+
+Sponsors
+
+DIAMOND 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#envoycon2020
+
+
+
+
+Register
+Attendee Guide
+Scholarships
+FAQ
+Code of Conduct
+
+Sponsor
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

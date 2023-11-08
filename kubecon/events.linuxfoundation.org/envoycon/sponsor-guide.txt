@@ -1,0 +1,270 @@
+
+
+
+
+Sponsor Guide | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Attendee Guide
+Scholarships
+FAQ
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF EventsEnvoy Homepage 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  KubeCon + CloudNativeCon + other CNCF Events. 
+
+
+
+
+
+
+ 
+
+
+						Sponsor Guide					
+
+
+
+
+Skip to page sectionGeneral InformationConference ScheduleSponsor RegistrationVirtual Booth DeliverablesMarketing + Communication DeliverablesAttendee Lead RetrievalCode of ConductQuestions?
+
+General Information
+
+Welcome to the EnvoyCon 2020 sponsor deliverables page! This is your one-stop resource for all your sponsorship deliverables and exhibit-related needs. 
+EnvoyCon will be held virtually on Thursday, October 15, and will be hosted on Hopin’s virtual conference platform.If you have any questions or need assistance, please contact sponsorservices@cncf.io.
+
+
+
+Conference Schedule
+
+The conference schedule has been announced. You can view the full conference schedule here.
+Important Notes: The conference schedule is automatically displayed in Pacific Standard Time, -8 UTC.  Recommend booth hours and break times are subject to change and are based on the final conference schedule.  
+Recommended booth staff hours: 8:00 AM – 2:30 PMSession break time: 10:30 AM – 11:00 AM
+
+
+
+Sponsor Registration
+
+Each sponsor receives a number of complimentary conference passes based on your sponsorship level:
+Diamond: 5 passesPlatinum: 3 passesGold: 2 passesSilver: 1 pass
+You can find your sponsor code in the initial welcome email that was sent from sponsorservices@cncf.io
+
+
+
+Virtual Booth DeliverablesDiamond, Platinum, and Gold only
+
+Content for your virtual booth will need to be submitted through the EnvoyCon 2020 Virtual Booth Deliverables Form. Please fill out the form by Monday, October 5. 
+If you have any questions about the booth, please watch the Hopin Virtual Booth Overview. This video also goes through the booth form step-by-step.
+
+Virtual Booth Sneak Peek
+On Wednesday, October 7 you will have access to your booth for a sneak peek. This will give you an opportunity to check out how your booth looks and request any final edits. Booth functionality will not be available for the preview. However, it will be thoroughly tested before the event is launched.
+Any additional edits are due by Friday, October 9 at 12:00 PM EST.
+You will have access to the event platform opens starting on Thursday, October 15, exact time TBD. Once the time is confirmed, this will be updated.
+
+
+
+Marketing + Communication Deliverables
+
+Logo RecognitionAll Levels
+Please review your logo and URL that we have added to the event website: https://events.linuxfoundation.org/envoycon/
+Please confirm that everything is correct. If you would like to use a different logo, please send us your company’s URL and logo in our preferred format for our website and marketing deliverables:
+Logo must be provided in stacked format (if available).Logo must not be reversed.Logo must include name of company (in English).Logo must not include taglines.Logo must be in vector file format – SVG, AI or EPSLogo must match the logo on CNCF’s member page if your company is a member: https://www.cncf.io/about/members/
+
+5-minute Speaking OpportunityDiamond Only
+Submit the following items for your 5-minute speaking session to sponsorservices@cncf.io no later than Monday, September 28. Late submissions will not be accepted.
+Session TitleBrief session description (1,000 characters max.)Speaker’s name, job title, company name, and email address
+
+Pre- or Post-Conference Email to AttendeesDiamond and Platinum Only
+Diamond and platinum sponsors have the opportunity to send (1) pre- OR post-conference email to attendees who opted-in to receive sponsored content. Dates are reserved on a first come first serve basis. Review the email schedule and send your preferred date to sponsorservices@cncf.io by Friday, September 25. 
+CNCF will send emails on a conference-branded email template on behalf of the sponsor. Attendee contact details will not be shared. Finalized content and a 640px x 240px header image in PNG or JPG are due at least (7) business days prior to the send date.
+
+Sponsor Message in Post-conference emailAll Levels
+Sponsors may submit a message to be included in the post-conference email opt-in attendees based on their sponsorship level:
+Diamond: 150 wordsPlatinum: 100 wordsGold: 75 wordsSilver: 50 words
+Please submit your message to sponsorservices@cncf.io no later than Thursday, October 8. Late submissions may not be accepted.
+
+
+
+Attendee Lead RetrievalDiamond, Platinum, Gold only
+
+Lead retrieval information – Coming Soon!
+
+
+
+Code of Conduct
+
+The Cloud Native Computing Foundation is dedicated to providing a harassment-free experience for participants at all of our events. All participants are expected to behave in accordance with our Code of Conduct. Sponsors must not use sexualized images, videos, activities, giveaways or other material, or otherwise create a sexualized environment.
+The Cloud Native Computing Foundation reserves the right to remove anyone from the event if it is determined that their participation or behavior creates a disruption or hinders the event or the enjoyment of the virtual event by other attendees.
+
+
+
+Questions?
+
+If you need additional support, please contact sponsorservices@cncf.io.
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#envoycon2020
+
+
+
+
+Register
+Attendee Guide
+Scholarships
+FAQ
+Code of Conduct
+
+Sponsor
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

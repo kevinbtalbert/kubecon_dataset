@@ -1,0 +1,201 @@
+
+
+
+
+New Website Performance | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+November 14, 2019
+New Website Performance		
+
+
+
+
+One of our goals for this new Linux Foundation Events website is to have it perform faster both for the public and for our administrators. Over the last few days we have deployed some of our most complex event sites which allowed us the opportunity of running some more thorough performance tests than what we had done for our first post.
+These tests were performed in Chiang Mai, Thailand, on 11/14/2019. The load times shown are the average times from 10 successive trials, as measured by the Chrome Dev Tools “Network” tab.
+The first test was already published in our initial post but is reprinted here to have all charts in one place.
+
+We then wanted to measure how the KubeCon Event homepages compared. This one on the old site was compared with this one on the new (note that both events.linuxfoundation.org and lfasiallc.com are running this new website platform.)
+
+We then turned to the administrator experience to measure how long it would take our editors to perform routine tasks. First we looked at how long it takes to open the edit screen for a KubeCon homepage.
+
+And then, after editing, how long does it take to save changes to the page?
+
+Finally, how long would it take our administrators to pull up the full list of upcoming events?
+
+We are very pleased with these results. During development we took great pains to keep the platform as lean as possible, making tough decisions to not include certain plugins and to cut out features that weren’t worth their extra load. We also leveraged the latest WordPress Gutenberg editor instead of the older page builder that was used on the old site.
+What isn’t reflected in these tests is the speed at which you can move from page to page once you are already on the site. For example, if you go to the homepage and then click on “Calendar” in the top navigation, you’ll find it loads incredibly fast. This is because we preload pages that are linked in the current browser viewport using a plugin called Flying Pages so by the time you actually click on them, the content is already downloaded in your browser.
+Our hope is that this improved experience for both our users and administrators allows us to better promote our events and support our members.
+
+
+
+
+
+Post navigation
+Welcome! We’re glad you’re here.New Open Source Databases Track at Open Source Summit North America & Europe
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

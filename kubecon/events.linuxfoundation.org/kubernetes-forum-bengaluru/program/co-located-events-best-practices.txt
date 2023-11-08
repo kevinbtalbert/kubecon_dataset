@@ -1,0 +1,241 @@
+
+
+
+
+Co-Located Events Best Practices Guide | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Why Attend
+Venue + Travel
+Novel Coronavirus Update
+Visa Request
+Diversity + Inclusion
+Diversity Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Day 2 Co-Located Events
+Call For Proposals (CFP)
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  KubeCon + CloudNativeCon + other CNCF Events. 
+
+
+
+
+
+
+ 
+
+
+						Co-Located Events Best Practices Guide					
+
+
+
+
+Skip to page sectionGeneral InformationThings to NoteBest PracticesWhat's IncludedAVAdditional ItemsPost Event Payment
+
+
+General Information
+Thank you for co-locating your event with Kubernetes Forum Bengaluru!Co-Located events will be held on day 2 of Kubernetes Forums. Platinum and gold CNCF members ​sponsoring at the Diamond level and hosting a co-located event in each city in a forum coupling​ (Bengaluru & Delhi) receive first priority. Followed by organizations sponsoring at the Diamond level and hosting a co-located event in a forum coupling​, subsequently, platinum and gold members sponsoring at other levels, subsequently everyone else.
+In order to meet the needs of all events and create the best possible experience for attendees, we have assembled the following co-located event guidelines.
+
+
+Things to Note
+Companies hosting co-located events must be a sponsor of the Kubernetes Forum the event is co-locating with.Companies are asked to choose between two co-located event packages.Seating for events must be set in classroom seating.Co-located events will run from 9:00 AM – 5:00 PM, with access to the room starting at 8:00 AM.Any receptions must be held off-site, unless held within your meeting room, during the allotted event time.Co-located events can charge extra to attend their co-located event, though we would recommend against it. If you do so, we’ll collect the money as part of the registration and pass it on to you, minus the credit card fees.In terms of using Kubernetes in the title of your event, please follow the Correct and Incorrect usage examples in the Linux Foundation trademark guide.Your event name will be listed on the website as Event Name hosted by Company Name.Provide us with a contact email to be listed on the website so attendees are able to ask additional questions.Submit website updates directly to the co-lo manager, a shared google doc with highlights of changes is preferred or notify the co-lo team in writing when updates are needed. To maintain a uniform website, all co-located events will be listed with: Title, Date, Time, Location, Registration Fee, 300-word max description and external event link.All attendees, including speakers and staff, MUST be registered for the Kubernetes Forum they are co-locating with. Let us know if you need discount or comp codes to register for your co-located event.Attendee information that will be shared will be first name, last name, company name, title, country, state or region, session status (accepted or waitlist), dietary restrictions and email address. Waitlist contact information will be shared but we require that you only use this to send information about your event and not as a contact list.Once your event sells out, a waitlist will be enabled and your event will be marked as “Sold Out, Waitlist Available” on the Co-Located event website.Event topics are not exclusive to one event.
+
+
+Best Practices
+Make sure you have budget set aside for any of the items your event requires but are not included in the package. Examples being – food at breaks and lunch, additional AV needs, hardline internet for your presenter, power for attendees and session recording.
+All activities, including meals, must take place in your meeting room.Post your event details early so that people can plan their travel.Create an external website that can be linked on the co-located event page. Only the event title and description will be listed in Sched, starting mid-December. An external link to your full agenda can be added to the co-located page at any time.You will need at least 2 people to staff your event check-in at a table provided in front of your meeting room.Wi-Fi best practices- Send all packets and download information to attendees prior to the event as no amount of bandwidth is guaranteed to support 100+ people doing this all at once. Please be sure to order a hardline if you plan to demo.
+You can view published co-located events here.In order to have your co-located event listed on the website and registration form. Please provide the following information no later than Friday, January 10.
+Information Needed to Publish Event
+Pre-event coordinator name and email addressOnsite event coordinator name, email address and cell phone numberOfficial event title – Event Name hosted by Company Name300 word (maximum) event descriptionEvent time frame (9:00 AM – 5:00 PM or less)Attendee feeLink to external event siteEmail address for questions
+
+
+What’s Included
+The following is included in your package:
+Meeting space + classroom setup. Classroom setup is required for all co-located events and all activities, including meals, must take place in your meeting room.Meeting space from 8:00 AM – 5:00 PM on the day of the event. Conference Wi-FiAudio Visual (AV) Services: (1) projector, (1) screen, (1) wireless presenter, basic audio, (2) microphonesIn-room AV technician for the duration of your eventMeeting room + wayfinding signageContact information of attendees registered: First name, last name, company, title, country, state/region and email address(1) session scanner for managing onsite registration(1) Kubernetes Forum PassCatering – All day coffee, water, and teaOn-site event supportMarketing and promotion featured placement on Kubernetes Forum website and registration formManage event registration and fee collection, less credit card processing feesRegistration table and two chairs located in front of your room for attendee check-in
+
+
+AV
+The following AV is included in your package:
+One (1) ProjectorOne (1) ScreenOne (1) Wireless presenterBasic audio packageTwo (2) microphonesOn-site AV TechConference WiFi
+
+
+Additional Items
+Additional AV – a second screen, additional microphones, etc.Dedicated internet – hardlineCatering – am/pm breaks, lunch
+All of these items will be at the organizer’s expense and will need to be ordered and paid for directly with the venue/service provider. Please email Naomi, nwashington@linuxfoundation.org to request pricing for your additional needs.
+
+
+Post Event Payment
+If you are charging a fee for your event, The Linux Foundation will pass through registration revenue less the credit card and registration processing fees. Within 30 day post-event you will receive an email noting your revenue less fees with instructions to submit an invoice to The Linux Foundation for payment payment. If you are donating your fees to the Diversity Scholarship, we will let you know the final amount donated.
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+GOLD
+SILVER
+BRONZE 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Register
+Why Attend
+Venue + Travel
+Novel Coronavirus Update
+Visa Request
+Diversity + Inclusion
+Diversity Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+Day 2 Co-Located Events
+Call For Proposals (CFP)
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

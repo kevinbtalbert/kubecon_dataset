@@ -1,0 +1,222 @@
+
+
+
+
+Mentorship Session | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Explore the Tracks
+Featured Speakers
+Program Committee
+
+
+Features &Add-Ons
+
+Experiences
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Embedded & IoT Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming Embedded Linux Conference Europe. 
+
+
+
+
+
+
+ 
+
+
+						Mentorship Session					
+
+
+
+
+
+Mentorship Session: Writing Change Logs That Make SenseThursday, October 29 | 14:00 – 15:30 GMT Registration Cost: Complimentary; Registration Required
+REGISTRATION CLOSED
+
+
+The Linux Foundation is pleased to announce the launch of a virtual mentoring series, launching at Open Source Summit + Embedded Linux Conference Europe! 
+Join us for a Mentorship Session: Writing Change Logs That Make Sense, with Shuah Khan, Kernel Maintainer & Fellow, The Linux Foundation.
+Commit describes what the commit does and why the commit is needed in the first place. In this webinar we will go over why it is beneficial to write meaningful commit logs and important considerations while writing a commit log.
+The session will begin with an overview by Shuah Khan (45 minutes) and will be followed by Q&A – an opportunity to both ask Shuah questions and for group discussion (45 minutes).
+
+Shuah Khan, Kernel Maintainer & Fellow, The Linux Foundation
+Shuah Khan is a Linux Fellow at The Linux Foundation. She is an experienced Linux Kernel developer, maintainer, and contributor. She maintains Kernel Selftest framework, USB over IP driver, and cpupower. She is an active contributor to Linux media subsystem. She has contributed to IOMMU, and DMA areas. In addition, she is helping with stable release kernel testing. She publishes blogs on Linux Kernel topics on her blog site at http://www.gonehiking.org/ShuahLinuxBlogs/.
+She has presented at several Linux conferences and Linux Kernel Developer Keynote Panels. She served on the Linux Foundation Technical Advisory Board. She authored Linux Kernel Testing and Debugging paper published on the Linux Journal and wrote Linux Journal kernel news articles.
+
+
+
+
+
+
+
+
+Sponsors
+
+Diamond
+PLATINUM
+GOLD
+SILVER
+BRONZE
+Partner 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#lfelc
+
+
+
+
+Register
+Code of Conduct
+
+Sponsor
+Schedule
+Explore the Tracks
+Featured Speakers
+Program Committee
+
+Experiences
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

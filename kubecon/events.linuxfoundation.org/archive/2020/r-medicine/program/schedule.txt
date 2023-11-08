@@ -1,0 +1,208 @@
+
+
+
+
+Schedule | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+About
+Code of Conduct
+
+
+Sponsor
+Program
+
+Committee Members
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast R/Medicine EventsR Consortium 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  R/Medicine Events. 
+
+
+
+
+
+
+ 
+
+
+						Schedule					
+
+
+
+
+
+
+Thursday, August 27 | 11:00 AM – 7:00 PM EDTShort Courses
+11:00 – 15:00101: Intro to R for Clinicians Stephan Kadauke, Amrom Obstfeld, Joe Rudolf15:00 – 19:00201: Intro to Machine Learning with Tidymodels Alison Hill
+Thank you for your interest in these courses. Registration is now closed. Both courses will be available via replay after their conclusion.
+
+
+
+Friday, August 28 | 11:00 AM – 7:20 PM EDT
+11:00 – 11:15Opening RemarksStephan Kadauke11:15 – 12:15Keynote: Beyond Sample Splitting: Valid Inference while ‘Double Dipping’Daniela Witten12:15 – 12:30Break / Chat with Keynote Speaker12:30 – 12:50Reporting Clinical Trial Data and Analyses with the {listdown} PackageMichael Kane12:50 – 13:10Using R to Detect Outliers and Anomalies in Clinical Trial DataSteven Schwager13:10 – 13:30tidyCDISC: an Open Source Platform in R to Analyze Clinical Trial DataMaya Gans, Marly Gotti13:30 – 14:00Birds of a Feather Sessions: + R in Clinical Trials+ R in the Clinical Laboratory (with support from AACC and MSACL)+ R in Medical Education+ R in Omics Research+ Automating Data Cleaning14:00 – 15:00Keynote: A Glimpse into the FutureRobert Gentleman15:00 – 15:15Break / Chat with Keynote Speaker15:15 – 15:35Reproducible Computation at Scale with {drake}Will Landau15:35 – 15:45Reproducible RStudio Projects with Docker, Packages Snapshots and Packrat Vincent Major15:45 – 15:55Reproducible Notebooks with {holepunch}Karthik Ram15:55 – 16:05Rapid Analysis and Presentation of Quality Improvement Data with R John MacKintosh16:05 – 16:25Building a Radiology Workflow Manager from Scratch with RAnton Becker16:25 – 16:40Break16:40 – 17:00Build Your Own Universe: Scale High-quality Research Data Provisioning with R PackagesTravis Gerke, Garrick Aden-Buie17:00 – 17:10{ggconsort}: Toward Programmatic, Reproducible CONSORT Diagrams with ggplot2Peter Higgins17:10 – 17:30Publication-Ready Summary Tables with the {gtsummary} PackageDaniel Sjoberg, Karissa Whiting17:30 – 17:40{nDSPA}: An R Package for Quality Metrics, Preprocessing, Visualization, and Differential Testing Analysis of Spatial Omics DataRiyue Bao17:40 – 18:00A Bayesian Hyperparameter Tuning Algorithm for Clinical Healthcare Models Built with {sparklyr}Neil Dixit, Johnathon Armstrong18:00 – 18:10{treeheatr}: an R package for Interpretable Decision Tree VisualizationsTrang Le18:10 – 18:20Processing Clinical Trial Analysis Data with the {forceps} PackageMichael Kane18:20 – 19:20Birds of a Feather Sessions+ R/Medicine Ladies+ Clinical Predictive Modeling and Decision Support+ Shiny and Dashboards+ Virtual Happy Hour
+
+
+
+Saturday, August 29 | 11:00 AM – 6:30 PM EDT
+11:00 – 12:00Keynote: From Cancer to COVID: Scale and Agility in Global Health Research using REwen Harrison12:00 – 12:20Panel Discussion:  R U Ready? Making Sense of Healthcare Data TogetherAnastasiia Zharinova, Thomas Jemmett, Alysia Dyke, Chris Beeley, Zoë Turner12:20 – 12:35Break / Chat with Keynote Speaker and Panel12:35 – 12:45Reproducible Data, Reproducible Analyses: a Model for Clinical Laboratory Data UseStephen Master12:45 – 13:05Learning Iteratively, Learning Collaboratively: Lessons from a Rapid-deployment Data Education Webinar Series during COVID-19Cass Wilkinson Saldaña13:05 – 13:25Data is Not Neutral: Biomedical Data, White Supremacy, and What You Can DoK. Joy Payton, Paulette McRae13:25 – 13:45The MD in .rmd: Teaching Clinicians Data Analytics with R Ted Laderas13:45 – 13:55Using R to Produce Clinical Reports in the Patient Record Daniel Holmes13:55 – 14:25Birds of a Feather Sessions+ Imaging Analysis+ Minorities in R/Medicine (with support from MiR Community)+ Reproducible Research, Reproducible Workflows+ COVID19 Research+ Geospatial Mapping14:25 – 14:45Productionising Machine Learning and Shiny in Healthcare Settings – a Case Study of a Project Looking at Predicting Non-attendance at ClinicChris Beeley14:45 – 15:05 REAdi Tool: Using Shiny as a Tool for Real World Evidence EvaluationBrennan Beal, Beth Devine15:05 – 15:25An Open Source ANOVA and Power Analysis Tool Made in R/ShinyMarly Gotti, Jake Gagnon15:25 – 15:45Calculating Nationwide Access Metrics for Treatment of Opioid Use DisorderAngela Li, Marynia Kolak15:45 – 16:00Break16:00 – 17:00Keynote: Increasing Access to COVID-19 Testing with Open Source ToolsPatrick Mathias17:00 – 17:15Break / Chat with Keynote Speaker17:15 – 17:35How Many Patients Must Have Different Outcomes to Change your Inference? Assessing Clinical Uncertainty in Randomized Controlled Trials during COVID-19Ken Frank, Spiro Maroulis17:35 – 17:45Using R to support COVID response at the health systemCorey Fritsch17:45 – 17:55pammtools: Survival Analysis using Generalized Additive Mixed ModelsAndreas Bender17:55 – 18:05Closing RemarksStephan Kadauke
+
+
+
+
+
+
+
+Sponsors
+
+ 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+ 
+
+
+Register
+About
+Code of Conduct
+
+Sponsor
+Committee Members
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+

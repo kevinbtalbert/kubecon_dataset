@@ -1,0 +1,472 @@
+
+
+
+
+Ray Summit | Free Virtual Event | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+About
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Speakers
+Anyscale Academy
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsAll Past EventsRay Website 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View upcoming Linux Foundation events. 
+
+
+
+				Ray Summit			
+
+
+
+
+
+Scalable machine learning, scalable Python, for everyone
+
+September 30 – October 1
+
+RAY SUMMIT VIDEO PLAYLIST
+
+
+
+
+
+Thank you all who joined us for the first virtual Ray Summit!
+All session recordings are available on the Anyscale YouTube Channel. You can also access session slides from speakers who provided them via the event schedule. We look forward to having you at future Ray events.
+
+Ray Summit is about Ray, the open-source Python framework for building distributed applications that run at any scale. This inaugural, two-day conference showcases Ray best practices, real-world case studies, and the latest research in AI and other scalable systems built on Ray. It brings together the growing Ray community interested in building scalable AI applications used in ecommerce, media, logistics and transportation, finance, IoT, and more.
+
+
+VIRTUAL SCHEDULE AT-A-GLANCE
+
+All Sessions are in Pacific Daylight Time (PDT), UTC-7
+
+VIEW THE FULL SCHEDULE
+
+
+Tuesday, September 29Explore Tuesday >>10:00 AM – 4:30 PM PDTAnyscale Academy (Additional Fee to Attend – Register Now!)Wednesday, September 30Explore Wednesday >>9:00 AM – 3:05 PM PDTSponsor Showcase9:00 AM – 1:35 PM PDTKeynotes2:00 – 3:05 PM PDTBreakout SessionsThursday, October 1Explore Thursday >>9:00 AM – 5:55 PM PDTSponsor Showcase9:00 AM – 12:50 PM PDTBreakout Sessions4:00 – 4:50 PMKeynotes4:50 – 5:55 PM PDTBreakout Sessions
+
+
+
+xx
+
+
+FEATURED SPEAKERS
+
+
+
+
+
+
+
+ 
+
+
+Michael Jordan
+Distinguished Professor, University of California, Berkeley
+
+
+
+
+
+Michael I. Jordan is the Pehong Chen Distinguished Professor in the Department of Electrical Engineering and Computer Science and the Department of Statistics at the University of California, Berkeley.
+
+
+His research interests bridge the computational, statistical, cognitive and biological sciences, and have focused in recent years on Bayesian nonparametric analysis, probabilistic graphical models, spectral methods, kernel machines and applications to problems in distributed computing systems, natural language processing, signal processing and statistical genetics. Prof. Jordan is a member of the National Academy of Sciences, a member of the National Academy of Engineering and a member of the American Academy of Arts and Sciences. He is a Fellow of the American Association for the Advancement of Science. He has been named a Neyman Lecturer and a Medallion Lecturer by the Institute of Mathematical Statistics. He received the IJCAI Research Excellence Award in 2016, the David E. Rumelhart Prize in 2015 and the ACM/AAAI Allen Newell Award in 2009. He is a Fellow of the AAAI, ACM, ASA, CSS, IEEE, IMS, ISBA and SIAM.
+ 
+
+
+
+
+
+
+ 
+
+
+Azalia Mirhoseini
+Senior Research Scientist, Google Brain
+
+
+
+
+
+Azalia Mirhoseini is a Senior Research Scientist at Google Brain and an Advisor at Cmorq. She is the co-founder/lead of the Machine Learning for Systems Moonshot at Brain where they focus on deep reinforcement learning based approaches to solve problems in computer systems and metalearning. You can find her most recent publications in her Google Scholar page. Azalia sometimes tweets about her work. She has a Ph.D. in Electrical and Computer Engineering from Rice University. She has received a number of awards, including the MIT Technology Review 35 Under 35 Award, the Best Ph.D. Thesis Award at Rice University and a Gold Medal in the National Math Olympiad in Iran.
+ 
+
+
+
+
+
+
+ 
+
+
+Wes McKinney
+Director of Ursa Labs, Creator of Python Pandas Project
+
+
+
+
+
+Since 2007, Wes McKinney has been developing data analysis software, mostly for use in the Python programming language. His primary objective has been improving user productivity, increasing performance and efficiency, and enhancing data interoperability. He is best known for creating the pandas project and writing the book Python for Data Analysis. Since 2015, Wes has been focused on the Apache Arrow project. He has also contributed to Apache Kudu (incubating) and Apache Parquet (where he is a PMC member). He was the co-founder and CEO of DataPad. He later spent a couple years leading efforts to bring Python and Hadoop together at Cloudera. In 2018, he founded Ursa Labs, a not-for-profit open source development group in partnership with RStudio. In 2018, he became a Member of The Apache Software Foundation
+ 
+
+
+
+
+
+
+ 
+
+
+Dr. Charles He
+Chief Architect, Ant Group
+
+
+
+
+
+Charles He, Ant Group, Chief Architect of Compute and Storage
+
+
+Charles Changhua He is currently chief architect of compute and storage at Ant Group, operator of Alipay, world’s largest digital payment platform. He obtained PhD in computer science from Stanford University and served as a seasoned tech leader at Google and Airbnb in Silicon Valley. Charles focuses on large-scale distributed systems and big data systems. While at Google, Charles led the development of Caffeine, a real-time web search indexing system which drastically improved search experience with much fresher results.
+
+
+Charles joined Ant Group in 2017 and has since been responsible for compute and storage infrastructure, including financial big data systems, large-scale graph computing, and machine learning platform.
+ 
+
+
+
+
+
+
+ 
+
+
+Manuela Veloso
+Head of J.P. Morgan AI Research
+
+
+
+
+
+Manuela M. Veloso is the Head of J.P. Morgan AI Research, which pursues fundamental research in areas of core relevance to financial services, including data mining and cryptography, machine learning, explainability, and human-AI interaction. J.P. Morgan AI Research partners with applied data analytics teams across the firm as well as with leading academic institutions globally.
+
+
+Professor Veloso is on leave from Carnegie Mellon University as the Herbert A. Simon University Professor in the School of Computer Science, and the past Head of the Machine Learning Department. With her students, she had led research in AI, with a focus on robotics and machine learning, having concretely researched and developed a variety of autonomous robots, including teams of soccer robots, and mobile service robots. Her robot soccer teams have been RoboCup world champions several times, and the CoBot mobile robots have autonomously navigated for more than 1,000km in university buildings.
+
+
+Professor Veloso is the Past President of AAAI, (the Association for the Advancement of Artificial Intelligence), and the co-founder, Trustee, and Past President of RoboCup. Professor Veloso has been recognized with a multiple honors, including being a Fellow of the ACM, IEEE, AAAS, and AAAI. She is the recipient of several best paper awards, the Einstein Chair of the Chinese Academy of Science, the ACM/SIGART Autonomous Agents Research Award, an NSF Career Award, and the Allen Newell Medal for Excellence in Research.
+
+
+Professor Veloso earned a Bachelor and Master of Science degrees in Electrical and Computer Engineering from Instituto Superior Tecnico in Lisbon, Portugal, a Master of Arts in Computer Science from Boston University, and Master of Science and PhD in Computer Science from Carnegie Mellon University. See www.cs.cmu.edu/~mmv/Veloso.html for her scientific publications.
+ 
+
+
+
+
+
+
+ 
+
+
+Gaël Varoquaux
+Tenured Research Director, Inria
+
+
+
+
+
+Gaël Varoquaux is a tenured research director at Inria. His research focuses on statistical-learning tools for data science and scientific inference. Since 2008, he has been exploring data-intensive approaches to understand brain function and mental health. He is one of the leaders of the scikit-learn project.
+ 
+
+
+
+
+
+
+ 
+
+
+Ion Stoica
+Professor, University of California, Berkeley
+
+
+
+
+
+Ion Stoica is a Professor in the EECS Department at the University of California at Berkeley. He is currently the leader of RISELab. He does research on cloud computing and networked computer systems. Past work includes Apache Spark, Apache Mesos, Tachyon, Chord DHT, and Dynamic Packet State (DPS). He is an ACM Fellow and has received numerous awards, including the SIGOPS Hall of Fame Award (2015), the SIGCOMM Test of Time Award (2011), and the ACM doctoral dissertation award (2001). He is also a co-founder of Anyscale in 2019 to commercialize technologies for distributed Python especially for AI applications, a co-founder of Databricks in 2013 to commercialize technologies for Big Data processing, and a co-founder of Conviva Networks in 2006 to commercialize technologies for large scale video distribution. 
+ 
+
+
+
+
+
+
+ 
+
+
+Zoubin Ghahramani
+Chief Scientist & VP, Artificial Intelligence, Uber Technologies
+
+
+
+
+
+Zoubin Ghahramani is Chief Scientist and VP of Artificial Intelligence at Uber Technologies, where he serves on the Engineering Leadership Team and leads the engineering and advanced research teams developing data-driven algorithms to optimize the services Uber provides users worldwide. He co-founded Geometric Intelligence, a tech startup acquired by Uber in 2016 to form the nucleus of its AI efforts.  Zoubin has a distinguished academic career at the University of Cambridge where he is a Professor of Information Engineering. He was elected a Fellow of the Royal Society in 2015 for his contributions to machine learning. He is Deputy Director of the Leverhulme Centre for the Future of Intelligence, studying the impact of AI on society, and was one of the founding directors of the Alan Turing Institute, the UK’s national institute for Data Science and AI. 
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Raluca Ada Popa
+Computer Security Professor, UC Berkeley
+
+
+
+
+
+Raluca Ada Popa is a computer security professor at UC Berkeley. She is a co-founder and co-director of the RISELab at UC Berkeley, where she researches stronger security systems and encryption protocols.  Each year, she teaches cybersecurity to more than 600 students at UC Berkeley. She is also a co-founder and CTO of a cybersecurity startup called PreVeil.  Raluca has received her PhD in computer science as well as her Masters and two BS degrees, in computer science and in mathematics, from MIT. She is the recipient of a Sloan Foundation Fellowship award, NSF Career, Technology Review 35 Innovators under 35,  and a George M. Sprowls Award for best MIT CS doctoral thesis.
+ 
+
+
+
+
+
+
+ 
+
+
+David Patterson
+Professor Emeritus, Professor in the Graduate School, UC Berkeley
+
+
+
+
+
+David Patterson is the Pardee Professor of Computer Science, Emeritus at the University of California at Berkeley, which he joined after graduating from UCLA in 1976.Dave’s research style is to identify critical questions for the IT industry and gather inter-disciplinary groups of faculty and graduate students to answer them. The answer is typically embodied in demonstration systems, and these demonstration systems are later mirrored in commercial products. In addition to research impact, these projects train leaders of our field. The best known projects were Reduced Instruction Set Computers (RISC), Redundant Array of Inexpensive Disks (RAID), and Networks of Workstations (NOW), each of which helped lead to billion dollar industries.A measure of the success of projects is the list of awards won by Patterson and as his teammates: the ACM A.M. Turing Award, the C & C Prize, the IEEE von Neumann Medal, the IEEE Johnson Storage Award, the SIGMOD Test of Time award, the ACM-IEEE Eckert-Mauchly Award, and the Katayanagi Prize. He was also elected to both AAAS societies, the National Academy of Engineering, the National Academy of Sciences, the Silicon Valley Engineering Hall of Fame, and to be a Fellow of the Computer History Museum. The full list includes about 40 awards for research, teaching, and service.In his spare time he coauthored seven books—including two with John Hennessy who is past President of Stanford University and with whom he shared the Turing Award— Patterson also served as Chair of the Computer Science Division at UC Berkeley, Chair of the Computing Research Association, and President of ACM. He is currently Vice-Chair of the Board of Directors of the RISC-V Foundation.
+ 
+
+
+
+
+
+
+ 
+
+
+Oriol Vinyals
+Principal Scientist, Google DeepMind
+
+
+
+
+
+Oriol Vinyals is a Principal Scientist at Google DeepMind, and a team lead of the Deep Learning group. His work focuses on Deep Learning and Artificial Intelligence. Prior to joining DeepMind, Oriol was part of the Google Brain team. He holds a Ph.D. in EECS from the University of California, Berkeley and is a recipient of the 2016 MIT TR35 innovator award. His research has been featured multiple times at the New York Times, Financial Times, WIRED, BBC, etc., and his articles have been cited over 70000 times. His academic involvement includes program chair for the International Conference on Learning Representations (ICLR) of 2017, and 2018. He has also been an area chair for many editions of the NeurIPS and ICML conferences. Some of his contributions such as seq2seq, knowledge distillation, or TensorFlow are used in Google Translate, Text-To-Speech, and Speech recognition, serving billions of queries every day, and he was the lead researcher of the AlphaStar project, creating an agent that defeated a top professional at the game of StarCraft, achieving Grandmaster level, also featured as the cover of Nature. At DeepMind he continues working on his areas of interest, which include artificial intelligence, with particular emphasis on machine learning, deep learning and reinforcement learning.
+ 
+
+
+
+
+
+
+ 
+
+
+Adrian Cockcroft
+VP Cloud Architecture Strategy, AWS
+
+
+
+
+
+Adrian Cockcroft has had a long career working at the leading edge of technology, and is fascinated by what happens next. In his role at AWS, Cockcroft is focused on the needs of cloud native and “all-in” customers, and leads the AWS open source community development program.Prior to AWS, Cockcroft started out as a developer in the UK, joined Sun Microsystems and then moved to the United States in 1993, ending up as a Distinguished Engineer. Cockcroft left Sun in 2004, was a founding member of eBay research labs, and started at Netflix in 2007. He initially directed a team working on personalization algorithms and then became cloud architect, helping teams scale and migrate to AWS. As Netflix shared its architecture publicly, Cockcroft became a regular speaker at conferences and executive summits, and he created and led the Netflix open source program. In 2014, he joined VC firm Battery Ventures, promoting new ideas around DevOps, microservices, cloud and containers, and moved into his current role at AWS in October 2016.Cockcroft holds a degree in Applied Physics from The City University, London and is a published author of four books, notably Sun Performance and Tuning (Prentice Hall, 1998).
+ 
+
+
+
+
+
+
+
+VIEW ALL SPEAKERS
+
+
+
+
+
+
+
+
+
+Sponsors
+
+platinum
+GOLD
+Host Sponsor
+Community Partners
+
+
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+About
+Code of Conduct
+
+Sponsor
+Schedule
+Speakers
+Anyscale Academy
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+

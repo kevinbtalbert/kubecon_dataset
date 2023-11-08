@@ -1,0 +1,249 @@
+
+
+
+
+Call For Proposals (CFP) | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Diversity & Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Program Committee
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Emerging Technology Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Emerging Technology Events. 
+
+
+
+
+
+
+ 
+
+
+						Call For Proposals (CFP)					
+
+
+
+
+Skip to page sectionOverviewDates to RememberSuggested TopicsSubmission TypesImportant NotesPreparing to SubmitCode of Conduct
+
+Overview
+
+The LF Energy Spring Summit CFP is now closed.
+2021 is the beginning of an extraordinary decade of innovation and power system transformation. Join LF Energy for this Spring Summit showcasing collaborative development and shared innovation to accelerate the energy transition through open source and software-defined infrastructure.
+This event will take place in two segments to accommodate participants around the globe:
+Segment 1: 6:00 – 10:00 am PDT (3:00 – 7:00 pm CEST)Segment 2: 3:00 – 7:00 pm PDT (7:00 – 11:00 am JST, April 15)
+CFP CLOSED
+
+
+If you have not yet used the CFP system, you will be required to register and create an account before submitting.Please CREATE YOUR ACCOUNT before submitting for the first time. Thank you!
+
+
+
+Dates to Remember
+
+CFP Closes: Monday, February 15 at 11:59 PM PST CFP Notifications: Friday, February 26Schedule Announcement: Tuesday, March 9Presentation Slide Due Date: Thursday, April 8Event Date: Wednesday, April 14
+
+
+
+Suggested Topics
+
+Best Practices in Open Source Development / Lessons Learned Growing & Sustaining Open Source ProjectsOpen Source Program Office (OSPO) / TODO GroupControl Room of the FutureMicrogridsPrice-Based Grid CoordinationOrganizational TransformationDevOps, Cloud-Native, and MicroservicesSocial, Technical, and Economic DirectionsBusiness Leadership & Member DevelopmentCertifying Open Source Projects & ComplianceProject HighlightsFuturesDataEthicsRole of Government in Open Source
+
+
+
+Submission Types
+
+Session Presentation (typically 30-40 minutes in length)Panel Discussion (typically 30-40 minutes in length)Birds of a Feather (typically 45-60 minutes in length)Lightning Talk (typically 5-10 minutes in length)Long-Form (typically 1.5-3 hours in length)
+
+
+
+Important Notes
+
+All speakers are required to adhere to our Code of Conduct. We also highly recommend that speakers take our online Inclusive Speaker Orientation Course.Panel submissions must include the names of all participants in the initial submission to be considered. In addition, The Linux Foundation does not accept submissions with all-male panels in an effort to increase speaker diversity.Complimentary Passes For Speakers – One complimentary pass for the event will be provided for the accepted primary speaker per submission, and a substantially discounted pass will be available for co-speakers. For panel sessions, all panelists will receive a complimentary pass. Avoid sales or marketing pitches and discussing unlicensed or potentially closed-source technologies when preparing your proposal; these talks are almost always rejected due to the fact that they take away from the integrity of our events, and are rarely well-received by conference attendeesAll accepted speakers are required to submit their slides prior to the event
+
+
+
+Preparing to Submit Your Proposal
+
+While it is not our intention to provide you with strict instructions on how to prepare your proposal, we hope you will take a moment to review the following guidelines that we have put together to help you prepare the best submission possible. To get started, here are three things that you should consider before submitting your proposal:
+What are you hoping to get from your presentation?What do you expect the audience to gain from your presentation?How will your presentation help better the ecosystem?
+There are plenty of ways to give a presentation about projects and technologies without focusing on company-specific efforts. Remember the things to consider that we mentioned above when writing your proposal and think of ways to make it interesting for attendees while still letting you share your experiences, educate the community about an issue, or generate interest in a project.
+First Time Submitting? Don’t Feel Intimidated
+Linux Foundation events are an excellent way to get to know the community and share your ideas and the work that you are doing and we strongly encourage first-time speakers to submit talks for our events. In the instance that you aren’t sure about your abstract, reach out to us and we will be more than happy to work with you on your proposal.
+How To Give a Great Tech Talk
+In the instance that your talk is accepted, we want to make sure that you give the best presentation possible. To do this, we enlisted the help of seasoned conference speaker Josh Berkus who has prepared an in-depth tutorial on “How to Give a Great Tech Talk”.
+Part 1: http://www.youtube.com/watch?v=iE9y3gyF8Kw
+Part 2: http://www.youtube.com/watch?v=gcOP4WQfJl4
+
+
+
+Code of Conduct
+
+The Linux Foundation is dedicated to providing a harassment-free experience for participants at all of our events. We encourage all submitters to review our complete Code of Conduct.
+
+
+ 
+
+
+
+
+Sponsors
+
+Event Partners
+Media Partners 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#lfenergysummit
+
+
+
+
+Diversity & Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Program Committee
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

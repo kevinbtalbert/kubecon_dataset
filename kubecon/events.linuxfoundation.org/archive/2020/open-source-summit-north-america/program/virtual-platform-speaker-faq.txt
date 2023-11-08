@@ -1,0 +1,364 @@
+
+
+
+
+Virtual Platform Speaker FAQ | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Explore the Tracks
+Featured Speakers
+Program Committee
+
+
+Features &Add-Ons
+
+Experiences
+Speed Mentoring
+Resume Writing Workshop
+Allyship Workshop
+Ask the Expert Sessions
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Open Source Summit Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming Open Source Summit North America. 
+
+
+
+
+
+
+ 
+
+
+						Virtual Platform Speaker FAQ					
+
+
+
+
+Skip to page sectionWelcomePlatform + SpecificationsSession DeliveryPre-Recorded SessionsLive SessionsLive Q&A
+
+Welcome
+
+We are excited to welcome you as a speaker for Open Source Summit & Embedded Linux Conference North America which will take place virtually Monday, June 29–Wednesday, July 1, during Central Daylight Time (CDT), UTC-5:00. 
+The information provided below is intended to provide further details and answer questions about the virtual event platform, INXPO by Intrado. If you have general questions about the event or virtual presentation tips, please refer to the Open Source Summit and Embedded Linux Conference Speaker Guides. If you have a question about the platform that is not included below, please contact us to let us know. 
+Please click through the tabs on this page to access information.
+
+
+
+
+
+Platform + Specifications
+
+What platform is being used?
+We are using a virtual event platform called INXPO by Intrado that will allow speakers to deliver content by live stream or pre-record talks and join live for Q&A text chat with attendees. The platform is web-based and HTML 5 and will be easy for everyone to access and use. 
+What does the platform offer?
+The INXPO by Intrado platform is allowing us to create an immersive experience for attendees, with educational sessions that offer speaker and attendee Q&A and interaction; attendee collaboration & networking through topical chat rooms, and 1:1 and group chats, gamification to keep attendees engaged throughout the event, and a sponsor and tech showcase that offers 3D booths where attendees can view demos, download resources, check out job openings, and speak directly with booth reps. 
+How do I make sure I can access the platform?
+Run a system check to ensure your computer is configured properly for the platform.Run a compatibility check, which tests your webcam and audio devices, along with WebRTC and WebSocket connectivity on your network for streaming media (which includes webcam/microphone, screen share,  media files, VCU, Encoder, etc.). For any issues, refer to INXPO’s computer tips which provide additional information to help optimize your system set-up.
+How long will talks be available on the platform? 
+All talks will be available for viewing for 1 year after the event, and we will also be moving them to YouTube so anyone, anywhere, can view them as well.
+
+
+
+
+
+Session Delivery + General Information
+
+What options do I have to deliver my talk? 
+You will have the option to:
+Deliver your talk live on the day of the event and leave time for live Q&A at the end, orPre-record your talk to be played at the allotted time in the schedule. Then join live for Q&A with attendees (text chat only). 
+Is live Q&A required either way?
+Yes, live Q&A is required as this will provide added value to the audience and create more of an ‘event’, vs. a webinar. Please note that your allotted session time should include live Q&A. 
+I have a workshop or tutorial and want to interact more with attendees than text chat allows. Is it possible to deliver my talk in another way?
+If you want a more interactive session, please contact us so we can talk about what you are looking for, and possible solutions. 
+My presentation doesn’t really make sense virtually. Can I request a change to my talk to tailor it more to an online presentation?
+To update your session and tailor it for the virtual event, please contact us.
+I want to provide my own recording. Is this possible?
+While we prefer that pre-recorded sessions be done in the platform, we can accept MP4 files, H.264 codec that are less than 4GB and in 16:9 format. If you plan on sending us your own recording, please let us know as soon as possible and you must have your recording into us by Friday, June 19. Please submit your recording to cfp@linuxfoundation.org.
+I am scheduled for a 50 minute session, do I need to use all that time?
+No, you aren’t required to speak for the full fifty minutes and we actually recommend planning to speak for about 30 minutes, and leaving 10 minutes for questions. We find that 30 minutes is perfect in keeping attendees attention. 
+My session time doesn’t work due to my location. Can I move my session?
+Please contact us and we will try to accommodate your request to the best of our ability.
+What happens if I have to cancel my pre-recording session last minute? Can I reschedule?
+Once you reserve a slot, that is final and we are unable to accommodate time swaps and/or rescheduling. With over 230 sessions, and 275+ speakers, bandwidth is extremely limited and we cannot make scheduling changes. If you have to cancel at the last minute or do not make your appointment, you will not have another chance to pre-record and you will have to present live the day of the event.
+What happens if I have to cancel my pre-recording session last minute? Can I reschedule?
+Once you reserve a slot, that is final and we are unable to accommodate time swaps and/or rescheduling. With over 230 sessions, and 275+ speakers, bandwidth is extremely limited and we cannot make scheduling changes. If you have to cancel at the last minute or do not make your appointment, you will not have another chance to pre-record and you will have to present live the day of the event.
+I am going to use slides for my talk. What formats are accepted?
+As you are aware, the InXpo/Intrado virtual event platform could only accept slides in PowerPoint and that is what we’ve requested from speakers. We realize many people simply don’t have PPT/PPTX and we are happy to convert slides for you. We realize this is not ideal either as conversions aren’t perfect but we will do our best to ensure everything moves over correctly. We do request that if we are converting your slides, you limit it to basic fonts to make it easier for us. If you want us to convert your slides, please send the file to cfp@linuxfoundation.org.
+All slides are due by Friday, June 19. 
+I am submitting a .PPT file, what animations and build are supported?
+Supported Animations and Builds ((if submitting a PPT file)———————————————————-
+All Slide LayoutsAll Standard FontsBullet Points and NumbersAll Standard Charts and GraphsAll Standard ShapesUser Drawn ShapesConverts Uploaded ImagesSmart ArtHyperlinksConverts Artistic Effects3D Images and AnimationAll Exit and Entrance EffectsAll Standard Motion PathsCustom Motion PathsWAV Audio files only
+Unsupported Animations and Builds (if submitting a PPT file)——————————————————
+Multi ThreadChart animations“repeat until end of slide” Animations“by letters” animation of Word Art objectsVideo (use Video Slides in Studio)Slide TransitionsAudio File Types excluding WAVPassword ProtectionVBA scriptsSlide Note StylesCustom WatermarkUpdated Date and TimePortrait OrientationsAudio of midi formatHighlight click“Teeter” Emphasis EffectText Highlight Color
+Will my speaker notes transfer over?
+Speaker slides will transfer over but the space allocated for them is small and we recommend using short bullets. Or, use a second screen next to your monitor, or even print out a copy to have on hand and refer to.
+How do I get access to my session before the event? 
+You will receive a calendar invitation from the Intrado team a few days before the event, which will include a personalized link to log-into, and a phone bridge number that you have to dial into. Log-on and dial in 30 Minutes before your session, and the Intrado engineer, and an LF representative, will be in there to get your tech tested and prepare you for the session.
+Note for Residents Outside the US & Canada: Underneath the phone bridge information, you will see a line that says, “For additional dial-in numbers, click here.” Just click that, choose your country, and it will give you additional options for call-in numbers local to you – you would still want to use the same conference code, as that is unique to your session. 
+
+
+
+
+
+Pre-Recorded Sessions
+
+I want to pre-record my session, what do I do now?
+Based on the survey we sent out, you should have indicated that you wanted to pre-record and the week you were available to do so. If you have not yet done this, please contact us immediately. Once we received that information, we sent you a direct link to choose the date and time of your recording session and shared this information with Intrado. You will receive a calendar invite from Intrado 24 hours before the recording, and this will include the details needed to access the platform and your session. 
+Who sends the invite to the recording session?
+This invitation will come from kevin (dot) pflug @ intrado (dot) com so please be sure to whitelist this email address. As a reminder, it will come 24 hours before the recording appointment.
+What happens in the recording session?
+When you log-in via the link you were sent in the calendar invite, you will meet with the engineer for 30 minutes and they will walk you through the system, show you how to advance your slides, and answer any questions you might have. After the thirty minutes, you will be ready to record and the engineer will walk you through the process. 
+Will you provide any platform training to help us feel more comfortable recording our session?
+The engineer will spend 30 minutes reviewing the platform with you and we also recommend that prior to your recording date, you watch the INXPO Studio Speaker & Moderator Training, which provides platform training too.
+I want to use slides in my talk. How do I do that?
+You will need to send/share your PowerPoint slides – format 16:9 –  with us 24 hours before your session recording so they can be uploaded to the system prior to your recording session. Additionally, do not embed any videos in your slides and send those separately too. Intrado will upload your slides and videos prior to your recording session and walk you through how it will all work. 
+Can I embed videos in my presentation?
+Do not embed any videos in your slides and send those separately to us. Intrado will upload any videos prior to your recording session and walk you through how it will all work. 
+When do you need my slides and video?
+We need to receive your 16:9 format, PowerPoint slides by 10 am CDT the day BEFORE your presentation. Please send your slide presentation, and any videos, separately to cfp@linuxfoundation.org 
+My files are too big to email. How can I get them to you?
+Please contact us and we will set-up a Google folder that you can drop them into. If you cannot access Google folders, we will work with you to find a file share service or, put you in touch with a platform team member close to your location who can receive these items. 
+What happens if I don’t send my presentation or videos before my recording session?
+This means that you will lose about 10-15 minutes of practice time as the Intrado engineer will have to use that time to upload your slides and get them synced in their system. 
+If I make a mistake, will that get edited out?
+Unfortunately, there will not be an opportunity to edit the session recording if you make a mistake. People make mistakes, even during presentations. Realize that flubs happen and they won’t derail your presentation – unless you let them. Just keep going in your planned presentation and remember, the audience is forgiving. 
+My presentation has more than one speaker. Do we all need to be present at the same time to record the session on the platform?
+Yes, you will all need to be present if you choose to pre-record your session. Please note that you do not have to be in the same space, as you will all get links to the session and will join remotely. 
+What happens if I have to cancel my pre-recording session last minute? Can I reschedule?
+Once you reserve a slot, that is final and we are unable to accommodate time swaps and/or rescheduling. With over 230 sessions, and 275+ speakers, bandwidth is extremely limited and we cannot make scheduling changes. If you have to cancel at the last minute or do not make your appointment, you will not have another chance to pre-record and you will have to present live the day of the event.
+I want to change a slide in my deck before the event, is this possible after I have recorded?
+We cannot update slide decks after the recording. 
+Can I edit my slide deck after the event?
+Unfortunately, we cannot update decks after the event. 
+
+
+
+
+
+Live Sessions
+
+How do I get access to my session? 
+You will receive a calendar invitation from the Intrado team a few days before the event, which will include a personalized link to log-into, and a phone bridge number that you have to dial into. Log-on and dial in 30 Minutes before your session, and the Intrado engineer, and an LF representative, will be in there to get your tech tested and prepare you for the session.
+Note for Residents Outside the US & Canada: Underneath the phone bridge information, you will see a line that says, “For additional dial-in numbers, click here.” Just click that, choose your country, and it will give you additional options for call-in numbers local to you – you would still want to use the same conference code, as that is unique to your session. 
+Will you provide any platform training to help us feel more comfortable presenting live?
+Yes! There were mass speaker training calls last week and you can watch the final training on your own time. We also recommend watching the INXPO Studio Speaker & Moderator Training, which provides platform training too.
+What happens if I lose my internet connection?
+If you lose your internet connection, you will also be on the phone bridge and the engineers will switch over to that so the attendees can hear you speak.
+My presentation is a panel and we all reside in different timezones. How can we all be online together for the live presentation?
+Each speaker will be sent a link to the panel session. You will all log-on at the designated time, where you will all be connected. In addition, there will be a phone connection as backup audio, in case someone experiences issues with their video.
+I want to use slides in my talk. How do I do that?
+You will need to send/share your PowerPoint slides formatted in 16:9, with us by June 19 so they can be uploaded to the system prior to your session. Additionally, do not embed any videos in your slides and send those separately too. Intrado will upload your slides and videos prior to your live session.
+Can I embed videos in my presentation?
+Do not embed any videos in your slides and send those separately to us. Intrado will upload any videos prior to your recording session and walk you through how it will all work. 
+My presentation includes a live demo, can I share my screen for that? 
+Yes, you can share your live screen for a demo. Unfortunately, you cannot switch from your screen share to another camera because if you switch the camera input, it will take away the audio from the computer so we would  not be able to hear you.
+When do you need my slides and video?
+We need to receive your PowerPoint slides no later than Friday, June 19. Please send your slide presentation, and any videos, separately to cfp@linuxfoundation.org.
+My files are too big to email. How can I get them to you?
+Please contact us and we will set-up a Google folder that you can drop them into. If you cannot access Google folders, we will work with you to find a file share service or, put you in touch with a platform team member close to your location who can receive these items. 
+I want to change a slide in my deck before the event, is this possible after I have recorded?
+We cannot update slide decks after receipt on Friday, June 19. 
+Can I edit my slide deck after the event?
+Unfortunately, we cannot update decks in Intrado after June 19.. However, we encourage you to share your final slide deck on Sched, and you can follow the instructions here:
+Log into your OSS + ELC North America 2020 speaker profile through Sched.com.Go to ossna20.sched.com. Click on “You’re speaking at this event! Manage & promote your session” at the top of the schedule.Click “Add Presentation”.Click the “Select a File” box and add the pdf document (note: there is a 50MB size limit).Click “Upload” and your slides will automatically be saved.
+
+
+
+
+
+Live Q&A
+
+What is the live Q&A? Why is it important?
+We recommend that speakers leave 5-10 minutes of their allotted session time to answer questions from attendees which makes the event more interactive and seem less like a webinar. Speakers doing live sessions will do this live and speakers who have pre-recorded, will be able to join their session and answer questions via the chat function. 
+How does the live Q&A work?
+As a speaker, you can read the questions in the Q&A Box, prioritize them (high/med/low), and either answer them via text during the pre-recorded session playback or answer them via voice after your live presentation. If you answer them via text, you can opt to make your answer public or private. Only the speakers in the session can see the Q&A Box If you would like to answer questions via voice, the Intrado Engineer in the room will enable the session audio for you and test it when you log into your session 15 minutes early.
+I am pre-recording, do I need to participate in the live chat?
+Yes, live Q&A is required as this will provide added value to the audience and create more of an ‘event’, vs. a webinar. Please note that your allotted session time should include Q&A and you will be able to answer questions via the live chat. 
+I am presenting live, should I read the questions out loud?
+Yes, we recommend that before you answer, you read the question out loud so the audience clearly knows what the question is that you are answering. 
+I am pre-recording, how do I let attendees know that it is time for Q&A?
+We recommend that as your last slide, you add a Thank You, and say that you will take questions. Then, you can answer the questions via the chat. When you pre-record, the engineers will also walk you through best practices to answer questions.
+Will attendees see the questions I am receiving?
+When attendees submit questions, only the speaker will be able to see them at first and will have the option to publish them. Again, if you are presenting in a live session, we recommend you read the question so that attendees know what question you are answering.
+I am unable to participate in a live Q&A session, what do I need to do?
+While we recommend you join the live Q&A portion of the event, we will work with you on the best plan to get questions to you. Contact us immediately and we will work with you.
+
+
+ 
+
+
+
+
+Sponsors
+
+Diamond
+Platinum
+Gold
+Silver
+Bronze
+Partner 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+Code of Conduct
+
+Sponsor
+Schedule
+Explore the Tracks
+Featured Speakers
+Program Committee
+
+Experiences
+Speed Mentoring
+Resume Writing Workshop
+Allyship Workshop
+Ask the Expert Sessions
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

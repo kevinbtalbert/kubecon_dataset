@@ -1,0 +1,237 @@
+
+
+
+
+This Year’s Embedded Open Source Summit Should NOT Be Missed! | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+May 31, 2023
+This Year’s Embedded Open Source Summit Should NOT Be Missed!		
+
+
+
+
+We are just four weeks away from the Embedded Open Source Summit (EOSS) kicking off in Prague, Czech Republic + virtually, and we’d be remiss if we didn’t call attention to all of the reasons to attend this epic event. EOSS is a new umbrella event created to unify some of the most well known conferences for embedded technologies. The event aims to provide a meeting ground for discussions and collaborations across embedded projects and developer communities, and hopefully, spur more innovations within the space. 
+CONTENT AND CO-LOCATED EVENTS 
+EOSS 2023 is composed of six micro conferences that will include more than 175+ sessions of content such as presentations, hands-on training and workshops. EOSS event attendees gain access to each of these events as part of their registration fee. 
+Here’s a bit more about each micro conference: 
+
+Automotive Linux Summit Europe is focused on driving the future of embedded devices in the automotive industry. Topics include: Advanced Driver Assistance Systems (ADAS), AGL security and tools, connected car technologies, in-vehicle Infotainment (IVI), navigation and mapping, and more.
+Embedded IoT Summit is where system architects, firmware developers and software developers working on resource constrained embedded and IoT products can learn and collaborate for increased development velocity and maximum innovation. Topics include: best practices working with resource constraints, cybersecurity and safety considerations for systems not based on Linux, and best practices for determining the scope of edge autonomy.
+Embedded Linux Conference (ELC) was launched in 2005 for companies and developers using Linux in embedded products. This event gathers the technical experts working on embedded systems and applications for education and collaboration. Topics at ELC are comprehensive and include: aerospace, Android, real time Linux, SDKs for embedded products, security, drones, robotics and many others.
+LF Energy Embedded Summit is a new event created to gather embedded developers with stakeholders from the energy sector for a discussion of how IoT and other hardware can accelerate the energy transition and drive decarbonization. Topics include: clean electrification, electric vehicle charging infrastructure, and power system automation.
+Safety-Critical Software Summit gathers safety experts and open source developers to enable and advance the use of open source in safety-critical applications. Topics include: open source software interaction with safety standards, best practices to work with regulatory authorities when using open source, safety engineering applied to open source projects and case studies of existing use of Linux in safety-critical domains.
+Zephyr® Project Developer Summit was launched in 2021 for developers using or considering Zephyr in embedded products. This year’s conference will focus on supporting topics of interest to users of Zephyr, developers contributing upstream, and maintainer specific topics. 
+
+Additionally, there are also three co-located events being hosted alongside EOSS this year that give developers and power users of the following projects an opportunity to go deeper and get hands-on training while onsite with their fellow community members. Each event is available to add-on to EOSS registration for a nominal fee – please click each link to learn more.
+
+Xen Project Developer and Design Summit brings together the Xen Project’s community of developers and power users for their annual developer conference. The conference is about sharing ideas and the latest developments, sharing experiences, planning, collaboration and above all to have fun and to meet the community that defines the Xen Project.
+Yocto Project Developer Day is a one-day presentation and hands-on training event that puts users in direct contact with Yocto Project technical experts and developers. Its primary aim is to show developers how to create, customize, and optimize Linux distributions for embedded devices using the rich features, tools, and content of Yocto Project.
+Real Time Linux Summit is intended to gather developers and users of Linux as a Real-Time Operating System. The main intent is to provide room for discussion between developers, tooling experts, and users. 
+
+BEYOND THE TALKS
+At The Linux Foundation, we are dedicated to organizing events that foster a welcoming and inclusive environment. We also want to provide opportunities for attendees to have fun and build impactful relationships. Our goal is to remove as many obstacles as possible that might impact someone’s ability to join us at an event and help them find ways to have fun while onsite. 
+
+Attendee Reception: Join your fellow conference attendees for an evening at the U Fleků Brewery and Restaurant. This is one of the few breweries in Central Europe which has been brewing continuously for over 500 years and is one of the most famous and most visited Czech cultural sights.
+
+
+Family Friendly Resources 
+
+Nursing Room: We will be providing a private nursing room to aid in the comfort and accessibility of our nursing attendees. The room will be available all days of the event and will be located onsite. 
+
+
+
+
+Creating Respectful and Safe Spaces: To support attendees who would like a place to recharge and who want to set boundaries for their interactions with fellow attendees, we offer a Zen Zone, Interaction Stickers and Pronoun Stickers. Check out The Linux Foundation’s onsite D&I resources for more information.
+
+THANK YOU SPONSORS! 
+Events like EOSS are not possible without the support of sponsors. We have tremendous gratitude for this year’s EOSS event sponsors, including Diamond Sponsors Antmicro, Google, Intel, and Meta and Platinum Sponsor Core Embedded Linux Project. 
+Email us at sponsorships@linuxfoundation.org to reserve your sponsorship, ask questions or talk about different options.
+If you’re interested in learning about sponsorship opportunities across all Linux Foundation and LF Project events, you can view the Sponsorship Prospectus here.
+WE HOPE YOU’LL JOIN US 
+Registration (in-person) is US$799 through June 12, which represents a savings of US$150. Reduced registration rates for small businesses, hobbyists, and students, and a ‘hall pass’ option is available as well. Virtual Registration is US$50 and includes access to all Keynote and Breakout Sessions. 
+EOSS attendees include developers, architects and product vendors who are looking to expand their knowledge of embedded technologies and projects in a vendor-neutral setting; have discussions and collaborate with peers and experts in embedded systems; and gain access to the industry’s leading experts. 
+Members of The Linux Foundation receive a 20 percent discount off registration and can contact events@linuxfoundation.org to request a member discount code. 
+You can find more information and register here. 
+Follow and join the conversation on social media with #EmbeddedOSSummit 
+# # #
+
+
+
+
+
+Post navigation
+The Linux Foundation Announces WasmCon Event Focused on WebAssembly TechnologiesThe Linux Foundation Announces Schedule for Open Source Summit Europe 2023
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

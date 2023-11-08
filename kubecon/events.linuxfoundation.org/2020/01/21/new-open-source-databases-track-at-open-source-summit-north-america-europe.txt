@@ -1,0 +1,199 @@
+
+
+
+
+New Open Source Databases Track at Open Source Summit North America & Europe | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+January 21, 2020
+New Open Source Databases Track at Open Source Summit North America & Europe		
+
+
+
+
+Open source has been consistently fueling innovations over the past several decades. Many industries are leveraging and deriving value with the use of open source software. As the open source ecosystem has grown, we also observe several shifts in deployment strategies and the accompanying need for knowledge to build end to end solutions with this vast ecosystem.  Today there is barely any need that cannot be solved by integrating the right piece of open source software. The classical conferences that professionals attend to develop their expertise are mostly focused on a single piece of the ecosystem. This has become evident from most user feedback attending the many open source conferences. 
+Open Source Summit, run by the Linux Foundation in North America, Europe, China, and Japan is one of the few conferences that is working to bring together the vast open source ecosystem under one platform. These conventions are increasingly used as a platform for open source thought leaders, influencers, hiring managers, professionals, and developers to talk about their plans for the technological landscape, the development of their respective projects, and the integration between different aspects of said landscape.
+The Open Source Summit covers a lot of ground in open source infrastructure, but most notably does not include open source databases.  With databases being a critical piece of any stack or infrastructure, we are pleased to facilitate a dedicated track related to open source databases in North American (Austin) and European (Dublin) open source summits. The open source database track will feature topics specific to databases themselves and their integration to the computing backbone for applications.  The track will focus on databases of all kinds, as long as they are open source, and any deployment and integration topics.
+The program committee of Divya Bhargov (Pivotal), Sunil Kamath (Microsoft), and Michael Meskes (credativ) wants to create a very diverse schedule and welcomes everyone to propose database related presentations.  See you in Austin and/or in Dublin.
+Submit to speak at Open Source Summit North America (Deadline: Feb 16) or Europe (Deadline: June 14).
+-Michael Meskes, Credativ
+
+
+
+
+
+Post navigation
+New Website PerformanceLinux Foundation, LF Networking, and LF Edge Announce Keynote Speakers for Open Networking & Edge Summit North America 2020
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

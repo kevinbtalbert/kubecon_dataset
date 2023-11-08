@@ -1,0 +1,1011 @@
+
+
+
+
+Spinnaker.Live | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Featured Speakers
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast CI/CD Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  CI/CD Events. 
+
+
+
+				Spinnaker.Live			
+
+
+
+
+
+June 18, 2020Virtual Event
+
+
+
+Spinnaker.Live 2020 is a wrap! Thank you to all the attendees and presenters who joined us virtually. To experience the best of this year’s event, be sure to watch the session recordings on the Spinnaker YouTube channel. 
+
+
+FEATURED SPEAKERS
+
+MAIN STAGE
+
+
+
+
+
+
+
+ 
+
+
+Rosalind Benoit
+Director of Community, Armory
+
+
+
+
+
+
+
+
+
+
+
+Rosalind is Director of Community at Armory, where she works to energize the Spinnaker ecosystem. She holds an MSIS in Database & Internet Technologies from Northwestern University, and had a varied background in system administration, development, project management, and education, along with a lifelong love of Linux and a passion for enacting change via software.
+ 
+
+
+
+
+
+
+ 
+
+
+Kelsey Hightower
+Principal Engineer & Staff Developer Advocate, Google
+
+
+
+
+
+
+
+
+Kelsey Hightower has worn every hat possible throughout his career in tech, and enjoys leadership roles focused on making things happen and shipping software. Kelsey is a strong open source advocate focused on building simple tools that make people smile. When he is not slinging Go code, you can catch him giving technical workshops covering everything from programming to system administration.
+ 
+
+
+
+
+
+
+ 
+
+
+Clare Liguori
+Principal Engineer, AWS
+
+
+
+
+
+
+
+
+
+
+
+I am a Principal Software Engineer for AWS Container Services, and I focus on developer tooling and developer experience for our containers customers. I like to have fun with containers and think about how they fit into local development, continuous deployment, observability, and operations
+ 
+
+
+
+
+
+
+ 
+
+
+Michael Galloway
+Senior Engineering Manager, Netflix
+
+
+
+
+
+
+
+
+
+
+
+In this interactive community check-in, we will discuss how our new way of life has affected us. What does it mean to be working from home? We’ll share our stories and struggles. As we respond to audience questions, we’ll discuss what works, and how this has impacted the projects that we work with and love.
+ 
+
+
+
+
+
+
+ 
+
+
+Bryan Liles
+Senior Staff Engineer, VMware
+
+
+
+
+
+
+
+
+
+
+
+Bryan is a long time infrastructure engineer for the next greatest solution. When not looking for the next greatest solution, he can usually be found fixing the previous greatest solutions.
+ 
+
+
+
+
+
+
+ 
+
+
+Dawn Parzych
+Developer Advocate, LaunchDarkly
+
+
+
+
+
+
+
+
+
+
+
+Dawn is a Developer Advocate at LaunchDarkly where she uses her storytelling prowess to write and speak about the intersection of technology and psychology. She enjoys helping people be more successful at work and at life. She makes technical information accessible avoiding buzzwords and jargon whenever possible
+ 
+
+
+
+
+
+
+ 
+
+
+Rainie Li
+Software Engineer, Pinterest
+
+
+
+
+
+
+
+
+
+
+
+I am working on stream data processing platform, I used to work on Spinnaker at Pinterest. I love dogs and I have a shiba.
+ 
+
+
+
+
+
+
+ 
+
+
+Andy Glover
+Director, Productivity Engineering, Netflix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Dave Farley
+Independent Software Developer and Consultant, Continuous Delivery Ltd.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Adrian Hornsby
+Principal Technical Evangelist – Architecture, AWS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Anne Cesa Klein
+Site Reliability Engineer, Purestorage
+
+
+
+
+
+
+
+
+Anne Cesa Klein is a Senior SRE at Pure Storage specializing in building faster, more reliable, efficient data-driven systems and processes. With multiple software engineering patents and a degree in CS from Bryn Mawr College, she’s worked in a wide range of tech roles and companies. She leads Pure’s Women in Engineering group and is committed to D&I in engineering.
+ 
+
+
+
+
+
+
+ 
+
+
+Clay McCoy
+Principal Software Engineer, Armory
+
+
+
+
+
+
+
+
+
+
+
+After helping create Spinnaker at Netflix, Clay has spent the last four years working remotely at three very different companies. Now at Armory, Clay is still contributing to Spinnaker with a new perspective. When not writing code or enjoying his family, he is probably wakeboarding or at Jiu Jitsu class.
+ 
+
+
+
+
+
+
+ 
+
+
+Edith Harbaugh
+CEO and Cofounder, LaunchDarkly
+
+
+
+
+
+
+
+
+
+
+
+Edith Harbaugh is CEO & Co-Founder of LaunchDarkly, the leading feature management platform. LaunchDarkly serves over a thousand global customers like IBM, Atlassian, and Intuit. She has more than 15 years of experience in engineering, product, and marketing with both consumer and enterprise startups, including TripIt and Concur. She is co-host of “To Be Continuous,” a podcast on software trends. She holds two patents in deployment. Edith earned a B.S. in Engineering from Harvey Mudd College.
+ 
+
+
+
+
+
+
+ 
+
+
+Drew Horn
+Director, Business Development, Sumo Logic
+
+
+
+
+
+
+
+
+As a Director of Business Development at Sumo Logic, Drew is responsible for providing leadership and evangelism for the App Intelligence Partner Program, helping independent software vendors successfully evaluate and integrate the Sumo Logic platform with their solutions. Drew has over 15 years of experience in IT ranging from early stage startups to Fortune 100 enterprises across engineering, quality assurance, DevOps, customer success, solutions engineering and professional services. Prior to joining Sumo Logic, Drew held positions at Applause, Amherst InsightLabs and InfoSec. He holds a B.S. in Mathematics from the University of Texas, Austin.
+ 
+
+
+
+
+
+
+ 
+
+
+Constance Caramanolis
+Principal Software Engineer, Splunk
+
+
+
+
+
+
+
+
+
+
+
+Constance is a senior software engineer at Splunk, formerly Omnition, contributing to OpenTelemetry. Previous to Omnition, she worked at Lyft as part of the data platform and server networking teams. While at Lyft, Constance built, deployed, and configured Envoy internally, and maintained the open source project.
+ 
+
+
+
+
+
+
+ 
+
+
+Sandhya Sridharan
+Managing Director, Head of JPMC Enterprise Toolchain (CTO), JPMC
+
+
+
+
+
+
+
+
+As head of the JPMorgan Chase Enterprise Toolchain, Sandhya Sridharan is responsible for building an autonomous, cloud agnostic development platform capable of accelerating software delivery while operating at JPMorgan Chase scale. She is a highly accomplished engineering leader focused on creating business value by building world class products and services. Prior to JPMC, Sandhya worked as VP of Engineering at VMware where lead engineering teams building cloud automation products. Her laser focus and data driven approach on constantly transforming engineering for acceleration and predictability helped gain momentum on customer acquisition and revenue growth.
+ 
+
+
+
+
+
+BREAKOUTS
+
+
+
+
+
+
+
+ 
+
+
+Jessie Metivier
+User Assistance Developer, SAP
+
+
+
+
+
+
+
+
+Jessie is a freelance content creator and a User Assistance Developer intern at SAP. As a new explorer in the software industry, Jessie lends her skills in storytelling and design within the department of Site Reliability Engineering.
+ 
+
+
+
+
+
+
+ 
+
+
+Serge Poueme
+Senior DevOps Engineer, SAP
+
+
+
+
+
+
+
+
+
+
+
+Serge currently works as a Senior DevOps Engineer at SAP, tackling topics under the Continuous Delivery umbrella. With 13 years of experience in both development and operations, Serge has contributed to multiple large-scale delivery projects in several industries, spanning from civic technology to healthcare. During his free time, he enjoys traveling to new countries, reading books, and team sports.
+ 
+
+
+
+
+
+
+ 
+
+
+Joel Vasallo
+Manager, Cloud DevOps, Redbox
+
+
+
+
+
+
+
+
+
+
+
+Joel is currently the Manager of Cloud DevOps at Redbox where he leads the Cloud DevOps team to architect highly available cloud environments, develop infrastructure and development tools, and empower developers through fully automated single click deployment pipelines. He has been using Spinnaker since it’s initial OSS release, and has experience building complex delivery pipelines for both software and hardware solutions. He is a Pythonista by trade and the cloud is his immutable data center. In his spare time, he is a Google Developer Chicago Organizer running monthly meet ups and a yearly Windy City DevFest conference. When he isn’t working, he loves exploring Sweet Home Chicago!
+ 
+
+
+
+
+
+
+ 
+
+
+Amy Smidutz
+Director of Delivery Engineering Team, Netflix
+
+
+
+
+
+
+
+
+
+
+
+Amy is the Director of the Delivery Engineering Team at Netflix. Delivery Engineering owns a variety of platforms responsible for Continuous Integration, Continuous Delivery, and Infrastructure Experimentation. She and her team continue to build and enhance delivery tools that enable engineers at Netflix to deploy their services with confidence and ease.
+ 
+
+
+
+
+
+
+ 
+
+
+Dan Popescu
+Site Reliability Engineer, Adobe
+
+
+
+
+
+
+
+
+
+
+
+Dan Popescu is a Site Reliability Engineer in the Experience Platform Core team at Adobe, currently focused on creating and deploying an integrated continuous delivery platform based on Spinnaker. Dealing with all aspects of the automation process from instance provisioning and application deployments to features development. His money comes from keeping Spinnaker up and running and selling it within Adobe.
+ 
+
+
+
+
+
+
+ 
+
+
+Iulian Titiriga
+Software Engineer, Adobe
+
+
+
+
+
+
+
+
+
+
+
+Iulian Titiriga is a Software Engineer and automation enthusiast, passionate about new technologies and gadgets. He eats Spinnaker for breakfast.
+ 
+
+
+
+
+
+
+ 
+
+
+Brandon Leach
+Software Architect, Autodesk
+
+
+
+
+
+
+
+
+
+
+
+Brandon is a technology leader and change agent who is passionate about helping companies deliver better software, faster. He is currently working at Autodesk where he is working on transforming service delivery to enable the company to achieve SaaS excellence.
+ 
+
+
+
+
+
+
+ 
+
+
+Constantin Muraru
+Senior Computer Scientist, Adobe
+
+
+
+
+
+
+
+
+
+
+
+Constantin Muraru is an engineer at Adobe. In his time at the company, he has worked on various Adobe Marketing Cloud solutions, where he got to experiment with mobile, video, and backend development. His team currently focuses on offering infrastructure automatization and fast deployments in Adobe Audience Manager. Outside business hours, he loves playing pool and enjoys a good book.
+ 
+
+
+
+
+
+
+ 
+
+
+Jacques Thomas
+Security Engineer, Snap, Inc.
+
+
+
+
+
+
+
+
+Jacques enjoys workflows, distributed systems, security, and where they meet. Spinnaker is such a space.
+ 
+
+
+
+
+
+
+ 
+
+
+Nav Hothi
+Sr Site Reliable Engineer, Adobe
+
+
+
+
+
+
+
+
+Nav is a reliability/devops engineer who is passionate about infrastructure and automation, especially kubernetes and spinnaker. He is currently an SRE for the Adobe Experience Platform, the leading Digital Experience platform on the market.
+ 
+
+
+
+
+
+
+ 
+
+
+Pranay Kumar
+Software Engineer, Adobe
+
+
+
+
+
+
+
+
+Pranay is a Software Engineer at Adobe with a keen interest in varied and open-sourced technologies. He works with the Adobe Experience Platform Pipeline and Streaming team to solve streaming use cases at a global scale with an emphasis on customer experience and has been involved with the adoption of Spinnaker, and improving CI/CD practices, within the team across all services.
+ 
+
+
+
+
+
+
+ 
+
+
+Pere Kyle
+Software Engineer, Snap, Inc.
+
+
+
+
+
+
+
+
+Pere Kyle is a Software Engineer for Snap Inc., the parent company of Snapchat and Bitmoji, both popular social media platforms seeing over 190MM daily active users. Pere brings over 12 years of Software Development experience to his current role at Snap as a member of the Service Infrastructure Team, responsible for Snaps in house Service Mesh. Pere has been responsible for Snap, Inc. software deployment tooling since joining Snap in 2017, focusing on continuous delivery of Snapchats core backend software. Most recently, Pere has lead the effort to adopt Spinnaker as the preferred deployment tool across all engineering teams at Snap. Pere is a regular at Spinnaker SIG meetings, and has contributed multiple features to Spinnaker OSS (offset canaries, node aware deployments) as a result of his work at Snap. He resides in sunny Seattle Washington, and is an apprentice winemaker in his spare time.
+ 
+
+
+
+
+
+
+ 
+
+
+Eric Zimanyi & Maggie Neterval
+Software Engineers, Google
+
+
+
+
+
+
+
+
+Eric Zimanyi and Maggie Neterval are co-presenting. Both are software engineers on the Spinnaker OSS team at Google focused on improving the installation experience and deployments to Kubernetes. They love eating vegetables and solving problems with the right amount of code.
+ 
+
+
+
+
+
+
+ 
+
+
+Dan Hernandez
+Staff Customer Engineer, Pulumi
+
+
+
+
+
+
+
+
+
+
+
+Dan Hernandez is a Customer Engineer at Pulumi. He’s consulted with many large organizations on their Infrastructure as Code and Cloud strategy. Enjoys playing with new tech and exploring large scale solutions
+ 
+
+
+
+
+
+
+ 
+
+
+Joan Martínez
+Platform Engineer, Glovo
+
+
+
+
+
+
+
+
+I’m Joan, currently based in Barcelona and working for Glovo as Engineering Manager for Infrastructure and Security. I have two big passions, making sourdough bread and playing tennis.
+ 
+
+
+
+
+
+
+ 
+
+
+Praneet Loke
+Software Engineer, Pulumi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Paul Roberts
+Principal Solutions Architect, AWS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Anil Anaberumutt
+IT Architect, Cisco
+
+
+
+
+
+
+
+
+Anil Anaberumutt is a Technical Systems Architect at Cisco Systems, leading Continuous Delivery and Application Security. Passionate about developer tools , defining product and technology strategy. Currently guiding product development teams in building, integrating and deploying applications and services in Cloud using Spinnaker.
+ 
+
+
+
+
+
+
+ 
+
+
+Balaji Sivasubramanian
+VP, Product, OpsMX
+
+
+
+
+
+
+
+
+
+
+
+Balaji is VP of Product at OpsMx where he is focussed on helping enterprises adopting Spinnaker at scale. Balaji brings 12+ years of experience in product management and marketing in the Enterprise software space. Prior to OpsMx, Balaji was head of product management at Cisco for cloud native solutions and network virtualization products portfolio.  Balaji is a prolific speaker in major industry conferences and author of 2 books in the networking field. Balaji holds an MBA from Wharton School of Business and Masters in Computer Engineering from University of Arizona and a Bachelor of Engineering from College of Engineering, Guindy, India
+ 
+
+
+
+
+
+
+SCHEDULE AT-A-GLANCE
+
+
+VIEW THE FULL SCHEDULE
+
+
+Thursday, June 189:00 – 9:10 AM PDTOpening Remarks + Community Check-In9:10 – 10:15 AM PDTMain Stage – Keynotes + Panels10:15 – 10:30 AM PDTBreak + Networking + Prizes10:30 – 11:45 AM PDTBreakouts11:45 AM – 12:00 PM PDTBreak + Networking + Prizes12:00 – 12:50 PM PDTMain Stage – Keynotes + Panels12:50 – 1:00 PM PDTClosing Remarks
+
+
+
+
+
+
+
+
+Sponsors
+
+CO-HOSTS
+PRODUCED BY
+GOLD
+EXPO 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+Register
+Code of Conduct
+
+Sponsor
+Schedule
+Featured Speakers
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+

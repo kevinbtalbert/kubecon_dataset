@@ -1,0 +1,184 @@
+
+
+
+
+Webinar: Why Won’t Developers Always Just Write Secure Open Source Software? 2021 | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Webinar: Why Won’t Developers Always Just Write Secure Open Source Software?			
+
+
+
+
+
+
+
+COMPLIMENTARY WEBINAR
+Why Won’t Developers Always Just Write Secure Open Source Software?
+December 9 | 7:00 – 8:00 AM PST
+
+
+
+
+
+
+
+
+Join Us for a Complimentary Live Webinar
+
+
+
+The global scale of open source adoption and participation has grown exponentially over the last decade. The Laboratory for Innovation Science at Harvard, the Linux Foundation, and the OpenSSF community came together to understand better the motivations and context behind the developers engaging and contributing to open source. Our goal is to develop a better understanding of how developers engage and why they are motivated to enable the ecosystem to map out paths to improvements in areas that are a challenge, such as security.
+
+
+
+
+Presented By
+
+
+
+
+
+SPEAKERS
+
+
+
+
+
+
+
+David A. Wheeler, Open Source Supply Chain Security, The Linux Foundation & Adjunct Faculty, Department of Computer Science, George Mason University (GMU)
+David A. Wheeler works at the Linux Foundation focusing on improving the security of open source software from development through deployment. He also teaches a graduate course in developing secure software at George Mason University (GMU). Dr. Wheeler has a PhD in Information Technology, a Master’s in Computer Science, a certificate in Information Security, a certificate in Software Engineering, and a B.S. in Electronics Engineering, all from George Mason University (GMU). He is also a Certified Information Systems Security Professional (CISSP) and a Senior Member of the Institute of Electrical and Electronics Engineers (IEEE). He lives in Northern Virginia. 
+
+
+
+
+
+
+
+Frank Nagle, Assistant Professor of Business Administration, Harvard Business School (HBS) & Faculty Affiliate, Laboratory for Innovation Science, Harvard (LISH)
+As a professor in the Strategy Unit at HBS, Frank studies the economics of IT and digitization, focusing on the value of crowdsourcing and how these topics relate to the future of work. His research interests include free digital goods, cybersecurity, and generating strategic predictions from unstructured big data. Prior to his academic career, Frank worked at several startups and large companies in the information security and technology consulting industries. In these roles, he researched various topics related to social network privacy and the economics of IT, conducted cybersecurity assessments and breach investigations, and developed and taught a two-week course that all FBI cyber agents must pass before entering the field. 
+Professor Nagle’s work has been published or is forthcoming in Management Science, Organization Science, Strategic Management Journal, Harvard Business Review, MIT Sloan Management Review, Research Policy, and Strategic Management Review. He has won awards and grants from AOM, NBER, SMS, INFORMS, and EURAM. At HBS, he is a faculty affiliate of the Digitial Initiative, the Managing the Future of Work Project, and the Laboratory for Innovation Science at Harvard.
+He currently advises the OECD Working Party on Innovation and Technology Policy. He has consulted for The World Bank, the U.S. Treasury Department, the Social Security Administration, and various companies in the technology, defense, and energy sectors. Frank earned his DBA in Technology and Operations Management from HBS, a BS and MS in Computer Science from Georgetown University and an MS in International Business Economics from City University, London.
+
+
+
+
+
+
+Additional Speakers
+Mike Dolan and Kate Stewart, The Linux FoundationJenny Hoffman & Haylee Ham, Laboratory for Innovation Science, Harvard (LISH)Hila Lifshitz-Assaf, New York University Stern School of Business and Laboratory for Innovation Science, Harvard (LISH)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

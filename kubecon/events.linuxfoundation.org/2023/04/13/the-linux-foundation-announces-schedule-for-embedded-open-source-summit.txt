@@ -1,0 +1,259 @@
+
+
+
+
+The Linux Foundation Announces Schedule for Embedded Open Source Summit | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+April 13, 2023
+The Linux Foundation Announces Schedule for Embedded Open Source Summit		
+
+
+
+
+175+ sessions showcasing recent developments and the direction of embedded technologies offer unique opportunities to hear from and engage with those driving innovation in embedded and open source innovation
+SAN FRANCISCO, April 13, 2023 — The Linux Foundation, the nonprofit organization enabling mass innovation through open source, today announced the full schedule for Embedded Open Source Summit. The event will take place June 27-30, 2023 in Prague, Czech Republic, as well as virtually. The full schedule can be viewed here.
+The global embedded computing market is estimated to reach USD 116.2 billion in value by 2025 (source: MarketsandMarkets Research) due, in part, to increasing demand for artificial intelligence (AI) technologies, mobile computing, and chip manufacturing for embedded systems. From industrial machines and automobiles to consumer electronics like digital watches and household appliances, embedded computing systems have become essential across a wide range of industries. As host to several embedded open source projects, The Linux Foundation is committed to creating environments that further enable and advance the technologies we increasingly rely upon. 
+Some of the most well known conferences for embedded technology will now host their community gatherings at the Embedded Open Source Summit (EOSS), a new umbrella event created to provide a forum for discussion, collaboration and education among open source embedded projects and developer communities. This year’s event is composed of six micro conferences: Automotive Linux Summit Europe, Embedded IoT Summit, Embedded Linux Conference, LF Energy Embedded Summit, Safety-Critical Software Summit, and Zephyr® Project Developer Summit. EOSS micro conferences will include presentations, birds of a feather (BoF) tracks, training, and workshops designed for real time problem solving and deep discussion. 
+Embedded Open Source Summit schedule highlights include:
+
+Automotive Linux Summit Europe:
+
+Debugging Tools and Techniques for Virtualized/Containerized Automotive Systems – Hiroyuki Ishii, Panasonic Automotive Systems
+Introduction to AGL Architecture and Roadmap – Walt Miner, The Linux Foundation
+
+
+
+
+Embedded IoT Summit:
+
+Outsmarting IoT Defense: The Hacker’s Perspective – Natali Tshuva, Sternum IoT
+Reliable and Robust Applications Using Container-like Abstractions on Non-MMU SoCs – Gustavo Henrique Nihei, Espressif Systems
+
+
+
+
+Embedded Linux Conference:
+
+Yocto Project/OpenEmbedded Meets Security – Marta Rybczynska, Syslinbit
+Efficient and Practical Capturing of Crash Data on Embedded Systems – John Ogness, Linutronix GmbH
+
+
+LF Energy Embedded Summit:
+
+SEAPATH: Configuring and Testing an Industrial-Grade Linux Platform for Critical Real-Time Applications in the Energy Sector – Aurélien Watare, RTE and Eloi Bail, Savoir-Faire Linux 
+Open-Source Interoperability Toolkit for Integration of Distributed Energy Storage and Other Flexibility Resources: Project InterSTORE – Peter Nemcek, CyberGrid and Matjaz B. Juric, University of Ljubljana
+
+
+Safety-Critical Software Summit:
+
+RT Linux in Safety-Critical Systems: The Potential and the Challenges – Elana Copperman, Mobileye and Shuah Khan, The Linux Foundation
+Safety Certifying an Open Source Project: The Example of Xen – Stefano Stabellini, AMD
+
+
+Zephyr Project Developer Summit:
+
+USB Type-C and You – Diana Zigterman and Samuel Hurst, Google
+System Devicetree Support in Zephyr – Marti Bolivar, Nordic Semiconductor
+
+
+
+EOSS attendees include developers, architects and product vendors who are looking to expand their knowledge of embedded technologies and projects in a vendor-neutral setting; have discussions and collaborate with peers and experts in embedded systems; and gain access to the industry’s leading experts. 
+Early Bird registration (in-person) is offered for US$649 now through April 19, which represents a savings of US$300. Special registration rates are also available for small businesses, hobbyists, students and virtual attendees. 
+Members of The Linux Foundation receive a 20 percent discount off registration and can contact events@linuxfoundation.org to request a member discount code. 
+Registration Scholarship Program and Travel Funding
+The Linux Foundation’s Registration Scholarship Program offers diversity and need-based registration scholarships for those who may otherwise be unable to attend a Linux Foundation event, including Embedded Open Source Summit. A travel assistance program is also available to help support the open source community and make events accessible to all. Please find more information here.
+Event Sponsors
+Embedded Open Source Summit Sponsors are integral to the production of this year’s event and include Diamond Sponsors Antmicro, Google, and Intel.
+For information on becoming an event sponsor, click here or email.
+PressMembers of the press who would like to request a press pass to attend should contact Kristin O’Connell.
+Social Media 
+Join the conversation on social media by following #EmbeddedOSSummit. 
+ABOUT THE LINUX FOUNDATION
+The Linux Foundation is the world’s leading home for collaboration on open source software, hardware, standards, and data. Linux Foundation projects are critical to the world’s infrastructure including Linux, Kubernetes, Node.js, ONAP, PyTorch, RISC-V, SPDX, OpenChain, and more. The Linux Foundation focuses on leveraging best practices and addressing the needs of contributors, users, and solution providers to create sustainable models for open collaboration. For more information, please visit us at https://www.linuxfoundation.org/. The Linux Foundation Events are where the world’s leading technologists meet, collaborate, learn and network in order to advance innovations that support the world’s largest shared technologies.
+Visit our website and follow us on Twitter, LinkedIn, and Facebook for all the latest event updates and announcements.
+The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see its trademark usage page: 
+www.linuxfoundation.org/trademark-usage. Linux is a registered trademark of Linus Torvalds.
+Media Contact
+Kristin O’ConnellThe Linux Foundationkoconnell@linuxfoundation.org
+# # # 
+
+
+
+
+
+Post navigation
+The Linux Foundation Events Monthly Snapshot – April 2023Why You Can’t Miss This Year’s Open Source Summit North America, May 10-12 in Vancouver, Canada
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

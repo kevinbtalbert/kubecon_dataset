@@ -1,0 +1,417 @@
+
+
+
+
+The Linux Foundation Spring Member Meeting | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Diversity & Inclusion
+Code of Conduct
+
+
+Program
+
+Schedule
+Featured Speakers
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Leadership & Community Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Leadership & Community Events. 
+
+
+
+				The Linux Foundation Spring Member Meeting			
+
+
+
+
+
+
+
+March 9, 2021Virtual Experience#lfmembersummit
+
+The Linux Foundation Spring Member Meeting is a wrap! Thank you to everyone who joined us virtually for the event.  
+The recording of the meeting is posted below and our speakers’ slides can be found on the schedule tab.  
+We encourage you to explore our event calendar and join us at a future event this year!
+
+
+event recording
+
+
+
+
+
+
+
+
+featured speakers
+
+
+
+
+
+
+
+ 
+
+
+Priyanka Sharma
+General Manager, CNCF
+
+
+
+
+
+
+
+
+
+
+
+Priyanka is the General Manager of the Cloud Native Computing Foundation. She was previously the director of Cloud Native Alliances at GitLab Inc., where she built the developer evangelism team that participates regularly in the cloud native community.
+
+
+Priyanka also serves as an advisor at Heavybit Industries, an accelerator for developer products. She has contributed to several CNCF projects such as Jaeger and Vitess and was a founding team member of the OpenTracing standard. In addition, Priyanka is a leading speaker and subject matter expert on cloud native and observability and has spoken about Kubernetes, Prometheus, Jaeger, OpenTracing, Envoy, Vitess, SPIFFE/SPIRE, and more. She was a startup founder featured at TechCrunch Disrupt and started her career at Google.
+ 
+
+
+
+
+
+
+ 
+
+
+Shane Coughlan
+OpenChain General Manager, The Linux Foundation
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Arpit Joshipura
+General Manager, Networking, Edge & IoT, The Linux Foundation
+
+
+
+
+
+Arpit Joshipura brings over 25 years of networking expertise and vision to The Linux Foundation, with technical depth and business breadth. He has instrumented and led major industry disruptions across enterprises, carriers, and cloud architectures, including IP, broadband, optical, mobile, routing, switching, L4-7, cloud, disaggregation, SDN/NFV, and open networking, and has been an early evangelist for open source. Arpit has served as CMO/VP in startups and larger enterprises, including Prevoty, Dell/Force10, Ericsson/Redback, ONI/CIENA, and BNR/Nortel, leading strategy, product management, marketing, engineering, and technology standards functions.
+ 
+
+
+
+
+
+
+ 
+
+
+Jo Ann H. Hill
+Business Development Leader, IBM
+
+
+
+
+
+Jo Ann is an experienced trusted technical and business advisor currently leading key strategic partnering activities with independent software vendors (ISV’s), cloud service providers and other business partners in order to build the breadth of applications and services available on our next generation cloud marketplace platform. Additionally, she focuses on creating new partnerships that expand adoption of Red Hat’s OpenShift Container Platform (OCP
+
+
+Having worked in several different IBM organizations and industry roles, her professional experience has engendered business acumen, analytical and problem-solving abilities, relationship management, communication, team building and business development skills.
+
+
+For the greater part of the past 15 years, she has provided IBM relationship management for strategic ISV partnerships with responsibility to grow C-level executive relationships, increase partner alignment with IBM and joint solutions opportunity to drive partner and IBM objectives. She has had specific lead responsibility for Joint Partner technology plans and execution responsibility for strategic initiatives and technical enablement. She has proven project leadership skills that has been applied to the development and release of multiple products.
+
+
+Jo Ann has a Master of Science in Software Engineering and a Bachelor of Science in Computer Science, as well as a Master’s Certificate in Project Management from George Washington University.
+
+
+Jo Ann continues to be a vocal stakeholder in the community, serving on multiple Boards that involve civic, social welfare, and legislative directions for children, families, and the community. She is also a dedicated STEM advocate who co-chairs an annual 4-day STEM Camp for middle school girls each summer (for 12 years running). Although busy with career, family, and other activities, she enjoys making time to help others in whatever ways she can, as she truly understands the importance of giving back and the impact it has made on her life, coupled with the desire to help others to achieve their goals and enhance all areas of their lives.
+ 
+
+
+
+
+
+
+ 
+
+
+Keith Smiley
+Mobile Engineer, Lyft
+
+
+
+
+
+Keith Smiley is a mobile engineer at Lyft. He’s currently the lead maintainer of rules_apple and rules_swift, and an active contributor in the open source community.
+ 
+
+
+
+
+
+
+ 
+
+
+Calista Redmond
+CEO, RISC-V International
+
+
+
+
+
+Calista Redmond is the CEO of RISC-V International with a mission to expand and engage RISC-V stakeholders, compel industry adoption, and increase visibility and opportunity for RISC-V within and beyond RISC-V International. Prior to RISC-V International, Calista held a variety of roles at IBM, including Vice President of IBM Z Ecosystem where she led strategic relationships across software vendors, system integrators, business partners, developer communities, and broader engagement across the industry. Focus areas included execution of commercialization strategies, technical and business support for partners, and matchmaker to opportunities across the IBM Z and LinuxOne community. Calista’s background includes building and leading strategic business models within IBM’s Systems Group through open source initiatives including OpenPOWER, OpenDaylight, and Open Mainframe Project. For OpenPOWER, Calista was a leader in drafting the strategy, cultivating the foundation of partners, and nurturing strategic relationships to grow the org from zero to 300+ members. While at IBM, she also drove numerous acquisition and divestiture missions, and several strategic alliances. Prior to IBM, she was an entrepreneur in four successful start-ups in the IT industry. Calista holds degrees from the University of Michigan and Northwestern University.
+ 
+
+
+
+
+
+
+ 
+
+
+Brian Behlendorf
+General Manager, Open Source Security Foundation
+
+
+
+
+
+Brian Behlendorf was a primary developer of the Apache Web server, the most popular web server software on the Internet, and a founding member of the Apache Software Foundation. He has also served on the board of the Mozilla Foundation since 2003 and the Electronic Frontier Foundation since 2013. He was the founding CTO of CollabNet and CTO of the World Economic Forum. Most recently, Behlendorf was a managing director at Mithril Capital Management LLC, a global technology investment firm. 
+ 
+
+
+
+
+
+
+ 
+
+
+Luke Hinds
+Security Engineering Lead, Office of the CTO, Red Hat
+
+
+
+
+
+Luke Hinds works in Red Hat’s office of the CTO as the security engineering lead. He is a long term contributor to open source and manages the bug bounty program and vulnerabilities within Kubernetes. He is a  member of the technical advisory council on the Open Source Security Foundation. Luke is the co-founder of sigstore and developed ‘Keylime’ the open source trust system housed within the CNCF.
+ 
+
+
+
+
+
+
+ 
+
+
+Alan Jeffrey
+Technical Chair, Servo Project
+
+
+
+
+
+Alan Jeffrey has been working in the field of Programming Languages for over thirty years. He has worked on major open source projects such as the LaTeX typesetting system, and the Agda programming language. He helped transition the Servo project from Mozilla to the Linux Foundation, and is the current Servo Technical Chair.
+ 
+
+
+
+
+
+
+ 
+
+
+Jim Zemlin
+Executive Director, The Linux Foundation
+
+
+
+
+
+Jim’s career spans three of the largest technology trends to rise over the last decade: mobile computing, cloud computing and open source software. Today, as executive director of The Linux Foundation, he uses this experience to accelerate innovation in technology through the use of open source and Linux.
+
+
+At The Linux Foundation, Jim works with the world’s largest technology companies, including IBM, Intel, Google, Samsung, Qualcomm, and others to help define the future of computing on the server, in the cloud, and on a variety of new mobile computing devices. His work at the vendor-neutral Linux Foundation gives him a unique and aggregate perspective on the global technology industry.
+
+
+Jim has been recognized for his insights on the changing economics of the technology industry. His writing has appeared in Businessweek, Wired, and other top technology journals, and he is a regular keynote speaker at industry events. He advises a variety of startups, including Splashtop, and sits on the boards of the Global Economic Symposium, Open Source For America, and Chinese Open Source Promotion Union.
+ 
+
+
+
+
+
+
+Virtual Schedule at-a-glance
+Event times are set in Pacific Standard Time Zone (PST)
+Tuesday, March 99:00 AM – 12:00 PMLinux Foundation Spring Member Update4:00 – 7:00 PMLinux Foundation Spring Member Update Rebroadcast
+
+
+
+
+
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#lfmembersummit
+
+
+
+
+Register
+Diversity & Inclusion
+Code of Conduct
+
+Schedule
+Featured Speakers
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,233 @@
+
+
+
+
+Convince Your Boss | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Experiences
+Instant Giveaways
+CNCF Slack Workspace Community Guidelines
+Diversity + Inclusion
+Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Interactive Sessions
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon North America. 
+
+
+
+
+
+
+ 
+
+
+						Convince Your Boss					
+
+
+
+
+
+The Cloud Native Computing Foundation’s flagship conference gathers adopters and technologists from leading open source and cloud native communities.
+Want to attend but not sure how to bring it up with your boss? We’ve created this email to help you explain why it’s important to attend. Feel free to use the full letter or pieces of it. See you online in November!
+
+Sample Letter
+
+
+Dear {Name},
+I’d like to attend KubeCon + CloudNativeCon North America 2020 – Virtual taking place November 17-20, 2020 online. I’ve researched many conferences and this is THE conference for gathering developers, IT professionals, and C-level leaders across the ecosystem to share learnings, highlight innovation, and discuss the future of cloud native computing, including emerging trends in microservices architectures and container orchestration with technologies like Kubernetes, Prometheus, and many more.
+Over 20,000+ of the most talented individuals in the industry gather together for this event making it a great place to network with industry professionals and learn from the top cloud native experts.
+Here is some data from KubeCon + CloudNativeCon Europe 2020 – Virtual to give you an idea of who attends and why:
+71% of attendees, this was their first KubeCon making it a great place for newcomers to the cloud native community to learn.The top two reasons that people attended KubeCon + CloudNativeCon were for education (63%) and networking (22%).37% of attendees were developers with more than 67% in technical positions overall.7,800 companies participated, with the majority from the Software (33%) and Internet or Web Services (13%) industries.
+To get a feel for what the conference is all about, check out this welcome video from Europe 2020 – Virtual.
+Here’s how I envision my attendance at KubeCon + CloudNativeCon North America 2020 – Virtual strengthening our company:
+KubeCon + CloudNativeCon North America offers 200+ sessions including technical sessions, deep-dives, case studies, and more. Attending these sessions will allow me to build my knowledge on best practices and new trends in the rapidly evolving cloud native ecosystem.The “hallway track” at KubeCon + CloudNativeCon North America will allow me to meet technology and business leaders to collaborate on the technological challenges and implementations we’re working on while creating strategic partnerships that will benefit our company.This is the premier vendor-neutral cloud native event that brings together the industry’s most respected experts and key maintainers behind the most popular projects in the cloud native ecosystem. This will allow me to gain insight into the roadmap of these projects and how we can utilize them in our software stack.
+You can learn more about the conference here and view Europe 2020 – Virtual keynotes and other videos here.
+If I register before September 30, the fee is only USD $50. Included in the registration fee is access to all keynotes and sessions, expo hall, networking and lounges, and other games, entertainment, and collaboration events.
+I would be happy to write a post-conference report and share with other members of the team what I’ve learned and how we can implement these cloud native tools and techniques into our business strategy.
+Thanks,{Your Name}
+
+
+
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+gold
+silver
+Start-up
+End User
+Diversity Supporters
+Media Partners 
+
+
+
+
+
+
+Join the CNCF mailing list to learn more about KubeCon + CloudNativeCon and other upcoming CNCF events!
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+#KubeCon + #CloudNativeCon
+
+
+
+
+Register
+Experiences
+Instant Giveaways
+CNCF Slack Workspace Community Guidelines
+Diversity + Inclusion
+Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+Interactive Sessions
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

@@ -1,0 +1,322 @@
+
+
+
+
+SlackガイドラインSlack Guidelines | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+登録Register
+参加Attend
+
+行動規範Code of Conduct
+
+
+スポンサーSponsor
+プログラムProgram
+
+スケジュールSchedule
+各トラックのご案内Explore the Tracks
+注目の講演者Featured Speakers
+
+
+併設プログラムFeatures &Add-Ons
+
+体験できることExperiences
+
+
+お問い合わせContact Us
+View All Events
+EventsAll Upcoming EventsPast Open Source Summit Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming Open Source Summit Japan. 
+
+
+
+
+
+
+ 
+
+
+						SlackガイドラインSlack Guidelines					
+
+
+
+
+Skip to page sectionはじめにGetting StartedワークスペースのエチケットWorkspace Etiquette問題の報告Reporting IssuesフィードバックFeedback
+
+はじめに
+
+だれが使えるの？
+Open Source Summit & Automotive Linux Summit JapanのSlackワークスペースは、OSS+ALS Japanのイベントに登録したすべての方にご利用いただけます。このワークスペースは、仮想（またはライブ）イベントの拡張部分ですので、イベント参加者のネットワーキング&コラボレーション ツールとしてお使いください。
+Slackガイドライン
+これらのガイドラインをよくお読みください。特に、イベントの行動規範はSlackワークスペースにも適用されますので、ご注意ください。
+プロフィールの更新
+あなたのプロフィールを更新して写真を追加してください！
+参加者と代名詞を共有しましょう！プロフィールのフルネームの最後に追加すると、ほかの参加者の画面にも表示されます。参加者はお互いの代名詞を尊重しましょう。
+プロフィールの [What I do] セクションに、役職や会社/組織に加えて、興味のあることやキーワード（”Compliance” や “Open Project” など）を追加します。こうすることで、共通の興味を持つ参加者がお互いを検索できます。投稿に関するアカウンタビリティを高めるために、匿名の表示名は許可されていません。
+設定の更新
+左上隅にある [OSS+ALS Japan] をクリックすると、Slackのワークスペースをカスタマイズできます。変更方法について質問がある場合は、#1-helpdeskチャンネルにメッセージを送ってください。
+Slackにはアニメーションの絵文字とGIFが含まれています。皆さんに使っていただけるよう工夫をこらしましたが、不快に思われるかたは、Slackクライアントの [Preferences（環境設定）]→[Messages & Media（メッセージ＆メディア）] ですべてのアニメーションを無効にできます。
+ワークスペース内のチャンネル
+OSS+ALS Japan Slackに参加すると、あなたは次のチャンネルに自動的に追加されます。
+#1-oss-als-general – イベント期間中、OSS+ALS Japanのイベント スタッフがこのチャンネルに関連情報と発表を投稿します。ここに追加された投稿を読んで、最新のイベント情報を確認してください。#1-helpdesk – イベント期間中、日本時間の午前8時から午後2時30分まで、OSS+ALS Japanイベント スタッフは、このチャンネル（およびその他すべて）を監視し、このSlackワークスペースやイベント全般に関する質問に回答します。スタッフがオフライン時の質問については、オンラインになり次第対応します。メールでお問い合わせいただく必要がある場合は、events@linuxfoundation.org までお気軽にメールでお問い合わせください。#1-random – このチャンネルは、対面イベントの “hallway track” (ホールウェイ トラック：通路などでの歓談) だと思ってください。コミュニティに自己紹介したり、自分が取り組んでいることや、OSS+ALS Japanで学びたいことなどを共有してください。
+他のチャンネルに参加するには – 左側のサイドバーにある [CHANNELS (チャンネル)] をクリックして、参加したい他のチャンネルのリストをスクロールします。これらを可能な限り整理するように努めました。特定のカンファレンス トラックに関連するものはすべて、#2-track で始まります。一般的なネットワーキングに関連するものはすべて、#3-networking から始まります。休みたくなったら？#4-fun チャンネルこそ、まさにそのための場所です！#5から始まるスポンサー チャンネルもぜひチェックしてください。
+新しい公開チャンネルを追加したい場合は？ 提案するチャネルのトピックを #1-helpdesk に書き、追加する理由を10語から20語で説明してください。わたしたちのチームが1営業日以内にフォローアップ（リクエストを確認後、承認または却下）します。
+行動規範
+バーチャル イベントに参加し、このワークスペースを使用する際は、必ずOSS+ALS Japanの行動規範を確認して遵守してください。ハラスメントを受けている場合や、他の人がハラスメントを受けていることに気づいた場合、またはハラスメントに関連するその他の懸念事項がある場合は、直ちにカンファレンス スタッフに連絡してください。スタッフは、Slack名に -LF Events Teamと記載されているのでわかります。#1-helpdesk でも見つけることができまう。. 
+行動規範の全文は こちらで確認できます。
+
+
+Getting Started
+
+Who’s Here
+The Open Source Summit & Automotive Linux Summit Japan Slack Workspace is open to all current OSS+ALS Japan event registrants. This workspace should be considered an extension of the virtual (or live!) event and used as a networking & collaboration tool for event participants. 
+Slack Guidelines
+Please read through these guidelines carefully, and remember that our event Code of Conduct also applies to our Slack workspace.
+Update Your Profile
+We’d love it if you took the time to update your profile and add a picture!
+Share your pronouns with attendees! Add it at the end of your Full Name in your profile so other other attendees will be able to see it. Please be respectful of all attendees’ pronouns.
+Add your interests or keywords (like ‘Compliance’ or ‘Open Projects’) in the “What I do” section of your profile in addition to your Title and Company/Organization – that way attendees can search for each other by these common interests. To foster more accountability for what people post, no anonymous display names are allowed.
+Update Your Preferences
+Click on the OSS+ALS Japan in the upper left-hand corner to customize your slack workspace. If you have any questions about how to change something feel free to drop us a message in the #1-helpdesk channel.
+Our Slack includes animated emoji and gifs – we’ve done everything we can to keep these rated G. If you think these may be unpleasant for you, you can disable all animations in your Slack client under Preferences → Messages & Media.
+Workspace Channels
+After you join the OSS+ALS Japan Slack you will be automatically added to the following channels:
+#1-oss-als-general – OSS+ALS Japan Event Staff will post pertinent information and announcements here throughout the event.  Make sure to read any posts added here to catch up on the latest event information. #1-helpdesk – OSS+ALS Japan Event Staff will be monitoring this channel (and all others) from 8 AM – 2:30 PM JST during the event to answer any questions you may have about the Slack workspace or the event in general.  If we’re not in, we’ll answer any questions as soon as we get online.  If you need to email us, feel free to email events@linuxfoundation.org#1-random – Consider this the hallway track we’d have at a face to face event! Feel free to introduce yourself to the community, share what you’re working on, or what you’re excited about learning at OSS+ALS Japan. 
+Join other channels – Click on CHANNELS in the left-hand sidebar and scroll through the list of other channels you’d like to join. We’ve tried to make these as organized as possible – anything related to a specific conference track starts with #2-track; anything related to general networking starts with a #3-networking. Need a break? Our #4-fun channels are designed for just that! Check out our sponsors’ channels, these start with #5.
+Want to add a new public channel?  Drop the topic of your proposed channel in #1-helpdesk and a 10-20 word explanation about why it should be added and one of our team members will follow up within 1 business day to review/approve/deny the request. 
+Code of Conduct
+Please make sure to review and abide by the OSS+ALS Japan Code of Conduct while attending the virtual experience and using this workspace. If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the conference staff immediately, staff can be identified with -LF Events Team in their Slack Name or found in the #1-helpdesk channel. 
+The full Code of Conduct can be reviewed here.
+
+
+
+
+
+ワークスペースのエチケット
+
+自己紹介をする
+誰もが新しい参加者に会うのを楽しみにしています。#1-random で簡単な挨拶をして、自分についてひとこと書きましょう。
+また、コミュニティの新しいメンバーに挨拶して歓迎しましょう。
+お互いを尊重する
+すべての参加者に対してオープンに敬意を払ってください。共有は思いやりです。すべての参加者が学びと共有の姿勢で参加してください。ポジティブな行動をしましょう。友好的に、親切に、励ましの心で。質問に答えましょう。コラボレーションこそが、このコミュニティの大きな存在理由です。あなたの質問に答えてくれた人たちに感謝しましょう。完璧な人は誰もいませんし、善意のある人でも時には間違いを犯します。他者と親切に議論しましょう。人生経験は人それぞれであることを忘れないでください。
+上手に関わる
+質問や貢献をする – 人々に助けやアドバイスを求めたり、フィードバックを返したりましょう。
+トピックから逸れないで – トピック別にさまざまなチャンネルが用意されています。投稿する際には、混乱を避けるために、そのチャンネルに関連のある内容を投稿してください。#1-random は、井戸端会議に最適な場所です。また、追加したい公開チャンネルがあるかたは、#1-helpdesk にそのトピックと、それを追加するべき理由を10語から20語で説明して投稿してください。わたしたちのチームが1営業日以内にフォローアップ（そのリクエストを確認後、承認または拒否）します。
+ソーシャル ルール
+包摂的な言葉遣いをしましょう。わたしたちは、誰もが安心して参加できる多様で安全なコミュニティの構築に努めています。チャンネルに投稿するときは、特定の性別に呼びかけるような言葉（「guys」や「ladies&gentleman」など）を使わないでください。好ましいのは、“folks”、“everyone”、“OSS+ALS folks” のような呼びかけかたです。友好的に、なごやかにやりとりしましょう。ジョークには気を付けてください。ユーモアのセンスは人によって異なり、言葉は思いもよらない誤解を招くこともあります。いい言葉が見つからない場合は、何も言わないでください。知的財産や法的に保護された情報を保護することは、各人の責任です。これは公開の場です。ここで言われたことが秘密のままになるとは考えないでください。あなたはこのコミュニティの一員です。誰かが失礼な行動をしているのを見かけたら、そのような行動を丁寧に思いとどまらせてください。対応のしかたに不安がある場合は、名前の最後に -LF Events Team の付いているスタッフにDMを送信してください。OSS+ALS Japan Event Management につながります。適切な言語を使ってください。祖父母に向かって言えないような言葉をここで使わないでください。このワークスペースを、誰にとっても安全に感じられるものにしましょう。直接メッセージを送信したり、連絡をとらないように要求した他のコミュニティ メンバーにタグを付けることは避けましょう。あなたが誰かにダイレクトメッセージを送ったとしても、彼らがそれに応答する義務はありません。彼らが応答しない場合は、メッセージを送り続けないでください。同様に、投稿にあなたのタグが付けられていたり、ダイレクト メッセージを受け取ったとしても、返信する義務はありません。問題が解決しない場合、またはメッセージの性質が不適切な場合は、会話に参加することを控え、名前の最後に -LF Events Team が付いているスタッフにDMを送信してください。OSS+ALS Japan Event Management につながります。新しい質問で誰かに繰り返しタグを付けることは控えてください。投稿する質問は、チャンネル全体で誰もが回答できるようにする必要があります。ここは公開の交流場所です。他の人がサポートを提供し、ダイレクト メッセージの会話を要求して議論を続けようとする場合を除き、ダイレクトメッセージで技術的な質問をすることは控えてください。誰かにタグを付ける機能を悪用しないでください。誰かにタグをつけるのは、彼らと既存の会話を続けている時（特に彼らが尋ねた質問に答える時）だけにしてください。このルールには「OSS+ALS Japan Experts」も含まれますので、ご注意ください。「OSS+ALS Japan Experts」では Ask the Experts セッションを開催し、みなさんの質問にお答えしますこれらのセッション以外では、技術的なサポートは提供されません。Slackでは、「OSS+ALS Japan Experts」を他のコミュニティ メンバーと同様に扱ってください。すべての投稿は投稿者本人の意見を反映したものであり、必ずしもThe Linux Foundationやその従業員の意見を反映したものではありません。参加者は、各自が投稿するものすべてに対して責任を負います。
+避けるべき行動
+あらゆる形態の不敬 – 露骨または下品な言葉、画像、メッセージ（人種差別的発言など）の使用など、失礼な行動や不快な行動は容認されません。他のメンバーにスパムを送ったり、荒らしたりしてはいけません。違法行為とは、すなわち、海賊版コンテンツへのリンクを掲載したり、ソフトウェアの改造方法をアドバイスしたり、ソフトウェアのセキュリティ保護を違法に迂回したりすることです。クレジットカード番号、パスワード、製品/ APIキー、個人を特定できる機密情報などの個人情報（自分または他の人の）を投稿したり、リンクしたりしないでください。デスクトップのスクリーンショットを投稿する時は、特に注意してください。マーケティング（スポンサーチャネルの公式イベントスポンサーを除く）：露骨な広告やスパム マーケティングは容認されません。サードパーティ サービスへのリンクを投稿すること（たとえばリンクをクリックしたり、その中のサービスを購入したりすると、直接的または間接的に投稿者が経済的利益を得るようにすることなど）は、利益相反の可能性があるため禁止されています。ワークスペースに適用できる便利な製品やサービスや、自分自身のサイトへのリンクについては、自由に共有してください。直接の売り込み禁止 – 公式のイベントスポンサーだけがイベントスポンサーのチャンネル限定で売り込みを許可されています。ぜひカンファレンスのスポンサーになってください。興味のない技術を毛嫌いしないでください。あなたの近くには、そのツールの作成を手伝った人や、そのツールを使いたがっている人もいることでしょう。ひとをバカにするのはやめましょう。ばかげた質問などありません。Googleでも簡単に答えられるような質問をする人がいても、快く答えましょう。文脈のないリンクを投稿しない：文脈や説明のないリンクをチャットに入れると、削除される可能性があります。
+
+
+Workspace Etiquette
+
+Introduce Yourself
+Everyone loves to meet new attendees! Drop a quick hello in #1-random and share something about yourself!
+Say hello to new members and welcome them into the community.
+Be Respectful
+Be open and respectful to every attendee – sharing is caring and everyone should be here with the attitude to learn and share.Have a positive attitude — be friendly, helpful, and encouraging.Answer questions. Collaboration is at the heart of why we’ve brought this community together.Be thankful to those that have answered your questionsNo one is perfect, and even well-intentioned people make mistakes.  Be kind in your discussions with others and remember that everyone’s life experiences are different.
+Be Relevant
+Ask questions and contribute — be sure to ask folks for help or advice and provide feedback where you’re able to.
+Stay on topic – We have carved out different channels for specific topics.  Please keep your posts relevant to the channel you are in to avoid any confusion. #1-random is a great place for water-cooler conversations or reach out to us in #1-helpdesk with a topic for a new public channel and a 10-20 word explanation about why it should be added and one of our team members will follow up within 1 business day to review/approve/deny the request.
+Social Rules
+Use inclusive language. We strive to create a diverse and safe community in which everyone is comfortable participating. When posting in channels, avoid using words such as “guys” or “ladies & gentlemen” to address a channel. Possible alternatives: “folks”, “everyone”, “OSS+ALS folks”Don’t be a jerk – we’re all in this together.Use caution with jokes, everyone’s sense of humor is different and words can be misunderstood over text. If you don’t have anything nice to say, don’t say anything at all.Protecting IP and legally protected information is your responsibility, this is a public forum.  Don’t presume anything said here will remain private.You are part of this community. If you see someone behaving disrespectfully we urge you to politely dissuade such behavior.  If you do not feel comfortable addressing the behavior, please reach out to OSS+ALS Japan Event Management by DM’ing anyone with -LF Events Team at the end of their name. Please use Appropriate Language – if you wouldn’t say it to your grandparents, don’t say it here. Keep this workspace feeling safe for everyone.  Refrain from sending direct messages or tagging other community members who have requested not to be contacted. If you direct-message someone they are not obligated to respond. Do not continue to message them if they do not respond. Concurrently, if you are tagged in a post or direct messaged, you are not obligated to respond. If the issue persists, or if the message is inappropriate in nature, please refrain from engaging in the conversation and reach out to OSS+ALS Japan Event Management by DM’ing anyone with -LF Events Team at the end of their name. Refrain from repeatedly tagging anyone on a new question; questions you post should be for the channel as a whole for anyone there to respond, these are public forums. Refrain from asking technical questions in a direct message unless the other person has offered support and requested a direct message conversation to continue a discussion. Don’t abuse the ability to tag someone. Try to only tag someone when continuing a pre-existing conversation with them, and particularly when responding to a question that they have asked. Please note that this rule includes “OSS+ALS Japan Experts” as well. Our “OSS+ALS Japan Experts” will be holding scheduled Ask the Experts where they will be available to answer your questions.  Outside of these scheduled times, they are not expected to provide any technical support. When on Slack, please treat the “OSS+ALS Japan Experts” as you would any other community member.All posts reflect the views and opinions of its author and do not necessarily reflect the views of The Linux Foundation or its employees.  As a participating attendee, you are solely responsible for anything you post.
+Behaviors to Avoid
+Any forms of disrespect — We do not tolerate impolite or offensive behaviors, including the use of explicit/vulgar language, images and/or messages e.g. racist remarks.Spamming or trolling other members.Illegal activity – ie. posting links to pirated content, advice on how to jailbreak software, or illegal bypasses of software security protection.Please do not post or link to any private information (your own or others) such as credit card numbers, passwords, product/API keys or any sensitive personally identifiable information. Take particular care when posting screenshots of your desktop.Marketing (with the exception of official event sponsors in the sponsor channel) – blatant advertising and spam marketing will not be tolerated. Posting affiliate links to third-party services such that clicking on the link or buying the services within would directly or indirectly financially benefit the poster is prohibited, due to the potential conflict of interest. Do feel free to share products or services you find useful where it applies to the workspace or links to your own websites!No Direct Pitches – Only our official event sponsors are permitted to pitch only in the Event Sponsor Channel. Consider sponsoring one of our conferences!Don’t hate on tech you don’t like.  There is a good chance there is someone in the room who either helped create or likes to use that tool. Remember, don’t be a jerk.There are no stupid questions. If people ask questions that are simple to answer on Google, answer them nicely still.No links without context – If you put a link in the chat without context or explanation, it may be deleted.
+
+
+
+
+
+問題の報告
+
+LF Events チームは、紛争を平和的に、そしてコミュニティにとってポジティブな方法で解決しようと努めています。しかしすべての状況を予見することはできませんので、無礼な人に退去を求めることが最善の方法だと判断した場合はそうします。
+あなた自身または他の誰かに対して失礼な行動を経験し、何らかの理由でそれに対して敬意を持って対応したり解決したりできない、またはそれを望まないと感じた場合は、速やかに LF Events チームのメンバーにお知らせください。無礼であるとか、脅迫的であるとか、何らかの形で誰かが困っていそうだと感じることがあれば、すべてお知らせください。
+コミュニティのガイドラインや行動規範の精神に従わないことを選択する人に対しては、わたしたちの裁量でアカウントを無効にすることができます。
+OSS+ALS Japan Eventsチームに連絡するには、名前の最後に-LF Events Teamが付いている人にDMするか、＃1-helpdeskで投稿するか、events@linuxfoundation.orgにメールしてください。イベント担当SVP兼ゼネラルマネージャーの Angela Brown (angela@linuxfoundation.org) にもご連絡ください。
+
+
+Reporting Issues
+
+The LF Events team seeks to resolve conflicts peacefully and in a manner that is positive for the community. We can’t foresee every situation, and thus if in our judgment the best thing to do is to ask a disrespectful individual to leave, we will do so.
+If you experience disrespectful behavior toward yourself or anyone else and feel in any way unable or unwilling to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of an LF Event team member. We want to hear from you about anything that you feel is disrespectful, threatening, or just something that could make someone feel distressed in any way.
+We reserve the right, always, to deactivate accounts at our discretion should anyone choose not to abide by the spirit of our community guidelines or code of conduct.
+The OSS+ALS Japan Events team can be reached by DM’ing anyone with -LF Events Team at the end of their name, in #1-helpdesk, or by emailing us at events@linuxfoundation.org.  You are also encouraged to contact Angela Brown, SVP & General Manager of Events, at angela@linuxfoundation.org.
+
+
+
+
+
+フィードバック
+
+また、強力なコミュニティを構築するために、ガイドラインに関するフィードバックや提案をお寄せいただければ幸いです。＃1-helpdesk に投稿するか、events@linuxfoundation.orgあてにメールしてください。
+
+
+Feedback
+
+We will also be happy to receive your feedback and suggestions for the guidelines so that we build a strong community. Reach out to us in #1-helpdesk, or email us at events@linuxfoundation.org.
+
+
+
+ 
+
+
+
+
+スポンサー Sponsors
+
+ダイアモンド Diamond
+プラチナ Platinum
+ゴールド GOLD
+シルバー Silver
+ブロンズ BRONZE 
+
+
+
+
+
+
+メーリングリストに参加して、イベントの最新情報やニュースをゲットしましょう。Join our mailing list to hear all the latest about events, news, and more!
+
+ 
+	入力された宛先に今後のイベント情報が配信されます。メーリングリストの登録はいつでも解除できます。詳細については、プライバシー ポリシーを参照してください。The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#ossummit
+
+
+
+
+登録 Register
+行動規範 Code of Conduct
+
+スポンサー Sponsor
+スケジュール Schedule
+各トラックのご案内 Explore the Tracks
+注目の講演者 Featured Speakers
+
+体験できること Experiences
+
+お問い合わせ Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

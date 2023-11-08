@@ -1,0 +1,320 @@
+
+
+
+
+KubeCon + CloudNativeCon Europe 2020 - Virtual Keynote Speaker Guide | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Virtual Backgrounds
+Keep Cloud Native Well
+Experiences
+Where in the World is Phippy?
+Diversity Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon Europe. 
+
+
+
+
+
+
+ 
+
+
+						KubeCon + CloudNativeCon Europe 2020 – Virtual Keynote Speaker Guide					
+
+
+
+
+Skip to page sectionOverviewDeadlinesRegistrationSchedule InformationVirtual Event Platform + Live Q&ARecording Your Session + Presenting Virtually Best PracticesPowerPoint Template + Co-Chair Meeting + Presentation RequirementsAdditional Resources + FAQPromote Your TalkInclusivity CourseCode of ConductSchedule + Speaker Point of Contact
+
+Overview
+
+We are excited to welcome you as a keynote speaker for KubeCon +CloudNativeCon Europe 2020, which will take place virtually, Monday, August 17–Thursday, August 20, with content starting each day at 13:00 Central European Summer Time (CEST). 
+This is your official event keynote speaker guide. Please bookmark this page for easy reference and continue to check back as the event gets closer as we will be adding additional speaker details. If you have any questions, please email Nanci Lancaster.
+Please click through the tabs on this page to access information.
+
+
+Important Dates + Deadlines
+Speaker Registration Deadline: Friday, July 3, 2020Last Day to Request Speaker or Title/Description Changes: Monday, July 6, 2020Pre-Record Presentation Deadline: Friday, July 24, 2020Event Dates: Monday, August 17–Thursday, August 20, 2020
+
+
+Registration
+The registration system has reopened. If you have not already registered, please do so now to confirm your participation as a speaker. Go to the speaker-specific registration page and follow the instructions.
+Our registration system is now integrated with the Linux Foundation Single sign-on (SSO) platform. After clicking “Register Now”, you will be prompted to log in with your existing SSO account or to create a new one. If you have forgotten the password for an existing account, reset it by clicking “Forgot Password.”
+You will also be able to use 3rd party authentication providers (Gmail, GitHub, LinkedIn, and Facebook) to automatically generate your SSO Account. If you experience issues, click the “Contact Us” link on the SSO page to connect with our support team.
+Already Registered? 
+If so, your registration has automatically transferred to the virtual event, and you do not need to re-register.
+
+
+
+Schedule
+In order to accommodate all of our attendees and speakers that reside in countries around the world, while still being focused on our European participants, we decided on starting the event at 13:00 Central European Summer Time (CEST), with some additional updates:
+Each day will be less than seven hours in duration.Lightning Talks will be at the beginning of the day, starting at 13:00 CEST on Day Zero, August 17.All Tutorials and the 101 Track will be held on Day Zero, August 17.The Sponsor Booth Crawl will be at the end of the day on Day Zero, August 17.Keynotes will now take place in the middle of each day on August 18, 19, 20.Every session has been rescheduled based on the speakers’ responses to the previously sent out Survey Monkey form asking for location of residency and time zone preference.
+Please review the schedule and notify Nanci Lancaster immediately if you believe you will not be able to participate for Q&A at the time your session is scheduled for. To display the times in your own timezone please choose your timezone from the drop-down menu on the right side of the schedule, just above “Filter by Date.”
+
+
+
+Uploading a Bio/Photo
+The schedule has been posted on our website using sched.com. You will receive an email directly from sched.com asking you to create your account; please make sure to upload your bio and photo.
+
+Session Timing
+Lightning Talks are 5-minutes in duration (no Q&A).Sponsored keynote sessions are 5-minutes in duration (Q&A TBD).General keynote sessions are 15-minutes in duration (Q&A TBD)All breakouts and most maintainer track sessions are 35-minutes (inclusive of Live Q&A).Tutorials and a handful of maintainer track sessions are 80-minutes in duration (inclusive of Live Q&A).
+
+
+Platform Details
+The platform we’ve chosen to use is INXPO by Intrado, which allows speakers to deliver content via pre-recorded talks and join live for Q&A with attendees via text, audio, or video chat. The platform is an HTML5 web-based platform, and will be easy for everyone to access and use. All talks will be available on INXPO for viewing until KubeCon + CloudNativeCon North America 2020 (November 17, 2020), and we will also be moving them to YouTube so anyone, anywhere, can view them as well.
+The INXPO by Intrado platform is allowing us to create an immersive experience for attendees, with educational sessions that offer speaker and attendee Q&A and interaction, attendee collaboration & networking through topical chat rooms, and 1:1 and group chats, gamification to keep attendees engaged throughout the event, and a sponsor and tech showcase that offers 3D booths where attendees can view demos, download resources, check out job openings, and speak directly with booth reps.
+We know you have a lot of questions about the platform, and we have put together an FAQ page, which will be updated continuously as we work through all aspects of the virtual event. If you have a question that is not included, please contact us to let us know. 
+
+Live Q&A
+As with physical events, live interaction is essential to the success of virtual events and we are requiring every keynote presenter to be available during their session for live Q&A for at least 15-minutes after the last keynote presenter ends their talk for your keynote block. The Q&A between attendees and speakers will take place on Slack.
+This will provide added value to the audience and create more of an ‘event’ versus a ‘webinar’ experience.
+
+
+Pre-recording Your Talk
+All keynote speakers are required to record their presentation with our Presentation Recording Lead, Timothy Arthur, ahead of the event no later than Friday, July 24, 2020. 
+Please book a time to record your session with Timothy via his Calendly Link by Friday, July 24.
+Please note the following:
+Time slots are available on a first-come, first-serve basis.If you would like to use a green screen, you will need to purchase one on your own to use; Tim will be able to guide you in your recording on how to best use the green screen in your presentation.Please review the Keynote Speaker Guide and for presentation best practices and tips, read this detailed document.You may use the branded, keynote-specific, PowerPoint template.We will combine all keynote sessions into one seamless recording for each morning with live introductions by the co-chairs spliced in between speakers.Keynote speakers are not required to be present live during the actual event, but we would encourage you to participate in slack discussions during and 15-minutes after your keynote presentation.
+
+Presenting Virtually Best Practices
+We understand that presenting virtually is vastly different than presenting on stage in-person. Our great A/V team that is usually with us on-site has compiled a list of best practices and equipment recommendations to help presenters have the highest quality virtual presentation. We ask that you review the detailed document as soon as possible as you may need to order items and have them delivered before your scheduled recording time.
+
+Tips to Keep your Virtual Audience Engaged
+Learn the Content: Familiarity with the content allows a speaker to focus on presenting, rather than trying to remember the points to make. To minimize worry about forgetting elements of the presentation, include notes in your presentation file and have a printout of your script or talking points.Practice Makes Perfect: Speakers should practice their content delivery in the environment in which they will deliver it, such as in front of a computer. Presenting alone to a computer can be awkward at first. To make speakers more comfortable, ask colleagues, roommates, or family to sit in front so they can present to familiar faces.Understand the Tools: Speakers should understand and utilize the content options available to them, to maximize the effectiveness of the presentation technology. It’s important to know the basic functions of the software, e.g. how to advance slides, manage Q&A or chats, before the presentation. Speak Up: Check audio levels before presenting, but also make sure to breathe at regular intervals to speak audibly and clearly. Maintaining a clear, even tone throughout the presentation will allow the audience to hear it without adjusting their volume settings.Look at Your Camera: If presenting via video, remember, the webcam is your link to your audience. Make eye contact with the camera so it appears to the audience that you are speaking directly to them.Don’t Fear Mistakes: Humans make mistakes, even during presentations. Realize that flubs happen and they won’t derail your presentation – unless you let them. Just keep going in your planned presentation and remember, the audience is forgiving.Be Prepared: During the presentation, have a glass of water nearby to sip as needed. Also, keep handy a printout of your slides or notes in case you need to refer to them.
+From: https://www.inxpo.com/assets/pdfs/litepapers/How-To-Be-An-Engaging-Speaker.pdf
+
+Dress Code
+There is no dress code for presentations, and we encourage you to be comfortable. That said, you must be aware that the Code of Conduct applies to this space, both in terms of what you show on camera and what you say. We ask that you be tasteful and considerate in choosing your clothing and surroundings. Keep in mind that we are a global community. Please refrain from wearing shirts with global brand logos that are not your own. Solid colors (not white) also work best instead of prints.
+
+Technical Requirements + Tips
+Run a system check to ensure your computer is configured properly for the platform.Please also run a compatibility check, which tests your webcam and audio devices, along with WebRTC and WebSocket connectivity on your network for streaming media (which includes webcam/microphone, screen share,  media files, VCU, Encoder, etc.). If you encounter any issues, please refer to INXPO’s additional computer tips which provide additional information to help optimize your system set-up. Audio – as counterintuitive as it may sound, the single most important factor in a good video, is the audio quality. Eliminate ambient noise – close the doors and windows. You’d be surprised how much environmental noise gets picked up.Lighting – Do not put lights overhead and don’t put any lights or windows behind you as they will alter the light levels in your videos and create shadows.Background – don’t be afraid to show your natural environment – bookcases, plants, paintings – as long as they are not too distracting.Framing – place yourself slightly off-center to the left or right rather than directly in the middle of the frame.Camera Height – the lens should either be directly level or pointing ever so slightly downwards towards your face.Stand – we recommend you stand during your presentation to help project your voice and improve your posture. However, if you’re more comfortable sitting, then please do.Timer – Have a clock to keep track of the time you have remaining.
+
+
+
+Speaker PowerPoint Presentation Template
+We designed an optional KubeCon + CloudNativeCon Europe Virtual PowerPoint template for our speakers. Use of this template is not required but we do welcome you to use it for your convenience. Note: The PowerPoint Template Design has been UPDATED. If you have already created your presentation with the old template, please update to the new design.
+Email final presentation slides to Nanci Lancaster by Friday, July 31 so she can add to sched.com after the event concludes.
+
+Co-Chair Meeting
+Meet with Co-Chairs by Friday, July 10
+We strictly enforce a no-pitch, non-advertorial policy for all of our presentations, especially on the keynote stage. Leading up to the event, either Vicki Cheung and Constance Caramanolis, the co-chairs for Europe, will contact you to review your presentation and ensure the messaging resonates with our audience. The deadline to meet with one of the co-chairs is Friday, July 10, and you must have a draft of your presentation at the time of the meeting.
+
+Helpful Notes on Presentation Design
+Obsolete, low-res (i.e., pixelated), and malformatted logos are an epidemic among conference presentations. High-res logos of over 1000 cloud native projects, products, and companies are available in the cloud native landscape and the serverless and member landscapes. All logos are in the card mode and can be found with Cmd-F or Cntl-F from your browser. Note that all of these logos are stacked, not horizontal, and include the name. The logos are all the most current (or you can open a pull request if they’re not). Also note that the text below the logo shows the proper capitalization of projects like gRPC and containerd. In particular, Alibaba Cloud, Amazon Web Services, Google Cloud, and Microsoft Azure have all changed their logos in the last couple years; please use their current one.Please see the CNCF style guide which covers things like abbreviating Kubernetes as K8s not K8 or K8S.
+
+
+
+
+
+Additional Resources
+19 Video Presentation Tips to help you give a great presentation (even if you hate the way you look on camera)
+PACE Acronym for Virtual Presentations
+Checklist for Speakers – this article provides checklists applicable for speakers that are live streaming. 
+Virtual Event Platform FAQ
+We encourage you to read through the FAQ for the INXPO by Intrado Platform.
+
+
+Promote Your Talk
+We appreciate you spreading the word about #KubeCon #CloudNativeCon and your session – please find some sample tweets below to share on your social channels! Note: The short link to your session can be found on your session’s sched.com page, just below the title, to the left of the “Tweet” and “Share” buttons.
+Excited to keynote at the first virtual #KubeCon + #CloudNativeCon Europe in August! 🎉 Come see me on [DATE]! [SESSION LINK]Attending #KubeCon + #CloudNativeCon Europe virtually in August? Come check out my keynote [SESSION NAME] on [DATE]. Hope to see you online! [SESSION LINK]Can’t wait for #KubeCon #CloudNativeCon Europe Virtual 2020! 👍 I will be speaking on [DATE] – Come see my Keynote [TITLE] – Hope to see you online! [LINK TO SESSION]The re-worked #KubeCon + #CloudNativeCon Europe Virtual Schedule is out! Visit https://bit.ly/2GdccZK to check out the updates!
+
+
+
+
+Inclusive Speaker Orientation Online Course
+The Linux Foundation, in collaboration with the National Center for Women in Technology (NCWIT), has created an online course designed to teach the viewer about inclusion, diversity and unconscious bias. It is strongly encouraged by the Cloud Native Computing Foundation that all our speakers watch the course to learn tips/tools to use when speaking to encourage inclusivity in presentations and messaging.
+
+
+
+
+
+Code of Conduct
+
+Please read, and abide by our code of conduct. Our code of conduct is strictly enforced. We ask that speakers especially review this code of conduct and are careful to be inclusive in the words and images used during their presentation.
+
+
+
+Schedule and Speaker Point of Contact
+
+Nanci Lancaster is your main point of contact for any speaker or schedule-related questions. Please contact her at speakers@cncf.io.
+We have built an FAQ sheet for the virtual event platform, which will be updated continuously, but if you have a question that is not included, please contact Nanci Lancaster to let her know.
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+GOLD
+SILVER
+START-UP
+END USER
+DIVERSITY SUPPORTERS
+MEDIA PARTNERS 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Virtual Backgrounds
+Keep Cloud Native Well
+Experiences
+Where in the World is Phippy?
+Diversity Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

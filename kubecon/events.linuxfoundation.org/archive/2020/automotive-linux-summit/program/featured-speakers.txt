@@ -1,0 +1,489 @@
+
+
+
+
+注目の講演者Featured Speakers | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+登録Register
+参加Attend
+
+行動規範Code of Conduct
+
+
+スポンサーSponsor
+プログラムProgram
+
+スケジュールSchedule
+各トラックのご案内Explore the Tracks
+注目の講演者Featured Speakers
+
+
+併設プログラムFeatures &Add-Ons
+
+体験できることExperiences
+
+
+お問い合わせContact Us
+View All Events
+EventsAll Upcoming EventsPast Automotive Grade Linux Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming Automotive Linux Summit. 
+
+
+
+
+
+
+ 
+
+
+						注目の講演者Featured Speakers					
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Dan Cauchy
+Executive Director, Automotive Grade Linux
+
+
+
+
+
+Dan is the General Manager of Automotive at The Linux Foundation and the Executive Director of Automotive Grade Linux. He is responsible for the overall management and execution of the Automotive Grade Linux collaborative project, an industry effort to build an open source automotive reference platform backed by leading car manufacturers around the world.
+
+
+Dan has over 22 years of experience spanning the automotive, telecom, networking, and mobile business verticals. Prior to his current position, Dan was the Vice President and General Manager of MontaVista’s Automotive Business Unit (acquired by Mentor), responsible for P&L and worldwide execution of MontaVista’s automotive software strategy, sales, marketing, products, and services. During this period, Dan served on the Board of Directors of the GENIVI Alliance and was responsible for the creation of the GENIVI Compliance Program, a group that he chaired for its first three years, which led to the release of the GENIVI Specification, a widely adopted standard in the automotive industry. While at MontaVista, Dan previously held the position of VP of Marketing and BD, where he was responsible for the development and execution of MontaVista’s global marketing strategy, which led to an acquisition by Cavium.
+
+
+Based in Silicon Valley, Dan has extensive startup experience. He was the Director of Product Management at Atrica (acquired by Nokia-Siemens Networks), a carrier Ethernet equipment provider startup. Prior to Atrica, Dan was the Director of Architecture and Strategy at BlueLeaf Networks, a tunable laser optical networking startup (now Picarro). He also previously held senior management positions and engineering leadership positions at Cisco Systems, Newbridge Networks (acquired by Alcatel), and Nortel.
+
+
+Dan earned a Bachelor’s degree in Electrical Engineering (with a Computer Engineering major) from the University of Ottawa. He holds three patents in the areas of routing and networking, with several others pending.
+ 
+
+
+
+
+
+
+ 
+
+
+Calista Redmond
+CEO, RISC-V International
+
+
+
+
+
+Calista Redmond is the CEO of RISC-V International with a mission to expand and engage RISC-V stakeholders, compel industry adoption, and increase visibility and opportunity for RISC-V within and beyond RISC-V International. Prior to RISC-V International, Calista held a variety of roles at IBM, including Vice President of IBM Z Ecosystem where she led strategic relationships across software vendors, system integrators, business partners, developer communities, and broader engagement across the industry. Focus areas included execution of commercialization strategies, technical and business support for partners, and matchmaker to opportunities across the IBM Z and LinuxOne community. Calista’s background includes building and leading strategic business models within IBM’s Systems Group through open source initiatives including OpenPOWER, OpenDaylight, and Open Mainframe Project. For OpenPOWER, Calista was a leader in drafting the strategy, cultivating the foundation of partners, and nurturing strategic relationships to grow the org from zero to 300+ members. While at IBM, she also drove numerous acquisition and divestiture missions, and several strategic alliances. Prior to IBM, she was an entrepreneur in four successful start-ups in the IT industry. Calista holds degrees from the University of Michigan and Northwestern University.
+ 
+
+
+
+
+
+
+ 
+
+
+Arpit Joshipura
+General Manager, Networking, Edge & IoT, The Linux Foundation
+
+
+
+
+
+Arpit Joshipura brings over 25 years of networking expertise and vision to The Linux Foundation, with technical depth and business breadth. He has instrumented and led major industry disruptions across enterprises, carriers, and cloud architectures, including IP, broadband, optical, mobile, routing, switching, L4-7, cloud, disaggregation, SDN/NFV, and open networking, and has been an early evangelist for open source. Arpit has served as CMO/VP in startups and larger enterprises, including Prevoty, Dell/Force10, Ericsson/Redback, ONI/CIENA, and BNR/Nortel, leading strategy, product management, marketing, engineering, and technology standards functions.
+ 
+
+
+
+
+
+
+ 
+
+
+Thomas Di Giacomo
+Chief Technology & Product Officer, SUSE
+
+
+
+
+
+Thomas Di Giacomo is Chief Technology and Product Officer for SUSE, where he leads our global Office of the CTO and Product and Solution Management. His team covers SUSE’s entire portfolio of products as well as innovation priorities. He is also responsible for driving and guiding SUSE’s current and future technology and solutions, and for sharing SUSE’s vision with customers, partners, and key industry stakeholders.
+ 
+
+
+
+
+
+
+ 
+
+
+Shuli Goodman
+Executive Director, LF Energy
+
+
+
+
+
+Shuli Goodman is the founder and Executive Director of LF Energy, a new Linux Foundation project that supports open source innovation in the energy and electricity sectors. LF Energy’s ambition is to accelerate the energy transition and the decarbonization of the world’s economies. Having spent the early part of her career enabling some of the world’s largest companies in the world to become Internet-ready, she has brought her digital-first, cross-industry background to the electricity sector. With a doctorate in Organizational Systems focused on innovation and the energy transition, Shuli has a uniquely multi-disciplinary approach to solving complex, interdependent problems. She has nearly three decades experience in the startup and ongoing support of governance and multi-stakeholder engagement bodies that have been convened to enable decision-making and provide steering capacity for high-visibility and/or high-risk initiatives. Her goal is to inspire, train, and enable 10,000 developers, in the next 10 years, to digitally transform the world’s power systems.
+ 
+
+
+
+
+
+
+ 
+
+
+Jonathan Corbet
+Kernel Documentation Maintainer & Executive Editor, LWN.net
+
+
+
+
+
+Jonathan Corbet is the kernel documentation maintainer, co-founder of LWN.net, a member of the Linux Foundation’s Technical Advisory Board, and the lead author of Linux Device Drivers, Third Edition.  He lives in Boulder, Colorado, USA.
+ 
+
+
+
+
+
+
+ 
+
+
+Corey Hulen
+Co-founder and CTO, Mattermost, Inc.
+
+
+
+
+
+Corey Hulen is the CTO and co-founder of Mattermost, Inc., creators of the open source enterprise messaging workspace built for privacy-conscious organizations. Prior to Mattermost, he founded Tempo AI, a machine intelligence startup spun out from Stanford Research Institute, which was acquired by Salesforce.com. Before that, Corey served as an engineering manager and architect for Microsoft Office in its enterprise software business across the SharePoint and Business Intelligence product lines. He is an alumnus of California Polytechnic State University.
+ 
+
+
+
+
+
+
+ 
+
+
+Shane Coughlan
+OpenChain General Manager, The Linux Foundation
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Yunsup Lee
+Co-Founder & Chief Technology Officer, SiFive
+
+
+
+
+
+Yunsup is SiFive’s Chief Technology Officer and co-founder. Yunsup received his PhD from UC Berkeley, where he co-designed the RISC‑V ISA and the first RISC-V microprocessors with Andrew Waterman, and led the development of the Hwacha decoupled vector-fetch extension. Yunsup also holds an MS in Computer Science from UC Berkeley and a BS in Computer Science and Electrical Engineering from the Korea Advanced Institute of Science and Technology (KAIST).
+ 
+
+
+
+
+
+
+ 
+
+
+Adam Kibit
+Connected Vehicle & Digital Product Engineering, Canoo
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Jim Zemlin
+Executive Director, The Linux Foundation
+
+
+
+
+
+Jim’s career spans three of the largest technology trends to rise over the last decade: mobile computing, cloud computing and open source software. Today, as executive director of The Linux Foundation, he uses this experience to accelerate innovation in technology through the use of open source and Linux.
+
+
+At The Linux Foundation, Jim works with the world’s largest technology companies, including IBM, Intel, Google, Samsung, Qualcomm, and others to help define the future of computing on the server, in the cloud, and on a variety of new mobile computing devices. His work at the vendor-neutral Linux Foundation gives him a unique and aggregate perspective on the global technology industry.
+
+
+Jim has been recognized for his insights on the changing economics of the technology industry. His writing has appeared in Businessweek, Wired, and other top technology journals, and he is a regular keynote speaker at industry events. He advises a variety of startups, including Splashtop, and sits on the boards of the Global Economic Symposium, Open Source For America, and Chinese Open Source Promotion Union.
+ 
+
+
+
+
+
+
+ 
+
+
+Ken Komiyama
+Manager, Linux Development Division, Fujitsu
+
+
+
+
+
+Ken Komiyama is a manager in Linux development division at Fujitsu. He has more than 10 years experience working as Linux support engineer and supported the customers’ mission critical systemsin global. He’s now leading a Linux technical support team which supports 70,000+ Linux servers including mission critical systems. And their technical support contribute to customers’ business growth,expansion and innovation.
+ 
+
+
+
+
+
+
+ 
+
+
+Bill Mulligan
+Marketing Manager, Cloud Native Computing Foundation
+
+
+
+
+
+Bill’s mission is to tell the story of the cloud native community to a wide audience.
+ 
+
+
+
+
+
+
+ 
+
+
+Masafumi Ohta
+Senior Business Strategist, SUSE Japan
+
+
+
+
+
+Masafumi Ohta has over 22 years’ experience in the IT industry, taking on many roles within ITOCHU Techno-Solutions Corporation (CTC) before joining SUSE this year. His career has been focused on varied technologies from Solaris, to OpenStack, to Edge & Automotive systems and Machine Learning.  He has been an active contributor to the open source community for many years, and was the founder of the Japanese Raspberry Pi Users Group back in 2012.
+ 
+
+
+
+
+
+
+ 
+
+
+Noriaki Fukuyasu
+Vice President of Japan Operations, The Linux Foundation
+
+
+
+
+
+Noriaki is the Vice President of Japan Operations for The Linux Foundation. Prior to joining The Linux Foundation, he led the international business for a leading Japanese Linux distributor, Turbolinux, Inc., as Director of International Business. He also served as the CEO of Zend Japan. He has an MA in International Relations from Nagoya University and a BS from Lambuth University.
+ 
+
+
+
+
+
+
+
+
+
+
+スポンサー Sponsors
+
+ダイアモンド DIAMOND
+プラチナ PLATINUM
+ゴールド GOLD
+シルバー Silver
+ブロンズ Bronze 
+
+
+
+
+
+
+メーリングリストに参加して、イベントの最新情報やニュースをゲットしましょう。Join our mailing list to hear all the latest about events, news, and more!
+
+ 
+	入力された宛先に今後のイベント情報が配信されます。メーリングリストの登録はいつでも解除できます。詳細については、プライバシー ポリシーを参照してください。The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#autolinux
+
+
+
+
+登録 Register
+行動規範 Code of Conduct
+
+スポンサー Sponsor
+スケジュール Schedule
+各トラックのご案内 Explore the Tracks
+注目の講演者 Featured Speakers
+
+体験できること Experiences
+
+お問い合わせ Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

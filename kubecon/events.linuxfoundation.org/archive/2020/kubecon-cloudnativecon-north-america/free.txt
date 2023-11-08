@@ -1,0 +1,312 @@
+
+
+
+
+KubeCon + CloudNativeCon North America | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Experiences
+Instant Giveaways
+CNCF Slack Workspace Community Guidelines
+Diversity + Inclusion
+Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Interactive Sessions
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon North America. 
+
+
+
+				KubeCon + CloudNativeCon North America			
+
+
+
+
+
+November 17 – 20Free Keynote Passes Available!
+
+VIEW THE VIRTUAL SCHEDULE
+
+
+
+
+
+
+The Cloud Native Computing Foundation’s flagship conference gathers adopters and technologists from leading open source and cloud native communities virtually from November 17 – 20, 2020. Join containerd, CoreDNS, Envoy, Fluentd, Harbor, Helm, Jaeger, Kubernetes, Prometheus, Rook, TiKV, TUF, Vitess, Argo, CloudEvents, CNI, Contour, Cortex, CRI-O, Dragonfly, etcd, Falco, gRPC, KubeEdge, Linkerd, NATS, Notary, Open Policy Agent, OpenTracing, Operator Framework, SPIFFE, SPIRE, and Thanos as the community gathers for four days to further the education and advancement of cloud native computing.
+
+
+
+
+
+
+ 
+
+The obvious conclusion: If you’re interested in enterprise IT infrastructure, Kubernetes should be your technology of choice, and KubeCon is the place to be. – Jason Bloomberg, SiliconANGLE
+
+
+
+
+
+
+VIRTUAL SCHEDULE AT-A-GLANCE
+
+
+VIEW THE FULL SCHEDULE
+
+
+Tuesday, November 17Explore Tuesday >>10:00 AM – 6:00 PM ESTExpo Hall10:00 AM – 6:15 PM ESTCo-Located EventsWednesday, November 18Explore Wednesday >>12:00 – 7:30 PM ESTExpo Hall1:00 – 6:20 PM ESTKeynotes + Breakout SessionsThursday, November 19Explore Thursday >>12:00 – 7:30 PM ESTExpo Hall1:00 – 6:15 PM ESTKeynotes + Breakout SessionsFriday, November 20Explore Friday >>12:00 – 7:00 PM ESTExpo Hall1:00 – 6:30 PM ESTKeynotes + Breakout Sessions
+
+
+
+
+
+Program Co-Chairs
+
+
+
+
+
+
+
+ 
+
+
+Constance Caramanolis
+Principal Software Engineer, Splunk
+
+
+
+
+
+
+
+
+
+
+
+Constance is a senior software engineer at Splunk, formerly Omnition, contributing to OpenTelemetry. Previous to Omnition, she worked at Lyft as part of the data platform and server networking teams. While at Lyft, Constance built, deployed, and configured Envoy internally, and maintained the open source project.
+ 
+
+
+
+
+
+
+ 
+
+
+Stephen Augustus
+Head of Open Source, Emerging Technologies & Incubation Division, Cisco
+
+
+
+
+
+Stephen is a Black engineering director and leader in open source communities.
+
+
+He is Cisco’s first Head of Open Source, within the Emerging Technologies & Incubation division.
+
+
+For Kubernetes, he has co-founded transformational elements of the project, including the KEP (Kubernetes Enhancements Proposal) process, the Release Engineering subproject, and Working Group Naming. Stephen has also previously served as a chair for both SIG PM and SIG Azure.
+
+
+He continues his work in Kubernetes as a Chair for SIG Release, a Lead for WG Naming, and an owner of Enhancements subproject.
+
+
+Across the wider CNCF (Cloud Native Computing Foundation) ecosystem, Stephen has the pleasure of being one of the Program Chairs for KubeCon / CloudNativeCon, the cloud native community’s flagship conference, a SIG Contributor Strategy Chair, and a maintainer for the Dex project.
+
+
+He is a prolific contributor to CNCF projects, amongst the top 25 (as of writing) code/content committers, all-time.
+
+
+In 2020, Stephen co-founded the Inclusive Naming Initiative, a cross-industry group dedicated to helping projects and companies make consistent, responsible choices to remove harmful language across codebases, standards, and documentation. He leads multiple workstreams here and maintains the initiative’s infrastructure.
+
+
+He has previously held positions at VMWare (via Heptio), Red Hat, and CoreOS.
+
+
+Stephen is based in New York City.
+ 
+
+
+
+
+
+
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+gold
+silver
+Start-up
+End User
+Diversity Supporters
+Media Partners 
+
+
+
+
+
+
+Join the CNCF mailing list to learn more about KubeCon + CloudNativeCon and other upcoming CNCF events!
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+#KubeCon + #CloudNativeCon
+
+
+
+
+Register
+Experiences
+Instant Giveaways
+CNCF Slack Workspace Community Guidelines
+Diversity + Inclusion
+Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+Interactive Sessions
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+

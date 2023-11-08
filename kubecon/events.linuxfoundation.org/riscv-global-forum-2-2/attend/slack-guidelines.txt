@@ -1,0 +1,359 @@
+
+
+
+
+Slack Guidelines | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Emerging Technology EventsRISC-V Website 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Emerging Technology Events. 
+
+
+
+
+
+
+ 
+
+
+						Slack Guidelines					
+
+
+
+
+Skip to page sectionGetting StartedChannelsWorkspace EtiquetteReporting IssuesFeedback
+
+Getting Started
+
+Who’s Here
+The RISC-V International Slack Workspace is open to all current Global Forum 2020 event registrants and community members. This workspace should be considered an extension of the virtual event and used as a networking & collaboration tool.
+Slack Guidelines
+Please read through these guidelines carefully, and remember that our event Code of Conduct also applies to our Slack workspace.
+Update Your Profile
+We’d love it if you took the time to update your profile and add a picture!
+Share your pronouns with attendees! Add it at the end of your Full Name in your profile so other other attendees will be able to see it. Please be respectful of all attendees’ pronouns.
+Add your interests or keywords (like ‘Fab’, ‘SoC’, ‘Memory’, ‘ODM’, Firmware’ or ‘Cloud”) in the “What I do” section of your profile in addition to your Title and Company/Organization – that way attendees can search for each other by these common interests. To foster more accountability for what people post, no anonymous display names are allowed.
+Update Your Preferences
+Click on “RISC-V International” in the upper left-hand corner to customize your slack workspace. If you have any questions about how to change something feel free to drop us a message in the #gf-1-helpdesk channel.
+Our Slack includes animated emoji and gifs – we’ve done everything we can to keep these rated G. If you think these may be unpleasant for you, you can disable all animations in your Slack client under Preferences → Messages & Media.
+Code of Conduct
+Please make sure to review and abide by the RISC-V Global Forum Code of Conduct while attending the virtual experience and using this workspace. If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the conference staff immediately, staff can be identified with -Events Team in their Slack Name or found in the #gf-1-helpdesk channel. 
+Channels
+After you join the RISC-V International Slack you will be automatically added to the following channels:
+#gf-1-general-info – Global Forum Event Staff will post pertinent information and announcements here throughout the event.  Make sure to read any posts added here to catch up on the latest event information. #gf-1-helpdesk – Global Forum Event Staff will be monitoring this channel (and all others) from 8:00 AM – 4:00 PM PST leading up to the event, and 11:00 PM – 6:00 PM PST during the event to answer any questions you may have about the Slack workspace or the event in general. If we’re not in, we’ll answer any questions as soon as we get online.  If you need to email us, feel free to email events@riscv.org#gf-1-mix-n-mingle – Consider this the hallway track we’d have at a face to face event! Feel free to introduce yourself to the community, share what you’re working on, or what you’re excited about learning at Global Forum. 
+Join other channels – Click on CHANNELS in the left-hand side bar and scroll through the list of other channels you’d like to join.  We’ve tried to make these as organized as possible – anything starting with #gf is part of the Global Forum event channels, from there – anything related to a specific forum track starts with #gf-2, anything technical & industry starts with a #gf- 3, andanything related to sponsors starts with a #gf-4. Need a break?
+Below is a full list of RISC-V Global Forum Channels
+Want to add a new public channel?  Drop the topic of your proposed channel in #gf-1-help-desk and a 10-20 word explanation about why it should be added and one of our team members will follow up within 1 business day to review/approve/deny the request. 
+
+
+
+
+
+
+Channels
+
+Below is a full list of RISC-V Global Forum Channels.
+
+
+
+Channel Function
+Channel Name
+Description
+
+
+Announcement
+#gf-1-general-info
+Posts here will keep you up-to-date on the latest event info.
+
+
+Event Help Desk
+#gf-1-help-desk
+The Global Forum event team is here to answer any questions! We’re available leading up to the event 8AM – 4PM PST, and during the event 11PM PST – 6PM PST.
+
+
+Mix-n-Mingle
+#gf-1-mix-n-mingle
+Catch up with old event friends, share your random RISC-V thoughts, consider this the virtual watercooler.
+
+
+Membership Questions
+#gf-1-membership-questions
+Feel free to ask any membership related questions!
+
+
+Keynotes
+#gf-2-keynotes
+Discuss anything related to Keynotes. Speakers may also continue follow-up Q&A from sessions here.
+
+
+Industry Track
+#gf-2-industry
+Discuss anything related to the Industry track. Speakers may also continue follow-up Q&A from sessions here.
+
+
+Technical Track
+#gf-2-technical
+Discuss anything related to the Technical track. Speakers may also continue follow-up Q&A from sessions here.
+
+
+Ask the Experts
+#gf-3-ask-the-experts
+See the agenda for the official RISC-V Experts AMA though you might find one just hanging out here at anytime!
+
+
+Career Networking
+#gf-3-career-networking
+Ask, discuss, advice, anything RISC-V career related.
+
+
+Not A Stupid Question
+#gf-3-not-a-stupid-question
+Have a question you’d feel more comfortable asking the virtual community? This entire workspace is a supportive space where you can ask other attendees questions you might think are silly or have obvious answers.
+
+
+New to RISC-V
+#gf-3-new-to-risc-v
+New to RISC-V? Welcome! Join in a conversation with other newbies about your experiences so far! On occasion, some RISC-V alumni might join into the conversation to answer any questions.
+
+
+Sponsors
+#gf-4-adacore
+Connect with Global Forum’s Gold Sponsor, Adacore
+
+
+Sponsors
+#gf-4-cloudbear
+Connect with Global Forum’s Gold Sponsor, CloudBEAR
+
+
+Sponsors
+#gf-4-huawei
+Connect with Global Forum’s Gold Sponsor, Huawei
+
+
+Sponsors
+#gf-4-iar-systems
+Connect with Global Forum’s Gold Sponsor, IAR Systems
+
+
+Sponsors
+#gf-4-openhw-group
+Connect with Global Forum’s Gold Sponsor, OpenHW Group
+
+
+Sponsors
+#gf-4-western-digital
+Connect with Global Forum’s Platinum Sponsor, Western Digital
+
+
+
+
+
+Workspace Etiquette
+
+Introduce Yourself
+Everyone loves to meet new attendees! Drop a quick hello in #gf-1-mix-n-mingle and share something about yourself!
+Say hello to new members and welcome them into the community.
+Be Respectful
+Be open and respectful to every attendee – sharing is caring and everyone should be here with the attitude to learn and share.Have a positive attitude — be friendly, helpful, and encouraging.Answer questions. Collaboration is at the heart of why we’ve brought this community together.Be thankful to those that have answered your questionsNo one is perfect, and even well-intentioned people make mistakes.  Be kind in your discussions with others and remember that everyone’s life experiences are different.
+Be Relevant
+Ask questions and contribute — be sure to ask folks for help or advice and provide feedback where you’re able to.
+Stay on topic – We have carved out different channels for specific topics.  Please keep your posts relevant to the channel you are in to avoid any confusion. #gf-1-mix-n-mingle is a great place for water-cooler conversations or reach out to us in #gf-1-help-desk with a topic for a new public channel and a 10-20 word explanation about why it should be added and one of our team members will follow up to review/approve/deny the request. 
+Social Rules
+Use inclusive language. We strive to create a diverse and safe community in which everyone is comfortable participating.  When posting in channels, avoid using words such as “guys” or “ladies & gentlemen” to address a channel. Possible alternatives: “folks”, “everyone”, “y’all”.Be Nice – we’re all in this together.Use caution with jokes, everyone’s sense of humor is different and words can be misunderstood over text. If you don’t have anything nice to say, don’t say anything at all.Protecting IP and legally protected information is your responsibility, this is a public forum.  Don’t presume anything said here will remain private.You are part of this community. If you see someone behaving disrespectfully we urge you to politely dissuade such behavior.  If you do not feel comfortable addressing the behavior, please reach out to Global Forum Event Management by DM’ing Deb Giles – Event Team.Please use Appropriate Language – if you wouldn’t say it to your grandparents, don’t say it here. Keep this workspace feeling safe for everyone.  Refrain from sending direct messages or tagging other community members who have requested not to be contacted. If you direct-message someone they are not obligated to respond. Do not continue to message them if they do not respond. Concurrently, if you are tagged in a post or direct messaged, you are not obligated to respond. If the issue persists, or if the message is inappropriate in nature, please refrain from engaging in the conversation and reach out to Global Forum Event Management by DM’ing Deb Giles – Event Team. Refrain from repeatedly tagging anyone on a new question; questions you post should be for the channel as a whole for anyone there to respond, these are public forums. Refrain from asking technical questions in a direct message unless the other person has offered support and requested a direct message conversation to continue a discussion. Don’t abuse the ability to tag someone. Try to only tag someone when continuing a pre-existing conversation with them, and particularly when responding to a question that they have asked. Please note that this rule includes “RISC-V Experts” as well. Our “RISC-V Experts” will be holding scheduled Ask the Experts where they will be available to answer your questions.  Outside of these scheduled times, they are not expected to provide any technical support. When on Slack, please treat the “RISC-V Experts” as you would any other community member.All posts reflect the views and opinions of its author and do not necessarily reflect the views of RISC-V International or its employees.  As a participating attendee, you are solely responsible for anything you post.
+Behaviors to Avoid
+Any forms of disrespect — We do not tolerate impolite or offensive behaviors, including the use of explicit/vulgar language, images and/or messages e.g. racist remarks.Spamming or trolling other members.Illegal activity – ie. posting links to pirated content, advice on how to jailbreak software, or illegal bypasses of software security protection.Please do not post or link to any private information (your own or others) such as credit card numbers, passwords, product/API keys or any sensitive personally identifiable information. Take particular care when posting screenshots of your desktop.Marketing (with the exception of official event sponsors in the sponsor channel) – blatant advertising and spam marketing will not be tolerated. Posting affiliate links to third-party services such that clicking on the link or buying the services within would directly or indirectly financially benefit the poster is prohibited, due to the potential conflict of interest. Do feel free to share products or services you find useful where it applies to the workspace or links to your own websites!No Direct Pitches – Only our official event sponsors are permitted to pitch only in the Event Sponsor Channel. Consider sponsoring one of our conferences!Don’t hate on tech you don’t like.  There is a good chance there is someone in the room who either helped create or likes to use that tool. Remember, be nice.There are no stupid questions. If people ask questions that are simple to answer on Google, answer them nicely still.No links without context – If you put a link in the chat without context or explanation, it may be deleted.
+
+
+
+
+
+Reporting Issues
+
+The RISC-V International events team seeks to resolve conflicts peacefully and in a manner that is positive for the community. We can’t foresee every situation, and thus if in our judgment the best thing to do is to ask a disrespectful individual to leave, we will do so.
+If you experience disrespectful behavior toward yourself or anyone else and feel in any way unable or unwilling to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of an RISC-V Event team member. We want to hear from you about anything that you feel is disrespectful, threatening, or just something that could make someone feel distressed in any way.
+We reserve the right, always, to deactivate accounts at our discretion should anyone choose not to abide by the spirit of our community guidelines or code of conduct.
+The Global Forum Events team can be reached by DM’ing Deb Giles – Event Team, in #gf-1-help-desk, or by emailing us at events@riscv.org.  You are also encouraged to contact Deb Giles, Events Manager, at dgiles@linuxfoundation.org.
+
+
+
+
+
+Feedback
+
+We will also be happy to receive your feedback and suggestions for the guidelines so that we build a strong community. Reach out to us in #gf-1-help-desk, or email us at events@riscv.org.
+
+
+
+ 
+
+
+
+
+Sponsors
+
+Platinum
+Gold
+silver
+Bronze
+
+
+
+
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+Register
+Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

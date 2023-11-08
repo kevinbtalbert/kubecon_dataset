@@ -1,0 +1,367 @@
+
+
+
+
+Co-Located Events | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Explore the Tracks
+Featured Speakers
+Program Committee
+
+
+Features &Add-Ons
+
+Experiences
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Embedded & IoT Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming Embedded Linux Conference Europe. 
+
+
+
+
+
+
+ 
+
+
+						Co-Located Events					
+
+
+
+
+Skip to page sectionKVM ForumLinux Security Summit EuropeYocto Project SummitLF AI Mini-SummitFINOS: Accelerating Open Source Software and Standards in Financial ServicesIntroducing DENT OS, switchdev NOS for the Rest of UsZephyr Mini-SummitCIP (Civil Infrastructure Platform) Mini-SummitDesigning, Configuring, and Verifying Linux Systems with Evidences for High Quality and Fault MitigationOpen Source Drones Summit by The Dronecode FoundationOpen Mainframe Mini-SummitReal-Time Linux Summit
+
+
+KVM Forum
+
+October 28 – 30, 2020Registration Fees: Complimentary to all OSS+ELC EU Attendees
+KVM Forum is an annual event that presents a rare opportunity for developers and users to meet, discuss the state of Linux virtualization technology, and plan for the challenges ahead. This highly technical conference unites the developers who drive KVM development and the users who depend on KVM as part of their offerings, or to power their data centers and clouds.
+
+VIEW THE SCHEDULE
+
+How to Register: Pre-registration is required.  To register for KVM Forum, add it on to your Open Source Summit + Embedded Linux Conference Europe registration. 
+For questions regarding this event, please reach out to events@linuxfoundation.org.
+
+
+
+
+Linux Security Summit Europe
+
+October 29 – 30, 2020 | 13:00 – 18:00 GMTRegistration Fees: Complimentary to all OSS+ELC EU Attendees
+The Linux Security Summit (LSS) is a technical forum for collaboration between Linux developers, researchers, and end-users. Its primary aim is to foster community efforts in analyzing and solving Linux security challenges.
+
+VIEW THE SCHEDULE
+
+How to Register: Pre-registration is required.  To register for Linux Security Summit, add it on to your Open Source Summit + Embedded Linux Conference Europe registration. 
+For questions regarding this event, please reach out to events@linuxfoundation.org.
+
+
+
+
+Yocto Project Summit
+
+October 29 – 30, 2020 | 12:00 – 20:00 GMTRegistration Fees: $40USD
+The Yocto Project Summit is a virtual technical conference for engineers, open source technologists, students and academia in the OSS space. This 2-day event is where individuals will learn about Yocto Projects’ direction — including, but not limited to, new releases, development tools, features — get training on the next wave of embedded Linux technologies, and network with their industry peers, Yocto Project maintainers and experts.
+The Yocto Project Developer Day has expanded its scope to include both the workshop for engineers building customized Linux distributions and applications, as well as an open forum where maintainers, trainers, and users present papers on how the project is evolving and how they are using it. In addition, there will be a parallel “Intro to Yocto Project Seminar” on the first day for engineers new to Yocto Project.
+There are two tracks that attendees can choose from to best fit their skill level and understanding of the Yocto Project.
+
+
+Track 1: Intro to Yocto Project Seminar
+Day 1: Full day of presentationDay 2: Join the hands-on presentations
+
+
+Track 2: Curated Presentations
+Day 1: Keynote and general sessions on Yocto Project technology and usage (CFP open, see information below)Day 2: Presentations, hands-on classes
+
+
+How to Register: Pre-registration is required.  To register for Yocto Project Summit, add it on to your Open Source Summit + Embedded Linux Conference Europe registration. 
+For questions regarding this event, please reach out to events@linuxfoundation.org.
+
+
+
+
+LF AI Mini-Summit
+
+October 29, 2020 | 14:00 – 15:30 GMTRegistration Fees: Complimentary to all OSS+ELC EU Attendees
+The LF AI Foundation’s mission is to build and support an open AI community, and drive open source innovation in the AI, ML, and DL domains by enabling collaboration and the creation of new opportunities for all the members of the community. We invite you to join us for our LF AI Foundation Mini Summit where we will cover the latest updates from the Foundation, Technical Advisory Council, Trusted AI Committee, technical projects and more. We look forward to uncovering new collaboration opportunities among our growing community. Join us!
+How to Register: Pre-registration is required.  To register for the LF AI Mini-Summit, add it on to your Open Source Summit + Embedded Linux Conference Europe registration. 
+For questions regarding this event, please reach out to events@linuxfoundation.org.
+
+
+
+
+FINOS: Accelerating Open Source Software and Standards in Financial Services
+
+October 29, 2020 | 13:00 – 16:00 GMTRegistration Fees: Complimentary to all OSS+ELC EU Attendees
+FINOS is a community of developers, technologists, and industry leaders from major financial institutions, tech firms, fintechs, and consultancies. This is a highly competitive, highly regulated industry, dealing with massive amounts of complex data while meeting the needs of demanding internal and external users, which means it’s essential to focus on both efficiency and innovation. This FINOS Mini-Summit will showcase projects that address key challenges in financial services that are also applicable to other industries. It will also highlight some of the unique and interesting challenges that financial services firms encounter while collaborating through open source, solutions the community is developing, and how you can get involved.
+How to Register: Pre-registration is required.  To register for FINOS: Accelerating Open Source Software and Standards in Financial Services, add it on to your Open Source Summit + Embedded Linux Conference Europe registration. 
+For questions regarding this event, please reach out to events@linuxfoundation.org.
+
+
+
+
+Introducing DENT OS, switchdev NOS for the Rest of Us
+
+October 29, 2020 | 16:00 – 17:30 GMTRegistration Fees: Complimentary to all OSS+ELC EU Attendees
+Network Operating Systems (NOS) based on Linux-native networking API and hardware offload for network switching ASICs continue to gain traction. DENT is a new switchdev based NOS project,  bringing together switch ASIC vendors, distributors, system integrators, and users to address a need for a streamlined, slimmed-down NOS at the campus edge.
+This 90-minute workshop will introduce participants to DENT and it’s community release.
+Workshop topics will include:
+Introduction to DENT NOS Architecture and distributionDiscuss DENT hardware and switchdev drivers available in DENTDENT status and releaseHands-on DENT show and tellDeploying DENTOpen issues and challengesFuture roadmap
+How to Register: Pre-registration is required.  To register for Introducing DENT OS, switchdev NOS for the Rest of Us, add it on to your Open Source Summit + Embedded Linux Conference Europe registration. 
+For questions regarding this event, please reach out to events@linuxfoundation.org.
+
+
+
+
+Zephyr Mini-Summit
+
+October 29, 2020 | 15:00 – 17:30 GMTRegistration Fees: Complimentary to all OSS+ELC EU Attendees
+The Zephyr Mini-Summit is designed to introduce you to the leading Open Source RTOS built with safety and security in mind.  Attendees will learn why Zephyr is gaining the attention of developers and product makers.    This session will provide an overview of the latest technologies and plans emerging from the Zephyr community.
+Attendees will learn:
+Zephyr Overview (including current Use Cases)State of Communication StacksLTS and Release PlansSecuritySafety Certification PlansPanel Q&A
+How to Register: Pre-registration is required.  To register for the Zephyr Mini-Summit, add it on to your Open Source Summit + Embedded Linux Conference Europe registration. 
+For questions regarding this event, please reach out to events@linuxfoundation.org.
+
+
+
+
+CIP (Civil Infrastructure Platform) Mini-Summit
+
+October 30, 2020 | 11:00 – 12:30 GMTRegistration Fees: Complimentary to all OSS+ELC EU Attendees
+The CIP Mini-Summit is a 90-minute, single-track event on the topic of industrial open source system which is based on Linux. The main goal of this event is to provide technical details and an overview to develop an industrial-grade CIP open source base layer. Sub-groups of CIP will talk about current development activities as well as future plans. Attendees will get to know how their products can leverage CIP’s SLTS(Super Long Term Support) to develop Industrial grade products.
+Topics to be covered:
+State of Civil Infrastructure PlatformCIP Kernel Team Activities towards Super Long Term SupportStatus update for testing within CIPCIP Security towards achieving industrial-grade security
+How to Register: Pre-registration is required.  To register for the CIP Mini-Summit, add it on to your Open Source Summit + Embedded Linux Conference Europe registration. 
+For questions regarding this event, please reach out to events@linuxfoundation.org.
+
+
+
+
+Designing, Configuring, and Verifying Linux Systems with Evidences for High Quality and Fault MitigationActivities in the LF ELISA Project
+
+October 30, 2020 | 16:00 – 17:30 GMTRegistration Fees: Complimentary to all OSS+ELC EU Attendees
+This mini-summit is organized as a few lightning talks, a session for frequently asked questions from the audience and Birds-of-Feather-like sessions to discuss interesting aspects around design, configuration and verification of Linux systems, and the challenges creating and obtaining evidences for the execution of high-quality software development processes and proper fault mitigation. This mini-summit captures and summarizes various activities explored and done in the different working groups of the LF ELISA Project.
+How to Register: Pre-registration is required.  To register for Designing, Configuring, and Verifying Linux Systems with Evidences for High Quality and Fault Mitigation, add it on to your Open Source Summit + Embedded Linux Conference Europe registration. 
+For questions regarding this event, please reach out to events@linuxfoundation.org.
+
+
+
+
+Open Source Drones Summit by The Dronecode Foundation
+
+October 30, 2020 | 14:00 – 16:00 GMTRegistration Fees: Complimentary to all OSS+ELC EU Attendees
+The Dronecode Foundation presents the Open Source Drones Summit. Get started in drone development, learn all you need to know to start developing today. The summit will be focused on the PX4 Autopilot Ecosystem, hosted by project maintainers, top contributors, and Dronecode Foundation staff. 
+The PX4 Autopilot is an open-source flight control project with a BSD license for unmanned vehicles. PX4 supports multiple vehicle configurations (VTOL, multicopters, rovers, and underwater vehicles). You will be able to fly around in a simulator, using open-source software, and learn how to interact with PX4 based UAVs.
+Topics covered in the Open Source Drones Summit
+The basics of PX4, from source to building a simulation environment.The basics of the MAVSDK, the SDK for PX4, customize, and control drones without touching the autopilot codebase.Leverage other open-source projects like ROS, UAVCAN, and Pixhawk.How the PX4 community works, how to contribute upstream, and where to go for help.Join the Dronecode Foundation community, Public work calls, Workgroups, Special Interest Groups, and more.
+The summit will include sessions on the latest trends in open source drones and robotics, the fundamentals of developing drone software and hardware-based on open source, and how to connect and cross-collaborate with the thriving community that has thousands of drone developers and system integrators from around the world. 
+Open Source Projects Covered
+PX4 AutopilotMAVLinkMAVSDKQGroundControl (QGC)PixhawkROSUAVCAN
+
+VIEW THE SCHEDULE
+
+How to Register: Pre-registration is required.  To register for Open Source Drones Summit by The Dronecode Foundation, add it on to your Open Source Summit + Embedded Linux Conference Europe registration. 
+For questions regarding this event, please reach out to events@linuxfoundation.org.
+
+
+
+
+Open Mainframe Mini-Summit
+
+October 30, 2020 | 15:00 – 18:00 GMTRegistration Fees: Complimentary to all OSS+ELC EU Attendees
+Open Mainframe Project has experienced record momentum this year with the addition of six new projects, meeting technical milestones with the Zowe LTS and updated Zowe Conformance Program, and the launch of COBOL initiatives that include a volunteer library, a Q&A forum, a free COBOL Training Course and more. Join this mini-summit to learn more about how Open Mainframe Project became the cornerstone for education, training, enterprise, DevOps, and mainframes.  
+Additionally, Open Mainframe Project leaders will share insight and roadmaps about several open source projects under the OMP umbrella that can help with your devops needs.
+How to Register: Pre-registration is required.  To register for Open Mainframe Mini-Summit, add it on to your Open Source Summit + Embedded Linux Conference Europe registration. 
+For questions regarding this event, please reach out to events@linuxfoundation.org.
+
+
+
+
+Real-Time Linux Summit
+
+October 30, 2020 | 16:00 – 17:30 GMTRegistration Fees: Complimentary to all OSS+ELC EU Attendees
+The event is intended to gather developers and users of Linux as a Real-Time Operating System. The main intent is to provide room for discussion between developers, tooling experts, and users.   
+We are welcoming participants from both end-users and developers, and will discuss topics covering, but not limited to ongoing development, techniques to evaluate if Real Time Linux is appropriate for your use case. Tooling to support configuration and debug of applications.
+How to Register: Pre-registration is required.  To register for Real-Time Linux Summit, add it on to your Open Source Summit + Embedded Linux Conference Europe registration. 
+For questions regarding this event, please reach out to events@linuxfoundation.org.
+
+
+ 
+
+
+
+
+Sponsors
+
+Diamond
+PLATINUM
+GOLD
+SILVER
+BRONZE
+Partner 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#lfelc
+
+
+
+
+Register
+Code of Conduct
+
+Sponsor
+Schedule
+Explore the Tracks
+Featured Speakers
+Program Committee
+
+Experiences
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+

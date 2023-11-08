@@ -1,0 +1,238 @@
+
+
+
+
+The Linux Foundation Announces Schedule for Annual Member Summit | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+September 14, 2023
+The Linux Foundation Announces Schedule for Annual Member Summit		
+
+
+
+
+The annual Linux Foundation Member Summit unites projects and organizations helping to advance open source technologies.
+SAN FRANCISCO, September 14, 2023  — The Linux Foundation, the nonprofit organization enabling mass innovation through open source, today announced the schedule for The Linux Foundation Member Summit, taking place October 24-26 in Monterey, California. The full schedule can be viewed here. 
+The Linux Foundation Member Summit is an annual event for Linux Foundation member organizations (over 3,000), fostering collaboration, innovation, and partnerships among business and technical leaders looking to advance open source strategy, implementation, and investment in their organizations. The 2023 Member Summit features 65+ sessions focused on the leading projects, technologies, and topics that are driving digital transformation across the open source ecosystem. Keynote speakers will be announced in the coming weeks.
+Session Highlights Include: 
+
+OSPOs Navigating Security Landscape Leveraging InnerSource Methodologies with OSS Components – Brittany Istenes, Open Source Program Office Strategist, Fannie Mae
+
+
+Open Standards and Open Source in a Post Cyber Resilience Act World – Jeffrey Borek, WW Program Director, IBM
+
+
+Open Source DataOps and MLOps Strategies – Lisa N. Cao, Chair, Data Engineer, Vancouver Datajam
+
+
+Protecting Open Source: Managing Patent Threats & Reducing Risks – Keith Bergelt, CEO, Open Invention Network
+
+
+Punch Through the Growth Wall, Scaling Your OSS Business Model and Distro Along with Your Business – Scott Clinton, President & Founder, SCVentures
+
+
+Solving Market Problems with Open Source Verifiable Credentials – Heather Dahl, CEO, Indicio
+
+
+The Machine Learning Angle for Open Source Science – Jinen Setpal, Machine Learning Engineer, DagsHub
+
+
+Panel Discussion: Defining the Protocol for Internet-Scale Digital Trust – Judith Fleenor, Executive Director, Trust Over IP Foundation; Daniel Bachenheimer, Digital Identity Innovations Technical Lead, Accenture; Wenjing Chu, Senior Director of Technology Strategy, Futurewei Technologies.; Kyle Robinson, Director, Briartech Consulting Inc.; and Drummond Reed, Director, Trust Services, Gen™
+
+AttendAttendance at The Linux Foundation Member Summit is limited to members of The Linux Foundation, as well as to governing board members of LF Projects, media, speakers, and sponsors. Invitation codes have been sent to member organization representatives. If you already have an invitation code, register here. If you do not, you may contact us for more information on attendance opportunities.
+Event SponsorsThe Linux Foundation Member Summit is made possible thanks to event sponsors including: 
+
+Platinum: AWS and OpenSearch; 
+Gold: Cloud Native Computing Foundation and Google; and 
+Silver: IBM and QualitySoft; and 
+Bronze: Instaclustr
+
+If you are not an LF member company but would like to attend The Linux Foundation Member Summit, sponsoring it is an excellent opportunity to gain additional access to the event and its attendees for strategic discussions and collaboration. Learn more here or email sponsorships@linuxfoundation.org.
+PressMembers of the press who would like to request a press pass to attend should contact Kristin O’Connell.
+Social Media Join the conversation on social media by using the hashtag #LFMemberSummit. 
+ABOUT THE LINUX FOUNDATIONThe Linux Foundation is the world’s leading home for collaboration on open source software, hardware, standards, and data. Linux Foundation projects, including Linux, Kubernetes, Node.js, ONAP, PyTorch, RISC-V, SPDX, OpenChain, and more, are critical to the world’s infrastructure. The Linux Foundation focuses on leveraging best practices and addressing the needs of contributors, users, and solution providers to create sustainable models for open collaboration. For more information, please visit us at https://www.linuxfoundation.org/. The Linux Foundation Events are where the world’s leading technologists meet, collaborate, learn, and network in order to advance innovations that support the world’s largest shared technologies.
+Visit our website and follow us on Twitter, LinkedIn, and Facebook for all the latest event updates and announcements.
+The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see its trademark usage page: 
+www.linuxfoundation.org/trademark-usage. Linux is a registered trademark of Linus Torvalds.
+Media ContactKristin O’ConnellThe Linux Foundationkoconnell@linuxfoundation.org
+# # # 
+
+
+
+
+
+Post navigation
+Why You Can’t Miss This Year’s Open Source Summit EuropeThe Linux Foundation Launches New Event: AI.dev: Open Source GenAI & ML Summit
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

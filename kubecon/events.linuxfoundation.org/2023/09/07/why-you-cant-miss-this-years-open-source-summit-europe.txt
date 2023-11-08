@@ -1,0 +1,247 @@
+
+
+
+
+Why You Can’t Miss This Year’s Open Source Summit Europe | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+September 7, 2023
+Why You Can’t Miss This Year’s Open Source Summit Europe		
+
+
+
+
+We’re less than 2 weeks away from the 12th annual Open Source Summit Europe, the premier European conference to showcase the open source community’s expertise and innovation. This year’s event will take place in Bilbao, Spain September 19-21, with co-located events held September 17-18. 
+Open Source Summit has been held all over the world – North America, Europe, and Asia – in an effort to provide developers, technologists, and community leaders a forum to collaborate, further open source innovation, and help ensure a sustainable open source ecosystem. This year’s Open Source Summit Europe will feature 175 sessions and thousands of event attendees; you can view the full schedule here.
+PACKED EVENT SCHEDULE 
+Open Source Summit Europe is composed of a collection of 12 microconferences including CloudOpen, ContainerCon, Diversity Empowerment Summit, Emerging OS Forum, LinuxCon, Open AI + Data Forum, OpenJS World, Open Source Leadership Summit, Open Source On-Ramp, OSPOCon, SupplyChainSecurityCon, and SustainabilityCon – all covering the most important and cutting edge topics in open source today.
+Additionally, 10 mini summits and co-located events will take place alongside Open Source Summit Europe 2023, offering more opportunities to learn about PyTorch, Linux Security, OpenWallet, Open Metaverse, OpenSSF, Networking, OpenChain, SPDX, and so much more.
+We have an impressive lineup of speakers for this year’s event, including visionaries and tech leaders from companies like Amazon, GitLab, Google, Sonar, and more. Keynote speakers include: 
+
+Gabriele Columbro, Executive Director, FINOS & General Manager, Linux Foundation Europe
+Jim Zemlin, Executive Director, The Linux Foundation
+Fiona Krakenbürger, Co-Founder, Sovereign Tech Fund
+Tara Tarakiyee, Technologist, Sovereign Tech Fund
+Cristina Bentué, Co-Founder and COO, IriusRisk
+Vivek Mahajan, Corporate Executive Officer, SEVP, CTO, CPO, Co-Head of System Platform, Fujitsu Ltd
+Dave Lago, Software Development Manager, Amazon Web Services
+Nithya Ruff, Director, OSPO, Amazon
+Fatima Sarah Khalid, Developer Evangelist, GitLab
+Ed Parsons, Geospatial Technologist, Google
+Jonathan Vila, Developer Advocate, Sonar
+Patrick von Platen, Diffusers Team Lead, Hugging Face Open Source
+Jonathan Katz, Principal Product Manager – Technical, Amazon Web Services
+
+LET’S HAVE FUN TOGETHER 
+In addition to providing an amazing opportunity for building relationships, collaborating and learning, we want your experience to be filled with time for personal wellness and fun.
+
+Morning Yoga and Meditation: Begin Day 1 with a calm, energized mind by participating in the morning yoga and meditation session. The class will be led by a trained instructor and all levels are welcome! 
+First-Time Attendee Breakfast: We know what it feels like to attend a conference for the first time, and we want to help make your onsite experience a welcoming one. This breakfast is a great opportunity to meet other newcomers as well as some OSSummit Pros.
+Ask the Experts Sessions: Ask the Expert Sessions are an opportunity for attendees to connect with subject matter experts to ask questions and seek guidance. The set-up is informal so come sit down with some open source experts to gain knowledge 1:1!
+5K Fun “Run”: Led by local guides, we’ll explore Bilbao’s iconic landmarks. Immerse yourself in the city’s culture as we go by the Guggenheim Museum and the Zubizuri Bridge. We’re offering three pace groups (walking, jogging, and running) so all fitness levels are welcome to join us!
+Book Signing with Lauren Maffeo: Attendees will have the opportunity to meet Lauren Maffeo, author of Designing Data Governance from the Ground Up.
+Scenic Bilbao Boat Tour: This tour offers panoramic views of the city and an up-close encounter with the architectural marvels of the city. 
+
+We’re also excited to offer two evening events for attendees to join: an Attendee Reception at San Mamés Stadium and the Sponsor Showcase Booth Crawl. 
+Note that participation at many of these onsite activities are first come, first served. Participants must be registered for Open Source Summit Europe 2023 and be wearing their event badge to be admitted.
+ALL ARE WELCOME
+The Linux Foundation strives to make our events a welcoming and inclusive environment as the open source community thrives on collaboration and mutual support. Open Source Summit Europe aims to provide spaces where meaningful connections are made. We hope you’ll join us for: 
+
+Women and Non-Binary Lunch: We’d like to invite all attendees that identify as women or non-binary to join each other for a networking lunch at the event.
+Better Together Diversity Luncheon: This luncheon offers the opportunity for all event participants from marginalized communities (including race, gender, sexual orientation, and disability), and their allies, to join together to build connections to carry through the event and beyond. 
+
+Open Source Summit unites thousands of community members, which can feel overwhelming to many of us. To help ensure our attendees get the most out of their interactions while onsite, we offer several onsite D&I resources including a Zen Zone, Interaction Stickers, and Pronoun Stickers.
+THANK YOU SPONSORS 
+Open Source Summit Europe 2023 is made possible thanks to our sponsors, including:
+
+Diamond Sponsors: Fujitsu, Google, and OpenEuler
+Platinum Sponsors: Amazon Web Services, Huawei, OpenSearch, and Sonar 
+Gold Sponsors: Cloud Native Computing Foundation, databricks, Debricked, GitLab, Intel, Red Hat, SUSE, and Synopsys
+
+SEE YOU IN SPAIN Registration (in-person) is offered at the price of US$1249. Reduced registration rates are available for small businesses, hobbyists, and students. Additionally, a ‘hall pass’ and virtual-only option are available. You can view all registration types here.For those of you who aren’t able to attend the event in-person, we will be live-streaming all conference sessions to the Linux Foundation YouTube channel. Live stream links for each session can be accessed from each session listing in the schedule. 
+And remember, if you are a member of The Linux Foundation, you can receive a 20 percent discount off registration. Just contact events@linuxfoundation.org to request a member discount code. 
+We hope to see you in Bilbao!
+Follow and join the conversation on social media with #OSSummit 
+# # #
+
+
+
+
+
+Post navigation
+The Linux Foundation Announces Keynote Speakers for WasmCon 2023The Linux Foundation Announces Schedule for Annual Member Summit
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

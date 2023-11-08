@@ -1,0 +1,330 @@
+
+
+
+
+Sponsor Showcase Showdown | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Experiences
+Instant Giveaways
+CNCF Slack Workspace Community Guidelines
+Diversity + Inclusion
+Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Interactive Sessions
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon North America. 
+
+
+
+
+
+
+ 
+
+
+						Sponsor Showcase Showdown					
+
+
+
+
+Skip to page sectionAWSNebulonGitLabDatadogJFrogLogDNAIBM Cloud
+Keep Cloud Native Connected to our Sponsors
+Participate in our sponsor interaction challenge and win great prizes! At KubeCon + CloudNativeCon North America, visit the virtual sponsor booths, download resources, or watch sessions to qualify for exciting giveaways. All participating sponsors run their own unique challenge – the more you participate in, the more chances to win! 
+
+
+
+
+
+
+
+
+AWS
+
+AWS is giving away 20 $250 Amazon gift cards as part of the Sponsor Showcase Showdown at KubeCon + CloudNativeCon North America! To be eligible, attendees must:
+Register to attend AWS Container Day,Chat with us at our virtual booth,Complete the entry form*.
+Winners will be randomly selected at the close of the conference. Good luck, and enjoy KubeCon!* Rules and regulations apply. See form for more details.
+
+
+
+
+
+
+
+
+
+
+
+
+Nebulon
+
+IT admins & app owners: meet Nebulon Cloud-Defined Storage (CDS): a cloud-managed SaaS enabling on-prem, server-based enterprise storage, automating operations and eliminating expensive 3-tier infrastructure.CDS is powered by the combination of a secure, cloud-based control plane, called nebulon ON, and PCIe cards, called Services Processing Units (SPUs), that are installed into your application servers, providing the necessary enterprise-class data services for critical applications. With CDS, your organization gets all the operational benefits of a cloud-managed, API-centric solution that enables you to self-service provision infrastructure, while your most critical apps remain on-prem and secure on an enterprise-class storage platform.Nebulon will be raffling off (4) $250 Amazon Gift Cards! To qualify to enter, attendees must: visit Nebulon’s booth, download the Kubernetes Datasheet, and watch our Kubernetes demo video.
+
+
+
+
+
+
+
+
+
+
+
+GitLab
+
+Do we have a game for you!With a single application tried and true,Take two steps to win a pair of socks.Complete it all in between talks.
+To start your journey as a sleuth,Find the “GitLab 101” tab at our booth.If you want to further your education,The training ends in a free certification.
+Next, learn how GitLab pulls out all the stops,To help your team master DevOps.Find the GitLab Theatre for step two, “GitLab Developer Flow with Kubernetes” is the one to view. 
+That’s all, you’ve won the game.You’re in the swag hall of fame.Now wasn’t that fun?Enjoy KubeCon, everyone!
+
+
+
+
+
+
+
+
+
+
+
+
+Datadog
+Visit the Datadog booth for your chance to win an XBox Series X. One winner will be selected at random. Those who sign up for a free trial at dtdg.co/kubecon20 will also have a 1-in-10 chance to win an iPhone 12 Pro! Winners will be contacted via email after the event.
+
+
+
+
+
+
+
+
+
+
+
+
+
+JFrog
+Giveaway time! Come by and virtually visit the Frogs at the JFrog booth to automatically be entered to win one of forty $25 Amazon Gift Cards. If you know JFrog, you also know that we go hard with our JFrog t-shirts and this year is one for the books with the debut of IronFrog! While we can’t throw you one from the virtual booth, you can get a shirt shipped to you simply by trying out our offerings in the trial tab inside of the booth. See you there!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LogDNA
+LogDNA is a centralized log management solution that allows DevOps teams to gain valuable insights. Visit our booth to share in the message board about how logging has helped you troubleshoot, and we’ll donate $10 on your behalf to the Family Giving Tree, granting children’s wishes for joy and learning. 
+Participants will be entered for a chance to win 1 of 5 Bose Noise Cancelling Headphones 700 and we will notify raffle winners via email. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBM Cloud
+Great things are afoot (or at-hand)! If you’re looking to get started with cloudnative microservices, then visit the IBM virtual booth & engage with one item of interest to you. We’re betting on it that the information will help you learn, grow, and achieve success with Open Source. 
+That’s why if you’re one of the first attendees to visit the IBM Cloud virtual booth at KubeCon NA, we’ll send you a complimentary pair of IBM Cloud socks or playing cards. That’s it! Visit our booth and check out one item of interest to you, then fill out the online form and we’ll handle the rest. 
+Giveaways are first-come, first-served, while supplies last. Offer is only open to non-government owned entities and contiguous U.S. based residents. 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+gold
+silver
+Start-up
+End User
+Diversity Supporters
+Media Partners 
+
+
+
+
+
+
+Join the CNCF mailing list to learn more about KubeCon + CloudNativeCon and other upcoming CNCF events!
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+#KubeCon + #CloudNativeCon
+
+
+
+
+Register
+Experiences
+Instant Giveaways
+CNCF Slack Workspace Community Guidelines
+Diversity + Inclusion
+Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+Interactive Sessions
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+

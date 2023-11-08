@@ -1,0 +1,189 @@
+
+
+
+
+Workshop Pre-Requisites | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+About
+Code of Conduct
+
+
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  KubeCon + CloudNativeCon + other CNCF Events. 
+
+
+
+
+
+
+ 
+
+
+						Workshop Pre-Requisites					
+
+
+
+
+
+If you are planning to participate in the hands-on workshop session, it is highly recommended that you review the below pre-requisites and tasks in order to maximize this workshop.
+Pre-requisites:
+A Kubernetes cluster. For doing the exercise on your local machine, you can use Kind, Docker Desktop, or Minikube.The kubectl program (part of Kubernetes) configured to talk to your clusterThe Helm 3 clientOptionally, the Helm 2 client
+We will provide a preconfigured download that will help you set up your cluster for a practice migration. You will need the kubectl command to install this bundle.
+The Tasks:
+Install the pre-configured bundle that will set up a Helm 2 environment, complete with Helm 2 releasesInstall and configure Helm 3 and the migration pluginRun the migrationValidate the migrationTroubleshoot the odd edge casesPerform an upgrade on an existing release, but with Helm 3 (in other words, verify that the migration can be used as the basis for further use)
+This workshop will take anywhere from 1-2 hours, depending on how quickly you want to work, and how in-depth you want to get.
+
+
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#highway2helm3
+
+
+
+
+Register
+About
+Code of Conduct
+
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

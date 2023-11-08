@@ -1,0 +1,8508 @@
+
+
+
+
+Past Events | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+Past Events		
+
+
+
+
+
+
+View Upcoming Events
+
+
+ Filter events by name, topic...  
+Filter by Category 
+All Categories
+Academy Software Foundation Events  (6)
+AI Events  (12)
+Applications Events  (11)
+Automotive Grade Linux Events  (22)
+CI/CD Events  (11)
+Cloud/Distributed Computing Events  (10)
+Data & Storage Events  (1)
+Embedded & IoT Events  (19)
+Emerging Technology Events  (24)
+Financial Services Events  (9)
+Game and Simulation Tech Events  (2)
+Hardware Events  (4)
+Hyperledger Events  (19)
+KubeCon + CloudNativeCon + other CNCF Events  (125)
+Leadership & Community Events  (53)
+LF Public Health Events  (1)
+Linux Dev Events  (40)
+Mainframe Events  (2)
+Networking & Edge Events  (45)
+Open Source Summit Events  (61)
+OpenSSF Events  (3)
+R/Medicine Events  (6)
+RISC-V Events  (9)
+Web Development/Platform Events  (4)
+Xen Events  (3)
+
+  
+Filter by Country 
+All Countries
+Asia Pacific  (36)
+   Australia  (1)
+   China  (8)
+   Hong Kong  (1)
+   India  (5)
+   Israel  (1)
+   Japan  (18)
+   South Korea  (1)
+Europe  (117)
+   Belgium  (1)
+   Czech Republic  (7)
+   Denmark  (1)
+   France  (15)
+   Germany  (12)
+   Ireland  (23)
+   Monaco  (1)
+   Netherlands  (16)
+   Portugal  (3)
+   Russian Federation  (1)
+   Spain  (21)
+   Sweden  (1)
+   Switzerland  (3)
+   United Kingdom  (11)
+North America  (187)
+   Canada  (18)
+   Puerto Rico  (1)
+   United States  (167)
+South America  (1)
+   Brazil  (1)
+
+  
+
+All Years
+2023  (71)
+2022  (126)
+2021  (113)
+2020  (80)
+2019  (66)
+2018  (50)
+2017  (20)
+2016  (1)
+
+ Reset
+Displaying 527 events2023November 
+
+
+AppDeveloperCon 
+
+
+
+
+					Nov 6, 2023				
+
+
+
+Chicago, United States					
+
+
+
+
+
+
+ArgoCon 
+
+
+
+
+					Nov 6, 2023				
+
+
+
+Chicago, United States					
+
+
+
+
+
+
+BackstageCon 
+
+
+
+
+					Nov 6, 2023				
+
+
+
+Chicago, United States					
+
+
+
+
+
+
+CiliumCon 
+
+
+
+
+					Nov 6, 2023				
+
+
+
+Chicago, United States					
+
+
+
+
+
+
+Cloud Native Telco Day 
+
+
+
+
+					Nov 6, 2023				
+
+
+
+Chicago, United States					
+
+
+
+
+
+
+Cloud Native Wasm Day 
+
+
+
+
+					Nov 6, 2023				
+
+
+
+Chicago, United States					
+
+
+
+
+
+
+Data on Kubernetes Day 
+
+
+
+
+					Nov 6, 2023				
+
+
+
+Chicago, United States					
+
+
+
+
+
+
+DBaaS DevDay 
+
+
+
+
+					Nov 6, 2023				
+
+
+
+Chicago, United States					
+
+
+
+
+
+
+EnvoyCon 
+
+
+
+
+					Nov 6, 2023				
+
+
+
+Chicago, United States					
+
+
+
+
+
+
+Istio Day 
+
+
+
+
+					Nov 6, 2023				
+
+
+
+Chicago, United States					
+
+
+
+
+
+
+Kubernetes AI + HPC Day 
+
+
+
+
+					Nov 6, 2023				
+
+
+
+Chicago, United States					
+
+
+
+
+
+
+Kubernetes on Edge Day 
+
+
+
+
+					Nov 6, 2023				
+
+
+
+Chicago, United States					
+
+
+
+
+
+
+Multi-TenancyCon 
+
+
+
+
+					Nov 6, 2023				
+
+
+
+Chicago, United States					
+
+
+
+
+
+
+Observability Day 
+
+
+
+
+					Nov 6, 2023				
+
+
+
+Chicago, United States					
+
+
+
+
+
+
+OSPOlogy Live North America 
+
+
+
+
+					Nov 6, 2023				
+
+
+
+Chicago, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+Open Source in Finance Forum New York 
+
+
+
+
+					Nov 1, 2023				
+
+
+
+New York, United States					
+
+
+
+October 
+
+
+The Linux Foundation Member Summit 
+
+
+
+
+					Oct 24–26, 2023				
+
+
+
+Monterey, United States					
+
+
+
+
+
+
+PX4 Developer Summit 
+
+
+
+
+					Oct 21–22, 2023				
+
+
+
+New Orleans, United States					
+
+
+
+
+
+
+PyTorch Conference 
+
+
+
+
+					Oct 16–17, 2023				
+
+
+
+San Francisco, United States					
+
+
+
+
+
+
+Nephio R2 Technical Summit 
+
+
+
+
+					Oct 9–10, 2023				
+
+
+
+Mountain View, United States					
+
+
+
+September 
+
+
+KubeCon + CloudNativeCon + Open Source Summit China 
+
+
+
+
+					Sep 26–28, 2023				
+
+
+
+Shanghai, China					
+
+
+
+
+
+
+IstioCon 
+
+
+
+
+					Sep 25–26, 2023				
+
+
+
+Virtual					
+
+
+
+
+
+
+gRPC Conf 
+
+
+
+
+					Sep 20, 2023				
+
+
+
+Sunnyvale, United States					
+
+
+
+
+
+
+Linux Security Summit Europe 
+
+
+
+
+					Sep 20–21, 2023				
+
+
+
+Bilbao, Spain and 					
+
+
+Virtual					
+
+
+
+
+
+
+GraphQLConf 
+
+
+
+
+					Sep 19–21, 2023				
+
+
+
+San Francisco Bay Area, United States					
+
+
+
+
+
+
+Open Source Summit Europe 
+
+
+
+
+					Sep 19–21, 2023				
+
+
+
+Bilbao, Spain					
+
+
+
+
+
+
+seL4 Summit 
+
+
+
+
+					Sep 19–21, 2023				
+
+
+
+Minneapolis, United States					
+
+
+
+
+
+
+OpenSSF Day Europe 
+
+
+
+
+					Sep 18, 2023				
+
+
+
+Bilbao, Spain and 					
+
+
+Virtual					
+
+
+
+
+
+
+The Linux Foundation Europe Member Summit 
+
+
+
+
+					Sep 18, 2023				
+
+
+
+Bilbao, Spain					
+
+
+
+
+
+
+DPDK Summit 
+
+
+
+
+					Sep 12–13, 2023				
+
+
+
+Dublin, Ireland and 					
+
+
+Virtual					
+
+
+
+
+
+
+Rust Global 
+
+
+
+
+					Sep 6, 2023				
+
+
+
+Bellevue, United States					
+
+
+
+
+
+
+WasmCon 
+
+
+
+
+					Sep 6–7, 2023				
+
+
+
+Bellevue, United States					
+
+
+
+August 
+
+
+Open Source Days 
+
+
+
+
+					Aug 6, 2023				
+
+
+
+Los Angeles, United States and 					
+
+
+Virtual					
+
+
+
+July 
+
+
+Open Source Congress 
+
+
+
+
+					Jul 27, 2023				
+
+
+
+Geneva, Switzerland					
+
+
+
+
+
+
+CHIPS Alliance Technology Update 
+
+
+
+
+					Jul 13, 2023				
+
+
+
+San Francisco, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+Automotive Grade Linux All Member Meeting Summer 
+
+
+
+
+					Jul 12–13, 2023				
+
+
+
+Tokyo, Japan					
+
+
+
+June 
+
+
+Confidential Computing Summit 
+
+
+
+
+					Jun 29, 2023				
+
+
+
+San Francisco, United States					
+
+
+
+
+
+
+Embedded Open Source Summit 
+
+
+
+
+					Jun 27–30, 2023				
+
+
+
+Prague, Czech Republic and 					
+
+
+Virtual					
+
+
+
+
+
+
+Xen Project Developer & Design Summit 
+
+
+
+
+					Jun 24–26, 2023				
+
+
+
+Prague, Czech Republic and 					
+
+
+Virtual					
+
+
+
+
+
+
+Cloud Foundry Day 
+
+
+
+
+					Jun 21, 2023				
+
+
+
+Heidelberg, Germany and 					
+
+
+Virtual					
+
+
+
+
+
+
+KubeDay Israel 
+
+
+
+
+					Jun 19, 2023				
+
+
+
+Tel Aviv, Israel					
+
+
+
+
+
+
+PrestoCon Day 
+
+
+
+
+					Jun 7, 2023				
+
+
+
+Virtual					
+
+
+
+
+
+
+LFN Developer & Testing Forum 
+
+
+
+
+					Jun 6–8, 2023				
+
+
+
+Virtual					
+
+
+
+
+
+
+R/Medicine 
+
+
+
+
+					Jun 5–9, 2023				
+
+
+
+Virtual					
+
+
+
+
+
+
+LF Energy Summit 
+
+
+
+
+					Jun 1–2, 2023				
+
+
+
+Paris, France and 					
+
+
+Virtual					
+
+
+
+May 
+
+
+Linux Security Summit North America 
+
+
+
+
+					May 10–12, 2023				
+
+
+
+Vancouver, Canada					
+
+
+
+
+
+
+Open Source Summit North America 
+
+
+
+
+					May 10–12, 2023				
+
+
+
+Vancouver, Canada and 					
+
+
+Virtual					
+
+
+
+
+
+
+OpenSSF Day North America 
+
+
+
+
+					May 10, 2023				
+
+
+
+Vancouver, Canada					
+
+
+
+
+
+
+cdCon + GitOpsCon 
+
+
+
+
+					May 8–9, 2023				
+
+
+
+Vancouver, Canada					
+
+
+
+
+
+
+Linux Storage, Filesystem, MM & BPF Summit 
+
+
+
+
+					May 8–10, 2023				
+
+
+
+Vancouver, Canada					
+
+
+
+
+
+
+Spinnaker Summit 
+
+
+
+
+					May 8–9, 2023				
+
+
+
+Vancouver, Canada					
+
+
+
+April 
+
+
+ArgoCon 
+
+
+
+
+					Apr 18, 2023				
+
+
+
+Amsterdam, Netherlands					
+
+
+
+
+
+
+CiliumCon 
+
+
+
+
+					Apr 18, 2023				
+
+
+
+Amsterdam, Netherlands					
+
+
+
+
+
+
+Cloud Native Telco Day 
+
+
+
+
+					Apr 18, 2023				
+
+
+
+Amsterdam, Netherlands					
+
+
+
+
+
+
+Cloud Native Wasm Day 
+
+
+
+
+					Apr 18, 2023				
+
+
+
+Amsterdam, Netherlands					
+
+
+
+
+
+
+Istio Day 
+
+
+
+
+					Apr 18, 2023				
+
+
+
+Amsterdam, Netherlands					
+
+
+
+
+
+
+KubeCon + CloudNativeCon Europe 
+
+
+
+
+					Apr 18–21, 2023				
+
+
+
+Amsterdam, Netherlands					
+
+
+
+
+
+
+Kubernetes Batch + HPC Day 
+
+
+
+
+					Apr 18, 2023				
+
+
+
+Amsterdam, Netherlands					
+
+
+
+
+
+
+Kubernetes on Edge Day 
+
+
+
+
+					Apr 18, 2023				
+
+
+
+Amsterdam, Netherlands					
+
+
+
+
+
+
+Linkerd Day 
+
+
+
+
+					Apr 18, 2023				
+
+
+
+Amsterdam, Netherlands					
+
+
+
+
+
+
+Observability Day 
+
+
+
+
+					Apr 18, 2023				
+
+
+
+Amsterdam, Netherlands					
+
+
+
+
+
+
+Cephalocon 
+
+
+
+
+					Apr 16–18, 2023				
+
+
+
+Amsterdam, Netherlands					
+
+
+
+March 
+
+
+AGL at embedded world 
+
+
+
+
+					Mar 14–16, 2023				
+
+
+
+Nuremberg, Germany					
+
+
+
+
+
+
+RISC-V at embedded world 
+
+
+
+
+					Mar 14–16, 2023				
+
+
+
+Nuremberg, Germany					
+
+
+
+
+
+
+Zephyr at embedded world 
+
+
+
+
+					Mar 14–16, 2023				
+
+
+
+Nuremberg, Germany					
+
+
+
+
+
+
+Automotive Grade Linux All Member Meeting Spring 
+
+
+
+
+					Mar 8–9, 2023				
+
+
+
+Berlin, Germany					
+
+
+
+February 
+
+
+Academy Software Foundation Open Source Forum 
+
+
+
+
+					Feb 16, 2023				
+
+
+
+Los Angeles, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+The Linux Foundation Legal Summit 
+
+
+
+
+					Feb 14–15, 2023				
+
+
+
+San Francisco, United States					
+
+
+
+
+
+
+CloudNativeSecurityCon North America 
+
+
+
+
+					Feb 1–2, 2023				
+
+
+
+Seattle, United States					
+
+
+
+January 
+
+
+LFX Mentorship Showcase 
+
+
+
+
+					Jan 18–19, 2023				
+
+
+
+Virtual					
+
+
+
+
+
+
+Automotive Grade Linux at CES 
+
+
+
+
+					Jan 5–8, 2023				
+
+
+
+Las Vegas, United States					
+
+
+
+2022December 
+
+
+CHIPS Alliance Fall Workshop 
+
+
+
+
+					Dec 15, 2022				
+
+
+
+Sunnyvale, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+RISC-V Summit 
+
+
+
+
+					Dec 13–14, 2022				
+
+
+
+San Jose, United States					
+
+
+
+
+
+
+Open Source in Finance Forum New York 
+
+
+
+
+					Dec 8, 2022				
+
+
+
+New York, United States					
+
+
+
+
+
+
+KubeDay Japan 
+
+
+
+
+					Dec 7, 2022				
+
+
+
+Yokohama, Japan					
+
+
+
+
+
+
+Open Compliance Summit 
+
+
+
+
+					Dec 7–8, 2022				
+
+
+
+Yokohama, Japan					
+
+
+
+
+
+
+PrestoCon 
+
+
+
+
+					Dec 7–8, 2022				
+
+
+
+Mountain View, United States					
+
+
+
+
+
+
+SODACON 
+
+
+
+
+					Dec 7, 2022				
+
+
+
+Yokohama, Japan and 					
+
+
+Virtual					
+
+
+
+
+
+
+Open Source Summit Japan 
+
+
+
+
+					Dec 5–6, 2022				
+
+
+
+Yokohama, Japan and 					
+
+
+Virtual					
+
+
+
+November 
+
+
+Yocto Project Summit 
+
+
+
+
+					Nov 29–Dec 1, 2022				
+
+
+
+Virtual					
+
+
+
+
+
+
+LFN Developer & Testing Forum 
+
+
+
+
+					Nov 17–18, 2022				
+
+
+
+Seattle, United States					
+
+
+
+
+
+
+ONE Summit 
+
+
+
+
+					Nov 15–16, 2022				
+
+
+
+Seattle, United States					
+
+
+
+
+
+
+Decarbonise Software 
+
+
+
+
+					Nov 10, 2022				
+
+
+
+Virtual					
+
+
+
+
+
+
+PromCon EU 
+
+
+
+
+					Nov 8–9, 2022				
+
+
+
+Munich, Germany					
+
+
+
+
+
+
+The Linux Foundation Member Summit 
+
+
+
+
+					Nov 8–10, 2022				
+
+
+
+Lake Tahoe, United States					
+
+
+
+
+
+
+AsyncAPI Conf 
+
+
+
+
+					Nov 3–5, 2022				
+
+
+
+Virtual					
+
+
+
+October 
+
+
+Cloud Foundry Day 
+
+
+
+
+					Oct 25, 2022				
+
+
+
+Detroit, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+Continuous Delivery Summit 
+
+
+
+
+					Oct 25, 2022				
+
+
+
+Detroit, United States					
+
+
+
+
+
+
+GitOpsCon North America 
+
+
+
+
+					Oct 25, 2022				
+
+
+
+Detroit, United States					
+
+
+
+
+
+
+Kubernetes AI Day North America 
+
+
+
+
+					Oct 25, 2022				
+
+
+
+Detroit, United States					
+
+
+
+
+
+
+Kubernetes on Edge Day North America 
+
+
+
+
+					Oct 25, 2022				
+
+
+
+Detroit, United States					
+
+
+
+
+
+
+PrometheusDay North America 
+
+
+
+
+					Oct 25, 2022				
+
+
+
+Detroit, United States					
+
+
+
+
+
+
+Reactive Summit 
+
+
+
+
+					Oct 25, 2022				
+
+
+
+Detroit, United States					
+
+
+
+
+
+
+ServiceMeshCon North America 
+
+
+
+
+					Oct 25, 2022				
+
+
+
+Detroit, United States					
+
+
+
+
+
+
+SigstoreCon North America 
+
+
+
+
+					Oct 25, 2022				
+
+
+
+Detroit, United States					
+
+
+
+
+
+
+BackstageCon North America 
+
+
+
+
+					Oct 24, 2022				
+
+
+
+Detroit, United States					
+
+
+
+
+
+
+Cloud Native eBPF Day North America 
+
+
+
+
+					Oct 24, 2022				
+
+
+
+Detroit, United States					
+
+
+
+
+
+
+Cloud Native SecurityCon North America 
+
+
+
+
+					Oct 24–25, 2022				
+
+
+
+Detroit, United States					
+
+
+
+
+
+
+Cloud Native Telco Day North America 
+
+
+
+
+					Oct 24, 2022				
+
+
+
+Detroit, United States					
+
+
+
+
+
+
+Cloud Native Wasm Day North America 
+
+
+
+
+					Oct 24, 2022				
+
+
+
+Detroit, United States					
+
+
+
+
+
+
+EnvoyCon North America 
+
+
+
+
+					Oct 24, 2022				
+
+
+
+Detroit, United States					
+
+
+
+
+
+
+gRPC Conf 
+
+
+
+
+					Oct 24, 2022				
+
+
+
+Detroit, United States					
+
+
+
+
+
+
+KnativeCon North America 
+
+
+
+
+					Oct 24, 2022				
+
+
+
+Detroit, United States					
+
+
+
+
+
+
+KubeCon + CloudNativeCon North America 
+
+
+
+
+					Oct 24–28, 2022				
+
+
+
+Detroit, United States					
+
+
+
+
+
+
+Kubernetes Batch + HPC Day North America 
+
+
+
+
+					Oct 24, 2022				
+
+
+
+Detroit, United States					
+
+
+
+
+
+
+Kubernetes Contributor Summit North America 
+
+
+
+
+					Oct 24–25, 2022				
+
+
+
+Detroit, United States					
+
+
+
+
+
+
+Open Observability Day North America 
+
+
+
+
+					Oct 24, 2022				
+
+
+
+Detroit, United States					
+
+
+
+
+
+
+Spinnaker Summit 
+
+
+
+
+					Oct 24–25, 2022				
+
+
+
+Detroit, United States					
+
+
+
+
+
+
+O3DCon 
+
+
+
+
+					Oct 17–19, 2022				
+
+
+
+Austin, United States and 					
+
+
+Virtual					
+
+
+
+September 
+
+
+Open Mainframe Summit 
+
+
+
+
+					Sep 21–22, 2022				
+
+
+
+Philadelphia, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+API Specifications Conference 
+
+
+
+
+					Sep 19–21, 2022				
+
+
+
+South San Francisco, United States					
+
+
+
+
+
+
+ArgoCon 
+
+
+
+
+					Sep 19–21, 2022				
+
+
+
+Mountain View, United States					
+
+
+
+
+
+
+Xen Developer & Design Summit 
+
+
+
+
+					Sep 19–22, 2022				
+
+
+
+Cambridge, United Kingdom and 					
+
+
+Virtual					
+
+
+
+
+
+
+Linux Kernel Maintainer Summit 
+
+
+
+
+					Sep 15, 2022				
+
+
+
+Dublin, Ireland					
+
+
+
+
+
+
+Linux Security Summit Europe 
+
+
+
+
+					Sep 15–16, 2022				
+
+
+
+Dublin, Ireland and 					
+
+
+Virtual					
+
+
+
+
+
+
+Embedded Linux Conference Europe 
+
+
+
+
+					Sep 14–16, 2022				
+
+
+
+Dublin, Ireland and 					
+
+
+Virtual					
+
+
+
+
+
+
+CloudOpen Europe 
+
+
+
+
+					Sep 13–16, 2022				
+
+
+
+Dublin, Ireland and 					
+
+
+Virtual					
+
+
+
+
+
+
+Community Leadership Conference Europe 
+
+
+
+
+					Sep 13–16, 2022				
+
+
+
+Dublin, Ireland and 					
+
+
+Virtual					
+
+
+
+
+
+
+ContainerCon Europe 
+
+
+
+
+					Sep 13–16, 2022				
+
+
+
+Dublin, Ireland and 					
+
+
+Virtual					
+
+
+
+
+
+
+Critical Software Summit Europe 
+
+
+
+
+					Sep 13–16, 2022				
+
+
+
+Dublin, Ireland and 					
+
+
+Virtual					
+
+
+
+
+
+
+Diversity Empowerment Summit Europe 
+
+
+
+
+					Sep 13–16, 2022				
+
+
+
+Dublin, Ireland and 					
+
+
+Virtual					
+
+
+
+
+
+
+Embedded IoT Summit Europe 
+
+
+
+
+					Sep 13–16, 2022				
+
+
+
+Dublin, Ireland and 					
+
+
+Virtual					
+
+
+
+
+
+
+Emerging OS Forum Europe 
+
+
+
+
+					Sep 13–16, 2022				
+
+
+
+Dublin, Ireland and 					
+
+
+Virtual					
+
+
+
+
+
+
+LinuxCon Europe 
+
+
+
+
+					Sep 13–16, 2022				
+
+
+
+Dublin, Ireland and 					
+
+
+Virtual					
+
+
+
+
+
+
+Open AI + Data Forum Europe 
+
+
+
+
+					Sep 13–16, 2022				
+
+
+
+Dublin, Ireland and 					
+
+
+Virtual					
+
+
+
+
+
+
+Open Source On-Ramp Europe 
+
+
+
+
+					Sep 13–16, 2022				
+
+
+
+Dublin, Ireland and 					
+
+
+Virtual					
+
+
+
+
+
+
+Open Source Summit Europe 
+
+
+
+
+					Sep 13–16, 2022				
+
+
+
+Dublin, Ireland and 					
+
+
+Virtual					
+
+
+
+
+
+
+OpenSSF Day Europe 
+
+
+
+
+					Sep 13, 2022				
+
+
+
+Dublin, Ireland and 					
+
+
+Virtual					
+
+
+
+
+
+
+OSPOCon Europe 
+
+
+
+
+					Sep 13–16, 2022				
+
+
+
+Dublin, Ireland and 					
+
+
+Virtual					
+
+
+
+
+
+
+SupplyChainSecurityCon Europe 
+
+
+
+
+					Sep 13–16, 2022				
+
+
+
+Dublin, Ireland and 					
+
+
+Virtual					
+
+
+
+
+
+
+Hyperledger Global Forum 
+
+
+
+
+					Sep 12–14, 2022				
+
+
+
+Dublin, Ireland					
+
+
+
+
+
+
+KVM Forum 
+
+
+
+
+					Sep 12–14, 2022				
+
+
+
+Dublin, Ireland and 					
+
+
+Virtual					
+
+
+
+
+
+
+Linux Plumbers Conference 
+
+
+
+
+					Sep 12–14, 2022				
+
+
+
+Dublin, Ireland and 					
+
+
+Virtual					
+
+
+
+
+
+
+ELISA Summit 
+
+
+
+
+					Sep 7–8, 2022				
+
+
+
+Virtual					
+
+
+
+
+
+
+DPDK Userspace Summit 
+
+
+
+
+					Sep 6–8, 2022				
+
+
+
+Arcachon, France and 					
+
+
+Virtual					
+
+
+
+August 
+
+
+CloudOpen Latin America 
+
+
+
+
+					Aug 23–24, 2022				
+
+
+
+Virtual					
+
+
+
+
+
+
+Community Leadership Conference Latin America 
+
+
+
+
+					Aug 23–24, 2022				
+
+
+
+Virtual					
+
+
+
+
+
+
+ContainerCon Latin America 
+
+
+
+
+					Aug 23–24, 2022				
+
+
+
+Virtual					
+
+
+
+
+
+
+Diversity Empowerment Summit Latin America 
+
+
+
+
+					Aug 23–24, 2022				
+
+
+
+Virtual					
+
+
+
+
+
+
+Embedded IoT Summit Latin America 
+
+
+
+
+					Aug 23–24, 2022				
+
+
+
+Virtual					
+
+
+
+
+
+
+Emerging OS Forum Latin America 
+
+
+
+
+					Aug 23–24, 2022				
+
+
+
+Virtual					
+
+
+
+
+
+
+LinuxCon Latin America 
+
+
+
+
+					Aug 23–24, 2022				
+
+
+
+Virtual					
+
+
+
+
+
+
+Open AI + Data Forum Latin America 
+
+
+
+
+					Aug 23–24, 2022				
+
+
+
+Virtual					
+
+
+
+
+
+
+Open Source On-Ramp Latin America 
+
+
+
+
+					Aug 23–24, 2022				
+
+
+
+Virtual					
+
+
+
+
+
+
+Open Source Summit Latin America 
+
+
+
+
+					Aug 23–24, 2022				
+
+
+
+Virtual					
+
+
+
+
+
+
+R/Medicine 
+
+
+
+
+					Aug 23–26, 2022				
+
+
+
+Virtual					
+
+
+
+
+
+
+Open Source Days 
+
+
+
+
+					Aug 8–9, 2022				
+
+
+
+Vancouver, Canada					
+
+
+
+July 
+
+
+PrestoCon Day 
+
+
+
+
+					Jul 21, 2022				
+
+
+
+Virtual					
+
+
+
+
+
+
+Open Source in Finance Forum London 
+
+
+
+
+					Jul 13, 2022				
+
+
+
+London, United Kingdom					
+
+
+
+June 
+
+
+Global Security Vulnerability Summit 
+
+
+
+
+					Jun 23–24, 2022				
+
+
+
+Austin, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+Linux Security Summit North America 
+
+
+
+
+					Jun 23–24, 2022				
+
+
+
+Austin, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+PX4 Developer Summit 
+
+
+
+
+					Jun 23–24, 2022				
+
+
+
+Austin, United States					
+
+
+
+
+
+
+AGL at Embedded World 
+
+
+
+
+					Jun 21–23, 2022				
+
+
+
+Nuremberg, Germany					
+
+
+
+
+
+
+CloudOpen 
+
+
+
+
+					Jun 21–24, 2022				
+
+
+
+Austin, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+Community Leadership Conference 
+
+
+
+
+					Jun 21–24, 2022				
+
+
+
+Austin, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+ContainerCon 
+
+
+
+
+					Jun 21–24, 2022				
+
+
+
+Austin, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+Critical Software Summit 
+
+
+
+
+					Jun 21–24, 2022				
+
+
+
+Austin, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+Diversity Empowerment Summit 
+
+
+
+
+					Jun 21–24, 2022				
+
+
+
+Austin, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+Embedded IoT Summit 
+
+
+
+
+					Jun 21–24, 2022				
+
+
+
+Austin, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+Embedded Linux Conference 
+
+
+
+
+					Jun 21–24, 2022				
+
+
+
+Austin, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+Emerging OS Forum 
+
+
+
+
+					Jun 21–24, 2022				
+
+
+
+Austin, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+LinuxCon 
+
+
+
+
+					Jun 21–24, 2022				
+
+
+
+Austin, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+Open AI + Data Forum 
+
+
+
+
+					Jun 21–24, 2022				
+
+
+
+Austin, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+Open Source On-Ramp 
+
+
+
+
+					Jun 21–24, 2022				
+
+
+
+Austin, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+Open Source Summit North America 
+
+
+
+
+					Jun 21–24, 2022				
+
+
+
+Austin, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+RISC-V at embedded world 
+
+
+
+
+					Jun 21–23, 2022				
+
+
+
+Nuremberg, Germany					
+
+
+
+
+
+
+SupplyChainSecurityCon 
+
+
+
+
+					Jun 21–24, 2022				
+
+
+
+Austin, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+FinOps X 
+
+
+
+
+					Jun 20–21, 2022				
+
+
+
+Austin, United States					
+
+
+
+
+
+
+Open Telemetry Community Day 
+
+
+
+
+					Jun 20, 2022				
+
+
+
+Austin, United States					
+
+
+
+
+
+
+LFN Developer & Testing Forum 
+
+
+
+
+					Jun 13–16, 2022				
+
+
+
+Porto, Portugal					
+
+
+
+
+
+
+Zephyr Developer Summit 
+
+
+
+
+					Jun 8–9, 2022				
+
+
+
+Mountain View, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+cdCon 
+
+
+
+
+					Jun 7–8, 2022				
+
+
+
+Austin, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+OpenJS World 
+
+
+
+
+					Jun 6–10, 2022				
+
+
+
+Austin, United States					
+
+
+
+May 
+
+
+SODACODE 
+
+
+
+
+					May 25–26, 2022				
+
+
+
+Virtual					
+
+
+
+
+
+
+CDEventsCon 
+
+
+
+
+					May 17, 2022				
+
+
+
+Valencia, Spain					
+
+
+
+
+
+
+GitOpsCon Europe 
+
+
+
+
+					May 17, 2022				
+
+
+
+Valencia, Spain					
+
+
+
+
+
+
+KnativeCon Europe 
+
+
+
+
+					May 17, 2022				
+
+
+
+Valencia, Spain					
+
+
+
+
+
+
+Kubernetes Batch + HPC Day Europe 
+
+
+
+
+					May 17, 2022				
+
+
+
+Valencia, Spain					
+
+
+
+
+
+
+Kubernetes on Edge Day Europe 
+
+
+
+
+					May 17, 2022				
+
+
+
+Valencia, Spain					
+
+
+
+
+
+
+PrometheusDay Europe 
+
+
+
+
+					May 17, 2022				
+
+
+
+Valencia, Spain					
+
+
+
+
+
+
+ServiceMeshCon Europe 
+
+
+
+
+					May 17, 2022				
+
+
+
+Valencia, Spain					
+
+
+
+
+
+
+Yocto Project Summit 2022.05 
+
+
+
+
+					May 17–19, 2022				
+
+
+
+Virtual					
+
+
+
+
+
+
+Cloud Native eBPF Day Europe 
+
+
+
+
+					May 16, 2022				
+
+
+
+Valencia, Spain					
+
+
+
+
+
+
+Cloud Native SecurityCon Europe 
+
+
+
+
+					May 16–17, 2022				
+
+
+
+Valencia, Spain					
+
+
+
+
+
+
+Cloud Native Telco Day Europe 
+
+
+
+
+					May 16, 2022				
+
+
+
+Valencia, Spain					
+
+
+
+
+
+
+Cloud Native Wasm Day Europe 
+
+
+
+
+					May 16, 2022				
+
+
+
+Valencia, Spain					
+
+
+
+
+
+
+FluentCon Europe 
+
+
+
+
+					May 16, 2022				
+
+
+
+Valencia, Spain					
+
+
+
+
+
+
+KubeCon + CloudNativeCon Europe 
+
+
+
+
+					May 16–20, 2022				
+
+
+
+Valencia, Spain and 					
+
+
+Virtual					
+
+
+
+
+
+
+Kubernetes AI Day Europe 
+
+
+
+
+					May 16, 2022				
+
+
+
+Valencia, Spain					
+
+
+
+
+
+
+RISC-V Spring Week 
+
+
+
+
+					May 3–5, 2022				
+
+
+
+Paris, France					
+
+
+
+
+
+
+Linux Storage, Filesystem, MM & BPF Summit 
+
+
+
+
+					May 2–4, 2022				
+
+
+
+Palm Springs, United States and 					
+
+
+Virtual					
+
+
+
+April 
+
+
+AGL Tech Day! 
+
+
+
+
+					Apr 13, 2022				
+
+
+
+Virtual					
+
+
+
+
+
+
+Open Networking & Edge Executive Forum 
+
+
+
+
+					Apr 12–14, 2022				
+
+
+
+Virtual					
+
+
+
+
+
+
+ELISA Workshop Spring 
+
+
+
+
+					Apr 5–7, 2022				
+
+
+
+Virtual					
+
+
+
+March 
+
+
+Academy Software Foundation Open Source Forum 
+
+
+
+
+					Mar 10, 2022				
+
+
+
+Los Angeles, United States and 					
+
+
+Virtual					
+
+
+
+January 
+
+
+LF Live Mentorship Series: An Upstream Friendly Source Control Model and Tooling 
+
+
+
+
+					Jan 20, 2022				
+
+
+
+Virtual					
+
+
+
+
+
+
+LFX Mentorship Showcase 
+
+
+
+
+					Jan 12, 2022				
+
+
+
+Virtual					
+
+
+
+2021December 
+
+
+Open Compliance Summit 
+
+
+
+
+					Dec 16, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Automotive Linux Summit 
+
+
+
+
+					Dec 14–15, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Open Source Summit Japan 
+
+
+
+
+					Dec 14–15, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+KubeCon + CloudNativeCon + Open Source Summit China 
+
+
+
+
+					Dec 9–10, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+PrestoCon 
+
+
+
+
+					Dec 9, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+LF Live Mentorship Series: Unraveling RCU-Usage Mysteries (Fundamentals) 
+
+
+
+
+					Dec 7, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+RISC-V Summit 
+
+
+
+
+					Dec 6–8, 2021				
+
+
+
+San Francisco, United States and 					
+
+
+Virtual					
+
+
+
+November 
+
+
+Yocto Project Summit 2021.11 
+
+
+
+
+					Nov 30–Dec 2, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+The Linux Foundation Legal Summit 
+
+
+
+
+					Nov 15–19, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+LF Live Mentorship Series: Rust for Linux: Writing Safe Abstractions & Drivers 
+
+
+
+
+					Nov 11, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Open Source Strategy Forum New York 
+
+
+
+
+					Nov 9–10, 2021				
+
+
+
+New York, United States					
+
+
+
+
+
+
+ELISA Workshop 
+
+
+
+
+					Nov 8–10, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Reactive Summit 
+
+
+
+
+					Nov 2–3, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+The Linux Foundation Member Summit 
+
+
+
+
+					Nov 2–4, 2021				
+
+
+
+Napa, United States					
+
+
+
+
+
+
+EdgeX Foundry Kamakura Release Fall – Release Planning Conference 
+
+
+
+
+					Nov 1–5, 2021				
+
+
+
+Virtual					
+
+
+
+October 
+
+
+OpenPOWER Summit North America 
+
+
+
+
+					Oct 28, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+LF AI & Data Day – ONNX Community Virtual Meetup – Fall 
+
+
+
+
+					Oct 21, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+CHIPS Alliance Fall Workshop 
+
+
+
+
+					Oct 12, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Cloud Native DevX Day North America 
+
+
+
+
+					Oct 12, 2021				
+
+
+
+Los Angeles, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+Cloud Native Security Conference North America 
+
+
+
+
+					Oct 12, 2021				
+
+
+
+Los Angeles, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+Cloud Native Wasm Day North America 
+
+
+
+
+					Oct 12, 2021				
+
+
+
+Los Angeles, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+FluentCon North America 
+
+
+
+
+					Oct 12, 2021				
+
+
+
+Los Angeles, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+GitOpsCon North America 
+
+
+
+
+					Oct 12, 2021				
+
+
+
+Los Angeles, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+Kubernetes AI Day North America 
+
+
+
+
+					Oct 12, 2021				
+
+
+
+Los Angeles, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+ServiceMeshCon North America 
+
+
+
+
+					Oct 12, 2021				
+
+
+
+Los Angeles, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+Cloud Native eBPF Day North America 
+
+
+
+
+					Oct 11, 2021				
+
+
+
+Los Angeles, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+EnvoyCon North America 
+
+
+
+
+					Oct 11, 2021				
+
+
+
+Los Angeles, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+KubeCon + CloudNativeCon North America 
+
+
+
+
+					Oct 11–15, 2021				
+
+
+
+Los Angeles, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+Kubernetes Contributor Summit North America 
+
+
+
+
+					Oct 11, 2021				
+
+
+
+Los Angeles, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+O3DECon 
+
+
+
+
+					Oct 11–12, 2021				
+
+
+
+Los Angeles, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+Open Networking & Edge Summit + Kubernetes on Edge Day 
+
+
+
+
+					Oct 11–12, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Production Identity Day: SPIFFE + SPIRE North America 
+
+
+
+
+					Oct 11, 2021				
+
+
+
+Los Angeles, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+PromCon North America 
+
+
+
+
+					Oct 11, 2021				
+
+
+
+Los Angeles, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+SupplyChainSecurityCon North America 
+
+
+
+
+					Oct 11, 2021				
+
+
+
+Los Angeles, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+OSPOCon Europe 
+
+
+
+
+					Oct 6, 2021				
+
+
+
+London, United Kingdom					
+
+
+
+
+
+
+Open Source Strategy Forum London 
+
+
+
+
+					Oct 4–5, 2021				
+
+
+
+London, United Kingdom					
+
+
+
+September 
+
+
+Linux Security Summit 
+
+
+
+
+					Sep 29–Oct 1, 2021				
+
+
+
+Seattle, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+API Specifications Conference 
+
+
+
+
+					Sep 28–29, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Embedded Linux Conference 
+
+
+
+
+					Sep 27–30, 2021				
+
+
+
+Seattle, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+Open Source Summit 
+
+
+
+
+					Sep 27–30, 2021				
+
+
+
+Seattle, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+OSPOCon 
+
+
+
+
+					Sep 27–29, 2021				
+
+
+
+Seattle, United States and 					
+
+
+Virtual					
+
+
+
+
+
+
+Linux Kernel Maintainer Summit 
+
+
+
+
+					Sep 24, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Open Mainframe Summit 
+
+
+
+
+					Sep 22–23, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Linux Plumbers Conference 
+
+
+
+
+					Sep 20–24, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+KVM Forum 
+
+
+
+
+					Sep 15–16, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Mentorship Session: It’s Not Just About Embedded! The Yocto Project. 
+
+
+
+
+					Sep 15, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+RISC-V Forum: Vector and Machine Learning 
+
+
+
+
+					Sep 15, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+PX4 Developer Summit 
+
+
+
+
+					Sep 14–15, 2021				
+
+
+
+Virtual					
+
+
+
+August 
+
+
+R/Medicine 
+
+
+
+
+					Aug 24–27, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Building Cybersecurity into the Software Supply Chain Town Hall 
+
+
+
+
+					Aug 18, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Open Source Days 
+
+
+
+
+					Aug 4–5, 2021				
+
+
+
+Virtual					
+
+
+
+July 
+
+
+Cloud Foundry Summit 
+
+
+
+
+					Jul 21–22, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+RISC-V Forum: Embedded Technologies 
+
+
+
+
+					Jul 21, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Mentorship Session: Developing Secure Open Source Software (OSS) 
+
+
+
+
+					Jul 20, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+AGL Tech Day! 
+
+
+
+
+					Jul 13, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Mentorship Session: Extra Boot Configuration and Boot-time Tracing 
+
+
+
+
+					Jul 13, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+SODACON Global 
+
+
+
+
+					Jul 13–14, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+DPDK Summit North America 
+
+
+
+
+					Jul 12–13, 2021				
+
+
+
+Virtual					
+
+
+
+June 
+
+
+Jenkins Contributor Summit 
+
+
+
+
+					Jun 25, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+cdCon 
+
+
+
+
+					Jun 23–24, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+GitOps Summit 
+
+
+
+
+					Jun 22, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Spinnaker Summit 
+
+
+
+
+					Jun 22–24, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+EdgeX Foundry Jakarta Release Planning Conference Spring 
+
+
+
+
+					Jun 21–25, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Confidential Computing Developer Summit 
+
+
+
+
+					Jun 11, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+LF AI & Data Day EU Virtual 
+
+
+
+
+					Jun 10, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Mentorship Session: A Tour of cgroup2 Resource Control with resctl-demo 
+
+
+
+
+					Jun 9, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Hyperledger Global Forum 
+
+
+
+
+					Jun 8–10, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+LFN Developer & Testing Forum 
+
+
+
+
+					Jun 7–10, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Mentorship Session:  Tracefs: The Building Blocks of Linux Kernel Tracing by Ftrace 
+
+
+
+
+					Jun 4, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+RISC-V Forum: Developer Tools and Tool Chains 
+
+
+
+
+					Jun 2, 2021				
+
+
+
+Virtual					
+
+
+
+May 
+
+
+Xen Developer & Design Summit 
+
+
+
+
+					May 25–28, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Yocto Project Summit 
+
+
+
+
+					May 25–26, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+ELISA Workshop 
+
+
+
+
+					May 18–20, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Mentorship Session: An Introduction to Linux Tracing and its Concepts 
+
+
+
+
+					May 6, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Cloud Native Security Day Europe 
+
+
+
+
+					May 4, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Cloud Native Wasm Day 
+
+
+
+
+					May 4, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Crossplane Community Day Europe 
+
+
+
+
+					May 4, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+FluentCon: Cloud Native Logging Day with Fluent Bit and Fluentd 
+
+
+
+
+					May 4, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+KubeCon + CloudNativeCon Europe 
+
+
+
+
+					May 4–7, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Kubernetes AI Day 
+
+
+
+
+					May 4, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Kubernetes on Edge Day 
+
+
+
+
+					May 4, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+ServiceMeshCon Europe 
+
+
+
+
+					May 4, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Cloud Native Rust Day 
+
+
+
+
+					May 3, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Magma Day 
+
+
+
+
+					May 3, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+PromCon Online 
+
+
+
+
+					May 3, 2021				
+
+
+
+Virtual					
+
+
+
+April 
+
+
+Mentorship Session: Time for Disrupting the Status Quo: Diversity in Open Source Software 
+
+
+
+
+					Apr 27, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+LF Energy Spring Summit 
+
+
+
+
+					Apr 14, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Mentorship Session: Kernel Validation With Kselftest 
+
+
+
+
+					Apr 14, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+RISC-V Forum: Security 
+
+
+
+
+					Apr 14, 2021				
+
+
+
+Virtual					
+
+
+
+March 
+
+
+Mentorship Session: KUnit Testing Strategies 
+
+
+
+
+					Mar 31, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+CHIPS Alliance Spring Workshop 
+
+
+
+
+					Mar 30, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Mentorship Session: Generating Software Bill of Materials 
+
+
+
+
+					Mar 25, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+LF AI & Data Day – ONNX Community Virtual Meetup – Spring 
+
+
+
+
+					Mar 24, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+PrestoCon Day 
+
+
+
+
+					Mar 24, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+DPDK Summit APAC 
+
+
+
+
+					Mar 22–23, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Automotive Grade Linux All Member Meeting Spring 
+
+
+
+
+					Mar 17–18, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Academy Software Foundation Open Source Forum 
+
+
+
+
+					Mar 10, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Open Networking & Edge Executive Forum 
+
+
+
+
+					Mar 10–12, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+The Linux Foundation Spring Member Meeting 
+
+
+
+
+					Mar 9, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Mentorship Session: Fuzzing Linux Kernel 
+
+
+
+
+					Mar 2, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Akraino Technical Meetings – Spring 
+
+
+
+
+					Mar 1–3, 2021				
+
+
+
+Virtual					
+
+
+
+February 
+
+
+Mentorship Session: Dynamic Program Analysis for Fun and Profit 
+
+
+
+
+					Feb 25, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Mentorship Session: Which Hat Do I Wear Today? The Balancing Act of Working with Upstream and Product Teams 
+
+
+
+
+					Feb 17, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Mentorship Session: New Ideas for Smatch (Static Analysis) 
+
+
+
+
+					Feb 11, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+EU Open Source Policy Summit 
+
+
+
+
+					Feb 5, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Mentorship Session: Coccinelle: Automating Large-scale Evolution and Bug Finding in C Code 
+
+
+
+
+					Feb 2, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+LFN Developer & Testing Forum Spring 
+
+
+
+
+					Feb 1–4, 2021				
+
+
+
+Virtual					
+
+
+
+January 
+
+
+Anuket Launch Event 
+
+
+
+
+					Jan 27, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Mentorship Session: Static Analysis & Tools 
+
+
+
+
+					Jan 27, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Mentorship Session: 2nd Place is the First Winner: Maintainership and Growing Your Influence in the Linux Kernel Community 
+
+
+
+
+					Jan 22, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Webinar: LFX Security: Help Secure the Open Source Ecosystem 
+
+
+
+
+					Jan 20, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Webinar: LFX Insights: Get a 360° View of Your Project 
+
+
+
+
+					Jan 14, 2021				
+
+
+
+Virtual					
+
+
+
+
+
+
+Mentorship Session: Open Source Licensing 
+
+
+
+
+					Jan 13, 2021				
+
+
+
+Virtual					
+
+
+
+2020December 
+
+
+Hyperledger Panel Discussion Series: The Next Five Years of Enterprise Blockchain, Hyperledger and Beyond 
+
+
+
+
+					Dec 15, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Hyperledger Panel Discussion Series: The Future of Money: Bringing CBDC’s and Other Virtual Currencies to Reality 
+
+
+
+
+					Dec 9, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Webinar: Why Won’t Developers Always Just Write Secure Open Source Software? 
+
+
+
+
+					Dec 9, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Mentorship Session: Best Practices to Getting Your Patches Accepted 
+
+
+
+
+					Dec 8, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Automotive Linux Summit 
+
+
+
+
+					Dec 2–4, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Mentorship Session: How Do I Get Started with an Open Source Project? 
+
+
+
+
+					Dec 2, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Open Source Summit Japan 
+
+
+
+
+					Dec 2–4, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Hyperledger Panel Discussion Series: Blockchain’s Role in the Face of Disruption 
+
+
+
+
+					Dec 1, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Open Compliance Summit 
+
+
+
+
+					Dec 1, 2020				
+
+
+
+Virtual					
+
+
+
+November 
+
+
+Hyperledger Panel Discussion Series: Examining Blockchain’s Transformative Role in Digitising Trade and Trade Finance 
+
+
+
+
+					Nov 24, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Cloud Native Security Day North America 
+
+
+
+
+					Nov 17, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Hyperledger Panel Discussion Series: Five Years of Hyperledger: What’s the Current Impact and Where Will We Drive Change Next? 
+
+
+
+
+					Nov 17, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+KubeCon + CloudNativeCon North America 
+
+
+
+
+					Nov 17–20, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Open Telemetry Community Day 
+
+
+
+
+					Nov 17, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Production Identity Day: SPIFFE + SPIRE 
+
+
+
+
+					Nov 17, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+ServiceMeshCon North America 
+
+
+
+
+					Nov 17, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Hyperledger Panel Discussion Series: Open Fireside Chat: Grading the First Five Years of Hyperledger 
+
+
+
+
+					Nov 16, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Open Source Strategy Forum 
+
+
+
+
+					Nov 12–13, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Reactive Summit 
+
+
+
+
+					Nov 10, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+EdgeX Foundry Ireland Release Planning Conference Fall 
+
+
+
+
+					Nov 9–13, 2020				
+
+
+
+Virtual					
+
+
+
+October 
+
+
+Linux Security Summit Europe 
+
+
+
+
+					Oct 29–30, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Mentorship Session: Writing Change Logs That Make Sense 
+
+
+
+
+					Oct 29, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Yocto Project® Summit Europe 
+
+
+
+
+					Oct 29–30, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+KVM Forum 
+
+
+
+
+					Oct 28–30, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Embedded Linux Conference Europe 
+
+
+
+
+					Oct 26–29, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Open Source Summit Europe 
+
+
+
+
+					Oct 26–29, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Cloud Foundry Summit Europe 
+
+
+
+
+					Oct 21–22, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Helm v2-to-v3 Workshop 
+
+
+
+
+					Oct 21, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Spinnaker Summit 
+
+
+
+
+					Oct 19–Nov 12, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+EnvoyCon 
+
+
+
+
+					Oct 15, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+LF AI Day – ONNX Community Virtual Meetup – Fall 
+
+
+
+
+					Oct 14, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+LFN Technical Meetings – Fall 
+
+
+
+
+					Oct 13–15, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+The Linux Foundation Legal Summit 
+
+
+
+
+					Oct 12–16, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+cdCon 
+
+
+
+
+					Oct 7–8, 2020				
+
+
+
+Virtual					
+
+
+
+September 
+
+
+Ray Summit 
+
+
+
+
+					Sep 30–Oct 1, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Open Networking & Edge Summit 
+
+
+
+
+					Sep 28–30, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+PrestoCon 
+
+
+
+
+					Sep 24, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Akraino Technical Meetings – Fall 
+
+
+
+
+					Sep 23–24, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+DPDK Userspace Summit 
+
+
+
+
+					Sep 22–23, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+CHIPS Alliance Workshop 
+
+
+
+
+					Sep 17, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Open Mainframe Summit 
+
+
+
+
+					Sep 16–17, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+OpenPOWER Summit North America 
+
+
+
+
+					Sep 15, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Hyperledger Member Summit 
+
+
+
+
+					Sep 10–11, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+API Specifications Conference 
+
+
+
+
+					Sep 9–10, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+RISC-V Global Forum 
+
+
+
+
+					Sep 3, 2020				
+
+
+
+Virtual					
+
+
+
+August 
+
+
+R/Medicine 
+
+
+
+
+					Aug 27–29, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Linux Plumbers Conference 
+
+
+
+
+					Aug 24–28, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Open Source Days 
+
+
+
+
+					Aug 19–20, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Cloud Native Security Day 
+
+
+
+
+					Aug 17, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+KubeCon + CloudNativeCon Europe 
+
+
+
+
+					Aug 17–20, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Serverless Practitioners Summit 
+
+
+
+
+					Aug 17, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+ServiceMeshCon 
+
+
+
+
+					Aug 17, 2020				
+
+
+
+Virtual					
+
+
+
+July 
+
+
+Cloud Native + Open Source Virtual Summit China 
+
+
+
+
+					Jul 30–Aug 1, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+gRPC Conf 
+
+
+
+
+					Jul 27–28, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+GAEN Symposium 
+
+
+
+
+					Jul 16, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Automotive Grade Linux All Member Meeting Summer 
+
+
+
+
+					Jul 15–16, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+PromCon 
+
+
+
+
+					Jul 13–16, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+LF Energy Technical Architecture Workshop 
+
+
+
+
+					Jul 8, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Xen Developer & Design Summit 
+
+
+
+
+					Jul 6–9, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Yocto Project® Dev Day Virtual North America 
+
+
+
+
+					Jul 2, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Linux Security Summit North America 
+
+
+
+
+					Jul 1–2, 2020				
+
+
+
+Virtual					
+
+
+
+June 
+
+
+Embedded Linux Conference North America 
+
+
+
+
+					Jun 29–Jul 2, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Open Source Summit North America 
+
+
+
+
+					Jun 29–Jul 2, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Cloud Foundry Summit North America 
+
+
+
+
+					Jun 24–25, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+OpenJS World 
+
+
+
+
+					Jun 23–24, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+LFN Developer & Testing Forum 
+
+
+
+
+					Jun 22–25, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Virtual LF AI Day Europe 
+
+
+
+
+					Jun 22, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+Spinnaker.Live 
+
+
+
+
+					Jun 18, 2020				
+
+
+
+Virtual					
+
+
+
+April 
+
+
+EdgeX Foundry Hanoi Release Spring – Release Planning Conference 
+
+
+
+
+					Apr 27–May 1, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+LFN Technical Meetings – Spring 
+
+
+
+
+					Apr 21–23, 2020				
+
+
+
+Virtual					
+
+
+
+
+
+
+LF AI Day – ONNX Community Virtual Meetup – Silicon Valley 
+
+
+
+
+					Apr 9, 2020				
+
+
+
+Virtual					
+
+
+
+March 
+
+
+Automotive Grade Linux All Member Meeting 
+
+
+
+
+					Mar 18–19, 2020				
+
+
+
+Honolulu, United States					
+
+
+
+
+
+
+The Linux Foundation Member Summit 
+
+
+
+
+					Mar 10–12, 2020				
+
+
+
+Lake Tahoe, United States					
+
+
+
+
+
+
+Hyperledger Global Forum 
+
+
+
+
+					Mar 3–6, 2020				
+
+
+
+Phoenix, United States					
+
+
+
+February 
+
+
+Kubernetes Forum Delhi 
+
+
+
+
+					Feb 20, 2020				
+
+
+
+Delhi, India					
+
+
+
+
+
+
+Kubernetes Forum Bengaluru 
+
+
+
+
+					Feb 17, 2020				
+
+
+
+Bengaluru, India					
+
+
+
+
+
+
+LF Energy Open Source Bootcamp 
+
+
+
+
+					Feb 6, 2020				
+
+
+
+Duiven, Netherlands					
+
+
+
+January 
+
+
+Third Chisel Community Conference 
+
+
+
+
+					Jan 29–30, 2020				
+
+
+
+Milpitas, United States					
+
+
+
+
+
+
+LFN Developer & Testing Forum 
+
+
+
+
+					Jan 13–16, 2020				
+
+
+
+Prague, Czech Republic					
+
+
+
+
+
+
+Automotive Grade Linux at CES 
+
+
+
+
+					Jan 7–10, 2020				
+
+
+
+Las Vegas, United States					
+
+
+
+2019December 
+
+
+Open Compliance Summit 
+
+
+
+
+					Dec 17–18, 2019				
+
+
+
+Tokyo, Japan					
+
+
+
+
+
+
+Open Source Forum 
+
+
+
+
+					Dec 16, 2019				
+
+
+
+Tokyo, Japan					
+
+
+
+
+
+
+Kubernetes Forum Sydney 
+
+
+
+
+					Dec 12–13, 2019				
+
+
+
+Sydney, Australia					
+
+
+
+
+
+
+Node+JS Interactive 
+
+
+
+
+					Dec 11–12, 2019				
+
+
+
+Montreal, Canada					
+
+
+
+
+
+
+Kubernetes Forum Seoul 
+
+
+
+
+					Dec 9, 2019				
+
+
+
+Seoul, South Korea					
+
+
+
+
+
+
+Open FinTech Forum 
+
+
+
+
+					Dec 9, 2019				
+
+
+
+New York City, United States					
+
+
+
+November 
+
+
+Open Source Strategy Forum 
+
+
+
+
+					Nov 20, 2019				
+
+
+
+New York City, United States					
+
+
+
+
+
+
+Cloud Native Security Day 
+
+
+
+
+					Nov 18, 2019				
+
+
+
+San Diego, United States					
+
+
+
+
+
+
+EnvoyCon North America 
+
+
+
+
+					Nov 18, 2019				
+
+
+
+San Diego, United States					
+
+
+
+
+
+
+FoundationDB Summit 
+
+
+
+
+					Nov 18, 2019				
+
+
+
+San Diego, United States					
+
+
+
+
+
+
+KubeCon + CloudNativeCon North America 
+
+
+
+
+					Nov 18–21, 2019				
+
+
+
+San Diego, United States					
+
+
+
+
+
+
+ServiceMeshCon 
+
+
+
+
+					Nov 18, 2019				
+
+
+
+San Diego, United States					
+
+
+
+
+
+
+Kubernetes Contributor Summit North America 
+
+
+
+
+					Nov 17–18, 2019				
+
+
+
+San Diego, United States					
+
+
+
+
+
+
+Spinnaker Summit 
+
+
+
+
+					Nov 16–17, 2019				
+
+
+
+San Diego, United States					
+
+
+
+
+
+
+DPDK Summit North America 
+
+
+
+
+					Nov 12–13, 2019				
+
+
+
+Mountain View, United States					
+
+
+
+
+
+
+PromCon 
+
+
+
+
+					Nov 7–8, 2019				
+
+
+
+Munich, Germany					
+
+
+
+
+
+
+LF Energy Global Summit 
+
+
+
+
+					Nov 4–5, 2019				
+
+
+
+Paris, France					
+
+
+
+October 
+
+
+Automated Testing Summit 
+
+
+
+
+					Oct 31, 2019				
+
+
+
+Lyon, France					
+
+
+
+
+
+
+Linux Security Summit Europe 
+
+
+
+
+					Oct 31–Nov 1, 2019				
+
+
+
+Lyon, France					
+
+
+
+
+
+
+OpenPOWER Summit Europe 
+
+
+
+
+					Oct 31–Nov 1, 2019				
+
+
+
+Lyon, France					
+
+
+
+
+
+
+KVM Forum 
+
+
+
+
+					Oct 30–Nov 1, 2019				
+
+
+
+Lyon, France					
+
+
+
+
+
+
+Embedded Linux Conference Europe 
+
+
+
+
+					Oct 28–30, 2019				
+
+
+
+Lyon, France					
+
+
+
+
+
+
+Open Source Summit Europe 
+
+
+
+
+					Oct 28–30, 2019				
+
+
+
+Lyon, France					
+
+
+
+
+
+
+Automotive Grade Linux All Member Meeting Europe 
+
+
+
+
+					Oct 22–23, 2019				
+
+
+
+Monte Carlo, Monaco					
+
+
+
+
+
+
+ASC Conference 
+
+
+
+
+					Oct 15–17, 2019				
+
+
+
+Vancouver, Canada					
+
+
+
+
+
+
+Hyperledger Bootcamp Russia 
+
+
+
+
+					Oct 14–15, 2019				
+
+
+
+Moscow, Russian Federation					
+
+
+
+September 
+
+
+Open Networking Summit Europe 
+
+
+
+
+					Sep 23–25, 2019				
+
+
+
+Antwerp, Belgium					
+
+
+
+
+
+
+DPDK Userspace 
+
+
+
+
+					Sep 19–20, 2019				
+
+
+
+Bordeaux, France					
+
+
+
+
+
+
+LF AI Day – Shanghai 
+
+
+
+
+					Sep 17, 2019				
+
+
+
+Shanghai, China					
+
+
+
+
+
+
+LF AI Day – Paris 
+
+
+
+
+					Sep 16, 2019				
+
+
+
+Paris-Châtillons, France					
+
+
+
+
+
+
+RISC-V Europe Roadshow 
+
+
+
+
+					Sep 16–26, 2019				
+
+
+
+Europe					
+
+
+
+
+
+
+Linux Kernel Maintainer Summit 
+
+
+
+
+					Sep 12, 2019				
+
+
+
+Lisbon, Portugal					
+
+
+
+
+
+
+R/Medicine 
+
+
+
+
+					Sep 12–14, 2019				
+
+
+
+Boston, United States					
+
+
+
+
+
+
+Cloud Foundry Summit Europe 
+
+
+
+
+					Sep 11–12, 2019				
+
+
+
+The Hague, Netherlands					
+
+
+
+
+
+
+Helm Summit 
+
+
+
+
+					Sep 11–12, 2019				
+
+
+
+Amsterdam, Netherlands					
+
+
+
+
+
+
+Linux Plumbers Conference 
+
+
+
+
+					Sep 9–11, 2019				
+
+
+
+Lisbon, Portugal					
+
+
+
+August 
+
+
+Embedded Linux Conference North America 
+
+
+
+
+					Aug 21–23, 2019				
+
+
+
+San Diego, United States					
+
+
+
+
+
+
+Open Source Summit North America 
+
+
+
+
+					Aug 21–23, 2019				
+
+
+
+San Diego, United States					
+
+
+
+
+
+
+Open Source in Gaming Day 
+
+
+
+
+					Aug 20, 2019				
+
+
+
+San Diego, United States					
+
+
+
+
+
+
+Linux ​Foundation ​Member Legal ​Summit 
+
+
+
+
+					Aug 19–20, 2019				
+
+
+
+San Diego, United States					
+
+
+
+
+
+
+Linux Security Summit North America 
+
+
+
+
+					Aug 19–21, 2019				
+
+
+
+San Diego, United States					
+
+
+
+
+
+
+OpenPOWER Summit North America 
+
+
+
+
+					Aug 19–20, 2019				
+
+
+
+San Diego, United States					
+
+
+
+July 
+
+
+Hyperledger Member Summit 
+
+
+
+
+					Jul 30–31, 2019				
+
+
+
+Tokyo, Japan					
+
+
+
+
+
+
+Automotive Linux Summit 
+
+
+
+
+					Jul 17–19, 2019				
+
+
+
+Tokyo, Japan					
+
+
+
+
+
+
+Open Source Summit Japan 
+
+
+
+
+					Jul 17–19, 2019				
+
+
+
+Tokyo, Japan					
+
+
+
+
+
+
+Xen Project Developer and Design Summit 
+
+
+
+
+					Jul 9–11, 2019				
+
+
+
+Chicago, United States					
+
+
+
+June 
+
+
+Hyperledger Bootcamp – Brazil 
+
+
+
+
+					Jun 24–25, 2019				
+
+
+
+São Paulo, Brazil					
+
+
+
+
+
+
+KubeCon + CloudNativeCon + Open Source Summit China 
+
+
+
+
+					Jun 24–26, 2019				
+
+
+
+Shanghai, China					
+
+
+
+
+
+
+Kubernetes Contributor Summit China 
+
+
+
+
+					Jun 24, 2019				
+
+
+
+Shanghai, China					
+
+
+
+
+
+
+CHIPS Alliance Workshop 
+
+
+
+
+					Jun 19, 2019				
+
+
+
+Sunnyvale, United States					
+
+
+
+
+
+
+LF Networking DDF + Plugfest 
+
+
+
+
+					Jun 11–14, 2019				
+
+
+
+Stockholm, Sweden					
+
+
+
+May 
+
+
+KubeCon + CloudNativeCon Europe 
+
+
+
+
+					May 20–23, 2019				
+
+
+
+Barcelona, Spain					
+
+
+
+
+
+
+Cephalocon 
+
+
+
+
+					May 19–20, 2019				
+
+
+
+Barcelona, Spain					
+
+
+
+
+
+
+Kubernetes Contributor Summit Europe 
+
+
+
+
+					May 19–20, 2019				
+
+
+
+Barcelona, Spain					
+
+
+
+
+
+
+RISC-V China Roadshow 
+
+
+
+
+					May 6–16, 2019				
+
+
+
+China					
+
+
+
+April 
+
+
+Linux Storage Filesystem & MM Summit 
+
+
+
+
+					Apr 30–May 2, 2019				
+
+
+
+San Juan, Puerto Rico					
+
+
+
+
+
+
+Open Networking Summit North America 
+
+
+
+
+					Apr 3–5, 2019				
+
+
+
+San Jose, United States					
+
+
+
+
+
+
+Cloud Foundry Summit North America 
+
+
+
+
+					Apr 2–4, 2019				
+
+
+
+Philadelphia, United States					
+
+
+
+March 
+
+
+Kubernetes Day India 
+
+
+
+
+					Mar 23, 2019				
+
+
+
+Bengaluru, India					
+
+
+
+
+
+
+gRPConf 
+
+
+
+
+					Mar 21, 2019				
+
+
+
+Sunnyvale, United States					
+
+
+
+
+
+
+Open Source Leadership Summit 
+
+
+
+
+					Mar 12–14, 2019				
+
+
+
+Half Moon Bay, United States					
+
+
+
+
+
+
+DPDK Summit Bangalore 
+
+
+
+
+					Mar 9, 2019				
+
+
+
+Bangalore, India					
+
+
+
+
+
+
+Hyperledger Bootcamp – Hong Kong 
+
+
+
+
+					Mar 7–8, 2019				
+
+
+
+Hong Kong					
+
+
+
+
+
+
+Automotive Grade Linux All Member Meeting Japan 
+
+
+
+
+					Mar 5–6, 2019				
+
+
+
+Tokyo, Japan					
+
+
+
+January 
+
+
+Automotive Grade Linux Demo Showcase at CES 
+
+
+
+
+					Jan 8–11, 2019				
+
+
+
+Las Vegas, United States					
+
+
+
+
+
+
+ONAP DDF + OPNFV Plugfest 
+
+
+
+
+					Jan 8–11, 2019				
+
+
+
+Nozay, France					
+
+
+
+2018December 
+
+
+Hyperledger Global Forum 
+
+
+
+
+					Dec 12–15, 2018				
+
+
+
+Basel, Switzerland					
+
+
+
+
+
+
+FoundationDB Summit 
+
+
+
+
+					Dec 10, 2018				
+
+
+
+Seattle, United States					
+
+
+
+
+
+
+KubeCon + CloudNativeCon North America 
+
+
+
+
+					Dec 10–13, 2018				
+
+
+
+Seattle, United States					
+
+
+
+
+
+
+Open Compliance Summit 
+
+
+
+
+					Dec 6–7, 2018				
+
+
+
+Yokohama, Japan					
+
+
+
+
+
+
+Open Source Forum 
+
+
+
+
+					Dec 5, 2018				
+
+
+
+Yokohama, Japan					
+
+
+
+
+
+
+Open vSwitch Fall Conference 
+
+
+
+
+					Dec 5–6, 2018				
+
+
+
+San Jose, United States					
+
+
+
+
+
+
+DPDK Summit North America 
+
+
+
+
+					Dec 3–4, 2018				
+
+
+
+San Jose, United States					
+
+
+
+November 
+
+
+KubeCon + CloudNativeCon China 
+
+
+
+
+					Nov 14–15, 2018				
+
+
+
+Shanghai, China					
+
+
+
+
+
+
+Open Source Strategy Forum 
+
+
+
+
+					Nov 14–15, 2018				
+
+
+
+London, United Kingdom					
+
+
+
+
+
+
+Linux Kernel Summit 
+
+
+
+
+					Nov 13–15, 2018				
+
+
+
+Vancouver, Canada					
+
+
+
+
+
+
+Linux Plumbers Conference 
+
+
+
+
+					Nov 13–15, 2018				
+
+
+
+Vancouver, Canada					
+
+
+
+
+
+
+Acumos AI Day New York 
+
+
+
+
+					Nov 5, 2018				
+
+
+
+New York City, United States					
+
+
+
+October 
+
+
+Linux Security Summit Europe 
+
+
+
+
+					Oct 25–26, 2018				
+
+
+
+Edinburgh, United Kingdom					
+
+
+
+
+
+
+KVM Forum 
+
+
+
+
+					Oct 24–26, 2018				
+
+
+
+Edinburgh, United Kingdom					
+
+
+
+
+
+
+LF Energy Summit 
+
+
+
+
+					Oct 24, 2018				
+
+
+
+Edinburgh, United Kingdom					
+
+
+
+
+
+
+Embedded Linux Conference + OpenIoT Summit Europe 
+
+
+
+
+					Oct 22–24, 2018				
+
+
+
+Edinburgh, United Kingdom					
+
+
+
+
+
+
+Linux Kernel Maintainer Summit 
+
+
+
+
+					Oct 22, 2018				
+
+
+
+Edinburgh, United Kingdom					
+
+
+
+
+
+
+Open Source Summit Europe 
+
+
+
+
+					Oct 22–24, 2018				
+
+
+
+Edinburgh, United Kingdom					
+
+
+
+
+
+
+AGL All Member Meeting Europe 
+
+
+
+
+					Oct 17–18, 2018				
+
+
+
+Dresden, Germany					
+
+
+
+
+
+
+Open Source Networking Days 
+
+
+
+
+					Oct 12–Nov 29, 2018				
+
+
+
+Asia Pacific					
+
+
+
+
+
+
+Cloud Foundry Summit Europe 
+
+
+
+
+					Oct 10–11, 2018				
+
+
+
+Basel, Switzerland					
+
+
+
+
+
+
+Node+JS Interactive 
+
+
+
+
+					Oct 10–12, 2018				
+
+
+
+Vancouver, Canada					
+
+
+
+
+
+
+Open FinTech Forum 
+
+
+
+
+					Oct 10–11, 2018				
+
+
+
+New York City, United States					
+
+
+
+
+
+
+Hyperledger Hackfest Montreal 
+
+
+
+
+					Oct 3–4, 2018				
+
+
+
+Montreal, Canada					
+
+
+
+
+
+
+Hyperledger Member Summit 
+
+
+
+
+					Oct 1–2, 2018				
+
+
+
+Montreal, Canada					
+
+
+
+September 
+
+
+Open Networking Summit Europe 
+
+
+
+
+					Sep 25–27, 2018				
+
+
+
+Amsterdam, Netherlands					
+
+
+
+
+
+
+API Strategy & Practice Conference 
+
+
+
+
+					Sep 24–26, 2018				
+
+
+
+Nashville, United States					
+
+
+
+
+
+
+Linux ​Foundation ​Member Legal ​Summit 
+
+
+
+
+					Sep 12–14, 2018				
+
+
+
+San Francisco, United States					
+
+
+
+
+
+
+R/Medicine 
+
+
+
+
+					Sep 7–8, 2018				
+
+
+
+New Haven, United States					
+
+
+
+
+
+
+DPDK Userspace, Dublin Event 
+
+
+
+
+					Sep 5–6, 2018				
+
+
+
+Dublin, Ireland					
+
+
+
+August 
+
+
+Open Source Summit 
+
+
+
+
+					Aug 29–31, 2018				
+
+
+
+Vancouver, Canada					
+
+
+
+
+
+
+CHAOSScon North America 
+
+
+
+
+					Aug 28, 2018				
+
+
+
+Vancouver, Canada					
+
+
+
+
+
+
+Linux Security Summit North America 
+
+
+
+
+					Aug 27–28, 2018				
+
+
+
+Vancouver, Canada					
+
+
+
+
+
+
+Akraino Edge Stack Developer Summit 
+
+
+
+
+					Aug 23–24, 2018				
+
+
+
+Middletown, United States					
+
+
+
+July 
+
+
+Acumos AI Day 
+
+
+
+
+					Jul 13, 2018				
+
+
+
+Châtillon, France					
+
+
+
+June 
+
+
+Hyperledger Hackfest Amsterdam 
+
+
+
+
+					Jun 27–29, 2018				
+
+
+
+Amsterdam, Netherlands					
+
+
+
+
+
+
+LinuxCon + ContainerCon + CloudOpen China 
+
+
+
+
+					Jun 25–27, 2018				
+
+
+
+Beijing, China					
+
+
+
+
+
+
+Automotive Linux Summit 
+
+
+
+
+					Jun 20–22, 2018				
+
+
+
+Tokyo, Japan					
+
+
+
+
+
+
+Open Source Summit Japan 
+
+
+
+
+					Jun 20–22, 2018				
+
+
+
+Tokyo, Japan					
+
+
+
+
+
+
+Xen Summit 
+
+
+
+
+					Jun 20–22, 2018				
+
+
+
+Nanjing Jiangning, China					
+
+
+
+
+
+
+OPNFV Plugfest 
+
+
+
+
+					Jun 4–8, 2018				
+
+
+
+Valbonne, France					
+
+
+
+May 
+
+
+KubeCon + CloudNativeCon Europe 
+
+
+
+
+					May 2–4, 2018				
+
+
+
+Copenhagen, Denmark					
+
+
+
+April 
+
+
+Linux Storage Filesystem & MM Summit 
+
+
+
+
+					Apr 23–25, 2018				
+
+
+
+Park City, United States					
+
+
+
+
+
+
+Cloud Foundry Summit North America 
+
+
+
+
+					Apr 18–20, 2018				
+
+
+
+Boston, United States					
+
+
+
+
+
+
+
+View Upcoming Events
+
+
+
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

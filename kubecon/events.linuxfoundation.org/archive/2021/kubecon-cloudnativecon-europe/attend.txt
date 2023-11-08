@@ -1,0 +1,277 @@
+
+
+
+
+FAQ | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Experiences
+Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Keynote Speakers
+Interactive Sessions
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF EventsCNCF Homepage 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon Europe. 
+
+
+
+
+
+
+ 
+
+
+						FAQ					
+
+
+
+
+Skip to page sectionGeneralRegistrationSpeakersSponsors
+
+General
+
+What are the system requirements needed to participate in the virtual event?
+We are using MeetingPlay, a web-based event platform. You do not need to download any application to participate. MeetingPlay recommends connecting to the event using the Chrome browser from an internet-enabled desktop or laptop. While you can access the event from a phone or tablet for brief viewing, it is not recommended for full functionality and experience. 
+
+What is the format of KubeCon + CloudNativeCon Europe 2021 – Virtual and when will it take place?
+KubeCon + CloudNativeCon Europe 2021 is a virtual experience that will take place online from May 4-7. This virtual event will deliver content over four days, including keynotes, lightning talks, conference sessions across 14 tracks, tutorials, and co-located events. The virtual event includes an interactive sponsor solutions showcase, attendee collaboration and networking tools, and more.
+What are the benefits of attending the virtual event?
+Experience KubeCon + CloudNativeCon from the comfort, safety, and convenience of your home – all you need is the internet and a web browser.
+Benefits and features include:
+Informative and timely content across ~200 sessions with live speaker Question + Answer (Q+A)The ‘hallway track’ where you can collaborate via topic-based networking spaces with group and 1:1 chat with other participantsA sponsor solutions showcase where you can speak directly with the sponsors, view demos, download resources, and view job openingsGames! Earn points and win prizes by attending sessions, visiting sponsor booths, and answering trivia questionsNo missing out! The event platform will be accessible 24 hours a day to all registered attendees
+What is the cost for the virtual event and how do I register?
+Registration is US $10 from Tuesday, February 2 through Sunday, February 14. The ticket cost will increase to US $75 at 12:00 AM CEST on Monday, February 15 and remain at that price point through the event. We are offering a Keynote + Solutions Showcase Only pass at no cost, but it does not allow access to breakout sessions or in-platform networking. Register now!
+What is the time zone for the event?
+Live content will begin daily at 10:00 Central European Summer Time (CEST) with content over four consecutive days. The schedule is automatically displayed in CEST. To see the schedule in your preferred time zone, select the time zone from the drop-down menu to the right, above “Filter by Date.”
+Will the content be different in an online setting?
+No! The content you’ve come to know and love from KubeCon + CloudNativeCon remains unchanged and is included in the virtual event for All Access pass holders. While some of our onsite experiences aside from content can’t be replicated online, we’re working to put together alternate experiences that can, which will help provide attendees a fully immersive event experience. Stay tuned for more details!
+How will the virtual sessions work?
+Sessions will take place at scheduled times just as they would at a face-to-face event. Speakers will be available for live Q+A with conference sessions and tutorials. Attendees can build a personalized agenda of sessions they want to view and receive notifications before they start. And of course, all sessions will be recorded and available to attendees on-demand after the event.
+Will the event include closed captioning?
+Yes! Open captioning will be available for keynotes while closed captioning will be available for each breakout session when it “goes live.” Learn more.
+Will all sessions be recorded?
+Yes! Once the event ends, All Access attendees will be able to view sessions and other content in the event platform for 45 days. Additionally, all recorded sessions will be uploaded to the CNCF YouTube channel within two weeks of the event so they are accessible to anyone, anywhere.
+I attend KubeCon + CloudNativeCon Europe mainly for networking. How is that possible in a virtual setting?
+We know how invaluable face-to-face networking is at events and we chose a virtual event platform that we felt most closely replicated the real-world capabilities for attendee networking at an event. Attendees will be able to connect with speakers, sponsors, and experts through networking lounges, join ‘hallway track’ discussions with other attendees in group chats, and engage in 1:1 chats with other event attendees.
+How will the Event Code of Conduct be enforced in a virtual environment?
+All participants must abide by the CNCF Code of Conduct (CoC) in a virtual environment just as they would at a physical one. We will be monitoring language and images throughout the platform to ensure there are no violations of the CoC, and quickly handle any that we might find. If you are being harassed, notice that someone else is being harassed, or have any other concerns relating to harassment, please contact a member of the conference staff immediately:
+Vanessa Heric, Associate Director of CNCF Events (+1 949-415-4442; vheric@linuxfoundation.org)Colleen Mickey, Director of Events (+1 516-945-9285; cmickey@linuxfoundation.org)Angela Brown, General Manager of Events (+1 575-694-2263; angela@linuxfoundation.org)
+How will I receive my Linux Foundation Training Discount?
+Details on how to access and download your Linux Foundation Training discount coupon will be provided to registered attendees between Wednesday, May 5 and Friday, May 7, 2021. Learn more.
+When can I redeem my Linux Foundation Training Discount once I receive the coupon code via email?
+Once you have received your coupon code it must be used by 23:59 CEST on Monday, May 10, 2021 and is only for a one-time purchase. After purchasing a training product, you will have up to one year from the purchase date to redeem.
+Can I combine my Linux Foundation Training Discount with any other products or have it applied to a purchase made prior to KubeCon + CloudNativeCon Europe 2021?
+No.
+
+
+
+
+Registration
+
+Can I register now for KubeCon + CloudNativeCon Europe 2021 – Virtual?
+Yes! Register now!
+Are co-located events included in the price of my registration?
+No. Neither the All Access or Keynote + Solutions Showcase Only pass type includes registration for any of the co-located events. With an All Access pass you can add a co-located event during the registration process and pay the additional fee. If you are already registered and did not select any co-located events, you can sign into your registration using your confirmation number to add one. You can find your confirmation number in your confirmation email or by clicking on the Cvent login page requesting to have your confirmation number emailed to you. Co-located events are not accessible to those with a Keynote + Solutions Showcase Only pass.
+If I cannot attend the virtual event, can I substitute someone from my company to attend in my place?
+Yes, you can transfer your pass to another person at your company if you are unable to attend. If you need to modify, substitute, or cancel your registration, sign into your registration using your confirmation number. You can find your confirmation number in your confirmation email or by clicking on the Cvent login page requesting to have your confirmation number emailed to you.
+I’d like to attend the event with an All Access pass, but I can’t afford it. Do you offer any assistance?
+Yes! The Cloud Native Computing Foundation is proud to offer both diversity and need-based scholarships. Applications must be submitted by Monday, April 19 at 11:59 PM Pacific time. Learn more.
+If I purchased a Keynote + Solutions Showcase Only pass, can I upgrade to an All Access pass?
+Yes, you can upgrade your pass type up to the first day of the event. Simply sign into your registration using your confirmation number and “unregister” as that pass type. Then re-register for an All Access pass and make your payment. You can find your confirmation number in your confirmation email or by clicking on the Cvent login page requesting to have your confirmation number emailed to you.
+
+
+
+
+
+Speakers
+For all session or speaker-related questions, please contact speakers@cncf.io.
+
+
+
+
+
+
+Sponsors
+If you are interested in sponsoring the event, contact sponsor@cncf.io. If you are with a confirmed sponsor company and have questions, contact sponsorservices@cncf.io.
+
+Please visit our Sponsor FAQ page for detailed information on sponsoring KubeCon + CloudNativeCon Europe.
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+GOLD
+SILVER
+START-UP
+END USER
+DIVERSITY EVENT + SCHOLARSHIP
+MEDIA PARTNERS 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+#KubeCon + #CloudNativeCon
+
+
+
+
+Experiences
+Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Keynote Speakers
+Interactive Sessions
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

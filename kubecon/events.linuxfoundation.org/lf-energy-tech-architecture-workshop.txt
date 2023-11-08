@@ -1,0 +1,201 @@
+
+
+
+
+LF Energy Technical Architecture Workshop | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Code of Conduct
+
+
+Program
+
+Schedule
+Explore the Tracks
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Emerging Technology EventsLF Energy Website 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Emerging Technology Events. 
+
+
+
+				LF Energy Technical Architecture Workshop			
+
+
+
+
+
+
+VIEW THE SCHEDULE
+EXPLORE THE TRACKS
+
+
+
+
+
+July 8, 2020Virtual Experience14:00 – 19:00Central European Summer Time (UTC +2)
+
+Thank you to all of the attendees and session leaders that made this event a success! To explore the content be sure to watch the session recordings.  Continue contributing and ensure you participate in next steps by joining the mailing lists below:
+
+
+
+Data ArchitectureSecurity FrameworkInfrastructureAsset Monitoring & Predictive MaintenanceCoMPASDigital TwinVirtual Power Plant / Microgrids
+
+
+
+
+LF Energy is excited to be hosting a Technical Architecture Workshop. This workshop is a creative, online event geared towards enterprise architects, digital technology specialists, and developers. The goal is to share the work of the last four months in building and developing the technical, functional, security, and data architectures that will provide guidance and direction for the LF Energy community.  We are building and developing all of these assets in public and encourage your participation and comments. 
+At the workshop, we will present work to date, and have multiple tracks on security, data architectures, using open source to build power system platforms, and 4 use cases: Asset Monitoring, CoMPAS, Digital Twins, VPP/Microgrids. There will be an opportunity at the workshop to add breakout rooms and interest groups on-the-fly. Bring ideas and your colleagues.
+
+
+TRACKS
+TracksDescriptionLF Energy Data Architecture FrameworkLearn about LF Energy’s data architecture framework and principles, learn from Alliander about their approach to semantic harmonization.LF Energy Security FrameworkCome learn about the security framework in process. We will cover a security assessment analysis of the GXF use-case, plus we will have guest speakers about trust and trustless environments, the difference between classical and modern security, and digital bills of materials. InfrastructureIn times of high demands like 100% availability, redundancy and low latency in combination with serious security aspects, the energy world is facing critical challenges. Especially the requirements to have a multi-cloud in combination with a hybrid-cloud approach including the limitation of running critical workloads only in your data center have to be solved. This UseCase is trying to establish a guideline on how to have the flexibility of a public cloud provider and the security of an on-premise environment.Asset Monitoring & Predictive MaintenanceMore information to comeCoMPASConfiguration Modules for Power industry Automation SystemsDevelop open source software components related to IEC 61850 model implementation (profile management) and configuration of a power industry Protection Automation and Control System (PACS).Digital TwinsValidate how a digital twin oriented “system-of-systems” approach could be useful in designing the technical architecture of smart energy systems.VPP/MicrogridsDevelopment of open source software components for Virtual Power Plant (VPP) and Neighborhood Microgrids to solve for network resilience, power quality, efficiency, stability, reliability and investment optimization when connecting Renewable Energy Sources (RESs) / Distributed Energy Generation (DER).
+
+
+
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+Code of Conduct
+
+Schedule
+Explore the Tracks
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,159 @@
+
+
+
+
+Mentorship Session: Which Hat Do I Wear Today? The Balancing Act of Working with Upstream and Product Teams | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Mentorship Session: Which Hat Do I Wear Today? The Balancing Act of Working with Upstream and Product Teams			
+
+
+
+
+
+
+Which Hat Do I Wear Today? The Balancing Act of Working with Upstream and Product Teams
+
+February 17 | 9:30 – 11:00 am PST
+
+
+VIEW THE FULL SERIES
+
+
+
+
+
+
+
+Join us for Which Hat Do I Wear Today? The Balancing Act of Working with Upstream and Product Teams, with Shuah Khan, Kernel Maintainer & Fellow, The Linux Foundation.
+Navigating open source and corporate cultural differences is a delicate balancing act and challenging. It is easier to work exclusively in either side of this divide and takes finesse and skill to know when to wear which hat and be productive and bring value to both sides. 
+In this webinar, Shuah will share her insights on balancing product needs with the open source project objectives.
+The session will begin with an overview by Shuah Khan (45 minutes) and followed by Q&A – an opportunity to both ask Shuah questions and for group discussion (45 minutes).
+
+
+
+
+VIEW RECORDING 
+VIEW SLIDES
+
+
+
+
+
+
+
+
+Shuah Khan, Kernel Maintainer & Fellow, The Linux Foundation
+Shuah Khan is a Linux Fellow at The Linux Foundation. She is an experienced Linux Kernel developer, maintainer, and contributor. She maintains Kernel Selftest framework, USB over IP driver, and cpupower. She is an active contributor to Linux media subsystem. She has contributed to IOMMU, and DMA areas. In addition, she is helping with stable release kernel testing. She publishes blogs on Linux Kernel topics on her blog site at http://www.gonehiking.org/ShuahLinuxBlogs/.
+She has presented at several Linux conferences and Linux Kernel Developer Keynote Panels. She served on the Linux Foundation Technical Advisory Board. She authored Linux Kernel Testing and Debugging paper published on the Linux Journal and wrote Linux Journal kernel news articles.
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

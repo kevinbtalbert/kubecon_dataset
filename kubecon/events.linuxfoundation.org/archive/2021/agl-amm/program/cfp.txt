@@ -1,0 +1,241 @@
+
+
+
+
+Call For Proposals (CFP) | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Code of Conduct
+
+
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Automotive Grade Linux EventsAGL Homepage 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Automotive Grade Linux Events. 
+
+
+
+
+
+
+ 
+
+
+						Call For Proposals (CFP)					
+
+
+
+
+Skip to page sectionOverviewDates to RememberSuggested TopicsSession TypesImportant NotesPreparing to SubmitCode of Conduct
+
+Overview
+
+The AGL All Member Meeting Spring Call for Proposals is now closed.
+To encourage open collaboration and stimulate discussions that will help advance open source adoption and drive the automotive industry forward, we invite our members, developers, and industry experts to submit a speaking proposal for the AGL All Member Meeting Spring 2021.
+CFP CLOSED
+
+
+If you have not yet used the CFP system, you will be required to register and create an account before submitting.Please CREATE YOUR ACCOUNT before submitting for the first time. Thank you!
+
+
+
+Dates to Remember
+
+CFP Closes: Friday, January 22 at 11:59 pm PSTCFP Notifications: Week of February 8Schedule Announcement: Wednesday, February 10Slide Due Date: Friday, March 5Video Recording Due Date: Friday, March 5Event Dates: Wednesday, March 17 – Thursday, March 18
+
+
+
+
+Suggested Topics
+
+AGL Distribution and Design ConsiderationsAGL Application Design, Application FrameworkAGL SecurityAGL ToolsAGL Long-team Support & MaintenanceVehicle-to-Vehicle (V2V), Vehicle-to-Cloud (V2C) and Vehicle-to-Infrastructure (V2X) CommunicationsSecurity & PrivacyIn-vehicle Infotainment (IVI)Augmented Reality, Heads-Up DisplayNavigationAutonomous DrivingAI & Machine LearningOver-the-Air (OTA) Software UpdatesTelematics & Emergency Call ServicesDelivering Live Content & Updates to Vehicles in MotionLegal IssuesFunctional Safety & Open Source SoftwareAdvanced Driver Assistance Systems (ADAS)W3C for AutomotiveNon-AGL Technical Projects (e.g. Smart Roads, Self-Driving Vehicles)Non-Technical Subjects (e.g. Lifestyle, Productivity)
+
+
+
+Session Types
+
+Session Presentations (30-minute presentation with 10 minutes of Q&A)Panel Discussion (30-minute presentation with 10 minutes of Q&A)Birds of a Feather (40 minutes in total)
+
+
+
+Important Notes
+
+Sessions at AGL’s All Member Meeting are provided by AGL Members and Invited Guests.  Not a member but still want to speak at an All Member Meeting? Join AGL Now!All speakers are required to adhere to our Code of Conduct. We also highly recommend that speakers take our Inclusive Speaker Orientation Course.Panel submissions must include the names of all participants in the initial submission to be considered. In addition, The Linux Foundation does not accept submissions with all-male panels in an effort to increase speaker diversity.Complimentary Passes For Speakers – One complimentary pass for the event will be provided for the accepted speaker(s) per submission.Avoid sales or marketing pitches and discussing unlicensed or potentially closed-source technologies when preparing your proposal; these talks are almost always rejected due to the fact that they take away from the integrity of our events, and are rarely well-received by conference attendees.
+
+
+
+Preparing to Submit
+
+Preparing to Submit Your Proposal
+While it is not our intention to provide you with strict instructions on how to prepare your proposal, we hope you will take a moment to review the following guidelines that we have put together to help you prepare the best submission possible. To get started, here are three things that you should consider before submitting your proposal:
+What are you hoping to get from your presentation?What do you expect the audience to gain from your presentation?How will your presentation help better the ecosystem?
+There are plenty of ways to give a presentation about projects and technologies without focusing on company-specific efforts. Remember the things to consider that we mentioned above when writing your proposal and think of ways to make it interesting for attendees while still letting you share your experiences, educate the community about an issue, or generate interest in a project.
+First Time Submitting? Don’t Feel Intimidated
+Linux Foundation events are an excellent way to get to know the community and share your ideas and the work that you are doing and we strongly encourage first-time speakers to submit talks for our events. In the instance that you aren’t sure about your abstract, reach out to us and we will be more than happy to work with you on your proposal.
+How To Give a Great Tech Talk
+In the instance that your talk is accepted, we want to make sure that you give the best presentation possible. To do this, we enlisted the help of seasoned conference speaker Josh Berkus who has prepared an in-depth tutorial on “How to Give a Great Tech Talk”.
+Part 1: http://www.youtube.com/watch?v=iE9y3gyF8Kw
+Part 2: http://www.youtube.com/watch?v=gcOP4WQfJl4
+
+
+
+Code of Conduct
+
+The Linux Foundation is dedicated to providing a harassment-free experience for participants at all of our events. We encourage all submitters to review our complete Code of Conduct.
+
+
+
+
+ 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#automotivelinux
+
+
+
+
+Code of Conduct
+
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

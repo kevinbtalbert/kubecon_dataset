@@ -1,0 +1,340 @@
+
+
+
+
+Sponsor Showcase Showdown | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Virtual Backgrounds
+Keep Cloud Native Well
+Experiences
+Where in the World is Phippy?
+Diversity Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon Europe. 
+
+
+
+
+
+
+ 
+
+
+						Sponsor Showcase Showdown					
+
+
+
+
+Skip to page sectionLogDNANebulonJFrogMicrosoft AzureCiscoRed HatGitLabPortworx
+Keep Cloud Native Connected to our Sponsors
+Participate in our sponsor interaction challenge and win great prizes! At KubeCon + CloudNativeCon Europe, visit the virtual sponsor booths, download resources, or watch sessions to qualify for exciting giveaways. All participating sponsors run their own unique challenge – the more you participate in, the more chances to win! 
+
+
+
+
+
+
+
+
+LogDNA
+Visit the virtual LogDNA booth, and we’ll donate $10 on your behalf to the European Food Banks Federation to support COVID-19 food emergency efforts.*
+Register for our hands-on event under the ‘LogDNA Lab’ tab to be entered for a chance to win 1 of 5 Bose Noise Cancelling Headphones 700. Raffle winners will be notified via email, and the LogDNA Lab will be held the week following KubeCon + CloudNativeCon Europe 2020.
+*Applies to the first 500 visitors.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nebulon
+
+Nebulon, Inc. was founded by a group of ex-3PAR executives to pioneer Cloud-Defined Storage, on-prem, server-based enterprise-class storage that consumes no server CPU or memory resources, and is defined and managed through the cloud. It’s powered by the Nebulon cloud – Nebulon ON – and a PCIe card called a services processing unit or ‘SPU’ that is part of your clustered application servers.
+This revolutionary approach provides a cost-effective storage platform for mission critical applications with easily accessible AIOps, self-managed updates and powerful programmability at any scale.
+We will be raffling off (2) €500 Amazon Gift Cards! To qualify to enter, attendees must: visit Nebulon’s booth, download the Cloud-Defined Storage 101 Datasheet, and watch our video – Life with and without Cloud-Defined Storage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+JFrog
+
+
+Giveaway time! Come by and virtually visit the Frogs at the JFrog booth to automatically be entered to win one of forty $25 Amazon Gift Cards. If you know JFrog, you also know that we go hard with our JFrog t-shirts and this year is one for the books with the debut of IronFrog! While we can’t throw you one from the virtual booth, you can get a shirt shipped to you simply by trying out our offerings in the trial tab inside of the booth. See you there!
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Azure
+
+Thank you for your participation in the KubeCon EU Exhibit Hall Passport Program!  Visit us at the Microsoft virtual booth page to learn more about Kubernetes projects, best practices, and more.  When you visit, complete one of the following actions to be entered to win a pair of Microsoft Surface headphones:  1) Complete our survey, or 2) Watch the 15-minute technical demo with Sean McKenna.  There will be four chances to win!  Once the virtual event is complete, winners will be selected at random in a raffle and will be notified via email for prize redemption.  Good luck and enjoy!
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cisco
+
+
+Cisco Enterprise-Ready Challenge
+Take the Cisco Enterprise-Ready Challenge for the chance to win a Yeti mug or tumbler.
+Engage with our experts and discover how our solutions can help you to deploy, connect and secure your apps.
+Visit our virtual booth and chat with usSee Vijoy Pandey’s keynote on 18 AugustWatch the Cisco “Tetration/App-First Security” demo in the CNCF demo theater
+
+
+
+
+
+
+
+
+
+
+
+
+Red Hat
+Enter for a chance to win 1 of 4 $500 Amazon gift cards as part of Red Hat’s Sponsor Showcase Showdown at KubeCon + CloudNativeCon Europe 2020! To be eligible, attendees must 
+1) Attend our keynote2) Click on the “Watch” tab in our virtual booth, and3) Download the Red Hat Coloring Books from the virtual swag page. 
+A random drawing to select the four winners will take place after the conclusion of the conference.
+
+
+
+
+
+
+
+
+
+
+
+
+GitLab
+
+Do we have a game for you!With a single application tried and true,Take two steps to win a pair of socks.Complete it all in between talks.To start your journey as a sleuth,Find the “GitLab 101” tab at our booth.If you want to further your education,The training ends in a free certification.Learn how GitLab pulls out all the stops,To help your team master DevOps.Watch our demo in the Demo Theater for step two,After which we bid you adieu.You’ve won the game.You’re in the swag hall of fame.Now wasn’t that fun.Enjoy KubeCon, everyone!
+
+
+
+
+
+
+
+
+
+
+
+
+Portworx
+Visit the Portworx booth to win Apple AirPods / iPhones and to learn how to Backup and Restore your Kubernetes Applications with the click of a button with the #1 Kubernetes Storage Platform.
+
+1. Just visit the Portworx Booth – win Apple AirPod Pros.  4 chances to win a pair of Apple AirPod Pros by just visiting the booth (a lucky winner drawn each day of KubeCon – Aug 17 to 20).  The sooner you visit, the more chances you will have to win.
+2. Take a simple 4-Question Survey – win an Apple iPhone SE.  In the booth, click the survey link and tell us about your Kubernetes usage (one winner drawn at the end of the conference)
+3. Try easy Kubernetes Backup and Restore with Portworx – 5X your chance to win the Apple iPhone SE.  After taking the survey, click the Create an Account tab, sign-up to trial Portworx and back up an app, we will enter your name 4 more times in the drawing.
+(Prizes are open to attendees from end user companies, educational institutions, and government bodies)
+
+
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+GOLD
+SILVER
+START-UP
+END USER
+DIVERSITY SUPPORTERS
+MEDIA PARTNERS 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Virtual Backgrounds
+Keep Cloud Native Well
+Experiences
+Where in the World is Phippy?
+Diversity Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+

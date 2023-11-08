@@ -1,0 +1,346 @@
+
+
+
+
+Speaker Guide | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Register
+Attend
+
+Experiences
+Instant Giveaways
+CNCF Slack Workspace Community Guidelines
+Diversity + Inclusion
+Scholarships
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Interactive Sessions
+Co-Located Events
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. Please visit the upcoming KubeCon + CloudNativeCon North America. 
+
+
+
+
+
+
+ 
+
+
+						Speaker Guide					
+
+
+
+
+Skip to page sectionOverviewRegistrationVirtual Event PlatformSession LogisticsDay of Session InstructionsSession Track Slack ChannelsPowerPoint Template + Uploading to Sched.comAdditional Resources + FAQPromote Your TalkInclusivity CourseCode of ConductSlack Communication + Speaker Point of Contact
+
+Overview
+
+We are excited to welcome you as a speaker for KubeCon + CloudNativeCon North America 2020, which will take place virtually, Tuesday, November 17–Friday, November 20, with content starting each day at 1:00PM Eastern Standard Time (UTC–05:00).
+This is your official event speaker guide. Please bookmark this page for easy reference. If you have any questions, please email Nanci Lancaster.
+Please click through the tabs on this page to access information.
+
+
+
+
+
+Registration
+To confirm that you will be presenting, please go to the speaker-specific registration page to register as a speaker by Friday, October 9.
+Our registration system is now integrated with the Linux Foundation Single sign-on (SSO) platform. After clicking “Register Now”, you will be prompted to log in with your existing SSO account or to create a new one. If you have forgotten the password for an existing account, reset it by clicking “Forgot Password.”
+You will also be able to use 3rd party authentication providers (Gmail, GitHub, LinkedIn, and Facebook) to automatically generate your SSO Account. If you experience issues, click the “Contact Us” link on the SSO page to connect with our support team.
+If you are not registered by October 9, there is a possibility that your speaking slot will be replaced by one on our waitlist so please do so promptly.
+If you previously purchased your registration, please email Nanci Lancaster and she will get your registration updated and any refunds processed.
+
+
+
+
+
+
+
+
+
+Platform Details
+The platform we’ve chosen to use is Intrado, which allows speakers to deliver content via pre-recorded talks and join live for Q&A with attendees via text, audio, or video chat. The platform is an HTML5 web-based platform, and will be easy for everyone to access and use. All talks will be available on Intrado for viewing and we will also be moving them to YouTube so anyone, anywhere, can view them as well.
+The Intrado platform is allowing us to create an immersive experience for attendees, with educational sessions that offer speaker and attendee Q&A and interaction, attendee collaboration & networking through topical chat rooms, and 1:1 and group chats, gamification to keep attendees engaged throughout the event, and a sponsor and tech showcase that offers 3D booths where attendees can view demos, download resources, check out job openings, and speak directly with booth reps.
+Important Note: If you are recording within the platform, unfortunately, the platform only supports PowerPoint files for presentation slides. We’ve created a branded, optional, PowerPoint Presentation Template for you to use.
+We understand limiting to PowerPoint as a presentation format is not ideal and apologize for the inconvenience this may cause. If you have any issues with converting your presentation to PowerPoint, please let us know as we are happy to convert your file for you. We do request that if we are converting your slides, you limit it to basic fonts to make it easier for us. If you wish to convert your presentation on your own from PDF, we recommend following Adobe’s instructions on how to convert to PowerPoint. If you are using Google Slides, Keynote, or any other presentation software, we recommend using their built-in export-to-PowerPoint converter and reviewing for any custom text errors before sending your presentation to us. Note: If you are self-recording, this presentation slide format limitation of PowerPoint only does not apply to you.
+We know you have a lot of questions about the platform, and we have put together an FAQ page, which will be updated continuously as we work through all aspects of the virtual event. If you have a question that is not included, please contact us to let us know. 
+
+
+
+
+Session Logistics
+Having a good internet connection is critical for attendee engagement at the end of your presentation. Please make sure your internet is fast and not being used by anyone else in your household. If you are able to, please connect your computer directly to your router vs using wi-fi. 
+Watch this Speaker Training Video to get familiar with the platform.
+You will need to arrive to your session 30-minutes prior to the start time to ensure your audio, video, and internet are ready for live Q&A. Note: If you are on a session with more than two speakers, you will arrive at least 60-minutes prior to the start time.
+You will receive a calendar invite by Sunday, November 15, from speakersinvites@cvent.com with instructions on how to log in for live Q&A.
+This calendar invite contains pertinent information you will need to participate live with attendees.
+After your session concludes, we ask that you continue the conversation and answer any remaining questions on your session’s designated track’s Slack channel for at least 15-minutes. Please notify Nanci Lancaster immediately if you will not be able to participate in live Q&A.
+Note: If your session is over 35-minutes in duration, you will be informed that you can engage in Q&A via the text chat function in the platform but there will be no time for any audio/video Q&A.
+
+
+
+
+
+Day of Session Instructions
+Test Your Computer for Platform Compatibility: Run a system check to ensure your computer is configured properly for the platform.Please also run a compatibility check, which tests your webcam and audio devices, along with WebRTC and WebSocket connectivity on your network for streaming media (which includes webcam/microphone, screen share,  media files, VCU, Encoder, etc.).If you encounter any issues, please refer to Intrado’s additional computer tips which provide additional information to help optimize your system set-up. 30-minutes prior to your session beginning (or 60-minutes if a panel), please dial into the Conference Phone Bridge: (866) 668-0721If you are outside of the United States, please use the Global Dial-in Number link within your calendar invite to retrieve the phone number associated with your area.Input the code listed in the calendar invite to access your specific conference line.What is the phone bridge? The conference bridge is a communication link to you and the engineer, in case something goes wrong within the platform or your internet. If you are on your cell, you can communicate directly with your engineer. The phone bridge is not what will be used for your main audio to attendees, it is a “lifeline” to your A/V engineer. Next, click on your specific speaker backend access link located in your calendar invite.After you are all logged in via phone and the backend link, the engineer will talk to you through the phone until everything is set up correctly, after your internet, audio, and webcam have been tested. Note: If your pre-recording is over the 35-minute limit in duration, you will be informed that you can only participate in Q&A via the text chat box.Live Speakers (Presenting Live): Once everything has been tested, the engineer will do a countdown shortly before the start time to count you in (5, 4, 3,…,…) and you will begin your presentation. You will go on mute on your phone and once your session begins, your audio will feed via your computer either through your microphone setup, to begin the presentation.Simulive Speakers (Pre-Recorded): You will go on mute on your phone and once the presentation recording has ended, your audio will feed via your computer through your microphone setup, to answer any questions.All speakers are required to participate in Live Q&A with attendees. You are encouraged to answer questions in the Q&A textbox while your presentation is playing. At the end of your presentation, you will be brought on video and audio to answer any remaining questions.If you wish to not be on video, that is fine, but please let the engineer know ahead of time what your preference is.Note: If your session is over 35-minutes in duration, you will be informed that you can engage in Q&A via the text chat function in the platform but there will be no time for any audio/video Q&A.Continuing on Slack: After the session has completely ended, please navigate to your track’s slack channel to continue answering any remaining questions and keep the conversations going for at least 15 more minutes.
+
+Session Moderators
+All sessions will have a monitor that is either a Linux Foundation staff member, a track chair, or a CNCF Ambassador. Their role is simply to relay back any technical issues to Nanci Lancaster, as well as monitor the Q&A chat box for Code of Conduct violations. They will not be introducing you to the attendees.
+
+
+
+Session Track Slack Channels
+Once you are on the cloud-native.slack.com workspace, please join your track’s slack channel:
+
+TrackChannelPrivate101 Track2-kubecon-101NoApplication + Development#2-kubecon-appdevNoCI/CD#2-kubecon-cicdNoCommunity#2-kubecon-communityNoCustomizing + Extending Kubernetes#2-kubecon-custom-extendK8sNoKeynotes#2-kubecon-keynotesNoMachine Learning + Data#2-kubecon-machinelearningNoMaintainer Track Sessions#2-kubecon-maintainerNoNetworking#2-kubecon-networkingNoObservability#2-kubecon-observabilityNoOperations#2-kubecon-operationsNoPerformance#2-kubecon-performanceNoRuntimes#2-kubecon-runtimesNoSecurity + Identity + Policy#2-kubecon-sec-id-policyNoServerlessService Mesh#2-kubecon-serverless#2-kubecon-servicemeshNoNoStorage#2-kubecon-storageNo
+
+
+
+
+
+Uploading Presentation to Sched.com
+Upload to Sched.com by Friday, November 6
+All breakout, maintainer track, and tutorial speakers are required to upload their final presentation slides ahead of the event. In addition to providing a hard copy for accessibility purposes, we find that adding the presentations before the event helps to drive interest in attending the session. Note: If you are on a panel, email your presentation slides in PDF-format to Nanci Lancaster and she will upload for you.
+Please note that your presentation slides should be uploaded in PDF-format to Sched.com and must be formatted in 16:9.
+To upload slides:
+Log into your KubeCon + CloudNativeCon North America 2020 speaker profile through Sched.comAfter logging in, go to kccnna20.sched.com. Go to your session and click on “Speaker Tools” to the right of the session titleOn the next page, click “Add Presentation”Then, click on the “Select a File” box and add the PDF document (note: there is a 50MB size limit)Click “Upload” and your slides will automatically be saved
+
+
+
+
+Additional Resources
+19 Video Presentation Tips to help you give a great presentation (even if you hate the way you look on camera)
+PACE Acronym for Virtual Presentations
+Checklist for Speakers – this article provides checklists applicable for speakers that are live streaming. 
+Virtual Event Platform FAQ
+We encourage you to read through the FAQ for virtual event Intrado Platform.
+
+
+
+
+Promote Your Talk
+Once the schedule is announced on October 1, we appreciate you spreading the word about #KubeCon #CloudNativeCon and your session – please find some sample tweets below to share on your social channels! Note: The short link to your session can be found on your session’s sched.com page, just below the title, to the left of the “Tweet” and “Share” buttons.
+I just found out that my talk about [TOPIC] was accepted for #KubeCon + #CloudNativeCon North America! 🎉 Come see me on [DATE]! [SESSION LINK]Attending #KubeCon + #CloudNativeCon North America in November? Come check out my session [SESSION NAME] on [DATE]. Hope to see you there! [SESSION LINK]My first talk on [TOPIC] was just accepted for #KubeCon + #CloudNativeCon North America  –  visit [SESSION LINK] to add my talk to your schedule⚡️!Can’t wait for #KubeCon #CloudNativeCon! 👍 I will be speaking on [DATE] – Come see my session [TITLE] – Hope to see you there! [LINK TO SESSION]Thrilled to have my session [SESSION TITLE] accepted for #KubeCon + #CloudNativeCon North America! Visit https://bit.ly/36cpowg to check out the full lineup!
+
+Contributed Content Opportunities
+As your communications teams prepare for KubeCon + CloudNativeCon North America, we’ve had several key publications express interest in having our members, speakers and sponsors contribute thought leadership collateral ahead of the show.
+The opportunities listed below are optional, and open to everyone. We do however encourage you to participate to help build buzz, and shape the conversation heading into the show. In particular, this is a great way for speakers to raise their profile, and draw attention to your upcoming talk tracks.
+Below please find the guidelines and publications. Please submit all final articles by completing this form https://forms.gle/2DxCQ5dKKzDyx5m89. Please submit only one article per company.
+Please submit all articles by October 9, however, we encourage you to submit as early as possible as our media partners need time to get articles scheduled and may not be able to accommodate all.
+
+Examples that were published previously:
+How to Secure Cloud Deployments by Keeping the Keys and Data in Different Places – The New StackHow Ancestry used AI to optimize its microservices apps – TechBeaconUnder the hood of CRI-O, Kubernetes Container Runtime – VMblogAutomation, the key to digital transformation – ITOps TimesExtending Kubernetes With Service Mesh – TFIRFrom Pets to X-as-Code: Enabling Control and Predictability for ITOps at Scale – DevOps.com
+
+Guidelines:
+The article must be vendor-neutral, and educational themed contentFocus on high-level concepts coming out of presentations or general trends and themes happening around cloud native, containers, Kubernetes.Suggested trends that are popular around cloud native include community culture, microservices, serverless, service mesh, edge computing, security, CNFs, containers, enterprise adoption.  Additional topics of interest include: IT vs. Business Leaders, data analytics, digital transformation, and virtualization.  The ideal length is 800-1,500 words.You may include any sort of infographic, image, if you’re inclined.Q&A interviews with questions and answers submitted for publication are also of interest. Between 8-10 questions.When submitting an article, the writer’s name, title at the company and a short BIO (professional only) must be includedThe article may not have been published elsewhere.
+
+Publications:
+The New Stack – contributor’s guidelinesTFiRDevOps.com/ Container JournalVMBlogFindcourses.co is interested in content that is related to training or professional developmentDataCenter-Insider (German-language)CloudComputing-Insider (German-language)Dev-Insider (German-language)More to be added
+
+
+
+
+
+Inclusive Speaker Orientation Online Course
+The Linux Foundation, in collaboration with the National Center for Women in Technology (NCWIT), has created an online course designed to teach the viewer about inclusion, diversity and unconscious bias. We highly recommend all of our speakers watch the course to learn tips/tools to use when speaking to encourage inclusivity in presentations and messaging.
+
+
+
+
+Code of Conduct
+
+Please read, and abide by our code of conduct. Our code of conduct is strictly enforced. We ask that speakers especially review this code of conduct and are careful to be inclusive in the words and images used during their presentation.
+
+
+
+
+
+Private Speaker Slack Channel
+
+KubeCon + CloudNativeCon is using Slack as the primary tool for communication among attendees, speakers, staff, and sponsors.All speakers will be invited to the private speaker Slack channel in the https://slack.cncf.io/ workspace. The channel name is #1-kubecon-speakerhelp.This is where you will communicate any issues or questions you have with me or someone from our A/V team during the event. For anything before the event, please email Nanci Lancaster.We are also encouraging speakers to help and support each other leading up to the event, should anyone need guidance on presenting virtually, so please feel free to converse on Slack before the event begins.Never used Slack before? Please refer to their helpful set of guides.If you are not yet a member of the CNCF Slack workspace, please sign up to join the workspace here: http://slack.cncf.io/. Notify me with your @ handle as soon as you are logged in to the workspace.
+
+Schedule and Speaker Point of Contact
+
+Nanci Lancaster is your main point of contact for any speaker or schedule-related questions. Please contact her at speakers@cncf.io.
+
+
+
+
+ 
+
+
+
+
+Sponsors
+
+DIAMOND
+Platinum
+gold
+silver
+Start-up
+End User
+Diversity Supporters
+Media Partners 
+
+
+
+
+
+
+Join the CNCF mailing list to learn more about KubeCon + CloudNativeCon and other upcoming CNCF events!
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+#KubeCon + #CloudNativeCon
+
+
+
+
+Register
+Experiences
+Instant Giveaways
+CNCF Slack Workspace Community Guidelines
+Diversity + Inclusion
+Scholarships
+Code of Conduct
+
+Sponsor
+Schedule
+Interactive Sessions
+Co-Located Events
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+

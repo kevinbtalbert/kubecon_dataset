@@ -1,0 +1,200 @@
+
+
+
+
+About | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+
+Sponsor
+Program
+
+Schedule
+Program Committee
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast KubeCon + CloudNativeCon + other CNCF Events 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  KubeCon + CloudNativeCon + other CNCF Events. 
+
+
+
+
+
+
+ 
+
+
+						About					
+
+
+
+
+
+Edge Computing will be 4x larger than cloud and will generate 75% of data worldwide by 2025. With hardware and software spread across hundreds or thousands of locations, the only feasible way to manage these distributed systems are the simple paradigms around observability, loosely coupled systems, declarative APIs, and robust automation, that have made cloud native technologies so successful in the cloud. Kubernetes is already becoming a key part of the edge ecosystem, driving integrations and operations. 
+Join Kubernetes on Edge at KubeCon + CloudNativeCon to get in on the ground floor and shape the future intersection of cloud native and edge computing.
+Who Should AttendKubernetes on Edge brings together developers and adopters across the entire cloud native ecosystem to share their lessons learned in building, breaking, and bettering  their edge infrastructure. Any developer interested in learning how to deploy Kubernetes and cloud native projects at the edge should attend.
+
+
+
+
+
+
+Sponsors
+
+DIAMOND
+GOLD
+BoF
+Media 
+PARTNERS
+HOSTED BY 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+#k8sedge + #k8sedgeday
+
+
+
+
+Scholarships
+Diversity + Inclusion
+Code of Conduct
+
+Sponsor
+Schedule
+Program Committee
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+

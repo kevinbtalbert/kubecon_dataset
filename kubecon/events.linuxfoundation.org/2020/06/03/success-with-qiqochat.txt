@@ -1,0 +1,202 @@
+
+
+
+
+Success with QiqoChat | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+June 3, 2020
+Success with QiqoChat		
+
+
+
+
+At the end of April, our team produced its first fully virtual event for the LFN Networking Technical Meetings, using the platform QiqoChat.
+A Quick RundownQiqoChat is ideal for small group collaboration. The platform acts as a Zoom wrapper and allows users to move freely between different sessions. Each live event with Qiqo comes with 10 breakout rooms, equipped with its own Zoom video meeting and a collaborative note-taking tool such as Google Docs.
+Fun Facts about QiqoChat
+Qiqo stands for Quality in, Quality Out.Founder Lucas Cioffi has a background in open source – he co-organized the OpenGov Community Workshop Series, working with six federal agencies (NASA, EPA, USDA, GSA, DOT, and Treasury).Since 2015, QiqoChat has logged over 2M minutes of participation in live events!
+So, How Did it Go?Our team had an impressive experience with QiqoChat – and our first highlight would be their customer support.  They built this platform to promote peer to peer interaction, and this is where they thrive themselves and lead by example.  Their support team was extremely responsive, performed edits on the fly, and could customize almost anything we wanted – all you had to do was ask.  Have an idea? They’ll talk about. Want to try something? They’ll test and get back to you (and they did… in no time flat). With this being our first run at a virtual event, we completely appreciated QiqoChat being so open to our thoughts and feedback.
+What We Learned – Our Top 5 Takeaways
+Ask, Ask, Ask:  While QiqoChat is incredibly responsive and will try just about anything as highlighted above, it is not spelled out what can be changed and customized within the platform. You must proactively ask questions and present ideas to initiate these conversations and changes.Acclimate Your Attendees: Since virtual events are going to be a new experience for the majority of people, take the extra time and care to prepare your attendees so they have a successful and informative event experience.QiqoChat can provide a personalized navigation demo (take a look at ours here: https://youtu.be/UT1bgdSxpN0).  Distribute this video ASAP and often to registered attendees so they can have a live look at the interface in action before its go time. Also consider using this as a marketing tool to introduce prospective attendees and sponsors to the event, platform, and capabilities.Provide attendees with a simple, bulleted instruction sheet – quick how to’s, tips, and information. Helpful items include: reminding registrants to check their audio/video capabilities before joining the live event, confirm they are able to join via Zoom (other options are available, however, the attendee would need to work with QiqoChat Support directly on the set-up), and a listing of the integrated tools for collaboration including Google Docs, Slack, and Etherpad.Consider holding a virtual happy hour and opening up the platform the day before your event starts.  Let your attendees login, navigate freely themselves, and start to network with other attendees in preparation for the live event.In-Event Communications: General event announcements and/or notifications won’t pop up in the Zoom window so attendees should be instructed to have both Zoom and the QiqoChat platform in view at the same time, such as on dual screens or splitting a single monitor screen. We found it was best to use Zoom chat for session-specific questions and chat, while using Qiqo’s Live Chat functionality for general event communications.Team Member Roles: When entering the QiqoChat platform, the attendee enters the Main Room and decides where to go from there.  Our team recommends renaming this from “Main Room” to “Help Desk” or “Lobby” and to have a team member be live here at all times to assist attendees: help them navigate to sessions, answer questions, check audio, etc. In addition to this role, have one team member in each of the Zoom sessions to assist in the background: monitor the chat, ping attendees if their mic has background noise, and assist with alerting the speaker if someone has “raised their hand” and has a question.Sponsors: Sponsorships are not sold for the LFN Technical Meetings, however our team did review the sponsor benefits of the platform and found them a bit limited. QiqoChat can display sponsor logos and links at the top of each page within the event.  There is no limit to the amount of sponsors you can have, but only 3 logos will be displayed at a time, at random selection.  Sponsors can also have their own session room to communicate directly with attendees. This being said, and getting back to our point #1 above, you should feel empowered to ask questions and talk to QiqoChat if you have ideas on how to scale out additional sponsor benefits.   
+To learn more about QiqoChat, take a look here: qiqochat.com.  
+We’ll continue to share our best practices, advice, and experience with different virtual events platforms as we go through our event cycle this year. Stay tuned and watch this space for our next review on Intellum.
+
+
+
+
+
+Post navigation
+A Big THANK YOU to Our Open Source Summit + Embedded Linux Conference North America 2020 Program Committee Members!The OSS + ELC  North America 2020 Virtual Experience:  What to Expect, Who Will Be There, and Why You Can’t Miss It!
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

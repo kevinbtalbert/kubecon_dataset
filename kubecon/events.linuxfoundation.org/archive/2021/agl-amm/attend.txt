@@ -1,0 +1,220 @@
+
+
+
+
+FAQ | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Attend
+
+Code of Conduct
+
+
+Program
+
+Schedule
+
+
+Contact Us
+View All Events
+EventsAll Upcoming EventsPast Automotive Grade Linux EventsAGL Homepage 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+						This event has passed. View the upcoming  Automotive Grade Linux Events. 
+
+
+
+
+
+
+ 
+
+
+						FAQ					
+
+
+
+
+Skip to page sectionVirtual Event Platform
+
+Virtual Event Platform
+The AGL Events team is here to help make sure that your event experience is seamless and enjoyable. If you see something that requires our attention, or if you simply want to ask a question please feel free to email us. We will respond as quickly as possible. 
+
+How do I use the AGL All Member Meeting platform?
+It is easy to navigate around the platform, here are some tips to have a successful event:
+The left-hand navigation controls your movement throughout the platform.
+Lobby
+You can view the Event Chat, Agenda, and Event Info Desk.
+Sessions
+Will provide you access to all of the content currently taking place, as well as any content that has already passed.
+Hallway Track
+Join us here during the breaks to chat with other attendees via video and microphone.
+People 
+Find other attendees at the event to connect with 1 on 1.  You can send them a message or schedule a meeting with them.
+At the top of the event, you will see a calendar and a bell icon. The calendar shows what meetings you have set with other attendees, and the bell shows notifications for any requests to connect, messages, video calls, etc. 
+You can also click on your name to edit your profile, add a picture, social networking links, and other pertinent information. In your profile, you can also turn off the capability to receive meeting requests and direct messages from other attendees.
+How do I network with others during this event?
+You can find a list of attendees and their profiles in the “People” tab. Here you can request to be connected (like a friend request), send them a direct message, request for a meeting, and have a video call during your meeting.
+How do I set up a one-on-one meeting with another attendee? 
+Go to the “People” tab in the Navigation Menu, this is where you will see a list of attendees and their profiles. Here you can request to be connected or request a meeting.
+How do I chat with others during a session?
+You can use the Chat Area on the right-hand side of the screen. The event chat is for general conversations, while each session has its own individual chats to interact with the speaker and others within the session.
+When I join the session, I cannot hear anyone speaking, what do I do?
+If you enter a session and see a live presentation but cannot hear the presenter speak, please make sure your speakers and volume are enabled. All of the sessions for this conference are pre-recorded and will begin at the session start time. In this case, you will not hear anyone speaking until the video has started. If this does not work please try clearing your browser’s cache and refreshing the page. If you continue to have issues, contact us in People by searching for Deb Giles.
+I am using Internet Explorer, but the platform doesn’t seem to be working. What can I do?
+This virtual experience does not support Internet Explorer. Please try using a browser such as Safari, Chrome, or Firefox.
+If you’re having a hard time logging in or joining the sessions, here are some tips to make it work:
+Use the recommended browser (Chrome)Make sure that your browser is up to dateRefresh your page:– Windows: Ctrl + F5– Mac: Command(⌘) + Shift + RClear your browser’s cache:– Chrome: Settings > Privacy and security > Clear browsing data > Clear data– Safari: Command(⌘) + Alt + EAccess the page in an incognito window (Ctrl + Shift + N)Restart your deviceTry the other recommended browsers (Safari and Firefox)Check your internet connection / speed (it should be at least 5mbs)Enable the camera and microphone in your browser:Enable pop-ups in your browserDisable any firewalls or VPNs (e.g malware, AVG)
+I do not see a logout button; how do I leave the meeting?
+Click the Logout button in the left-hand Navigation Menu.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Join our mailing list to hear all the latest about events, news and more
+
+ 
+	The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. For more information, please see our Privacy Policy.	
+
+
+
+
+ 
+
+
+
+
+
+ 
+#automotivelinux
+
+
+
+
+Code of Conduct
+
+Schedule
+
+Contact Us
+
+
+
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+ 
+
+
+
+
+
+
+
+
+

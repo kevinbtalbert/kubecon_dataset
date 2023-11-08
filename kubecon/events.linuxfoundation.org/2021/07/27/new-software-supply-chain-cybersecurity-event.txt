@@ -1,0 +1,200 @@
+
+
+
+
+New Software Supply Chain Cybersecurity Event | Linux Foundation Events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Sign
+				In
+Create
+				Community Profile
+
+
+My LF
+					Profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+
+Meet the Team
+Travel Funding
+Newsletter
+Contact Us
+
+
+Sponsor
+Submit a Talk
+Calendar
+Code of Conduct
+
+
+
+
+Sign
+								In
+
+My
+								LF
+								Profile
+
+Create
+							Community Profile
+
+
+
+
+
+
+
+
+
+July 27, 2021
+New Software Supply Chain Cybersecurity Event		
+
+
+
+
+Modern day supply chains leave greater potential for vulnerabilities, and supply chain security should be a high priority for organizations. Vulnerabilities could be catastrophic, and lead to unnecessary costs, inefficient delivery schedules and a loss of intellectual property. 
+In addition, over the last few years, supply chains have increasingly been exposed as a major weak point in organizational security. While security may be top of mind within company walls, you are only as strong as your most vulnerable supplier.
+We are excited to bring the community a new event where folks can learn directly from experts who have been working on how to solve these vulnerabilities for almost a decade, to find out how to best protect their supply chain and mitigate potential disaster.
+Anyone involved in ensuring their company’s supply chain is secure including security professionals, executive leadership and tech leaders.
+The event is free to attend, and will take place virtually on August 18. It is comprised of nine sessions covering all aspects of protecting the supply chain, including talks on:
+Generating SBOMs for IoT at Build TimeSecuring GCC & GLIBCBuilding Signing, Distributing SPDX SBOMs as Artifact Reference TypeSoftware Supply Chain Integrity with Sigstore
+View all sessions, speakers and register to attend here.
+
+
+
+
+
+Post navigation
+The Linux Foundation Announces Conference Schedule for Open Source Summit + Embedded Linux Conference 2021Vaccines + Masks for Safe In-Person Events – Read About All On-Site Safety Protocols
+ 
+
+
+
+
+Join the Linux Foundation mailing list to
+			hear about the latest events, news & more
+
+
+
+		The Linux Foundation uses the information you provide to us to contact you about upcoming events. You may unsubscribe from these communications at any time. By submitting this form, you acknowledge that your information is subject to The Linux Foundation's Privacy Policy.
+		
+
+
+Copyright © 2023 The Linux Foundation®. All rights reserved. The
+			Linux Foundation has registered trademarks and uses trademarks. For
+			a list of trademarks of The Linux Foundation, please see our Trademark Usage page. Linux is a
+			registered trademark of Linus Torvalds. Terms of Use |
+			Privacy
+				Policy | Bylaws | Antitrust
+				Policy | Good
+				Standing Policy.
+
+		We never sell attendee lists or contact information, nor do we authorize others to do so. If you receive an email claiming to sell an attendee list for a Linux Foundation event, please forward it to events@linuxfoundation.org.
+		Forms on this site are protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+		
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
